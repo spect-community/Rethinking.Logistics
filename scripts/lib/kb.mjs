@@ -1,4 +1,4 @@
-// Shared loader for the Rethinking Logistics Challenges knowledge base.
+// Shared loader for the Rethinking Logistics knowledge base.
 // Forgiving by design: no required fields, no allowed-value lists, broken YAML
 // is reported but never stops anything.
 

@@ -26,9 +26,13 @@ const skipQuartz = process.argv.includes("--skip-quartz")
 const cfg = loadConfig()
 const repoUrl = process.env.SITE_REPO_URL || cfg.repoUrl
 const baseUrl = process.env.SITE_BASE_URL || cfg.baseUrl
+// The repository is private: public "suggest" links go to e-mail, not to issue forms.
+const contactUrl = process.env.SITE_CONTACT_URL || cfg.contactUrl
+const projectUrl = process.env.SITE_PROJECT_URL || cfg.projectUrl
+const mailto = (subject) => `${contactUrl}?subject=${encodeURIComponent(subject)}`
 const BUILD = path.join(ROOT, ".build", "content")
 const QUARTZ = path.join(ROOT, ".quartz")
-const env = { ...process.env, SITE_REPO_URL: repoUrl, SITE_BASE_URL: baseUrl, SITE_TITLE: cfg.title }
+const env = { ...process.env, SITE_REPO_URL: repoUrl, SITE_BASE_URL: baseUrl, SITE_CONTACT_URL: contactUrl, SITE_PROJECT_URL: projectUrl, SITE_TITLE: cfg.title }
 const run = (cmd, cwd = ROOT) => execSync(cmd, { cwd, stdio: "inherit", env })
 
 // 1. Check (never fails)
@@ -54,7 +58,7 @@ let count = 0
 for (const n of kb.notes) {
   const target = path.join(BUILD, n.rel)
   if (!fs.existsSync(target)) continue
-  let body = n.body.replaceAll("{{repo}}", repoUrl)
+  let body = n.body.replaceAll("{{repo}}", repoUrl).replaceAll("{{contact}}", contactUrl).replaceAll("{{project}}", projectUrl)
   let d = { ...n.data }
   if (n.type) {
     const def = schema.types[n.type]
@@ -90,7 +94,7 @@ for (const n of kb.notes) {
       merged.set(m[1], [...new Set([...(merged.get(m[1]) ?? []), ...m[2].split(", ")])])
     }
     const connections = merged.size ? `\n\n## Connections\n\n${[...merged].map(([k, v]) => `- **${k}:** ${v.join(", ")}`).join("\n")}\n` : ""
-    const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${repoUrl}/issues/new?template=correction.yml&title=${encodeURIComponent("Correction: " + n.name)})*\n`
+    const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${mailto("Rethinking Logistics – correction: " + n.name)})*\n`
     body = top + body.trim() + connections + edit
 
     // frontmatter for Quartz: drop relation fields, add tags
@@ -121,7 +125,7 @@ for (const n of kb.notes) for (const r of schema.relations.filter((r) => r.from 
     fs.mkdirSync(path.join(BUILD, def.folder), { recursive: true })
     fs.writeFileSync(
       path.join(BUILD, def.folder, `${safe}.md`),
-      `---\ntitle: ${JSON.stringify(l.name)}\ntags: [placeholder, type/${r.to}]\n---\n\n> [!todo] Not documented yet\n> This ${def.label.toLowerCase()} is mentioned in the knowledge base, but nobody has written its page yet. [Add it](${repoUrl}/issues/new/choose).\n\n**Mentioned in:** ${mentions.map((m) => wl(m.name)).join(", ")}\n`,
+      `---\ntitle: ${JSON.stringify(l.name)}\ntags: [placeholder, type/${r.to}]\n---\n\n> [!todo] Not documented yet\n> This ${def.label.toLowerCase()} is mentioned in the knowledge base, but nobody has written its page yet. [Suggest it](${mailto("Rethinking Logistics – new page: " + l.name)}).\n\n**Mentioned in:** ${mentions.map((m) => wl(m.name)).join(", ")}\n`,
     )
     stubs++
   }

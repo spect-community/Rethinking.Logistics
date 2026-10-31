@@ -1,7 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-const repo = process.env.SITE_REPO_URL ?? "https://github.com/OWNER/rethinking-logistics-challenges"
+const contact = process.env.SITE_CONTACT_URL ?? "mailto:info@spect.cz"
+const project = process.env.SITE_PROJECT_URL ?? "https://spect.cz/projects/rethinking-logistics/"
 
 // Order of top-level folders in the left-hand explorer (follows the ontology chain).
 const explorer = Component.Explorer({
@@ -23,8 +24,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "GitHub repository": repo,
-      "Contribute": `${repo}/issues/new/choose`,
+      "SPECT Community": project,
+      "Contact": contact,
     },
   }),
 }

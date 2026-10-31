@@ -28,7 +28,7 @@ for (const n of notes) {
 for (const n of kb.drafts) warnings.push(`${n.rel}: marked "draft: true" — ignored and not published (delete it if it is obsolete)`)
 
 const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes.filter((n) => n.type === t).length]))
-console.log(`Rethinking Logistics Challenges — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
+console.log(`Rethinking Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
 if (warnings.length) {
   console.log(`\n⚠️  ${warnings.length} note(s) to look at (nothing is blocked):`)
   for (const x of warnings) console.log("  - " + x)

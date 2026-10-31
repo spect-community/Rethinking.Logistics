@@ -5,13 +5,13 @@ import * as Plugin from "./quartz/plugins"
 // Values come from atlas.config.json via environment variables set by scripts/build-site.mjs.
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: process.env.SITE_TITLE ?? "Rethinking Logistics Challenges",
-    pageTitleSuffix: " · Rethinking Logistics Challenges",
+    pageTitle: process.env.SITE_TITLE ?? "Rethinking Logistics",
+    pageTitleSuffix: " · Rethinking Logistics",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: process.env.SITE_BASE_URL ?? "example.github.io/rethinking-logistics-challenges",
+    baseUrl: process.env.SITE_BASE_URL ?? "logistics.spect.cz",
     ignorePatterns: ["private", "Templates", ".obsidian", ".trash", "portfolios"],
     defaultDateType: "modified",
     theme: {

@@ -1,6 +1,6 @@
 # Licence — to be decided
 
-The licensing of the Rethinking Logistics Challenges has not been decided yet.
+The licensing of the Rethinking Logistics knowledge base has not been decided yet.
 
 The planned approach is to license the two parts separately:
 

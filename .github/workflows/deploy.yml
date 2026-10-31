@@ -48,7 +48,7 @@ jobs:
       - name: Build site
         env:
           SITE_REPO_URL: https://github.com/${{ github.repository }}
-          SITE_BASE_URL: ${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          SITE_BASE_URL: logistics.spect.cz
         run: node scripts/build-site.mjs
 
       - uses: actions/upload-pages-artifact@v3

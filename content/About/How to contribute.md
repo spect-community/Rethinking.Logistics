@@ -4,7 +4,9 @@ title: How to contribute
 
 Suggestions are welcome — from students, tutors, practitioners and tool developers.
 
-**Without Git:** open a form on the [issue page]({{repo}}/issues/new/choose):
+**By e-mail:** write to [info@spect.cz]({{contact}}) — every page also has a *Suggest a correction* link at the bottom.
+
+**Members of the repository:** open a form on the [issue page]({{repo}}/issues/new/choose):
 
 | Form | Use it to… |
 | --- | --- |
@@ -15,6 +17,6 @@ Suggestions are welcome — from students, tutors, practitioners and tool develo
 
 When a maintainer labels the issue **accepted**, a bot turns it into a note and opens a pull request.
 
-**With Git and Obsidian:** fork the repository, edit in Obsidian (see [[Editing in Obsidian]]), and open a pull request.
+**With Git and Obsidian (members):** clone the repository, edit in Obsidian (see [[Editing in Obsidian]]), and open a pull request.
 
 Please: no copied text from standards or papers (paraphrase and link), and describe a tool's limitations as clearly as its strengths.

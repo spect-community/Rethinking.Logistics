@@ -1,5 +1,5 @@
 ---
-title: Rethinking Logistics Challenges
+title: Rethinking Logistics
 description: Evidence-based design in logistics architecture — design challenges, metrics, tools and student case studies from the Rethinking.Logistics studio at ARCHIP.
 ---
 

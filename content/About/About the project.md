@@ -19,3 +19,7 @@ This knowledge base collects what the studio learned:
 - Tool documentation (links on each tool page)
 
 Personal information from the questionnaires (e-mails, self-assessment) is not published.
+
+## SPECT Community
+
+The knowledge base is a project of [SPECT Community z.s.]({{project}}), a Prague-based association for education and research in computational design.
