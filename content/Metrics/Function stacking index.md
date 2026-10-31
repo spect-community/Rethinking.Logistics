@@ -15,7 +15,12 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Worker comfort and well-being]]"
   - "[[Land take of logistics buildings]]"
-auto_case_studies: []
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Adéla Berkovitz]]"
+  - "[[Aycha Chambashala]]"
+  - "[[Ece Yasar]]"
+  - "[[Julia Godard Lombard]]"
 auto_tools: []
 ---
 

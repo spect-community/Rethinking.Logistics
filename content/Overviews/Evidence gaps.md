@@ -21,8 +21,10 @@ These were estimated by hand, taken from literature or left unquantified. Each o
 - [[Ecological connectivity]] — used in 2 case studies
 - [[Electricity price]] — used in 3 case studies
 - [[Energy per package delivered]] — used in 1 case study
+- [[Function stacking index]] — used in 5 case studies
 - [[Green plot ratio]] — used in 1 case study
 - [[Green space per visitor]] — used in 1 case study
+- [[Green-core anchoring of mixed uses]] — used in 7 case studies
 - [[Heat recovery radius]] — used in 1 case study
 - [[Indoor air quality]] — used in 1 case study
 - [[Jobs created]] — used in 2 case studies
