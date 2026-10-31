@@ -8,6 +8,7 @@ auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Julia Kopác]]"
 auto_metrics:
+  - "[[Function stacking index]]"
   - "[[Impervious surface ratio]]"
   - "[[Land take]]"
   - "[[Number of docks]]"

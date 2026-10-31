@@ -6,7 +6,7 @@ description: "Views computed from all notes."
 > [!abstract] Generated page
 > Views computed from all notes. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**At a glance:** 16 challenges · 74 metrics · 26 tools · 23 case studies
+**At a glance:** 16 challenges · 76 metrics · 26 tools · 23 case studies
 
 | Page | Answers |
 | --- | --- |

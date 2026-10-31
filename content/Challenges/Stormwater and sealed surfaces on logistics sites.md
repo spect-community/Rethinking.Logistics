@@ -11,6 +11,7 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
 auto_metrics:
   - "[[Biotope area factor]]"
+  - "[[Function stacking index]]"
   - "[[Green roof coverage]]"
   - "[[Impervious surface ratio]]"
   - "[[Parking capacity]]"

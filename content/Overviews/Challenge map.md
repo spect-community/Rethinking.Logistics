@@ -43,9 +43,11 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Biotope area factor]] | Σ(area of each surface type × its ecological weighting factor) ÷ total site area (Berlin BAF method). | [[Grasshopper]] | 1 |
 | [[Carbon sequestration by planting]] | Planted area × sequestration rate of the vegetation type (from literature). | — | 2 |
 | [[Ecological connectivity]] | Mapping whether site greenery links to nearby corridors, water bodies and habitats (distance and continuity of green links). | — | 2 |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 0 |
 | [[Green area ratio]] | Vegetated area ÷ total site area × 100. | [[Grasshopper]], [[Lands Design]] | 11 |
 | [[Green plot ratio]] | Total leaf area (leaf area index × planted area) ÷ site area. | — | 1 |
 | [[Green roof coverage]] | Vegetated roof area ÷ total roof area × 100. | [[Grasshopper]] | 3 |
+| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 0 |
 | [[Native species richness]] | Count of native plant (or animal) species supported on site, from planting plan or survey. | [[Rhino.Ecologic]] | 4 |
 | [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
 
@@ -72,6 +74,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 0 |
 | [[Impervious surface ratio]] | Sealed (paved, built, roofed without retention) area ÷ total site area × 100. The permeable ratio is the complement. | [[Grasshopper]] | 5 |
 | [[Land take]] | Building footprint (plus paved operational area) ÷ site area; compared before and after. | [[Grasshopper]] | 6 |
 | [[Number of docks]] | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 |
@@ -144,6 +147,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | --- | --- | --- | --- |
 | [[Green area ratio]] | Vegetated area ÷ total site area × 100. | [[Grasshopper]], [[Lands Design]] | 11 |
 | [[Green space per visitor]] | Accessible green space ÷ expected daily users or visitors. | — | 1 |
+| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 0 |
 | [[Mixed-use ratio]] | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 |
 | [[Publicly accessible area]] | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 |
 | [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
@@ -155,6 +159,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
 | [[Biotope area factor]] | Σ(area of each surface type × its ecological weighting factor) ÷ total site area (Berlin BAF method). | [[Grasshopper]] | 1 |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 0 |
 | [[Green roof coverage]] | Vegetated roof area ÷ total roof area × 100. | [[Grasshopper]] | 3 |
 | [[Impervious surface ratio]] | Sealed (paved, built, roofed without retention) area ÷ total site area × 100. The permeable ratio is the complement. | [[Grasshopper]] | 5 |
 | [[Parking capacity]] | Number of car/truck parking spaces (or parking area) provided, and their utilisation. | — | 4 |
@@ -181,6 +186,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
 | [[Distance to housing]] | Distance from noisy or hazardous logistics functions to the nearest residential building; or share of such functions outside a buffer zone. | [[Geoportal Praha]], [[Grasshopper]] | 3 |
+| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 0 |
 | [[Jobs created]] | Number of jobs (FTE) created on site, by function. | — | 2 |
 | [[Mixed-use ratio]] | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
@@ -220,6 +226,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
 | [[Daylight autonomy]] | Share of occupied hours in which a point reaches a target illuminance (e.g. 300 lux) from daylight alone, simulated with Radiance-based tools. | [[Honeybee]], [[Pollination]] | 2 |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 0 |
 | [[Indoor air quality]] | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 |
 | [[Natural ventilation potential]] | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |

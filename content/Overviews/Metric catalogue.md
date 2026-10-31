@@ -6,7 +6,7 @@ description: "All metrics with their unit and calculation method."
 > [!abstract] Generated page
 > All metrics with their unit and calculation method. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**74 metrics**, grouped by category. *Origin* says whether students defined the metric themselves, adapted it, or took it from a standard such as BREEAM, LEED or DGNB.
+**76 metrics**, grouped by category. *Origin* says whether students defined the metric themselves, adapted it, or took it from a standard such as BREEAM, LEED or DGNB.
 
 ## Biodiversity
 
@@ -15,6 +15,7 @@ description: "All metrics with their unit and calculation method."
 | [[Biodiversity net gain]] | % change in biodiversity units | (Post-development biodiversity units − baseline units) ÷ baseline × 100, where units = habitat area × distinctiveness × condition (e.g. the UK statutory metric). | [[Rhino.Ecologic]] | 7 | adapted · UK Biodiversity Net Gain metric |
 | [[Biotope area factor]] | index 0–1 | Σ(area of each surface type × its ecological weighting factor) ÷ total site area (Berlin BAF method). | [[Grasshopper]] | 1 | adapted · Berlin Biotope Area Factor (BAF) |
 | [[Ecological connectivity]] | qualitative (connected / not connected) | Mapping whether site greenery links to nearby corridors, water bodies and habitats (distance and continuity of green links). | — | 2 | student |
+| [[Function stacking index]] | index 1–5 (or % of surface area with ≥ 2 functions) | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 0 | adapted |
 | [[Green area ratio]] | % of site (or m²) | Vegetated area ÷ total site area × 100. | [[Grasshopper]], [[Lands Design]] | 11 | student |
 | [[Green plot ratio]] | index | Total leaf area (leaf area index × planted area) ÷ site area. | — | 1 | adapted |
 | [[Green roof coverage]] | % of roof area | Vegetated roof area ÷ total roof area × 100. | [[Grasshopper]] | 3 | student |
@@ -114,6 +115,7 @@ description: "All metrics with their unit and calculation method."
 | Metric | Unit | How it is calculated | Tools | Used in | Origin |
 | --- | --- | --- | --- | --- | --- |
 | [[Green space per visitor]] | m²/person | Accessible green space ÷ expected daily users or visitors. | — | 1 | student |
+| [[Green-core anchoring of mixed uses]] | % of entrances (or frontage length) | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 0 | adapted |
 | [[Jobs created]] | jobs | Number of jobs (FTE) created on site, by function. | — | 2 | student |
 | [[Mixed-use ratio]] | % of floor area | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 | student |
 | [[Publicly accessible area]] | m² or % of site | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 | student |

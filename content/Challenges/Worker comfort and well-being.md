@@ -6,6 +6,7 @@ auto_case_studies:
   - "[[Sara Gani]]"
 auto_metrics:
   - "[[Daylight autonomy]]"
+  - "[[Function stacking index]]"
   - "[[Indoor air quality]]"
   - "[[Natural ventilation potential]]"
   - "[[Noise level]]"

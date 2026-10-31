@@ -15,13 +15,8 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Worker comfort and well-being]]"
   - "[[Land take of logistics buildings]]"
-auto_case_studies:
-  - "[[Adam Večeřa]]"
-  - "[[Eva Kažukolovaitė]]"
-  - "[[Ilinca Maria Baciu]]"
-  - "[[Julia Godard Lombard]]"
-  - "[[Lindsay Daphne Macuja]]"
-  - "[[Julia Kopác]]"
+auto_case_studies: []
+auto_tools: []
 ---
 
 ## What it measures
