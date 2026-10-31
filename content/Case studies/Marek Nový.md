@@ -1,7 +1,7 @@
 ---
 student: Marek Nový
 project: Visible Industry
-portfolio: "https://heyzine.com/flip-book/480d6152b8.html"
+portfolio: https://heyzine.com/flip-book/480d6152b8.html
 studio: AD2
 year: 2026
 location: Otovice, Karlovy Vary, Czech Republic (field between the village centre, existing industrial halls and ponds)
@@ -24,6 +24,7 @@ metrics:
   - "[[Visual impact on neighbours]]"
   - "[[Rooftop PV generation]]"
   - "[[Space utilisation]]"
+  - "[[Green-core anchoring of mixed uses]]"
 tools: []
 ---
 ![[Pasted image 20261031083733.png]]

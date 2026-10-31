@@ -20,6 +20,7 @@ metrics:
   - "[[Impervious surface ratio]]"
   - "[[Embodied carbon intensity]]"
   - "[[Construction cost]]"
+  - "[[Green-core anchoring of mixed uses]]"
 tools: []
 ---
 ![[Pasted image 20261009101237.png]]

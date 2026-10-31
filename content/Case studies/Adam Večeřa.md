@@ -40,6 +40,8 @@ metrics:
   - "[[Material reuse share]]"
   - "[[CapEx–OpEx ratio]]"
   - "[[Land take]]"
+  - "[[Function stacking index]]"
+  - "[[Green-core anchoring of mixed uses]]"
 tools:
   - "[[Grasshopper]]"
 ---

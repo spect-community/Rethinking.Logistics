@@ -1,7 +1,7 @@
 ---
 student: Julia Godard Lombard
 project: Phantom Data Center
-portfolio: "https://heyzine.com/flip-book/c6fc2ceefc.html"
+portfolio: https://heyzine.com/flip-book/c6fc2ceefc.html
 studio: AD6 (Studio Kurilla-Prokop), bachelor thesis, summer semester 2025-26
 year: 2026
 location: Desfourský Palace, Na Florenci 21a, Nové Město (Florenc), Prague
@@ -27,6 +27,7 @@ metrics:
   - "[[Green area ratio]]"
   - "[[Worker well-being]]"
   - "[[Electricity price]]"
+  - "[[Function stacking index]]"
 tools:
   - "[[Geoportal Praha]]"
 ---
