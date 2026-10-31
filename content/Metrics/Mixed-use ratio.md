@@ -3,7 +3,7 @@ category: Social
 unit: "% of floor area"
 calculation: Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area.
 origin: student
-status: draft
+status: verified
 aliases:
   - Community amenity provision
   - Hybrid use
