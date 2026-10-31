@@ -10,6 +10,7 @@ auto_case_studies:
 auto_metrics:
   - "[[Green area ratio]]"
   - "[[Green space per visitor]]"
+  - "[[Green-core anchoring of mixed uses]]"
   - "[[Mixed-use ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"

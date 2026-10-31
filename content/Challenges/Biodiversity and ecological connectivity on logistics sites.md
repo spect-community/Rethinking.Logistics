@@ -15,9 +15,11 @@ auto_metrics:
   - "[[Biotope area factor]]"
   - "[[Carbon sequestration by planting]]"
   - "[[Ecological connectivity]]"
+  - "[[Function stacking index]]"
   - "[[Green area ratio]]"
   - "[[Green plot ratio]]"
   - "[[Green roof coverage]]"
+  - "[[Green-core anchoring of mixed uses]]"
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
 auto_tools:

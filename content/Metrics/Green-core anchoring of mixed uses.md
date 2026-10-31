@@ -13,13 +13,8 @@ challenges:
   - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
-auto_case_studies:
-  - "[[Adam Večeřa]]"
-  - "[[Ece Yasar]]"
-  - "[[Marek Nový]]"
-  - "[[Ilinca Maria Baciu]]"
-  - "[[Natalie Žižková]]"
-  - "[[Sara Gani]]"
+auto_case_studies: []
+auto_tools: []
 ---
 
 ## What it measures

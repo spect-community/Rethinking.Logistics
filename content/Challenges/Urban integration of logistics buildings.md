@@ -21,6 +21,7 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_metrics:
   - "[[Distance to housing]]"
+  - "[[Green-core anchoring of mixed uses]]"
   - "[[Jobs created]]"
   - "[[Mixed-use ratio]]"
   - "[[Noise level]]"
