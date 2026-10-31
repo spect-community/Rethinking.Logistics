@@ -21,7 +21,7 @@ metrics:
   - "[[Green area ratio]]"
 tools: []
 ---
-
+![[Pasted image 20261031080030.png]]
 ## Project
 
 The existing site is an industrial fabrication/storage area in Bursa that borders housing directly. It has no internal traffic system, one shared entrance for trucks and staff cars (so trucks queue on public roads), materials stored outdoors, no greenery or communal space, high heat-island exposure and uncontrolled stormwater. The concept 'Community Integrated Logistics' separates functions (storage/cross-dock vs offices/control) and traffic modes (trucks vs private cars) with an added entrance. Low terraced U- and L-shaped volumes with green roofs keep residents' views, and tree-canopy streets, bioswales and dense native planting act as a noise, pollution and stormwater filter. Two massing alternatives (two large blocks; dispersed separate blocks) were compared and rejected in favour of the terraced U/L scheme.

@@ -27,7 +27,7 @@ tools:
   - "[[One Click LCA]]"
   - "[[Grasshopper]]"
 ---
-
+![[Pasted image 20261031083257.png]]
 ## Project
 
 The site is an existing 13,029 m² sawtooth-roof 'big box' warehouse in a mixed industrial–residential district of Zličín, causing noise, truck congestion, single-point access and a hostile edge to housing and schools. The project reframes it as a last-mile logistics hub that is also a civic asset, structured around the Society–Economy–Environment triad. Key moves are a reworked sawtooth roof carrying PV and daylight, a green roof over the public-facing programme, shops/markets and offices along the park edge, a landscaped green–blue buffer linking two lakes, and a low-carbon material palette (25% GGBS concrete, 97% recycled reinforcement) verified in One Click LCA. A Grasshopper script was used to locate storage away from residential zones (distance buffer index).

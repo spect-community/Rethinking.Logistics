@@ -21,7 +21,7 @@ tools:
   - "[[Ladybug]]"
   - "[[Grasshopper]]"
 ---
-
+![[Pasted image 20261031090511.png]]
 ## Project
 
 The project addresses data centres' high water and electricity use for cooling and their poor use of space. It proposes HALECS, a row of six modular server halls (each 18.3 × 3.6 m, 6.1 m tall with fan and vents) whose curved copper shells, sloped 'cooling fins' and open intake vents channel prevailing ground wind through the servers, combined with an enclosed water-cooling loop per server that runs from floor to fins and could supply heat for residential water heating. Site selection was driven by wind speed, leading to a windy coastal location near Grindavík, Iceland, analysed with a Ladybug wind rose. The 200-server design occupies about 425 m², compared with an existing ~1,024 m² hosting data centre with about 184 racks, and material quantities and GWP figures are estimated for the copper shell and steel ribs.

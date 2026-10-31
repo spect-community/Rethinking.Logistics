@@ -28,7 +28,8 @@ tools:
   - "[[Grasshopper]]"
   - "[[Galapagos]]"
 ---
-
+![[Pasted image 20261031084932.png]]
+![[Pasted image 20261031085016.png]]
 ## Project
 
 An active logistics centre sits inside a former coal-power-station area that is being redeveloped into a green residential district, creating unsafe truck–pedestrian conflicts and cutting two public parks apart. The concept 'Invisible Logistics' aims to make the facility read as landscape rather than industry. Key moves are an artificial green hill and stepped walkable green roof terraces over the warehouse, a timber façade wrapping the building, a pedestrian tunnel and bridge linking the separated parks, and strict zoning that keeps the truck yard apart from staff and public routes. A Grasshopper geometry optimiser minimised envelope perimeter for a fixed 5,000 m² usable area and estimated façade costs, and a monthly energy simulation checked operational demand.

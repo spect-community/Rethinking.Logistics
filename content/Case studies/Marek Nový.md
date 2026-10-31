@@ -26,7 +26,7 @@ metrics:
   - "[[Space utilisation]]"
 tools: []
 ---
-
+![[Pasted image 20261031083733.png]]
 ## Project
 
 Otovice mixes housing, industry, municipal services and manufacturing, but it has few places where people stay; most visitors leave once their errand is done. The 'Visible Industry' concept puts warehouses, workshops, studios, cafés and retail into one connected structure on an open field, showing production through transparent façades and public routes instead of hiding it. The site steps in scale from warehouse-oriented (two large red warehouses with truck yard) through workshop-oriented to community-oriented zones with small shops, all linked by a productive promenade. Landscape works as infrastructure: tree belts as filter and buffer to housing, retention ponds, permeable surfaces and green islands for shade and public space.

@@ -22,7 +22,7 @@ metrics:
   - "[[Last-mile delivery emissions]]"
 tools: []
 ---
-
+![[Pasted image 20261031083126.png]]
 ## Project
 
 The project starts from the shortage of last-mile micro-hubs in Prague (only Florenc and Smíchov identified) and the traffic, emission and kerbside problems caused by deliveries coming from warehouses outside the city. Using a city-wide map of brownfields and abandoned buildings, it selects an abandoned concrete structure in Háje and converts it into a micro-hub that sorts parcels and dispatches them by cargo bikes and electric vehicles. The building is stacked by floor: a ground-level logistics layer for loading, sorting and bike/EV servicing, a showroom and repair/community level above, and a public rooftop garden. Two spatial proposals were explored: a hybrid model where logistics and public programmes overlap, and a floor-separated model to avoid operational conflicts.

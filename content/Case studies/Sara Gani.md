@@ -30,7 +30,7 @@ metrics:
   - "[[Life-cycle impact by stage]]"
 tools: []
 ---
-
+![[Pasted image 20261031084803.png]]
 ## Project
 
 The project starts from an existing isolated warehouse near Prague Airport (Wakestone Logistics, approx. 5,500 m² in two halls plus 3,000 m² offices), where trucks and cars share routes and offices sit deep inside the hall without daylight. A first proposal in the existing context reorganises it into an L-shaped building that separates offices, control rooms and a restaurant from high-bay storage and docks, with distinct truck, car and pedestrian routes and a green buffer. The scheme is then moved to Pivoňská, Prague 14, between a residential area and rail/road infrastructure, where the warehouse is partly buried under a green roof that ramps down into a public park, community space, retention pond and a fox corridor along the rail line. Truck access and loading are placed on the far side from the housing, and three layout variants (L-shape, two separate buildings, campus) were compared with a KPI slider matrix.

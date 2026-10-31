@@ -23,7 +23,7 @@ metrics:
   - "[[Electricity price]]"
 tools: []
 ---
-
+![[Pasted image 20261031082008.png]]
 ## Project
 
 The project starts from the problems data centres cause near towns: high water use for cooling, local heat islands, rising grid demand and large blank boxes that block residents' views. On a site in Kladno's old industrial area, two abandoned 1950s metal-factory halls planned for demolition are kept and converted into data centres A and B, and a new data centre C with a fully PV-covered roof and a greenhouse are added. Waste heat is sent to the greenhouse for year-round vegetables and, through the nearby power plant and existing networks, to housing (heating in winter, chilled for cooling in summer). The landscape replaces paving with ponds, trees and green corridors for people and small animals, and solar power covers site maintenance, public EV charging and storage for resale.

@@ -29,7 +29,7 @@ metrics:
   - "[[Operational carbon]]"
 tools: []
 ---
-
+![[Pasted image 20261031081638.png]]
 ## Project
 
 The project looks at the Hostivice industrial zone, an 876,000 m² logistics area that grew next to existing housing over three decades and now separates the town from its landscape through sealed surfaces, truck-dominated roads and monotonous big-box volumes. One representative existing warehouse (about 115 x 110 m, precast concrete frame) is documented in plans, sections and construction details to understand the standard typology. Three urban scenarios (mobility links, a green buffer zone, and zoning that shifts logistics toward the airport) are tested. The design keeps the logistics function but adds a network of raised, tree-like green platforms over and between the warehouses, carrying public routes, green roofs, photovoltaics and rainwater retention, and reconnecting the interrupted green-blue corridor between Prague and Hostivice.

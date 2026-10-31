@@ -30,7 +30,7 @@ metrics:
 tools:
   - "[[Geoportal Praha]]"
 ---
-
+![[Pasted image 20261031081842.png]]
 ## Project
 
 The project asks how storage data-centre capacity can grow in Prague without new construction, starting from the large stock of unused buildings (about 5.68 million m² in Prague). After mapping data-centre typologies and matching them against a matrix of listed abandoned buildings by size, the neglected 1847 Desfourský Palace near Masarykovo station was chosen. The building is prepared in a phase P0 (selective demolition, recycled-steel column-beam grid, building-wide HVAC, dry coolers in the roof) and then tested in three phases with an increasing data-centre share (20%, 50%, 80%). Heat from servers in temperature-controlled steel boxes is recovered for heat-hungry programmes chosen for their heat demand and social value, and in later phases for neighbouring buildings and the district.

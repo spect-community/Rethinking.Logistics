@@ -20,7 +20,7 @@ metrics:
   - "[[Publicly accessible area]]"
 tools: []
 ---
-
+![[Pasted image 20261031091033.png]]
 ## Project
 
 Growth of e-commerce pushes last-mile distribution closer to consumers, but dense cities lack space while many post-industrial buildings stand empty or are demolished. The project converts a long abandoned concrete-frame industrial building in Prague 9 into an urban logistics hub where trucks deliver to regional-scale docks and electric vans and bikes carry out last-mile delivery. A dual-sided layout puts the truck yard, docks and EV loading zone on one side and a landscaped public plaza with seating, greenery and water on the other, with offices at the head of the building. Storage occupies the upper floors and the roof becomes a biosolar roof combining PV panels and vegetation. KPIs compare the existing/conventional state with the proposal for delivery emissions, embodied carbon, roof use and public accessibility.

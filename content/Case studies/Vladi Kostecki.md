@@ -24,7 +24,7 @@ metrics:
   - "[[Green area ratio]]"
 tools: []
 ---
-
+![[Pasted image 20261031091124.png]]
 ## Project
 
 The site is a former three-building industrial plant on a Prague 9 brownfield, wedged between growing housing and a green corridor, where a conventional big-box warehouse would cut neighbourhoods off. The project keeps the existing structure and reorganises it into zones: logistics and loading docks with storage in the south-east, retained manufacturing in the north and a two-storey public commercial wing on the west carried by an expressive exoskeleton beam system and adaptive vertical façade panels. The adjoining brownfield becomes a 34,000 m² public park divided into four landscape zones from managed planting to dense habitat, and a pedestrian underpass separates residents from truck traffic. KPIs cover embodied and operational carbon (including carbon per pallet), monthly energy use before and after envelope renovation, pedestrian–truck intersections and green space.

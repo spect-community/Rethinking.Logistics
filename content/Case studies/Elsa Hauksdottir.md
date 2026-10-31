@@ -27,7 +27,7 @@ metrics:
   - "[[Distance to housing]]"
 tools: []
 ---
-
+![[Pasted image 20261031080333.png]]
 ## Project
 
 The case is a large steel-frame warehouse in Breiðholt, Reykjavík, about 11,000 m² in footprint and later expanded to over 14,000 m². It stands 14 m from apartment blocks and drew strong public backlash for blocking views and daylight. The student identifies two problems: the 'big box' is sized for peak demand, so in Iceland's cold climate much of it is heated while empty, and it creates a dead zone in a mixed-use neighbourhood. Her proposal is an 'elastic' building: movable partition walls and foldable scissor racks shrink the active, heated storage zone off-peak and free the dormant area for galleries, markets and events. An openable timber façade and a hybrid pneumatic ETFE roof let the building switch between a closed, compact logistics mode and an open, daylit civic mode. An appendix adds native Icelandic planting (birch, rowan, willow, yarrow, cottongrass), bioswales and a restored pond.

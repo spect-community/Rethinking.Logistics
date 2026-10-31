@@ -25,7 +25,8 @@ metrics:
   - "[[Throughput per site area]]"
 tools: []
 ---
-
+![[Pasted image 20261031081120.png]]
+![[Pasted image 20261031071906.png]]
 ## Project
 
 As EV use grows, demand for battery recycling is rising, but recycling plants such as the case studies REDUX (Bremerhaven) and Li-Cycle Spoke (Sülzetal) are process-efficient yet isolated, generic and poorly integrated with landscape and neighbours. The project remodels the existing Pragometal metal and battery recycling site in Česká Lípa, on an industrial–residential edge with asphalt-dominated yards, into a facility dedicated to battery waste within the original site boundaries. The single big box is split into three volumes: a main processing hall stepped in height for large machinery, an admin office building with sheltered nooks and a roof terrace, and a separate hazardous-waste storage building. The hazardous building is placed furthest from the office and next to the road for fire-brigade access. Staff, trucks and fire services get separate site entrances. Landscape moves include green roofs on the processing and office buildings, a climbing-plant trellis façade, a communal green zone, a 50 cm earth berm with shrubs facing roads and housing, perimeter bio-corridors, and a rainwater pond that also serves as a fire-water reserve.

@@ -30,7 +30,7 @@ metrics:
 tools:
   - "[[One Click LCA]]"
 ---
-
+![[Pasted image 20261031081315.png]]
 ## Project
 
 The project takes an existing small cross-dock facility in Kitzingen that sits between two forest patches separated by two major roads, leaving wildlife movement blocked at ground level and the warehouse roof as unused concrete. Instead of demolition, the roof is reinterpreted as an ecological platform: a planted bridge rises gradually from one forest edge, crosses the roads at roof height (7.0 m), continues as a native green roof over about half the roof area, and descends to the forest on the other side. The existing PV panels are retained alongside the green roof, and the bridge also provides shaded space for employees and a public landscape route for the nearby residential neighbourhood. An LCA of the existing building (One Click LCA, A1–A5) was used to show that concrete, HVAC and plastic membranes dominate the footprint.

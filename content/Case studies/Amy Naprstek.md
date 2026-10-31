@@ -20,7 +20,7 @@ metrics:
   - "[[Distance to housing]]"
 tools: []
 ---
-
+![[Pasted image 20261031072137.png]]
 ## Project
 
 The project responds to logistics centres being rigid, oversized permanent structures that cannot grow or shrink with demand and offer little to neighbouring residential areas. It proposes a relocatable storage system built from prefabricated steel-framed, aluminium-clad blocks in three sizes, derived from an existing exhibition block system (Showblock), with removable aluminium floor panels for uneven ground. Blocks can be configured in many layouts that combine storage with a temporary public programme such as a festival, exhibition, market or education centre. Configurations are meant to stay for between 3–5 months and up to 3 years to avoid permitting, after which the site is left as a grassy plot. A planted gradient from mown grass to long grass and flowers links the site to an adjacent greenfield to support pollinators, birds and small mammals.
