@@ -4,7 +4,7 @@ unit: "% of entrances (or frontage length)"
 calculation: Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length).
 origin: adapted
 standard: ""
-status: verified
+status: published
 aliases:
   - Green spine connectivity
   - Shared green core access

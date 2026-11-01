@@ -4,7 +4,7 @@ unit: kgCO2e/kWh (IT)
 calculation: Total CO2 emissions caused by the facility's energy use ÷ IT equipment energy.
 origin: standard
 standard: The Green Grid
-status: draft
+status: published
 aliases:
   - CUE
 challenges:

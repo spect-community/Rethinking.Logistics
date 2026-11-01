@@ -3,7 +3,7 @@ category: Logistics operations
 unit: spaces or m²
 calculation: Number of car/truck parking spaces (or parking area) provided, and their utilisation.
 origin: student
-status: draft
+status: published
 aliases:
   - Parking usage
   - Parking capacity provided

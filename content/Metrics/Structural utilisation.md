@@ -4,7 +4,7 @@ unit: "% of capacity / kN/m²"
 calculation: Loads (dead, live, snow per Eurocode) and the resulting utilisation of structural members, from hand calculation or finite-element analysis.
 origin: standard
 standard: Eurocode
-status: draft
+status: published
 aliases:
   - Structural dead, live and snow loads
   - Structural loads

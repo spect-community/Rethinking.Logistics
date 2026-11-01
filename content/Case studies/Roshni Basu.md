@@ -7,7 +7,7 @@ studio: Kurilla-Prokop
 year: 2026
 location: Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate
 typology: urban micro-hub / dark-store network (modular last-mile pavilions)
-status: verified
+status: published
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

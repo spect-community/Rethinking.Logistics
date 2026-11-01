@@ -3,7 +3,7 @@ category: Comfort
 unit: "score / % satisfied"
 calculation: Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers.
 origin: student
-status: draft
+status: published
 aliases:
   - Employee working environment score
   - Worker welfare provision

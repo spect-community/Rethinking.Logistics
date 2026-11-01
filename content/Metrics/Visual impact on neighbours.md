@@ -3,7 +3,7 @@ category: Social
 unit: "% of view obstructed / screened"
 calculation: Share of the view from neighbouring windows obstructed by the building, or share of the built perimeter visually screened (by greenery or design).
 origin: student
-status: draft
+status: published
 aliases:
   - Residential view preservation index
   - Obstructed view

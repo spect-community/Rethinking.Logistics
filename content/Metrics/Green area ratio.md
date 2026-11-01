@@ -3,7 +3,7 @@ category: Biodiversity
 unit: "% of site (or m²)"
 calculation: Vegetated area ÷ total site area × 100.
 origin: student
-status: draft
+status: published
 aliases:
   - Green area share
   - Green surface area increase

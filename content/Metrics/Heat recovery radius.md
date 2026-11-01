@@ -3,7 +3,7 @@ category: Energy
 unit: m
 calculation: "Distance within which recovered heat can be delivered usefully: available heat output vs. heat losses of the connecting network per metre."
 origin: student
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"

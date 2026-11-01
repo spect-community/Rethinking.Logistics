@@ -3,7 +3,7 @@ category: Economy
 unit: EUR/m²
 calculation: "Cost estimate per gross floor area; or cost of a building element (e.g. envelope) derived from its quantity."
 origin: student
-status: draft
+status: published
 aliases:
   - Construction cost per floor area
   - Building envelope cost

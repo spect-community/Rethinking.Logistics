@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: "Pivoňská, Praha 14 (Černý Most area), Prague; case-study site: Wakestone Logistics, Tuchoměřice–Středokluky near Prague Airport / R7"
 typology: storage and distribution warehouse (pallet / high-bay storage) with offices, café/shop and public park, relocated next to a residential area
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

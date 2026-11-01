@@ -3,7 +3,7 @@ category: Comfort
 unit: dB(A)
 calculation: "Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state."
 origin: student
-status: draft
+status: published
 aliases:
   - Noise exposure
   - Noise exposure reduction

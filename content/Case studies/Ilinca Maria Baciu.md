@@ -7,7 +7,7 @@ studio: AD6 (Kurilla-Prokop studio), Bachelor Diploma Project
 year: 2026
 location: Hostivice industrial zone, western edge of Prague (Czech Republic)
 typology: big-box warehouse park retrofit (existing SEGRO-type logistics zone) with green platforms / canopies
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

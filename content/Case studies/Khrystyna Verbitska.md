@@ -7,7 +7,7 @@ studio: AD4
 year: 2026
 location: Prague 11 – Háje, Prague (former industrial / abandoned building next to a housing estate)
 typology: urban last-mile micro-hub (cargo-bike and EV dispatch) with showroom and community roof garden, adaptive reuse
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

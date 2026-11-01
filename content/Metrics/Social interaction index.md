@@ -3,7 +3,7 @@ category: Social
 unit: users/day
 calculation: Observed or estimated number of people using the public spaces of the project per day.
 origin: student
-status: draft
+status: published
 aliases:
   - Green space activation
   - Public space usability

@@ -3,7 +3,7 @@ category: Water
 unit: m³/year
 calculation: "Metered or estimated annual water use; for data centres often normalised per kWh of IT energy (WUE)."
 origin: student
-status: draft
+status: published
 aliases:
   - Cooling water consumption
   - Water usage effectiveness

@@ -1,6 +1,6 @@
 ---
 category: Social
-status: draft
+status: published
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"

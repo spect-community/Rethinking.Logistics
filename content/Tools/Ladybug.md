@@ -4,7 +4,7 @@ category: Climate & solar analysis
 developer: Ladybug Tools LLC (Mostapha Sadeghipour Roudsari, Chris Mackey and contributors)
 url: "https://www.ladybug.tools/ladybug.html"
 license: open-source
-status: draft
+status: published
 aliases:
   - Ladybug Tools (suite)
   - LBT

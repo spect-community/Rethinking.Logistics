@@ -4,7 +4,7 @@ category: Energy simulation
 developer: Ladybug Tools LLC
 url: "https://www.pollination.solutions/"
 license: commercial
-status: draft
+status: published
 aliases:
   - Pollination Cloud
   - Pollination Rhino Plugin

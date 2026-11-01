@@ -3,7 +3,7 @@ category: Water
 unit: "% of site"
 calculation: Sealed (paved, built, roofed without retention) area ÷ total site area × 100. The permeable ratio is the complement.
 origin: student
-status: draft
+status: published
 aliases:
   - Permeable surface ratio
   - Paved surface area

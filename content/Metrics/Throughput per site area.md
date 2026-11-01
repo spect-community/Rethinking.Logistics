@@ -3,7 +3,7 @@ category: Logistics operations
 unit: "units/m²·day"
 calculation: Goods handled (parcels, pallets, tonnes) per day ÷ site area.
 origin: student
-status: draft
+status: published
 aliases:
   - Land use efficiency
   - Pallet throughput

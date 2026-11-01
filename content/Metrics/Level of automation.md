@@ -3,7 +3,7 @@ category: Logistics operations
 unit: "employees per facility / % automated tasks"
 calculation: Share of handling tasks done by machines, or number of employees needed per facility at a given throughput.
 origin: student
-status: draft
+status: published
 aliases:
   - Automation
   - Automation level

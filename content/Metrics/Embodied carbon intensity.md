@@ -4,7 +4,7 @@ unit: kgCO2e/m²
 calculation: Material quantities × emission factors from EPDs/databases, summed over life-cycle modules (A1–A3 or A1–C4) ÷ gross floor area. Calculated with LCA tools such as One Click LCA or Bombyx.
 origin: standard
 standard: EN 15978
-status: draft
+status: published
 aliases:
   - Embodied carbon
   - Total embodied carbon

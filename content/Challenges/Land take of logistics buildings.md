@@ -1,6 +1,6 @@
 ---
 category: Land use
-status: draft
+status: published
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Amy Naprstek]]"

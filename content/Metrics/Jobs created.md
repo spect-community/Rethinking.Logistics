@@ -3,7 +3,7 @@ category: Social
 unit: jobs
 calculation: Number of jobs (FTE) created on site, by function.
 origin: student
-status: draft
+status: published
 aliases:
   - Local economic activation
 challenges:

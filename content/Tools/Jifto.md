@@ -4,7 +4,7 @@ category: Climate & solar analysis
 developer: Nflection ApS (originated at Henning Larsen)
 url: https://jifto.com/
 license: freemium (free 30 min/day; Pro €80/month; Team €60/user/month)
-status: verified
+status: published
 aliases: []
 metrics:
   - "[[Sun exposure of outdoor space]]"

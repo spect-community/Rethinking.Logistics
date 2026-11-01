@@ -4,7 +4,7 @@ unit: "% of total impact per module"
 calculation: LCA result split by EN 15978 modules (A1–A3, A4, A5, B, C) for each impact indicator.
 origin: standard
 standard: EN 15978
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"

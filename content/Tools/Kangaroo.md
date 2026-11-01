@@ -4,7 +4,7 @@ category: Structure
 developer: Daniel Piker
 url: "https://www.food4rhino.com/en/app/kangaroo-physics"
 license: free (bundled with Rhino 7+ as Kangaroo2)
-status: draft
+status: published
 aliases: []
 metrics: []
 auto_case_studies:

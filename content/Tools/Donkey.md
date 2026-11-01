@@ -4,7 +4,7 @@ category: Structure
 developer: "iGenD project, Czech Technical University in Prague (Faculty of Architecture – Atelier Florián; Faculty of Civil Engineering – Dept. of Mechanics); main author Lukáš Kurilla, with L. Svoboda, J. Novák, J. Zeman"
 url: "http://donkey.igend.cz/ (also listed as http://donkey.kurilluk.net/; neither resolved in 2026)"
 license: open-source
-status: draft
+status: published
 aliases:
   - DONKEY
 metrics:

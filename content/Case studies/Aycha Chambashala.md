@@ -7,7 +7,7 @@ studio: AD2 (Rethinking Logistics)
 year: 2026
 location: Yunuseli, Osmangazi, Bursa, Türkiye (next to the former Yunuseli Airport, bordering a residential area)
 typology: urban logistics centre with storage/cross-dock and offices/control points, replacing an unstructured fabrication and open-storage site
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

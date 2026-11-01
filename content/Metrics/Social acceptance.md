@@ -3,7 +3,7 @@ category: Social
 unit: qualitative / survey score
 calculation: Resident and user survey, or qualitative assessment, of whether the logistics activity is perceived as a benefit rather than a nuisance.
 origin: student
-status: draft
+status: published
 aliases:
   - Social compatibility
   - Connection to community

@@ -1,6 +1,6 @@
 ---
 category: Urban
-status: draft
+status: published
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"

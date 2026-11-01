@@ -7,7 +7,7 @@ studio: AD2 (Architectural Design 2)
 year: 2026
 location: Strojírenská 175/25, 155 21 Zličín, Prague, Czech Republic
 typology: last-mile logistics hub with public market, local businesses and offices (multi-tenant hybrid), replacing an existing big-box warehouse
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

@@ -4,7 +4,7 @@ unit: m/s
 calculation: "CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson)."
 origin: adapted
 standard: Lawson criteria
-status: draft
+status: published
 aliases:
   - Controlled wind flow around building mass
   - Wind comfort

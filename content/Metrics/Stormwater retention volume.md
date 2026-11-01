@@ -3,7 +3,7 @@ category: Water
 unit: m³
 calculation: "Sum of the storage capacity of green roofs, swales, ponds and tanks; or design rainfall × area × (1 − runoff coefficient)."
 origin: student
-status: draft
+status: published
 aliases:
   - Rainwater retention volume
   - Stormwater retention capacity

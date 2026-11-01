@@ -4,7 +4,7 @@ category: Ecology & landscape
 developer: Asuni (Asuni Soft), Spain
 url: "https://www.landsdesign.com/"
 license: commercial
-status: draft
+status: published
 aliases:
   - RhinoLands
   - Lands Design for Rhino

@@ -7,7 +7,7 @@ studio: AD6 (Studio Kurilla-Prokop), bachelor thesis, summer semester 2025-26
 year: 2026
 location: Desfourský Palace, Na Florenci 21a, Nové Město (Florenc), Prague
 typology: storage data centre inserted into a listed abandoned building, combined with heat-using mixed-use programmes (sauna/wellness, dry-food production, café)
-status: draft
+status: published
 aliases:
   - Julia Lombard
 challenges:

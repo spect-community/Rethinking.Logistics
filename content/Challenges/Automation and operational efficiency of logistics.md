@@ -1,6 +1,6 @@
 ---
 category: Operations
-status: draft
+status: published
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_metrics:

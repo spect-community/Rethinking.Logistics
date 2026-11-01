@@ -4,7 +4,7 @@ category: Parametric platform
 developer: Robert McNeel & Associates (David Rutten)
 url: "https://www.grasshopper3d.com/"
 license: included with Rhino
-status: draft
+status: published
 aliases: []
 metrics:
   - "[[Land take]]"

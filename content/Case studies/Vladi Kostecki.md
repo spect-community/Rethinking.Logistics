@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Brownfield / former industrial plant in the centre of Prague 9, between residential clusters and a green ecological corridor along the stream, Prague
 typology: mixed-use logistics hub in a reused industrial plant (logistics, storage, manufacturing and public commercial floors) with a new public park
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"

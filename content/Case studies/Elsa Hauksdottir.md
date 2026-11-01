@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Breiðholt, Reykjavík, Iceland (redesign of the 'Græna gímaldið' / 'Green Monstrosity' warehouse)
 typology: "Adaptive urban warehouse / logistics hub with temporary public (civic) use; existing case is a supermarket-chain logistics warehouse with meat processing and food packaging"
-status: draft
+status: published
 aliases:
   - Elsa Hlíðberg Hauksdóttir
 challenges:

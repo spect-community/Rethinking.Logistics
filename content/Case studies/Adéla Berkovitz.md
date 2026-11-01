@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Pragometal recycling facility site, southern urban fringe of Česká Lípa, Czech Republic
 typology: Battery recycling (lithium-ion pre-processing / light processing) facility
-status: draft
+status: published
 aliases:
   - Adela Berkowitz
 challenges:

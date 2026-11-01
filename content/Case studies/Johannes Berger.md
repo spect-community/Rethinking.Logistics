@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Not stated in portfolio; questionnaire names case studies DHL Poznań (Poland) and Tracker AS (Norway)
 typology: Drone-tailored cross-dock / vertical drone logistics warehouse (tower)
-status: verified
+status: published
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

@@ -3,7 +3,7 @@ category: Location
 unit: m (walking distance) or score
 calculation: Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car).
 origin: student
-status: draft
+status: published
 aliases:
   - Distance to public transport
   - Accessibility score by mode

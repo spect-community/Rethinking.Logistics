@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: Ramboll
 url: "https://www.ramboll.com/insights/decarbonise-for-net-zero/co2mpare-setting-the-benchmark-on-carbon-in-buildings"
 license: free
-status: draft
+status: published
 aliases:
   - CO2mpare benchmark
   - Ramboll CO2mpare

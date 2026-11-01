@@ -3,7 +3,7 @@ category: Logistics operations
 unit: "% of floor area / storage capacity"
 calculation: Floor area (or volume) actively used for storage and operations ÷ total.
 origin: student
-status: draft
+status: published
 aliases:
   - Space Utilization
   - Storage capacity

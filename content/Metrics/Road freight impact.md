@@ -3,7 +3,7 @@ category: Logistics operations
 unit: "% of emissions / road wear"
 calculation: "Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law)."
 origin: adapted
-status: draft
+status: published
 aliases:
   - Trucks' share of freight vs share of transport emissions
   - Road degradation per truck

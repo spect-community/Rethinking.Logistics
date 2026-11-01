@@ -3,7 +3,7 @@ category: Biodiversity
 unit: "% of roof area"
 calculation: Vegetated roof area ÷ total roof area × 100.
 origin: student
-status: draft
+status: published
 aliases:
   - Green roof/wall coverage
   - Roof utilisation

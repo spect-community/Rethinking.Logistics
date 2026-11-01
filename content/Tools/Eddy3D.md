@@ -4,7 +4,7 @@ category: Wind & CFD
 developer: Patrick Kastner & Timur Dogan (Cornell University, Environmental Systems Lab)
 url: "https://www.eddy3d.com/"
 license: free
-status: draft
+status: published
 aliases: []
 metrics:
   - "[[Pedestrian-level wind speed]]"

@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Post-industrial district of Prague 9 (abandoned industrial building between railway and main tram street), Prague
 typology: urban last-mile logistics hub in an adaptively reused industrial building (truck inbound, EV outbound) with public plaza
-status: draft
+status: published
 aliases:
   - Thomas Lund Olsen
 challenges:

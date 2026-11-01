@@ -4,7 +4,7 @@ category: Urban & district energy
 developer: "National Laboratory of the Rockies (formerly NREL; renamed Dec 2025), copyright Alliance for Energy Innovation, LLC, for US DOE"
 url: "https://docs.urbanopt.net/"
 license: open-source
-status: draft
+status: published
 aliases:
   - URBANopt SDK
   - URBANopt CLI

@@ -3,7 +3,7 @@ category: Biodiversity
 unit: "trees/ha or % canopy"
 calculation: "Number of trees (or crown area) on site ÷ site area; compared before and after the design."
 origin: student
-status: draft
+status: published
 aliases:
   - Tree planting density
   - Net tree gain

@@ -7,7 +7,7 @@ studio: AD4
 year: 2026
 location: Eimskip site, Sundabakki 2, Sundahöfn harbour, Reykjavík, Iceland
 typology: port logistics building (container terminal warehouse) adapted with courtyard extension and a wind-buffer wall of reused shipping containers
-status: verified
+status: published
 aliases: []
 challenges:
   - "[[Outdoor microclimate around logistics buildings]]"

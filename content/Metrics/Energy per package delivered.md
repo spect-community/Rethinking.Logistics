@@ -3,7 +3,7 @@ category: Energy
 unit: kWh/package
 calculation: Energy used by the delivery mode over a route ÷ number of packages delivered.
 origin: adapted
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

@@ -3,7 +3,7 @@ category: Economy
 unit: EUR
 calculation: Total emissions (tCO2e) × a carbon price per tonne.
 origin: standard
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"

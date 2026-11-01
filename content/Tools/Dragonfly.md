@@ -4,7 +4,7 @@ category: Urban & district energy
 developer: Ladybug Tools LLC
 url: "https://www.ladybug.tools/dragonfly.html"
 license: open-source
-status: draft
+status: published
 aliases:
   - "Dragonfly[+]"
   - dragonfly-energy

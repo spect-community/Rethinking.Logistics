@@ -4,7 +4,7 @@ category: Wind & CFD
 developer: "Ladybug Tools (original author Mostapha Sadeghipour Roudsari; early prototype by Theodore Galanos)"
 url: "https://www.ladybug.tools/butterfly.html"
 license: open-source
-status: draft
+status: published
 aliases:
   - butterfly (Ladybug Tools)
   - Butterfly CFD

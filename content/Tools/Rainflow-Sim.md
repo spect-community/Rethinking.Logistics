@@ -4,7 +4,7 @@ category: Water
 developer: differential-studio (Differential)
 url: "https://github.com/differential-studio/Rainflow-Sim"
 license: open-source
-status: draft
+status: published
 aliases:
   - Rainflow Sim
 metrics:

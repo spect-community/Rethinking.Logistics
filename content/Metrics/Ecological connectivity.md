@@ -3,7 +3,7 @@ category: Biodiversity
 unit: qualitative (connected / not connected)
 calculation: Mapping whether site greenery links to nearby corridors, water bodies and habitats (distance and continuity of green links).
 origin: student
-status: draft
+status: published
 aliases:
   - Ecological corridor connectivity
   - Wildlife corridor connectivity

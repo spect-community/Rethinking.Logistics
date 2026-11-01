@@ -4,7 +4,7 @@ unit: ppm CO2
 calculation: "Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm."
 origin: standard
 standard: WELL
-status: draft
+status: published
 aliases:
   - Indoor CO2 concentration
 challenges:

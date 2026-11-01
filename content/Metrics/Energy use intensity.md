@@ -4,7 +4,7 @@ unit: "kWh/m²·year"
 calculation: Annual delivered energy ÷ gross floor area. Simulated (e.g. Honeybee/EnergyPlus) or taken from metered data or benchmarks.
 origin: standard
 standard: NZEB / EU benchmarks
-status: draft
+status: published
 aliases:
   - EUI
   - Energy consumption

@@ -3,7 +3,7 @@ category: Comfort
 unit: "°C above reference"
 calculation: Surface or air temperature difference to a rural reference, simulated or from satellite maps.
 origin: student
-status: draft
+status: published
 aliases:
   - Roof heat island effect
   - Urban heat island intensity

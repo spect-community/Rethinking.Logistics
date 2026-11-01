@@ -4,7 +4,7 @@ category: Logistics & operations
 developer: Transoft Solutions
 url: "https://www.transoftsolutions.com/autoturn/"
 license: commercial
-status: draft
+status: published
 aliases: []
 metrics:
   - "[[Yard area per dock]]"

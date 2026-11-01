@@ -3,7 +3,7 @@ category: Location
 unit: "m² or % of site"
 calculation: "Building footprint (plus paved operational area) ÷ site area; compared before and after."
 origin: student
-status: draft
+status: published
 aliases:
   - Building coverage of site
   - Land area used by logistics

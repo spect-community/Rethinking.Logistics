@@ -3,7 +3,7 @@ category: Carbon
 unit: score 0–10
 calculation: "Checklist score: dry/reversible connections, standard modules, material passports, separable layers."
 origin: adapted
-status: draft
+status: published
 aliases:
   - Disassembly score
 challenges:

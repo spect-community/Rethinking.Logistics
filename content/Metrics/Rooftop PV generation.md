@@ -3,7 +3,7 @@ category: Energy
 unit: MWh/year
 calculation: Usable roof area × annual solar irradiation (kWh/m²) × module efficiency × performance ratio. Irradiation from solar radiation analysis (Ladybug, Cyclops) or PVGIS.
 origin: student
-status: draft
+status: published
 aliases:
   - Rooftop photovoltaic generation potential
   - PV energy production

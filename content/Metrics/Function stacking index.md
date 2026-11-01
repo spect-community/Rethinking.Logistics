@@ -4,7 +4,7 @@ unit: index 1–5 (or % of surface area with ≥ 2 functions)
 calculation: "Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy."
 origin: adapted
 standard: ""
-status: verified
+status: published
 aliases:
   - Multifunctional surface share
   - Surface multifunctionality

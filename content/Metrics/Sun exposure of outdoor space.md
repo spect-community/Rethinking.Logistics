@@ -3,7 +3,7 @@ category: Comfort
 unit: "% of area or hours of direct sun"
 calculation: Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice).
 origin: student
-status: draft
+status: published
 aliases:
   - Solar exposure
   - Shaded public space coverage

@@ -1,6 +1,6 @@
 ---
 category: Flexibility
-status: draft
+status: published
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

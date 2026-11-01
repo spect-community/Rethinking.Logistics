@@ -3,7 +3,7 @@ category: Carbon
 unit: "tCO2/ha·year"
 calculation: Planted area × sequestration rate of the vegetation type (from literature).
 origin: adapted
-status: draft
+status: published
 aliases:
   - Carbon sequestration of planting
   - Vegetated share of site

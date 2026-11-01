@@ -3,7 +3,7 @@ category: Comfort
 unit: "% of floor area / hours"
 calculation: Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate.
 origin: adapted
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Worker comfort and well-being]]"

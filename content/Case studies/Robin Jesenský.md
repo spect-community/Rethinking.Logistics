@@ -7,7 +7,7 @@ studio: ARCHIP Year 1 – Semester 2 (AD level not stated)
 year: 2026
 location: Grindavík, Reykjanes peninsula, Iceland (wind data from Keflavík International Airport)
 typology: data centre (modular, passively wind-cooled)
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"

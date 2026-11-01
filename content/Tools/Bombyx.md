@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: ETH Zurich, Chair of Sustainable Construction (Institute of Construction & Infrastructure Management, D-BAUG)
 url: "https://sc.ibi.ethz.ch/en/service/decision-support-tools/bombyx.html"
 license: open-source
-status: draft
+status: published
 aliases:
   - Bombyx 2
   - Bombyx-ETH

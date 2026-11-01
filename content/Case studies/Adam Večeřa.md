@@ -7,7 +7,7 @@ studio: Kurilla – Prokop atelier (ARCHIP, summer semester 2025–26); AD level
 year: 2026
 location: IKEA Černý Most, Chlumecká 664/10, Praha 14, Prague, Czech Republic – between Černý Most housing, the D10 highway and the Rokytka valley
 typology: consumer-integrated storage + retail showroom (vertical mixed-use logistics tower with automated high-bay storage)
-status: verified
+status: published
 aliases: []
 challenges:
   - "[[Land take of logistics buildings]]"

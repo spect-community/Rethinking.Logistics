@@ -3,7 +3,7 @@ category: Logistics operations
 unit: minutes
 calculation: Time from a truck's arrival at the gate until departure (or until goods enter processing).
 origin: adapted
-status: draft
+status: published
 aliases:
   - Dock-to-process time
   - Truck turnaround

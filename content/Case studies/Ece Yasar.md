@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Walther cross-dock facility, Kitzingen (Bavaria), Germany – on the Würzburg corridor, between two forest patches
 typology: cross-dock warehouse (retrofit)
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"

@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: "LearnCarbon team (Kharbanda, Papadopoulou, Pouliou, Daw, Belwadi, Loganathan); started at AEC Hackathon @ BLOXHUB 2021"
 url: "https://learncarbon.github.io/"
 license: open-source
-status: draft
+status: published
 aliases:
   - Learn Carbon
 metrics:

@@ -4,7 +4,7 @@ category: Energy simulation
 developer: Ladybug Tools LLC
 url: "https://www.ladybug.tools/honeybee.html"
 license: open-source
-status: draft
+status: published
 aliases:
   - "Honeybee[+]"
   - honeybee-energy

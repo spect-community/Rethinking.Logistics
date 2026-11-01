@@ -3,7 +3,7 @@ category: Safety
 unit: incidents/year
 calculation: Recorded incidents per year (or hazard zones per layout) in operational areas.
 origin: student
-status: draft
+status: published
 aliases:
   - Worker Safety Index
   - Hazard segregation

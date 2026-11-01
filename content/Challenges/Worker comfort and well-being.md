@@ -1,6 +1,6 @@
 ---
 category: Comfort
-status: draft
+status: published
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"

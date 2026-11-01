@@ -3,7 +3,7 @@ category: Carbon
 unit: kgCO2e/pallet
 calculation: Annual (operational or whole-life) carbon ÷ pallets handled per year.
 origin: student
-status: draft
+status: published
 aliases:
   - Carbon intensity per pallet handled
   - CO2 per pallet

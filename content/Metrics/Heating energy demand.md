@@ -3,7 +3,7 @@ category: Energy
 unit: kWh/year
 calculation: "Sum of space-heating demand over a year; simulated, or estimated from heated volume × heat-loss coefficient × degree days."
 origin: student
-status: draft
+status: published
 aliases:
   - Annual operational heating energy
 challenges:

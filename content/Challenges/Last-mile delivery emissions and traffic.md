@@ -1,6 +1,6 @@
 ---
 category: Mobility
-status: draft
+status: published
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"

@@ -3,7 +3,7 @@ category: Logistics operations
 unit: trucks/hour
 calculation: Trucks handled per hour (or day), counted in a simulation or from operational data.
 origin: student
-status: draft
+status: published
 aliases:
   - Internal traffic circulation throughput
   - Truck flow-through rate

@@ -7,7 +7,7 @@ studio: AD4
 year: 2026
 location: "Not named; example brownfield/industrial site between a residential district and a greenfield (site map p. 10, approx. 300 m walk from housing)"
 typology: Temporary modular (relocatable) storage warehouse combined with public space
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"

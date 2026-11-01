@@ -3,7 +3,7 @@ category: Safety
 unit: "count (or % separated routes)"
 calculation: "Number of points where pedestrian routes cross truck or van routes, counted on the site plan; or share of routes that are fully separated."
 origin: student
-status: draft
+status: published
 aliases:
   - Pedestrian–truck crossing points
   - Pedestrian–vehicle traffic intersections

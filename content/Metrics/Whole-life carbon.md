@@ -4,7 +4,7 @@ unit: tCO2e/year (annualised)
 calculation: "(Embodied carbon + operational carbon over the reference period) ÷ number of years."
 origin: adapted
 standard: EN 15978
-status: draft
+status: published
 aliases:
   - Annualised life-cycle carbon
 challenges:

@@ -3,7 +3,7 @@ category: Logistics operations
 unit: time or effort to reconfigure
 calculation: "Time (or cost) to reconfigure, extend or relocate the building or its partitions; checked against module dimensions and connections."
 origin: student
-status: draft
+status: published
 aliases:
   - Flexibility and expandability
   - Partition reconfiguration time

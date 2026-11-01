@@ -1,6 +1,6 @@
 ---
 category: Safety
-status: draft
+status: published
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Eva Kažukolovaitė]]"

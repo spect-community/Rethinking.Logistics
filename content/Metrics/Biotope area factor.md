@@ -4,7 +4,7 @@ unit: index 0–1
 calculation: "Σ(area of each surface type × its ecological weighting factor) ÷ total site area (Berlin BAF method)."
 origin: adapted
 standard: Berlin Biotope Area Factor (BAF)
-status: draft
+status: published
 aliases:
   - BAF
 challenges:

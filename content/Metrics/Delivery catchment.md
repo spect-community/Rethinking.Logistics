@@ -3,7 +3,7 @@ category: Location
 unit: km or minutes
 calculation: "Radius (distance or travel time) a hub can serve with a given vehicle; number of hubs needed to cover a city."
 origin: adapted
-status: draft
+status: published
 aliases:
   - Microhub delivery radius and time
   - Number of microhubs for city coverage

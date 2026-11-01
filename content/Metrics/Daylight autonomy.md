@@ -4,7 +4,7 @@ unit: "% of occupied hours"
 calculation: Share of occupied hours in which a point reaches a target illuminance (e.g. 300 lux) from daylight alone, simulated with Radiance-based tools.
 origin: standard
 standard: DA300 / EN 17037
-status: draft
+status: published
 aliases:
   - Daylight comfort
   - DA

@@ -3,7 +3,7 @@ category: Comfort
 unit: "m/s and % of hours by direction"
 calculation: "Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction."
 origin: standard
-status: draft
+status: published
 aliases:
   - Prevailing wind speed and direction
   - Site wind speed

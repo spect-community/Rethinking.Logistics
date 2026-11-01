@@ -3,7 +3,7 @@ category: Logistics operations
 unit: docks
 calculation: Docks needed to handle a given throughput, from queueing or discrete-event simulation.
 origin: student
-status: draft
+status: published
 aliases:
   - Number of docks needed for a given throughput
 challenges:

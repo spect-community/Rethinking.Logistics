@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Industrial centre (former Poldi steelworks area), Kladno, Central Bohemia, Czech Republic
 typology: hyperscale data centre campus reusing 1950s factory halls, with PV roof, heat-fed greenhouse and green-blue landscape
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"

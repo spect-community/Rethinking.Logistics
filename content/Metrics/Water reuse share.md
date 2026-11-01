@@ -3,7 +3,7 @@ category: Water
 unit: "% of demand"
 calculation: Reused rain or grey water ÷ total water demand × 100.
 origin: student
-status: draft
+status: published
 aliases:
   - Rainwater reuse potential
   - Grey water reuse

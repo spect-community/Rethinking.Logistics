@@ -3,7 +3,7 @@ category: Carbon
 unit: tCO2/year
 calculation: Vehicle-km per year for each delivery mode × emission factor of that mode (kgCO2/km).
 origin: adapted
-status: draft
+status: published
 aliases:
   - Last-mile CO2 emissions reduction
   - Reduction of delivery trips

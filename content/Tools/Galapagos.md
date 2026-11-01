@@ -4,7 +4,7 @@ category: Optimisation
 developer: David Rutten (Robert McNeel & Associates)
 url: "https://www.grasshopper3d.com/group/galapagos"
 license: included with Rhino
-status: draft
+status: published
 aliases: []
 metrics:
   - "[[Construction cost]]"

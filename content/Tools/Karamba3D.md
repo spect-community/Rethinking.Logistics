@@ -4,7 +4,7 @@ category: Structure
 developer: Karamba3D GmbH (Clemens Preisinger, Vienna)
 url: "https://karamba3d.com/"
 license: commercial
-status: draft
+status: published
 aliases:
   - Karamba
   - Karamba 3D

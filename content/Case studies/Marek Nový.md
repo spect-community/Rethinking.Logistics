@@ -7,7 +7,7 @@ studio: AD2
 year: 2026
 location: Otovice, Karlovy Vary, Czech Republic (field between the village centre, existing industrial halls and ponds)
 typology: "mixed industrial–logistics district: large warehouses, medium workshops and small shops/cafés along a public 'productive promenade'"
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

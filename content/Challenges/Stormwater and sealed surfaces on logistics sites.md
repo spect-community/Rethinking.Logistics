@@ -1,6 +1,6 @@
 ---
 category: Water
-status: draft
+status: published
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Aycha Chambashala]]"

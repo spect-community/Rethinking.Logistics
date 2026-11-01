@@ -4,7 +4,7 @@ category: Urban & district energy
 developer: "nPro Energy GmbH (Aachen, Germany; RWTH Aachen spin-off)"
 url: "https://www.npro.energy/"
 license: commercial
-status: draft
+status: published
 aliases:
   - nPro Energy
   - nPro district energy planning tool

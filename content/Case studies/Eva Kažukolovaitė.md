@@ -7,7 +7,7 @@ studio: AD4
 year: 2026
 location: Anděl Cycle Depot, under the road bridge near Anděl / Nový Smíchov, Prague 5 (Smíchov)
 typology: urban last-mile cargo-bike micro-hub (cross-dock pavilion of modular timber units) with worker facilities, parcel lockers and public edge
-status: verified
+status: published
 aliases: []
 challenges:
   - "[[Urban integration of logistics buildings]]"

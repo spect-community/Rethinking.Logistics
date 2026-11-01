@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: "Henning Larsen with EK – Business Academy Copenhagen and CHEVRANT; supported by Ramboll Foundation and Speckle"
 url: "https://www.opendetail.org/"
 license: open-source
-status: draft
+status: published
 aliases:
   - Open Detail
 metrics: []

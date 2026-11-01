@@ -3,7 +3,7 @@ category: Economy
 unit: "% / % over 30 years"
 calculation: Investment cost vs. sum of operating costs over a 30-year life (undiscounted or as net present value).
 origin: student
-status: draft
+status: published
 aliases:
   - CapEx/OpEx ratio
   - "30-year life-cycle cost split"

@@ -1,6 +1,6 @@
 ---
 category: Energy
-status: draft
+status: published
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Ilinca Maria Baciu]]"

@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: "One Click LCA Ltd (Finland; formerly Bionova Ltd)"
 url: "https://www.oneclicklca.com/"
 license: commercial
-status: draft
+status: published
 aliases:
   - OneClickLCA
   - One Click LCA Ltd

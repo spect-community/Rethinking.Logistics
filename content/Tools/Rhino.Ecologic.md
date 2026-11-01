@@ -4,7 +4,7 @@ category: Ecology & landscape
 developer: "R&D McNeel Europe (Verena Vogler, Eleftherios Kourkopoulos, Luis Fraguada) with ecologist Jens Joschinski; research partners University of Angers BiodivAG lab (Anne Mimet) and Studio Animal-Aided Design"
 url: "http://rhinoecologic.com/ (domain did not resolve when checked 2026-10)"
 license: free
-status: draft
+status: published
 aliases:
   - "RHINO.ECOLOGIC®"
   - Rhino Ecologic

@@ -3,7 +3,7 @@ category: Social
 unit: m²/person
 calculation: Accessible green space ÷ expected daily users or visitors.
 origin: student
-status: draft
+status: published
 aliases:
   - Green space per capita
 challenges:

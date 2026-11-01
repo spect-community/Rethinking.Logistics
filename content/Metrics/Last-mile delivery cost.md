@@ -3,7 +3,7 @@ category: Economy
 unit: "EUR/delivery or % change"
 calculation: Total cost of the final delivery step ÷ number of deliveries.
 origin: adapted
-status: draft
+status: published
 aliases:
   - Supply chain cost reduction
 challenges:

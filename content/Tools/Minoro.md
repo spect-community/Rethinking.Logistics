@@ -4,7 +4,7 @@ category: Life-cycle & carbon
 developer: Grimshaw Architects with the World Business Council for Sustainable Development (WBCSD)
 url: "https://www.minoro.org/"
 license: free
-status: draft
+status: published
 aliases:
   - minoro.org
 metrics: []

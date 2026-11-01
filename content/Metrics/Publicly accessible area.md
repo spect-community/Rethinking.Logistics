@@ -3,7 +3,7 @@ category: Social
 unit: "m² or % of site"
 calculation: Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area.
 origin: student
-status: draft
+status: published
 aliases:
   - Publicly accessible community space
   - Public space coverage

@@ -4,7 +4,7 @@ unit: "ratio (≥ 1.0)"
 calculation: Total facility energy ÷ energy used by the IT equipment. 1.0 would mean zero overhead for cooling and power distribution.
 origin: standard
 standard: The Green Grid / ISO/IEC 30134-2
-status: draft
+status: published
 aliases:
   - PUE
   - Computing per watt

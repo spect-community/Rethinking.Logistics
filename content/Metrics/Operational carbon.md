@@ -3,7 +3,7 @@ category: Carbon
 unit: "kgCO2e/m²·year"
 calculation: Annual energy use per energy carrier × emission factor of that carrier (e.g. grid kgCO2e/kWh).
 origin: standard
-status: draft
+status: published
 aliases:
   - Operational carbon intensity
   - Operational CO2 emissions

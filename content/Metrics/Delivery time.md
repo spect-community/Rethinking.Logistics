@@ -3,7 +3,7 @@ category: Logistics operations
 unit: hours/minutes
 calculation: "Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain."
 origin: adapted
-status: draft
+status: published
 aliases:
   - End-to-end cycle time reduction
   - Cycle time

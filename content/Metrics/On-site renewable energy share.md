@@ -3,7 +3,7 @@ category: Energy
 unit: "% of demand"
 calculation: On-site renewable generation ÷ total annual energy demand × 100.
 origin: student
-status: draft
+status: published
 aliases:
   - Solar share of hub energy demand
   - PV energy offset

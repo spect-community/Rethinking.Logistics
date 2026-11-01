@@ -3,7 +3,7 @@ category: Economy
 unit: CZK/kWh or EUR/kWh
 calculation: Business electricity tariff at the project location, including grid fees.
 origin: standard
-status: draft
+status: published
 aliases: []
 challenges:
   - "[[Operational energy and on-site renewables]]"

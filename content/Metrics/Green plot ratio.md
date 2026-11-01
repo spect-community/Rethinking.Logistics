@@ -3,7 +3,7 @@ category: Biodiversity
 unit: index
 calculation: Total leaf area (leaf area index × planted area) ÷ site area.
 origin: adapted
-status: draft
+status: published
 aliases:
   - GPR
 challenges:

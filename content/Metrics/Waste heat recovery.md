@@ -3,7 +3,7 @@ category: Energy
 unit: MWh/year
 calculation: "Heat produced by IT or process load × recoverable share (e.g. 80 %), compared with the heat demand of nearby users."
 origin: student
-status: draft
+status: published
 aliases:
   - Recoverable heat
   - Data centre heat production

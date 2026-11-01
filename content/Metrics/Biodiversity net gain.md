@@ -4,7 +4,7 @@ unit: "% change in biodiversity units"
 calculation: "(Post-development biodiversity units − baseline units) ÷ baseline × 100, where units = habitat area × distinctiveness × condition (e.g. the UK statutory metric)."
 origin: adapted
 standard: UK Biodiversity Net Gain metric
-status: draft
+status: published
 aliases:
   - BNG
   - Biodiversity gain

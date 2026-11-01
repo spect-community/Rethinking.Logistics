@@ -4,7 +4,7 @@ category: Climate & solar analysis
 developer: Foster + Partners (Applied Research + Development group)
 url: "https://cyclops.fosterandpartners.com/"
 license: free
-status: draft
+status: published
 aliases:
   - Cyclops (Foster + Partners)
 metrics:

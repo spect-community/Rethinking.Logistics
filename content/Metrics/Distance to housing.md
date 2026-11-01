@@ -3,7 +3,7 @@ category: Location
 unit: "m or % of program beyond buffer"
 calculation: "Distance from noisy or hazardous logistics functions to the nearest residential building; or share of such functions outside a buffer zone."
 origin: student
-status: draft
+status: published
 aliases:
   - Distance buffer index
   - Walking distance from residential area

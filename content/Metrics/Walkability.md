@@ -4,7 +4,7 @@ unit: score
 calculation: Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance.
 origin: adapted
 standard: Walk Score
-status: draft
+status: published
 aliases:
   - Walkability index
   - Walkability score

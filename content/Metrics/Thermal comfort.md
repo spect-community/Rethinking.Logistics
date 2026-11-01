@@ -4,7 +4,7 @@ unit: "PMV / UTCI / % in comfort zone"
 calculation: "Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data."
 origin: standard
 standard: EN 16798 / ASHRAE 55
-status: draft
+status: published
 aliases:
   - Thermal comfort satisfaction
   - PMV

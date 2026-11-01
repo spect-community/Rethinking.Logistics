@@ -4,7 +4,7 @@ category: Data & mapping
 developer: Prague Institute of Planning and Development (IPR Praha)
 url: "https://geoportalpraha.cz/"
 license: free
-status: draft
+status: published
 aliases: []
 metrics:
   - "[[Distance to housing]]"

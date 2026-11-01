@@ -3,7 +3,7 @@ category: Biodiversity
 unit: number of species
 calculation: Count of native plant (or animal) species supported on site, from planting plan or survey.
 origin: student
-status: draft
+status: published
 aliases:
   - Native species count
   - Native plant species richness

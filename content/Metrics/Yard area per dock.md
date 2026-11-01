@@ -3,7 +3,7 @@ category: Logistics operations
 unit: "m²/dock (or % of site)"
 calculation: "Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis."
 origin: student
-status: draft
+status: published
 aliases:
   - Paved area per dock
   - Area per dock

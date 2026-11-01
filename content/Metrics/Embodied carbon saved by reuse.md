@@ -3,7 +3,7 @@ category: Carbon
 unit: tCO2e
 calculation: "Embodied carbon of an equivalent new building − embodied carbon of the retrofit (reused structure counted as zero or reduced)."
 origin: adapted
-status: draft
+status: published
 aliases:
   - Embodied carbon saved through building reuse
   - Embodied carbon renovation vs demolition

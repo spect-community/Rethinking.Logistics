@@ -3,7 +3,7 @@ category: Carbon
 unit: "PDF·m²·year"
 calculation: Life-cycle impact on species loss caused by material extraction and production (potentially disappeared fraction of species), calculated in LCA software.
 origin: adapted
-status: draft
+status: published
 aliases:
   - Biodiversity stress
   - Potentially disappeared fraction of species
