@@ -113,7 +113,8 @@ for (const n of kb.notes) {
     // frontmatter for Quartz: drop relation fields, add tags
     for (const k of Object.keys(d)) if (k.startsWith("auto_")) delete d[k]
     for (const r of schema.relations) if (r.from === n.type) delete d[r.field]
-    const tags = new Set(asList(d.tags).map(String))
+    // todo/… tags are working notes for editors, not shown on the site
+    const tags = new Set(asList(d.tags).map(String).filter((t) => !t.startsWith("todo/")))
     tags.add(`type/${n.type}`)
     for (const c of asList(d.category)) tags.add(`category/${slugTag(c)}`)
     for (const p of asList(d.platform)) if (n.type === "tool") tags.add(`platform/${slugTag(p)}`)
