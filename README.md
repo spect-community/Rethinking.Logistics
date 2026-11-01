@@ -1,4 +1,4 @@
-# Rethinking Logistics
+# Rethinking.Logistics
 
 **Evidence-based design in logistics architecture.** A knowledge base that links design **challenges** to the **metrics** that inform decisions, the **tools** that calculate them, and **case studies** — student projects from the *Rethinking.Logistics* studio at ARCHIP Prague (2026).
 
