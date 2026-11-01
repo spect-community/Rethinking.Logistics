@@ -8,7 +8,7 @@ How to use this plan: this file holds what applies to **every** phase. Each phas
 
 | # | Phase | File | Status |
 | --- | --- | --- | --- |
-| 0 | Repository consistency | [plans/phase-0-consistency.md](plans/phase-0-consistency.md) | todo |
+| 0 | Repository consistency | [plans/phase-0-consistency.md](plans/phase-0-consistency.md) | done |
 | 1 | Schema extension | [plans/phase-1-schema.md](plans/phase-1-schema.md) | todo |
 | 2 | Ingest sources and insights | [plans/phase-2-ingest.md](plans/phase-2-ingest.md) | todo |
 | 3 | Curation (in batches) | [plans/phase-3-curation.md](plans/phase-3-curation.md) | todo |
@@ -56,4 +56,4 @@ Publish the knowledge base as a **finished Edition 1.0** (our work is done) in w
 
 ## Log
 
-- (date) — phase N done: one-line summary
+- 2026-11-01 — phase 0 done: portfolios public and renamed to case study names (PDF linked via `portfolio_pdf`, not shown on site), CC BY 4.0 + MIT licence, draft banner removed, `.smart-env` untracked.
