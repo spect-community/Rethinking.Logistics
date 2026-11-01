@@ -2,7 +2,7 @@
 student: Julia Kopác
 project: Bridging Logistics
 portfolio: https://heyzine.com/flip-book/b92ed2a571.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Kopac_Julia_Portfolio.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Julia%20Kop%C3%A1c.pdf"
 studio: AD4 (Kurilla - Prokop Studio)
 year: 2026
 location: Business Park Zličín, Prague (main site); also applied to CTPark Prague Airport, CTPark Prague North and Caravan Metropol, Klíčany-Vodochody

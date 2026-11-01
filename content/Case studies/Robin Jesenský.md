@@ -2,7 +2,7 @@
 student: Robin Jesenský
 project: Hybrid Cooling Data Center – Hybrid Air & Liquid Efficiency Cooling Structure (HALECS)
 portfolio: "https://heyzine.com/flip-book/6872a7e156.html"
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Jesensky%20RobinHybrid%20Cooling%20Data%20Center3_1.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Robin%20Jesensk%C3%BD.pdf"
 studio: ARCHIP Year 1 – Semester 2 (AD level not stated)
 year: 2026
 location: Grindavík, Reykjanes peninsula, Iceland (wind data from Keflavík International Airport)

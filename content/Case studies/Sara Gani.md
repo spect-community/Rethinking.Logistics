@@ -2,7 +2,7 @@
 student: Sara Gani
 project: Infrastructure as Landscape, Where Logistics Meets Life (portfolio itself is titled only 'Portfolio')
 portfolio: https://heyzine.com/flip-book/056b2f6905.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Gani_Sara_portfolio.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Sara%20Gani.pdf"
 studio: AD2
 year: 2026
 location: "Pivoňská, Praha 14 (Černý Most area), Prague; case-study site: Wakestone Logistics, Tuchoměřice–Středokluky near Prague Airport / R7"

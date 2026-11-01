@@ -2,7 +2,7 @@
 student: Khrystyna Verbitska
 project: Urban Logistic Hub
 portfolio: "https://heyzine.com/flip-book/c97c8fb64f.html"
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Verbitska_AD4_portfolio.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Khrystyna%20Verbitska.pdf"
 studio: AD4
 year: 2026
 location: Prague 11 – Háje, Prague (former industrial / abandoned building next to a housing estate)

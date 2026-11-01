@@ -2,7 +2,7 @@
 student: Julia Godard Lombard
 project: Phantom Data Center
 portfolio: https://heyzine.com/flip-book/c6fc2ceefc.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Godard-lombard_Julia_portfolio.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Julia%20Godard%20Lombard.pdf"
 studio: AD6 (Studio Kurilla-Prokop), bachelor thesis, summer semester 2025-26
 year: 2026
 location: Desfourský Palace, Na Florenci 21a, Nové Město (Florenc), Prague

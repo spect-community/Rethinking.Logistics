@@ -2,7 +2,7 @@
 student: Elsa Hauksdottir
 project: Elastic logistics
 portfolio: "https://heyzine.com/flip-book/b21c6d13e1.html"
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Elsa.AD2.Elastic%20logistics.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Elsa%20Hauksdottir.pdf"
 studio: AD2
 year: 2026
 location: Breiðholt, Reykjavík, Iceland (redesign of the 'Græna gímaldið' / 'Green Monstrosity' warehouse)

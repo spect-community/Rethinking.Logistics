@@ -2,7 +2,7 @@
 student: Eva Kažukolovaitė
 project: portfolio – Rethinking Logistics (untitled; reconsideration of the Anděl Cycle Depot micro-hub as a modular timber pavilion)
 portfolio: https://heyzine.com/flip-book/e483d16c05.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/EvaKazukolovaiteAD4_Portfolio.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Eva%20Ka%C5%BEukolovait%C4%97.pdf"
 studio: AD4
 year: 2026
 location: Anděl Cycle Depot, under the road bridge near Anděl / Nový Smíchov, Prague 5 (Smíchov)

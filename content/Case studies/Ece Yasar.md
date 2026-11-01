@@ -2,7 +2,7 @@
 student: Ece Yasar
 project: Rethinking Logistics – Walther cross-dock, Kitzingen (green roof bridge / wildlife corridor)
 portfolio: https://heyzine.com/flip-book/f5cce4a20c.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/YASAR_Ece_Portfolio_1.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Ece%20Yasar.pdf"
 studio: AD2
 year: 2026
 location: Walther cross-dock facility, Kitzingen (Bavaria), Germany – on the Würzburg corridor, between two forest patches

@@ -2,7 +2,7 @@
 student: Natalie Žižková
 project: "Invisible Logistics (strategy: CCC / 3C Method – Conceal, Connect, Coexist)"
 portfolio: https://heyzine.com/flip-book/9a59dbf685.html
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Natalie_%C5%BDi%C5%BEkov%C3%A1_Portfolio_1.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Natalie%20%C5%BDi%C5%BEkov%C3%A1.pdf"
 studio: AD2 (Architectural Design 2)
 year: 2026
 location: McKenna Logistics, 1260 Lakeshore Rd E, Lakeview Village, Mississauga, Ontario, Canada

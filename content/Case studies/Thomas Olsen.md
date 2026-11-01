@@ -2,7 +2,7 @@
 student: Thomas Olsen
 project: The Reincarnation of Logistics – Adaptive Reuse for Urban Last-Mile Distribution
 portfolio: "https://heyzine.com/flip-book/3fb738d9a8.html"
-portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Olsen_Thomas_Portfolio_1.pdf"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Thomas%20Olsen.pdf"
 studio: AD2
 year: 2026
 location: Post-industrial district of Prague 9 (abandoned industrial building between railway and main tram street), Prague
