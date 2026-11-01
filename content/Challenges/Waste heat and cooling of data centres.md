@@ -27,7 +27,8 @@ auto_metrics:
   - "[[Waste heat recovery]]"
   - "[[Water consumption]]"
   - "[[Wind conditions]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

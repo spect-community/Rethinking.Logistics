@@ -98,7 +98,11 @@ auto_metrics:
   - "[[Social cost of carbon]]"
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

@@ -21,6 +21,7 @@ auto_metrics:
   - "[[Urban heat island effect]]"
   - "[[Wind conditions]]"
 auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Butterfly]]"

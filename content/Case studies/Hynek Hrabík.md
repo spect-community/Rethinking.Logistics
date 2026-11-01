@@ -32,7 +32,8 @@ tools:
   - "[[Kangaroo]]"
   - "[[Grasshopper]]"
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009102125.png]]
 ## Project

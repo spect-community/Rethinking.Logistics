@@ -24,6 +24,8 @@ auto_insights:
   - "[[Don't dig down vs biodiversity]]"
   - "[[Traffic engineers are expert space-consumers]]"
 auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"

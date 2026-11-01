@@ -50,7 +50,9 @@ auto_insights:
   - "[[The right answer is three materials, not one]]"
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Timber, brick and light concrete came out near-identical]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

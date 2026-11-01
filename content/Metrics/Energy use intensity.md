@@ -26,7 +26,8 @@ auto_case_studies:
 auto_insights:
   - "[[Amazon 2014 vs 2022 – same floorplate, different building]]"
   - "[[Energy performance is a financing instrument]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

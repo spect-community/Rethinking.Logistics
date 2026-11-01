@@ -30,7 +30,9 @@ auto_metrics:
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"
 auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

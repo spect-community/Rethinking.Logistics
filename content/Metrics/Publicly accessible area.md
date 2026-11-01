@@ -31,7 +31,10 @@ auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Nature designed to exclude people]]"
 auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

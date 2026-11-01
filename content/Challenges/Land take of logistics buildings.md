@@ -37,6 +37,8 @@ auto_metrics:
   - "[[Throughput per site area]]"
   - "[[Yard area per dock]]"
 auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"

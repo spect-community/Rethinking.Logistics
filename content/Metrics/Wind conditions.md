@@ -16,7 +16,8 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

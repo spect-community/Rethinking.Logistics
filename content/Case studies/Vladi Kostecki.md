@@ -25,7 +25,8 @@ metrics:
   - "[[Green area ratio]]"
 tools: []
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Urban Hybrid]]"
 ---
 ![[Pasted image 20261031091124.png]]
 ## Project

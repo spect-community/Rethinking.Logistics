@@ -30,6 +30,7 @@ auto_insights:
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies:
+  - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"

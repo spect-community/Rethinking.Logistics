@@ -53,7 +53,11 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Social interaction index]]"
   - "[[Walkability]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

@@ -25,7 +25,8 @@ metrics:
 tools: []
 auto_insights:
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
 ---
 ![[Pasted image 20261009101237.png]]
 ## Project

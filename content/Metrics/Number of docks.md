@@ -13,7 +13,8 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
 auto_insights:
   - "[[Automated trucks will not change the loading dock]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

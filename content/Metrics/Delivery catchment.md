@@ -17,7 +17,8 @@ auto_case_studies:
 auto_insights:
   - "[[Carbon is decided in network design, not in the building]]"
   - "[[Hub placement decided without data]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

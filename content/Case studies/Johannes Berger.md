@@ -24,7 +24,8 @@ metrics:
 tools: []
 auto_insights:
   - "[[Going above the traffic, not through it]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009102848.png]]
 ## Project

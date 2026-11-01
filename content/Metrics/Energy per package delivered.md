@@ -11,7 +11,8 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

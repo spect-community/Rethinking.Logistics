@@ -34,6 +34,7 @@ auto_insights:
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

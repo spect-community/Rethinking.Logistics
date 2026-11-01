@@ -33,7 +33,9 @@ auto_metrics:
   - "[[Last-mile delivery emissions]]"
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

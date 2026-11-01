@@ -14,7 +14,9 @@ import path from "node:path"
 import { CONTENT, loadKB } from "./lib/kb.mjs"
 
 const kb = loadKB()
-const norm = (s) => s.replace(/(\d)[,   ](?=\d{3}\b)/g, "$1").replace(/−/g, "-")
+// Thousands separators ("1,800", "120 000") are removed, but only inside a number that
+// does not continue a word — "P1 225 m" stays "P1 225", not "1225".
+const norm = (s) => s.replace(/(?<![\p{L}\d.])(\d{1,3}(?:[,   ]\d{3})+)(?!\d)/gu, (m) => m.replace(/[,   ]/g, "")).replace(/−/g, "-")
 const textOf = new Map()
 const noteText = (name) => {
   if (textOf.has(name)) return textOf.get(name)

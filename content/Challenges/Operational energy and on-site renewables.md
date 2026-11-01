@@ -49,7 +49,9 @@ auto_metrics:
   - "[[Operational carbon]]"
   - "[[Rooftop PV generation]]"
   - "[[Whole-life carbon]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[CO2mpare]]"

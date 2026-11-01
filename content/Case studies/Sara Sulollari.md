@@ -25,7 +25,8 @@ tools:
   - "[[Grasshopper]]"
   - "[[Ladybug]]"
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
 ---
 ![[Pasted image 20261009101110.png]]
 ## Project

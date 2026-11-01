@@ -31,7 +31,9 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
 auto_strategies:
+  - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

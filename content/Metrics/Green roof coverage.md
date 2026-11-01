@@ -24,6 +24,7 @@ auto_insights:
   - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

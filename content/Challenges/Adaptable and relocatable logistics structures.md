@@ -31,7 +31,8 @@ auto_metrics:
   - "[[Construction cost]]"
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

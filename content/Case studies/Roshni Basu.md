@@ -24,7 +24,8 @@ tools:
   - "[[Grasshopper]]"
 auto_insights:
   - "[[Hub placement decided without data]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

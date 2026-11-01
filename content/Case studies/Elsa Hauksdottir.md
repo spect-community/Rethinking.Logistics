@@ -30,7 +30,8 @@ tools: []
 auto_insights:
   - "[[Flexibility is time, not just hardware]]"
   - "[[Grey space – buildings sized for Black Friday]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
 ---
 ![[Pasted image 20261031080333.png]]
 ## Project

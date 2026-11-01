@@ -28,7 +28,8 @@ auto_insights:
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Energy Symbiosis]]"
 ---
 ![[Pasted image 20261031082008.png]]
 ## Project
