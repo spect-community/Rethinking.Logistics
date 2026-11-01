@@ -2,6 +2,7 @@
 student: Hynek Hrabík
 project: Flow-through logistics
 portfolio: https://scanned.page/n5qCOH
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/portfolio_2026_hynek_hrabik_v1.0%20(1).pdf"
 studio: AD2
 year: 2026
 location: PPL central parcel hub, Hradec Králové, Czech Republic (as labelled in the portfolio; the questionnaire names PPL in Pardubice)

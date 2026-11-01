@@ -2,6 +2,7 @@
 student: Sara Sulollari
 project: Wind Rós
 portfolio: https://heyzine.com/flip-book/a7dde90411.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Sara%20Sulollari%2C%20Portfolio%2C%20AD4%20Wind%20R%C3%B3s%202026.pdf"
 studio: AD4
 year: 2026
 location: Eimskip site, Sundabakki 2, Sundahöfn harbour, Reykjavík, Iceland

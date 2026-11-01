@@ -2,6 +2,7 @@
 student: Vladi Kostecki
 project: "portfolio – AD2 | Rethinking Logistics (no separate project title given)"
 portfolio: "https://heyzine.com/flip-book/6aa82ff770.html"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Vladi%20AD2%20Portfolio_1.pdf"
 studio: AD2
 year: 2026
 location: Brownfield / former industrial plant in the centre of Prague 9, between residential clusters and a green ecological corridor along the stream, Prague

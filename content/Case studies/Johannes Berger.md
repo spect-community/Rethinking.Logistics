@@ -2,6 +2,7 @@
 student: Johannes Berger
 project: "Not titled; sections 'The problem with trucks', 'Drones: the solution' and 'Old vs. new crossdock' (research question in questionnaire: 'What if there were no trucks?')"
 portfolio: https://heyzine.com/flip-book/36c8679dd2.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/JOHANNES_BERGER_AD2_SUBMISSION_PORTFOLIO.pdf"
 studio: AD2
 year: 2026
 location: Not stated in portfolio; questionnaire names case studies DHL Poznań (Poland) and Tracker AS (Norway)

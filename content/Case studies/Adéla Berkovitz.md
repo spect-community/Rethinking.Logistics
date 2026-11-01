@@ -2,6 +2,7 @@
 student: Adéla Berkovitz
 project: "Not titled; redesign of a lithium-ion battery pre-processing / light-processing recycling facility (sections: research, project context, concept proposal, epilogue)"
 portfolio: https://heyzine.com/flip-book/ee1fbb2642.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Berkovitz%20Adela%20AD2%20portfolio.pdf"
 studio: AD2
 year: 2026
 location: Pragometal recycling facility site, southern urban fringe of Česká Lípa, Czech Republic

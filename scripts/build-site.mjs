@@ -52,7 +52,7 @@ const fmt = (v) =>
     .map((x) => (typeof x === "string" && /^https?:\/\//.test(x) ? `[${x.replace(/^https?:\/\//, "").replace(/\/$/, "").slice(0, 60)}](${x})` : String(x)))
     .join(", ")
     .replace(/\|/g, "\\|")
-const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status" }
+const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", portfolio_pdf: "Portfolio (PDF)", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status" }
 
 let count = 0
 for (const n of kb.notes) {
@@ -70,7 +70,10 @@ for (const n of kb.notes) {
     let top = `> [!info] ${def.label}${d.status ? ` · ${d.status}` : ""}\n> ${def.description}\n\n`
     if (rows.length) top += `| | |\n| --- | --- |\n${rows.join("\n")}\n\n`
     if (aliases.length) top += `*Also known as:* ${aliases.join(" · ")}\n\n`
-    if (n.type === "case-study" && d.portfolio) top += `**[📖 Open the portfolio](${d.portfolio})**\n\n`
+    if (n.type === "case-study") {
+      const links = [d.portfolio && `**[📖 Open the portfolio](${d.portfolio})**`, d.portfolio_pdf && `**[📄 Download the PDF](${d.portfolio_pdf})**`].filter(Boolean)
+      if (links.length) top += `${links.join(" · ")}\n\n`
+    }
 
     // connections, both directions
     const lines = []

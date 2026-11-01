@@ -2,6 +2,7 @@
 student: Adam Večeřa
 project: Regenerative.Logistics – Consumer-integrated storage and distribution warehouse, IKEA Černý Most, Praha 14
 portfolio: https://heyzine.com/flip-book/6cdeb96148.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Vecera_Adam_RegenerativeLogistics_Final_Portfolio.pdf"
 studio: Kurilla – Prokop atelier (ARCHIP, summer semester 2025–26); AD level not stated
 year: 2026
 location: IKEA Černý Most, Chlumecká 664/10, Praha 14, Prague, Czech Republic – between Černý Most housing, the D10 highway and the Rokytka valley

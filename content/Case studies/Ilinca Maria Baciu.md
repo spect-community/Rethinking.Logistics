@@ -2,6 +2,7 @@
 student: Ilinca Maria Baciu
 project: Logistics at the Urban Edge
 portfolio: "https://heyzine.com/flip-book/443acf12f9.html"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Baciu_Ilinca_Portfolio.pdf"
 studio: AD6 (Kurilla-Prokop studio), Bachelor Diploma Project
 year: 2026
 location: Hostivice industrial zone, western edge of Prague (Czech Republic)

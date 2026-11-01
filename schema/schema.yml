@@ -38,7 +38,7 @@ types:
     label: Case study
     plural: Case studies
     description: A student project from the Rethinking.Logistics studio showing how tools deliver metrics for decisions.
-    fields: [student, project, portfolio, studio, year, location, typology, status, aliases]
+    fields: [student, project, portfolio, portfolio_pdf, studio, year, location, typology, status, aliases]
 
 # Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
 relations:

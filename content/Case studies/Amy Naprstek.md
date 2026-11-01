@@ -2,6 +2,7 @@
 student: Amy Naprstek
 project: Nomadic Logistics
 portfolio: "https://heyzine.com/flip-book/83615b1515.html"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Naprstek_Portfolio.pdf"
 studio: AD4
 year: 2026
 location: "Not named; example brownfield/industrial site between a residential district and a greenfield (site map p. 10, approx. 300 m walk from housing)"

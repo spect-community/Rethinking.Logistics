@@ -2,6 +2,7 @@
 student: "{{title}}"
 project: ""
 portfolio: ""
+portfolio_pdf: ""
 studio: ""
 year: 2026
 location: ""

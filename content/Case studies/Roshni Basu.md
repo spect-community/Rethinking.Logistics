@@ -2,6 +2,7 @@
 student: Roshni Basu
 project: The Urban PlugIn
 portfolio: https://heyzine.com/flip-book/c8d3453076.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/PORTFOLIO_RETHINKING%20LOGISTICS_ROSHNI%20BASU.pdf"
 studio: Kurilla-Prokop
 year: 2026
 location: Prague, Czech Republic – city-wide network of 12 microhubs; design integration shown at Jan Palach Square (compact historic centre) and in a panelák housing estate

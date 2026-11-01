@@ -2,6 +2,7 @@
 student: Katrin Rybinskiy
 project: Reintroducing Data Centers
 portfolio: "https://heyzine.com/flip-book/a16fd6b460.html"
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/portfolio%20AD2_KATRINRYBINSKIY.pdf"
 studio: AD2
 year: 2026
 location: Industrial centre (former Poldi steelworks area), Kladno, Central Bohemia, Czech Republic

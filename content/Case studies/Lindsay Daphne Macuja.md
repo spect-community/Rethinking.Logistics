@@ -2,6 +2,7 @@
 student: Lindsay Daphne Macuja
 project: Humanizing Logistics
 portfolio: https://heyzine.com/flip-book/1c11e500f0.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Macuja_LindsayDaphne_Portfolio_1.pdf"
 studio: AD2 (Architectural Design 2)
 year: 2026
 location: Strojírenská 175/25, 155 21 Zličín, Prague, Czech Republic

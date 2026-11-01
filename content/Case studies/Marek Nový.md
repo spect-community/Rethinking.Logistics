@@ -2,6 +2,7 @@
 student: Marek Nový
 project: Visible Industry
 portfolio: https://heyzine.com/flip-book/480d6152b8.html
+portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Nov%C3%BD_Marek_portfolio_1.pdf"
 studio: AD2
 year: 2026
 location: Otovice, Karlovy Vary, Czech Republic (field between the village centre, existing industrial halls and ponds)
