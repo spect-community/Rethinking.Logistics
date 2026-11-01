@@ -2,13 +2,15 @@
 
 **Evidence-based design in logistics architecture.** A knowledge base that links design **challenges** to the **metrics** that inform decisions, the **tools** that calculate them, and **case studies** — student projects from the *Rethinking.Logistics* studio at ARCHIP Prague (2026).
 
+**Edition 1.0** — the knowledge base is complete and open for expert review: every statement carries its evidence status, and experts are invited to confirm or correct it.
+
 ```
 Case study ──uses──▶ Tool ──calculates──▶ Metric ──informs decisions on──▶ Challenge
 ```
 
 - **Authoring:** Obsidian — open the `content/` folder as a vault.
 - **Website:** Quartz static site on GitHub Pages at <https://logistics.spect.cz>, rebuilt on every push. Project page: <https://spect.cz/projects/rethinking-logistics/>.
-- **Repository:** private, in the [SPECT Community](https://github.com/spect-community) organisation.
+- **Repository:** public, in the [SPECT Community](https://github.com/spect-community) organisation.
 - **Contributions:** members use GitHub issue forms → review → automatic pull request. The public website links to e-mail (`contactUrl` in `site.config.json`).
 
 ## Simple by design
@@ -34,7 +36,7 @@ schema/schema.yml   note types, their properties and relations
 scripts/            sync.mjs · validate.mjs · generate-overviews.mjs · build-site.mjs · issue-to-note.mjs
 site/               Quartz configuration, layout and styles
 .github/            issue forms and workflows
-portfolios/         student PDFs — kept in this private repository, never published on the website
+portfolios/         public archive of student portfolios (PDF), published with the students' consent
 ```
 
 ## Working locally
@@ -64,4 +66,4 @@ One-time repository settings:
 
 ## Licence
 
-To be decided — see `LICENSE.md`. Portfolios remain the work of their authors and are linked, not copied.
+Content (`content/`, `portfolios/`) is licensed under **CC BY 4.0**; code (`scripts/`, `site/`, `schema/`, `.github/`) under **MIT**. Student work and posters remain © their authors and are published with their consent. See `LICENSE.md`.

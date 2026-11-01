@@ -1,6 +1,6 @@
-# Review notes (private — not published)
+# Review notes
 
-Notes from reading the portfolios. This file is in `portfolios/`, which is excluded from Git and the website.
+Notes from reading the portfolios.
 
 ## Names
 
