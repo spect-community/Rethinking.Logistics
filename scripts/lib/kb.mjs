@@ -117,18 +117,24 @@ export function computeAuto(kb) {
       }
     }
   }
+  // Derived relations: follow each path step by step. A step is an auto_ field
+  // (computed above) or a field people type (resolved links).
+  const stepNames = (c, step) => (step.startsWith("auto_") ? auto.get(c)?.[step] ?? [] : (c.links[step] ?? []).map((l) => l.note?.name).filter(Boolean))
   for (const d of schema.derived ?? []) {
+    const paths = d.paths ?? [d.path]
     for (const n of notes.filter((x) => x.type === d.on)) {
-      let current = [n]
-      for (const step of d.path) {
-        const next = []
-        for (const c of current) for (const name of auto.get(c)[step] ?? []) {
-          const t = kb.find(name)
-          if (t && !next.includes(t)) next.push(t)
+      for (const p of paths) {
+        let current = [n]
+        for (const step of p) {
+          const next = []
+          for (const c of current) for (const name of stepNames(c, step)) {
+            const t = kb.find(name)
+            if (t && !next.includes(t)) next.push(t)
+          }
+          current = next
         }
-        current = next
+        for (const t of current) add(n, d.auto, t.name)
       }
-      for (const t of current) add(n, d.auto, t.name)
     }
   }
   for (const o of auto.values()) for (const k of Object.keys(o)) o[k].sort((a, b) => a.localeCompare(b, "en", { sensitivity: "base" }))

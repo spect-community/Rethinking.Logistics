@@ -4,7 +4,7 @@ unit: ""
 calculation: ""
 origin: student
 standard: ""
-status: draft
+status: published
 aliases: []
 challenges: []
 ---

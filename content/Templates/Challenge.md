@@ -1,6 +1,6 @@
 ---
 category: ""
-status: draft
+status: published
 ---
 
 ## Challenge

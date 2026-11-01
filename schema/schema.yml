@@ -40,6 +40,32 @@ types:
     description: A student project from the Rethinking.Logistics studio showing how tools deliver metrics for decisions.
     fields: [student, project, portfolio, portfolio_pdf, studio, year, location, typology, status, aliases]
 
+  strategy:
+    folder: Strategies
+    label: Strategy
+    plural: Strategies
+    description: One of five integration approaches synthesised from the studio's student projects.
+    fields: [number, group, summary, hero_image, posters, status, aliases]
+
+  source:
+    folder: Sources
+    label: Source
+    plural: Sources
+    description: Where an insight comes from — an expert lecture, a student questionnaire, or an external publication.
+    # kind: lecture | questionnaire | publication
+    fields: [kind, speaker, affiliation, date, url, status, aliases]
+
+  insight:
+    folder: Insights
+    label: Insight
+    plural: Insights
+    description: One atomic statement made by an expert, a student or a publication, with its evidence status.
+    # source_type: expert | student | external
+    # locator: timestamp or transcript line / PDF page
+    # quote_type: paraphrase | verbatim
+    # evidence_status: open-for-review | expert-reviewed | disputed
+    fields: [statement, source_type, locator, quote_type, evidence_status, confidence, reviewed_by, aliases]
+
 # Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
 relations:
   - from: case-study
@@ -72,10 +98,61 @@ relations:
     auto: auto_metrics
     label: Informs decisions on
     auto_label: Metrics
+  - from: insight
+    field: source
+    to: source
+    auto: auto_insights
+    label: Source
+    auto_label: Insights
+  - from: insight
+    field: challenges
+    to: challenge
+    auto: auto_insights
+    label: Challenges
+    auto_label: Insights
+  - from: insight
+    field: metrics
+    to: metric
+    auto: auto_insights
+    label: Metrics
+    auto_label: Insights
+  - from: insight
+    field: case_studies
+    to: case-study
+    auto: auto_insights
+    label: Case studies
+    auto_label: Insights
+  - from: strategy
+    field: case_studies
+    to: case-study
+    auto: auto_strategies
+    label: Case studies
+    auto_label: Strategies
+  - from: strategy
+    field: challenges
+    to: challenge
+    auto: auto_strategies
+    label: Challenges addressed
+    auto_label: Strategies
+  - from: strategy
+    field: metrics
+    to: metric
+    auto: auto_strategies
+    label: Metrics
+    auto_label: Strategies
 
-# Derived (two-step) relations, also written by the sync script.
+# Derived relations, also written by the sync script.
+# `path` is a chain of steps; each step is an auto_ field or a field people type
+# (e.g. case_studies). `paths` lists several chains whose results are combined.
 derived:
   - on: challenge
     auto: auto_tools
     label: Tools (via metrics)
     path: [auto_metrics, auto_tools]
+  - on: strategy
+    auto: auto_insights
+    label: Insights (via case studies, challenges and metrics)
+    paths:
+      - [case_studies, auto_insights]
+      - [challenges, auto_insights]
+      - [metrics, auto_insights]

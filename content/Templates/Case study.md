@@ -7,7 +7,7 @@ studio: ""
 year: 2026
 location: ""
 typology: ""
-status: draft
+status: published
 challenges: []
 metrics: []
 tools: []
