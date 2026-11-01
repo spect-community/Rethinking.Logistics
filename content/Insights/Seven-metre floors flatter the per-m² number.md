@@ -4,7 +4,7 @@ source_type: expert
 locator: "~00:36 — anchor: \"you could almost double the amount of square meters\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "high"
+confidence: "check — the office-equivalent figure reads \"444.5\" in the transcript"
 reviewed_by: ""
 aliases: []
 tags:

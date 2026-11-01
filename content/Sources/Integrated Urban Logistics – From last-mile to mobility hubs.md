@@ -39,6 +39,18 @@ auto_insights:
 
 Lecture 12 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 21.4.2026.
 
+## Lecture announcement
+
+This lecture introduces EIT Urban Mobility and its mission to accelerate sustainable urban mobility solutions across Europe. EIT Urban Mobility is an initiative of the European Institute of Innovation and Technology (EIT), a body of the European Union, and Europe's largest network for mobility innovation in cities.
+
+We will explore a range of projects focused on urban logistics, highlighting innovations across key segments such as last-mile delivery, waste management, and construction logistics.
+
+Additionally, it presents enabling tools like curbside management systems and mobility hubs that support more efficient, data-driven, and sustainable urban logistics.
+
+Overall, the session connects technological innovation with urban planning strategies to address sustainability, efficiency, and resilience in cities.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Urban logistics is no longer a background activity happening behind urban planning but six overlapping systems — retail freight, food/cold chain, parcel/last-mile, construction site logistics, waste/reverse logistics and service logistics — all competing for the same scarce urban space. Using a portfolio of EIT Urban Mobility co-funded pilots (420+ pilots in 185+ cities) she shows that almost none of the innovations are stand-alone vehicles: each only works as a system of vehicle plus infrastructure plus data plus policy plus business model. Her central provocation is that attention is misallocated — last-mile parcel gets the headlines while construction logistics, ten times larger by vehicle-kilometres, remains a planning blind spot.

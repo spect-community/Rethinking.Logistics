@@ -50,6 +50,16 @@ auto_insights:
 
 Lecture 7 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 10.3.2026.
 
+## Lecture announcement
+
+As experts in the field, they present a framework where logistics sites are not mere isolated utilities, but strategically designed districts that create the interface between machines, people, and the urban setting. A central theme is a particular challenge: opening manufacturing and logistics hubs to the public and transforming them into vibrant, high-value community assets. Drawing on deep technical expertise, they address complex logistical issues, ensuring that efficiency and public life thrive within a distinct-ecosystem.
+
+By applying such principles as "Long Life, Loose Fit" principle,  they demonstrate how to create future-proof structures that prevent moral and functional obsolescence.
+
+Their strategic methodology, which was also codified in their recently published book, positions industrial and logistics design as a critical contributor to the longevity and sustainability of the modern city.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 A studio that has designed warehouses, manufacturing and logistics since 2019 argues that these are the most complex typologies in practice and the most neglected in culture, and that the real test is putting one inside a city. Two Czech case studies — a brewery in a dense urban block opening 30% of its site to the public, and a multi-storey food factory in the middle of Frýdek-Místek — are used to demonstrate vertical zoning, phasing over 50 years, design for disassembly, and the limits imposed by hygiene law and noise.

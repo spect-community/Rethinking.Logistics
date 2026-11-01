@@ -46,6 +46,14 @@ auto_insights:
 
 Lecture 3 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 20.2.2026.
 
+## Lecture announcement
+
+This session explores how neighborhoods with higher placemaking quality can generate long-term economic and social value. Moving beyond individual plots and buildings, the lecture focuses on how thoughtful urban design, human-scale planning, and strong local identity contribute to thriving, resilient communities.
+
+Through case studies from Toronto, Copenhagen, and Sweden, we will examine both new-build developments and urban transformation projects. The lecture highlights practical insights into how placemaking strategies can strengthen investment value, support local economies, and foster social cohesion over time.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 The design object has shifted from the visible plot to the invisible systems around it — microclimate, safety, nature, data, social value — and cities, not technologies, are where resilience is won. Across five projects (Downsview Toronto, Volvo Gothenburg, a Copenhagen timber district, Singapore's North-South Corridor, and Copenhagen itself) she shows that landscape and placemaking are not decoration but the drivers of mobility, carbon and, measurably, of financial return. Her closing move: the highest-value design work lies in the friction zones where systems collide — the ecotone.

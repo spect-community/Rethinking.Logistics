@@ -1,5 +1,5 @@
 ---
-statement: "The biodiversity target began as \"don't affect biodiversity negatively\" and was deliberately reformulated during the project into increasing site biodiversity, once the landscape strategy showed it was achievable."
+statement: "The biodiversity target began as \"don't affect biodiversity negatively\" and was reformulated during the project, as the landscape strategies developed, into increasing site biodiversity."
 source_type: expert
 locator: "~00:06 — anchor: \"reformulated that ambition into one which\""
 quote_type: paraphrase

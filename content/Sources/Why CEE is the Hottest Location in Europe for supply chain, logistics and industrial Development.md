@@ -48,6 +48,14 @@ auto_insights:
 
 Lecture 9 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.3.2026.
 
+## Lecture announcement
+
+The region’s location, cost efficiency, and growing pool of skilled talent are attracting major logistics and industrial investments. Automation plays a key role in this shift, enabling companies to move faster, scale smarter, and stay competitive as labour markets tighten and operational demands grow.
+
+In a world where resilience, speed, and sustainability are no longer optional, CEE offers a rare combination: strong infrastructure, adaptable industrial real estate, and a workforce ready to grow with modern logistics. It is this mix that is turning the region into a strategic advantage, not just a cost-driven alternative.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Logistics buildings land where they land because of a cold arithmetic of supply-chain cost — transport ~50%, labour 20–30%, rent only 5–10% — which means rent is the least important variable and location is king. CEE wins on rising local consumption, a rare mix of blue- and white-collar labour at low cost, EU/Schengen stability, incentives, and A-class stock that went from non-existent to Western-equal in 30 years. But the next constraint is physical and regulatory: automation demands taller warehouses that Czech master plans will not permit, so investment quietly routes to Poland.

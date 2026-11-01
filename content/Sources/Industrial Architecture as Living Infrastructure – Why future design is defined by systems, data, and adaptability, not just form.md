@@ -44,6 +44,16 @@ auto_insights:
 
 Lecture 2 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 13.2.2026.
 
+## Lecture announcement
+
+How do industrial buildings operate as long-term infrastructure rather than static objects?
+
+Pavel Sovička, Managing Director of Panattoni CZ & SK
+
+Industrial buildings shape how economies function, how goods move, and how cities grow far beyond what drawings alone can capture. In this lecture, Pavel Sovička introduces Panattoni’s approach to industrial development as living, evolving infrastructure, and explains why future architects must think in terms of systems, data, and adaptability alongside architectural form.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Industrial property should be read as *infrastructure for business*, not as buildings — and in Czechia the binding constraints are not design or carbon but the tax code, the zoning system and outdated technical norms. The through-line is a demand that permitting and sustainability debates be settled "based on numbers and hard facts" instead of emotion, including a blunt case that several green-coded regulations currently produce worse environmental outcomes than the alternatives.

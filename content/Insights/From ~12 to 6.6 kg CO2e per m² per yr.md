@@ -4,7 +4,7 @@ source_type: expert
 locator: "~00:35 — anchor: \"kilos of CO2 equivalent per\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — the baseline figure is garbled; 8.9 and 6.6 are clear"
+confidence: "check — the starting value reads \"2\" in the transcript"
 reviewed_by: ""
 aliases: []
 tags:

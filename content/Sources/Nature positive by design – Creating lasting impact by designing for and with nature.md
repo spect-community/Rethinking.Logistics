@@ -56,6 +56,12 @@ auto_insights:
 
 Lecture 6 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 06.3.2026.
 
+## Lecture announcement
+
+This lecture is not about proposing green solutions, but about reframing the question of infrastructure and logistics as a design challenge. It asks how logistics landscapes can be conceived as part of our ecological systems, co‑existing with nature rather than standing in opposition to it. By understanding logistics and infrastructure as land use, the lecture highlights their profound impact on territories, cities, and landscapes. Precisely because of their massive scale, these systems hold the potential to generate meaningful environmental and social change when nature is placed at their core.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Logistics, industry and infrastructure have been treated as engineering problems rather than design problems, and that blind spot is where designers can now make the largest ecological impact. Her method reverses the usual sequence: nature is the brief, ecological intelligence is gathered before concept, and outcomes are quantified via biodiversity net gain — but she is candid that carbon, cost and biodiversity goals genuinely conflict, and that nature is usually the line item cut last-in-first-out. The deeper reframe is hierarchical: the biosphere is not an externality to be balanced against economy and society, it is the substrate both sit on.

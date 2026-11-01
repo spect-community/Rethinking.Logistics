@@ -48,6 +48,16 @@ auto_insights:
 
 Lecture 1 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 06.2.2026.
 
+## Lecture announcement
+
+What does it take to design a logistics facility that gives back more than it takes?
+
+Simon Ingvartsen, Design Director at Henning Larsen, opens our Rethinking.Logistics lecture series with a deep dive into the BESTSELLER Logistics Center West project. He will introduce the unique challenges of large-scale logistics architecture—a building typology often overlooked by the design community—and share how his team approached sustainable design, biodiversity integration, and meaningful connection to the surrounding landscape.
+
+This lecture sets the stage for the semester-long Rethinking.Logistics Friday lecture series by Kurilla-Prokop studio at ARCHIP, offering students essential context for rethinking what industrial architecture can become.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Henning Larsen won a loosely-briefed competition for Bestseller's 155,000 m² wholesale logistics campus in Lelystad (NL) by writing the sustainability brief themselves — three "North Star" ambitions (low-carbon/biogenic materials, a workplace fair to both blue- and white-collar staff, and a landscape that *increases* biodiversity) — and holding those ambitions as design constraints through every subsequent decision. The result is a timber-and-straw big box with 35,000 m² of green façade, four designed habitats, a measured +10–11% biodiversity uplift despite losing 58% of the site to hardscape, and ~6.6 kg CO2e/m²/yr.

@@ -4,7 +4,7 @@ source_type: expert
 locator: "~00:31 — anchor: \"we did create a measure of what would the structure have cost us in carbon\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — percentage garbled in transcription"
+confidence: "check — the reduction figure is garbled in the transcript"
 reviewed_by: ""
 aliases: []
 tags:

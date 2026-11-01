@@ -40,6 +40,12 @@ auto_insights:
 
 Lecture 5 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.2.2026.
 
+## Lecture announcement
+
+The logistics market faced a series of geopolitical and economic headwinds during 2025, but managed to deliver an increase in tenant demand by the end of the year, driven by a range of occupiers. What does this tell us about the nature of demand and the medium-term outlook for logistics real estate?
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 From macro drivers down to take-up, vacancy, rents, investment volumes and yields: despite two years of headwinds the sector has returned to pre-pandemic take-up and remains structurally attractive. The key structural shift is not e-commerce — which has *fallen* — but manufacturing, the clearest available evidence of near-shoring. Looking forward he expects vacancy to fall from ~5.5% to ~4%, rents to grow ~2–2.5% a year, and unlevered prime returns of ~9% — while flagging power, land and labour (and data centres competing for all three) as the binding constraints.

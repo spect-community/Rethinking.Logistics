@@ -42,6 +42,12 @@ auto_insights:
 
 Lecture 15 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 01.5.2026.
 
+## Lecture announcement
+
+From construction site to research lab — a journey through the promises and hard limits of 3D concrete printing, and two ways architects are fighting back. Jiří was the Technical Lead behind Prvok, the Czech Republic's first 3D-printed building. His doctoral research focused on non-planar printing techniques for large-scale additive manufacturing, optimizing material efficiency and structural integrity. He is currently working on Circular Construction and In-Situ Resource Utilization — deploying 3D concrete printing in extreme environments using local resources to cut logistics costs and emissions.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Concrete 3D printing from the hype of Prvok — the printed house that had to be simplified until only two C-shaped walls were printed and the top room built in wood — through the three failure modes that ambush every printed object (stair-stepping/containment, early-age deformation, anisotropic layer bonds), to the PhD claim that the one lever architects actually hold is *design*: geometry and slicing. Non-planar slicing, with identical material, layer count and print time, holds shapes that planar slicing collapses; force-driven geometries buy structural performance from form rather than from more material or steel. The recurring honesty is that every apparent gain carries a compensating penalty.

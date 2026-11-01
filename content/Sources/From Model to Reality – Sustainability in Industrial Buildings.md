@@ -45,6 +45,12 @@ auto_insights:
 
 Lecture 10 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 10.4.2026.
 
+## Lecture announcement
+
+Industrial buildings, a typology where sustainability is truly tested under pressure from investors, regulation, and the market. This lecture examines where real limits emerge: in materials, energy, building certification, building codes, water management, biodiversity, and financing.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Energy has moved from an afterthought to the variable that shapes industrial building concepts, financing and even city relationships — and the tools for predicting it are far weaker than the decisions resting on them. Fojtík walks through where modelling holds up (flood risk, urban heat, embodied carbon in Swedish tenders) and where it collapses (tenant ramp-up curves, energy price forecasts, people flushing T-shirts into greywater systems). The next decade's fight moves from operational energy to embodied carbon — and the blocker in CEE is not technology but standards, price and municipal tax incentives.

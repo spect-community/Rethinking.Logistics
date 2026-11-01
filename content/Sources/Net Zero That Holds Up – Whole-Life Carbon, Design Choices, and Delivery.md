@@ -50,6 +50,14 @@ auto_insights:
 
 Lecture 4 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.2.2026.
 
+## Lecture announcement
+
+Paul Astle, Decarbonisation Lead for Ramboll Buildings will continue our Rethinking.Logistics lectures series with a dive into all things carbon.
+
+He will discuss the carbon intensity of materials, both conventional and emerging, and explain why the way they are used is just as critical as the materials themselves. He’ll also cover some quick rules-of-thumb for carbon assessment and focused carbon reduction.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Carbon is not a material-selection problem but a briefing and geometry problem: challenge the brief → refine the design → cut the carbon, because demand reduction is free while low-carbon materials are bought at a premium. He then dismantles the metrics designers quote at each other — floor-area definitions, EPD units, biogenic negatives, lifecycle module boundaries — to show that most carbon numbers in circulation aren't comparable, and that logistics is not one typology but a spectrum running from embodied-carbon-dominated sheds to data centres where operational energy eclipses everything.

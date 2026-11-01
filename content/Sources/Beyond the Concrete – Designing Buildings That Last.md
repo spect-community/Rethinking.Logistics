@@ -35,6 +35,14 @@ auto_insights:
 
 Lecture 17 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 05.5.2026.
 
+## Lecture announcement
+
+What makes a building a valuable asset?
+
+Structural safety is only the starting point; long-term value depends on much more. Today, buildings must also be functional, resilient and keep their value over time. Drawing on their professional experience, Jakub and Miroslav offer a business-oriented perspective on risk management. Managing risk well requires not only technical expertise, but also clear communication across teams. They will show how risk management can move beyond a box-ticking exercise and become a valuable tool for both developers, designers, and asset owners.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Architects habitually think only at asset level, while the money, the regulation and the survival question all sit at corporate portfolio level. A building is reframed as a risk object inside someone's balance sheet: physical climate risks (acute and chronic) plus transition risks and opportunities, assessed against a named IPCC scenario and time horizon, then answered with adaptation measures that are cheapest when designed in rather than retrofitted. The practical payload is a free tool that lets a designer run a building-level climate exposure/vulnerability diagnosis in 15–30 minutes using data an architect already has.

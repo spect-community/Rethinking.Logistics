@@ -46,6 +46,18 @@ auto_insights:
 
 Lecture 11 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 17.4.2026.
 
+## Lecture announcement
+
+Great projects aren’t just born in city centers—the usual haunts of big-name firms. They also emerge in unexpected places: logistics, retail, and infrastructure. These sectors now boast strong investors and, consequently, plenty of room for architecture.
+
+We aren’t here to show you our portfolio.
+
+Instead, we’re going to share our failures—so you can save yourselves years of time.
+
+The question is: Where will your playground be?
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 The most-used architecture in the world — shop interiors, warehouse offices, discount supermarkets, logistics parks — is designed by people nobody knows, for clients who do not "solve architecture" but solve decisions. The architect's leverage in that world comes not from form but from arriving early enough in the decision chain with numbers, calculations and problem definitions; the design freedom is what you earn afterwards. Unusually candid about the commercial mechanics behind sustainable outcomes — the CLT supermarket happened because of a brick shortage, not because of carbon — and about designing yourself out of your own commission.

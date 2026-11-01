@@ -39,6 +39,18 @@ auto_insights:
 
 Lecture 18 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 15.5.2026.
 
+## Lecture announcement
+
+The internet doesn't live in the sky — it lives in buildings, and we need more and more of them. Those buildings are increasingly forming part of our urban landscapes and communities. As demand for data explodes, data centres are reshaping our urban landscapes in ways that architects, designers, developers and city planners can no longer ignore. We'll unpack what these assets and infrastructures actually are, how they consume staggering amounts of energy, and why their location matters deeply to the future of our cities. From industrial edge to urban core, we'll explore the provocative question: can data centres become genuine, even desirable, parts of city life? If you've ever streamed a video, sent a message or used AI, this lecture is about the hidden infrastructure that makes your world run — and the radical design challenges it poses for the next generation of built environment professionals.
+
+Biography:
+
+Jonathan is Global Head of Buildings & Cities at Ramboll Management Consulting (Copenhagen) and the global lead for Ramboll's management consulting activities in the data centre industry. With over 15 years’ international experience in real estate, urban development and sustainability, he has led complex projects from strategy through delivery across corporate, portfolio, neighbourhood and building scales. Trained as an urban planner, Jonathan applies a holistic approach to advise his clients and create lasting value for investors, developers, occupiers and public clients.
+
+Before joining Ramboll he worked at Arcadis and EY in France and the UK. He is a Member of the Royal Institution of Chartered Surveyors (MRICS) and co-Chair of RICS Denmark. Jonathan graduated as an urban planner from the London School of Economics and SciencesPo in Paris.
+
+*From the announcement of the lecture series (LinkedIn, #RethinkingLogistics).*
+
 ## About this source
 
 Data centres have been built "organically" as fenced standalone assets on whatever land developers could buy, and that is the wrong model for the fastest-growing real-estate segment in Europe and North America. Because the industry's own efficiency metric has plateaued, the remaining gains are no longer technical but locational and systemic — plan the city with the data centre at the heart of an energy/utility system, harvest its waste heat into district heating, and design it to be a building people can accept looking at. He is explicit that scale is now the problem, and that nobody in the industry knows whether more powerful chips mean fewer square metres.
