@@ -19,7 +19,7 @@ import fs from "node:fs"
 import path from "node:path"
 import { execSync } from "node:child_process"
 import yaml from "js-yaml"
-import { ROOT, CONTENT, loadKB, loadConfig, computeAuto, asList, wl, key } from "./lib/kb.mjs"
+import { ROOT, CONTENT, loadKB, loadConfig, computeAuto, asList, wl, key, insightBadges } from "./lib/kb.mjs"
 
 const serve = process.argv.includes("--serve")
 const skipQuartz = process.argv.includes("--skip-quartz")
@@ -52,7 +52,15 @@ const fmt = (v) =>
     .map((x) => (typeof x === "string" && /^https?:\/\//.test(x) ? `[${x.replace(/^https?:\/\//, "").replace(/\/$/, "").slice(0, 60)}](${x})` : String(x)))
     .join(", ")
     .replace(/\|/g, "\\|")
-const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status" }
+const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status", number: "Number", group: "Group", summary: "Summary", hero_image: "Image", posters: "Posters", kind: "Kind", speaker: "Speaker", affiliation: "Affiliation", date: "Date", locator: "Where in the source", confidence: "Confidence", reviewed_by: "Reviewed by" }
+// Fields shown elsewhere on the page (not in the property table)
+const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type"])
+// How the statement was recorded, in the wording of Edition 1.0
+const recorded = (d) => {
+  if (key(d.quote_type ?? "") === "verbatim") return "Verbatim quote"
+  const t = key(d.source_type ?? "")
+  return t === "student" ? "As reported by the student" : t === "expert" ? "Paraphrased from the lecture" : t === "external" ? "Paraphrased from the publication" : ""
+}
 
 let count = 0
 for (const n of kb.notes) {
@@ -64,10 +72,15 @@ for (const n of kb.notes) {
     const def = schema.types[n.type]
     // property table
     const rows = (def.fields ?? [])
-      .filter((f) => !["aliases", "portfolio_pdf"].includes(f) &&d[f] !== undefined && d[f] !== null && d[f] !== "")
+      .filter((f) => !HIDDEN.has(f) && d[f] !== undefined && d[f] !== null && d[f] !== "")
       .map((f) => `| ${LABEL[f] ?? f} | ${fmt(d[f])} |`)
     const aliases = asList(d.aliases).filter((a) => typeof a === "string")
     let top = `> [!info] ${def.label}${d.status ? ` · ${d.status}` : ""}\n> ${def.description}\n\n`
+    if (n.type === "insight") {
+      const badges = insightBadges(d)
+      if (badges) top += `${badges} · [[Evidence status|What do these labels mean?]]\n\n`
+      if (d.statement) top += `> ${String(d.statement).trim().replace(/\r?\n/g, " ")}\n${recorded(d) ? `>\n> — *${recorded(d)}*\n` : ""}\n`
+    }
     if (rows.length) top += `| | |\n| --- | --- |\n${rows.join("\n")}\n\n`
     if (aliases.length) top += `*Also known as:* ${aliases.join(" · ")}\n\n`
     if (n.type === "case-study" && d.portfolio) top += `**[📖 Open the portfolio](${d.portfolio})**\n\n`

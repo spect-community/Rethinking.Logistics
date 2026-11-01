@@ -141,6 +141,18 @@ export function computeAuto(kb) {
   return auto
 }
 
+// Badges for insights: who made the statement, and where the evidence stands.
+export const SOURCE_TYPES = { expert: "Expert", student: "Student", external: "External" }
+export const EVIDENCE_STATUSES = { "open-for-review": "Open for expert review", "expert-reviewed": "Expert-reviewed", disputed: "Disputed" }
+export const QUOTE_TYPES = { paraphrase: "Paraphrased", verbatim: "Verbatim quote" }
+const badge = (group, value, labels) => {
+  if (!value) return ""
+  const v = String(value).trim()
+  const cls = key(v).replace(/[^a-z0-9]+/g, "-")
+  return `<span class="rl-badge rl-badge--${group} rl-badge--${group}-${cls}">${labels[key(v)] ?? v}</span>`
+}
+export const insightBadges = (d) => [badge("source", d.source_type, SOURCE_TYPES), badge("evidence", d.evidence_status, EVIDENCE_STATUSES)].filter(Boolean).join(" ")
+
 export const wl = (name) => `[[${name}]]`
 export const byName = (a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" })
 export const ofType = (kb, t) => kb.notes.filter((n) => n.type === t).sort(byName)

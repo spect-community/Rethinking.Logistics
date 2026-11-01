@@ -4,7 +4,7 @@
 
 import fs from "node:fs"
 import path from "node:path"
-import { CONTENT, loadKB, computeAuto, ofType, wl, asList, section, loadConfig } from "./lib/kb.mjs"
+import { CONTENT, loadKB, computeAuto, ofType, wl, asList, section, loadConfig, insightBadges } from "./lib/kb.mjs"
 
 const args = process.argv.slice(2)
 const oi = args.indexOf("--out")
@@ -144,6 +144,20 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
   pages["Evidence gaps"] = page("Evidence gaps", "Where the chain from tool to metric to decision is incomplete.", body)
 }
 
+// ── Insights ─────────────────────────────────────────────────────────────────
+{
+  const insights = ofType(kb, "insight")
+  const src = (i) => (i.links.source ?? []).map((l) => l.note?.name ?? l.name)
+  const about = (i) => [...linked(i, "challenges"), ...linked(i, "metrics"), ...linked(i, "case_studies")]
+  const body = insights.length
+    ? `**${insights.length} insights** — atomic statements by experts, students and publications. Each carries who made it and where its evidence stands; see [[Evidence status]].
+
+` +
+      table(["Insight", "Statement", "Labels", "Source", "About"], insights.map((i) => [wl(i.name), esc(i.data.statement), insightBadges(i.data) || "—", links(src(i)), links(about(i))]))
+    : "*No insights yet.* Statements from the expert lectures, student questionnaires and publications will be listed here, each with its evidence status — see [[Evidence status]]."
+  pages["Insights overview"] = page("Insights overview", "All insights with who made them and where their evidence stands.", body)
+}
+
 // ── Index ────────────────────────────────────────────────────────────────────
 pages["index"] = page("Overviews", "Views computed from all notes.", `**At a glance:** ${challenges.length} challenges · ${metrics.length} metrics · ${tools.length} tools · ${cases.length} case studies
 
@@ -155,6 +169,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Case studies overview]] | *What did the students design, and which tools did they use?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
+| [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |
 `)
 
 fs.mkdirSync(OUT, { recursive: true })

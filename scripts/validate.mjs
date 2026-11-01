@@ -21,6 +21,11 @@ for (const n of notes) {
   }
   if (n.type === "metric" && !n.data.calculation) w(n, `no "calculation" — say how the metric is calculated (formula or tool)`)
   if (n.type === "case-study" && !n.data.portfolio) w(n, `no "portfolio" link`)
+  if (n.type === "insight") {
+    if (!(n.links.source ?? []).length) w(n, `no "source" — link the lecture, questionnaire or publication it comes from`)
+    if (!n.data.evidence_status) w(n, `no "evidence_status" — use open-for-review, expert-reviewed or disputed`)
+    if (!n.data.statement) w(n, `no "statement" — write the claim itself`)
+  }
   const known = new Set([...(def.fields ?? []), ...schema.relations.filter((r) => r.from === n.type).map((r) => r.field), "tags", "title", "description"])
   for (const k of Object.keys(n.data)) if (!known.has(k) && !k.startsWith("auto_")) w(n, `extra property "${k}" (fine — it is shown on the page, just not used in overviews)`)
 }

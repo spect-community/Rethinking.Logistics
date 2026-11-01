@@ -9,7 +9,7 @@ const explorer = Component.Explorer({
   title: "Browse",
   folderDefaultState: "collapsed",
   sortFn: (a, b) => {
-    const order = ["about", "overviews", "challenges", "metrics", "tools", "case studies"]
+    const order = ["about", "overviews", "strategies", "challenges", "metrics", "tools", "case studies", "insights", "sources"]
     const ia = order.indexOf(a.displayName.toLowerCase())
     const ib = order.indexOf(b.displayName.toLowerCase())
     if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
