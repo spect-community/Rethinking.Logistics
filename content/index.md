@@ -31,6 +31,3 @@ Use the **search** (top left): it ignores accents, finds parts of words and tole
 - **Metrics** — measurable indicators (students often call them KPIs), each with a unit and a **calculation method**, e.g. [[Biotope area factor]] or [[Embodied carbon intensity]].
 - **Tools** — mainly the Rhino/Grasshopper ecosystem ([[Ladybug]], [[Honeybee]], [[Karamba3D]], [[Rhino.Ecologic]] …) but also web tools like [[One Click LCA]], [[nPro]] or [[CO2mpare]].
 - **Case studies** — 23 student projects with their metrics, values, tools, trade-offs and decisions, each linked to the full portfolio.
-
-> [!note] Draft
-> All entries are drafts compiled from the student portfolios and studio questionnaires and are being reviewed by the studio tutors. See [[How to contribute]] to suggest a correction.
