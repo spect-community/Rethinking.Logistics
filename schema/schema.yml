@@ -64,7 +64,8 @@ types:
     # locator: timestamp or transcript line / PDF page
     # quote_type: paraphrase | verbatim
     # evidence_status: open-for-review | expert-reviewed | disputed
-    fields: [statement, source_type, locator, quote_type, evidence_status, confidence, reviewed_by, aliases]
+    # relevance: 1–3 (3 = directly informs a metric or decision; 1 = kept, not used on strategy pages)
+    fields: [statement, source_type, locator, quote_type, evidence_status, confidence, reviewed_by, relevance, aliases]
 
 # Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
 relations:

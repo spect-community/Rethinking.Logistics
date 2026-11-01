@@ -54,7 +54,7 @@ const fmt = (v) =>
     .replace(/\|/g, "\\|")
 const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status", number: "Number", group: "Group", summary: "Summary", hero_image: "Image", posters: "Posters", kind: "Kind", speaker: "Speaker", affiliation: "Affiliation", date: "Date", locator: "Where in the source", confidence: "Confidence", reviewed_by: "Reviewed by" }
 // Fields shown elsewhere on the page (not in the property table)
-const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type"])
+const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type", "relevance"])
 // How the statement was recorded, in the wording of Edition 1.0
 const recorded = (d) => {
   if (key(d.quote_type ?? "") === "verbatim") return "Verbatim quote"
