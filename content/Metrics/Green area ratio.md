@@ -30,6 +30,7 @@ auto_case_studies:
   - "[[Roshni Basu]]"
   - "[[Vladi Kostecki]]"
 auto_insights:
+  - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies: []
 auto_tools:

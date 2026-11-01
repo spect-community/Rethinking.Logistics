@@ -16,7 +16,8 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Vertical zoning is the answer to people-meet-machines]]"
 auto_strategies: []
 auto_tools: []
 ---

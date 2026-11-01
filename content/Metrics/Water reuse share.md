@@ -15,7 +15,9 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
 auto_insights:
+  - "[[Closed-loop water killed by human behaviour]]"
   - "[[Rain harvested to grow the walls]]"
+  - "[[Rainwater is not process water]]"
 auto_strategies: []
 auto_tools: []
 ---

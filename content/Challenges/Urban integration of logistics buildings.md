@@ -22,8 +22,15 @@ auto_case_studies:
 auto_insights:
   - "[[A High Line for a whole industrial estate]]"
   - "[[Don't let every unit be 2,000 m²]]"
+  - "[[Greenfield today, city tomorrow]]"
+  - "[[If cities don't plan for logistics, logistics takes space]]"
+  - "[[In-city logistics is a separate typology with separate rules]]"
+  - "[[Logistics is architecture built to disappear]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
+  - "[[Stakeholders don't care what's around the city]]"
+  - "[[The developer is not a philanthropist — that's the planner's job]]"
   - "[[The ecotone is the design brief]]"
+  - "[[The employees are trapped outside the real world]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
 auto_metrics:
   - "[[Distance to housing]]"

@@ -16,7 +16,8 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"
-auto_insights: []
+auto_insights:
+  - "[[Architecture as a human resource tool]]"
 auto_strategies: []
 auto_tools: []
 ---

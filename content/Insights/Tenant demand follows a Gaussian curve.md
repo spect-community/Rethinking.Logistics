@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,7 +14,8 @@ tags:
   - "topic/data"
   - "topic/adaptability"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

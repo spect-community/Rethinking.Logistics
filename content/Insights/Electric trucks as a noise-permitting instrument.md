@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -15,8 +16,10 @@ tags:
   - "strategy/4-mobility-last-mile"
   - "strategy/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+metrics:
+  - "[[Noise level]]"
 case_studies: []
 ---
 ## Context

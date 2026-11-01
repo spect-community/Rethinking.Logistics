@@ -11,7 +11,8 @@ challenges:
   - "[[Land take of logistics buildings]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
-auto_insights: []
+auto_insights:
+  - "[[Automated trucks will not change the loading dock]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -16,7 +16,12 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
 auto_insights:
+  - "[[Brewing waste heat heats the public building]]"
   - "[[Data centres are giant heaters]]"
+  - "[[Industrial sheds as 4th-generation district heating nodes]]"
+  - "[[Rainwater is not process water]]"
+  - "[[Sell the warehouse as a power station]]"
+  - "[[Thirty-metre freezers are a heat source]]"
 auto_strategies: []
 auto_tools:
   - "[[nPro]]"

@@ -17,6 +17,7 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Hynek Hrabík]]"
 auto_insights:
+  - "[[Keep every drop on site]]"
   - "[[Rain harvested to grow the walls]]"
 auto_strategies: []
 auto_tools:

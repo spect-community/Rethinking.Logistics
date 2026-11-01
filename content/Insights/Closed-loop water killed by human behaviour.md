@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -16,7 +17,8 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Water reuse share]]"
 case_studies: []
 ---
 ## Context

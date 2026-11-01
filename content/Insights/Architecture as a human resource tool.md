@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -13,8 +14,10 @@ tags:
   - "topic/economics"
   - "strategy/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+metrics:
+  - "[[Worker well-being]]"
 case_studies: []
 ---
 ## Context

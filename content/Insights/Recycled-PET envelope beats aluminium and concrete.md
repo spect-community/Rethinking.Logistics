@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — comparison asserted without figures"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/materials"
   - "topic/carbon"
   - "topic/circularity"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

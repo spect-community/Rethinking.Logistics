@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the 'more than 90%' in the title is the speaker's own guess ('I'm making this number up')"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -14,7 +15,8 @@ tags:
   - "topic/city"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Road freight impact]]"
 case_studies: []
 ---
 ## Context

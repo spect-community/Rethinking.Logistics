@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high (wording garbled; substance clear)"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"

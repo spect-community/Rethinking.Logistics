@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the Munich rent reads \"10. 711 euros\" in the transcript"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/economics"

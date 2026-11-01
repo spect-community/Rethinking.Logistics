@@ -6,13 +6,16 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — spoken figure; scope stated only as \"on this construction\""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/carbon"
   - "topic/materials"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

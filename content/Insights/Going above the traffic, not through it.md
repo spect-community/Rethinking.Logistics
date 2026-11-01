@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/provocation"
@@ -13,9 +14,11 @@ tags:
   - "topic/adaptability"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Johannes Berger]]"
 ---
 ## Context
 

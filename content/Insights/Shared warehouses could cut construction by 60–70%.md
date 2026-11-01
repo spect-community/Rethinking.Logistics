@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — an off-the-cuff, explicitly hedged estimate (\"we probably drop down … by sixty-seventy percent\")"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/circularity"
@@ -14,8 +15,10 @@ tags:
   - "topic/adaptability"
   - "strategy/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Space utilisation]]"
 case_studies: []
 ---
 ## Context

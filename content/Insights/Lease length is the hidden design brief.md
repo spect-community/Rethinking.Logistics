@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,9 +15,11 @@ tags:
   - "topic/people"
   - "strategy/2-adaptive-modular"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Amy Naprstek]]"
 ---
 ## Context
 

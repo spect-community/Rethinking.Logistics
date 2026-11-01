@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -14,7 +15,8 @@ tags:
   - "topic/provocation"
   - "strategy/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
 metrics: []
 case_studies: []
 ---

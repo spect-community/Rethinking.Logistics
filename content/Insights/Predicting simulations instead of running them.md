@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — mechanism not spelled out"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"

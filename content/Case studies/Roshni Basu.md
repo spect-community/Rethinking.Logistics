@@ -22,7 +22,8 @@ metrics:
   - "[[Jobs created]]"
 tools:
   - "[[Grasshopper]]"
-auto_insights: []
+auto_insights:
+  - "[[Hub placement decided without data]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261009095612.png]]

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -15,7 +16,8 @@ tags:
   - "strategy/4-mobility-last-mile"
   - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
 metrics: []
 case_studies: []
 ---

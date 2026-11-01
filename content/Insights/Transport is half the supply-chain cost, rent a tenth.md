@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high (speaker flags them as rules of thumb: \"I don't want anyone to go and quote me\")"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"

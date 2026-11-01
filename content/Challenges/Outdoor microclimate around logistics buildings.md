@@ -9,6 +9,7 @@ auto_insights:
   - "[[Eight degrees quintuples walking distance]]"
   - "[[Humidity, not Celsius, is the barrier]]"
   - "[[Microclimate decides whether a masterplan works]]"
+  - "[[White facades, urban heat and the wind that saves them]]"
 auto_metrics:
   - "[[Noise level]]"
   - "[[Pedestrian-level wind speed]]"

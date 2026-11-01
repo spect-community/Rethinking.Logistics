@@ -11,7 +11,9 @@ challenges:
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
 auto_insights:
+  - "[[Houses lose kilowatts, warehouses lose megawatts]]"
   - "[[Norms force oversized heat pumps]]"
+  - "[[Production wants low, distribution wants high — for energy reasons]]"
 auto_strategies: []
 auto_tools:
   - "[[Honeybee]]"

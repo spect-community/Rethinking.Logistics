@@ -20,6 +20,7 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:
   - "[[Data centre carbon is many multiples of a warehouse]]"
+  - "[[Operational carbon collapses, embodied carbon takes over]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

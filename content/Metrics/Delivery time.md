@@ -13,7 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"
-auto_insights: []
+auto_insights:
+  - "[[Consumer impatience is a physical planning force]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — the figure is hedged (\"I think there's 250\") in the transcript; the claim bank notes the real figure is far higher"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/landscape"
@@ -14,8 +15,10 @@ tags:
   - "topic/provocation"
   - "strategy/1-regenerative-park"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Native species richness]]"
 case_studies: []
 ---
 ## Context

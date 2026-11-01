@@ -12,6 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:
+  - "[[Construction logistics is planning's blind spot]]"
+  - "[[Rail is a rounding error – over 90% moves by truck]]"
   - "[[Ships are cheap, trucks are not]]"
 auto_strategies: []
 auto_tools: []

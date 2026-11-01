@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/adaptability"
@@ -13,8 +14,10 @@ tags:
   - "topic/trade-off"
   - "strategy/4-mobility-last-mile"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
+metrics:
+  - "[[Number of docks]]"
 case_studies: []
 ---
 ## Context

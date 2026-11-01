@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/data"
@@ -13,9 +14,12 @@ tags:
   - "topic/synergy"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
+metrics:
+  - "[[Delivery catchment]]"
+case_studies:
+  - "[[Roshni Basu]]"
 ---
 ## Context
 

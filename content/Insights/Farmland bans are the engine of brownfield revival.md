@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -14,7 +15,8 @@ tags:
   - "topic/green-blue"
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
+challenges:
+  - "[[Land take of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

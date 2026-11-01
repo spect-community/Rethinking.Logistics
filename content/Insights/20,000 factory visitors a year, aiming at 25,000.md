@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the transcript says \"at least triple. So 6000 people\", which does not match 20,000, and does not clearly say which project targets 25,000"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -14,8 +15,10 @@ tags:
   - "topic/data"
   - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Public access and community use of logistics sites]]"
+metrics:
+  - "[[Social interaction index]]"
 case_studies: []
 ---
 ## Context

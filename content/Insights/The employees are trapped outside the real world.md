@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -13,7 +14,9 @@ tags:
   - "topic/city"
   - "strategy/3-urban-hybrid"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

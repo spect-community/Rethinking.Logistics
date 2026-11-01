@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"
   - "topic/materials"
   - "topic/trade-off"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Construction cost]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — phrase garbled"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/certification"

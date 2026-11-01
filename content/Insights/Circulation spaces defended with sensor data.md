@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"
@@ -14,7 +15,8 @@ tags:
   - "topic/adaptability"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Social interaction index]]"
 case_studies: []
 ---
 ## Context

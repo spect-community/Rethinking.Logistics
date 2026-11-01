@@ -16,6 +16,7 @@ auto_insights:
   - "[[A bird island as design precedent]]"
   - "[[Ambition upgraded mid-project from do-no-harm to net-gain]]"
   - "[[Bats reframed as a lighting problem]]"
+  - "[[Biodiversity forbidden by food-hygiene law]]"
   - "[[Biodiversity net gain, step by step]]"
   - "[[BNG used outside Britain, as a design instrument]]"
   - "[[Client refused to wait 15 years for green]]"
@@ -33,6 +34,7 @@ auto_insights:
   - "[[The building as a 3D mountain]]"
   - "[[The default logistics landscape is a lawnmower]]"
   - "[[The Dutch site was ecologically poor to start with]]"
+  - "[[The lilac vs the oak]]"
   - "[[Three tiers of ambition on a plot]]"
 auto_metrics:
   - "[[Biodiversity net gain]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -13,7 +14,8 @@ tags:
   - "topic/adaptability"
   - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Worker comfort and well-being]]"
 metrics: []
 case_studies: []
 ---

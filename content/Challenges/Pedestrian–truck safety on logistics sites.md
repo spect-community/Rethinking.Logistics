@@ -8,7 +8,9 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
+  - "[[Vertical zoning is the answer to people-meet-machines]]"
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Pedestrian–vehicle conflict points]]"

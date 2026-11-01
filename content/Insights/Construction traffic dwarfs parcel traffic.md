@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "high — but see Part 6, the peer-reviewed figure is \"up to 30% of freight movements\""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -14,7 +15,8 @@ tags:
   - "topic/data"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
 metrics: []
 case_studies: []
 ---

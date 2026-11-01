@@ -34,6 +34,7 @@ tools:
 auto_insights:
   - "[[Data centres are giant heaters]]"
   - "[[Don't force the wrong second life on a building]]"
+  - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"
 auto_strategies: []
 ---

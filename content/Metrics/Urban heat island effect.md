@@ -12,7 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
-auto_insights: []
+auto_insights:
+  - "[[White facades, urban heat and the wind that saves them]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

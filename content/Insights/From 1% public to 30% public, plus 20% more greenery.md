@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the greenery figure is hedged (\"like 20\") and the rest of the sentence is garbled"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -15,8 +16,11 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Public access and community use of logistics sites]]"
+metrics:
+  - "[[Publicly accessible area]]"
+  - "[[Green area ratio]]"
 case_studies: []
 ---
 ## Context

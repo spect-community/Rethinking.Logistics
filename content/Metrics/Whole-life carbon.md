@@ -15,7 +15,9 @@ auto_case_studies:
 auto_insights:
   - "[[Building services are a whole-life carbon sleeper]]"
   - "[[Don't force the wrong second life on a building]]"
+  - "[[EU taxonomy – not mandatory, but at the end it is]]"
   - "[[Logistics is not one typology — it's a carbon spectrum]]"
+  - "[[Operational carbon collapses, embodied carbon takes over]]"
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[Whole-life carbon usually isn't whole]]"
 auto_strategies: []

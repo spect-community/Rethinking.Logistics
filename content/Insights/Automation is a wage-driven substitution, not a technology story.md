@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -13,8 +14,10 @@ tags:
   - "topic/adaptability"
   - "topic/trade-off"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
+metrics:
+  - "[[Level of automation]]"
 case_studies: []
 ---
 ## Context

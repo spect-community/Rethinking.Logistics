@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — no kWh/m² figures are given and both place names are garbled in the transcript"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
   - "topic/data"
   - "topic/carbon"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Energy use intensity]]"
 case_studies: []
 ---
 ## Context

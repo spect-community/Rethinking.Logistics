@@ -16,7 +16,9 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
-auto_insights: []
+auto_insights:
+  - "[[A warehouse heating a hospital]]"
+  - "[[Sell the warehouse as a power station]]"
 auto_strategies: []
 auto_tools:
   - "[[Cyclops]]"

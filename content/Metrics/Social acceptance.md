@@ -13,7 +13,9 @@ challenges:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Eva Kažukolovaitė]]"
-auto_insights: []
+auto_insights:
+  - "[[Mayors get trucks, not taxes]]"
+  - "[[NIMBY survives the open day]]"
 auto_strategies: []
 auto_tools: []
 ---

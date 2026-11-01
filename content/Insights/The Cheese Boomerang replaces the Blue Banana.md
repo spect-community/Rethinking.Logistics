@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the name reads \"chief boomerang\" in the main passage and \"cheese boomerang\" only in the takeaways"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/landscape"

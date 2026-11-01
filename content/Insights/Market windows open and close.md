@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — dates spoken quickly"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/economics"

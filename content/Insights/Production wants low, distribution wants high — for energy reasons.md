@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
   - "topic/taxonomy"
   - "topic/trade-off"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Heating energy demand]]"
 case_studies: []
 ---
 ## Context

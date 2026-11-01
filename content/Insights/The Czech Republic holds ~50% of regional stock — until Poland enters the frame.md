@@ -3,9 +3,10 @@ statement: "Czechia has roughly 13 million m² of industrial floor space and tak
 source_type: expert
 locator: "mid — anchor: \"takes up almost 50% of this industrial stock\""
 quote_type: paraphrase
-evidence_status: open-for-review
+evidence_status: disputed
 confidence: "check — Poland is transcribed as \"Owen\"; the Czech figure reads \"12, yeah, 13\""
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/data"
@@ -29,3 +30,7 @@ James Fitzgerald (IO Partners) shows how the industry reports industrial stock, 
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (Poland transcribed as "Owen"; Czech figure hedged 12/13). To be checked against the recording.
+
+## What needs checking (curation)
+
+The figures do not add up: if Poland's 45 million m² equals all other CEE countries combined, Czechia's ~13 million m² would be under 30% of the non-Polish region, not nearly half.

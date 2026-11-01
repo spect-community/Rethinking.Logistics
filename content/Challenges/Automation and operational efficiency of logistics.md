@@ -6,8 +6,14 @@ auto_case_studies:
 auto_insights:
   - "[[8–10% of the area, 50% of the people]]"
   - "[[A warehouse run by four people]]"
+  - "[[Automated trucks will not change the loading dock]]"
+  - "[[Automation is a wage-driven substitution, not a technology story]]"
   - "[[Fit-out can cost more than the building]]"
+  - "[[Full automation would need power plants bigger than the logistics]]"
+  - "[[Height buys efficiency and buys a fire problem]]"
+  - "[[Robots don't need a view — which makes the box more modular]]"
   - "[[The MHE designed the building, not the architect]]"
+  - "[[What will we do if we replace every job by a robot]]"
 auto_metrics:
   - "[[Carbon per pallet handled]]"
   - "[[Delivery time]]"

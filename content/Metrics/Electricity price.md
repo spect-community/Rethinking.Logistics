@@ -11,7 +11,9 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Sara Sulollari]]"
-auto_insights: []
+auto_insights:
+  - "[[The energy price forecast is always wrong]]"
+  - "[[Three price scenarios, not one number]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -14,8 +15,10 @@ tags:
   - "topic/trade-off"
   - "strategy/5-energy-symbiosis"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
+metrics:
+  - "[[Level of automation]]"
 case_studies: []
 ---
 ## Context

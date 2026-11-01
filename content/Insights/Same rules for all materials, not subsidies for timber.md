@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/materials"
@@ -13,7 +14,8 @@ tags:
   - "topic/economics"
   - "topic/provocation"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/circularity"
@@ -14,7 +15,9 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Public access and community use of logistics sites]]"
 metrics: []
 case_studies: []
 ---

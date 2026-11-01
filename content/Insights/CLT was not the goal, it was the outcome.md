@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/materials"
@@ -14,7 +15,8 @@ tags:
   - "topic/provocation"
   - "strategy/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

@@ -29,6 +29,7 @@ tools:
   - "[[One Click LCA]]"
   - "[[Grasshopper]]"
 auto_insights:
+  - "[[In-city logistics is a separate typology with separate rules]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
 auto_strategies: []
 ---

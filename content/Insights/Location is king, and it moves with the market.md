@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the region on the Czech border reads \"Hab Karavivari\" in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -15,7 +16,8 @@ tags:
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Marek Nový]]"
 ---
 ## Context
 

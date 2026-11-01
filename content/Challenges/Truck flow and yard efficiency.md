@@ -6,7 +6,8 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Pavement is the unsolved carbon problem]]"
 auto_metrics:
   - "[[Dock turnaround time]]"
   - "[[Number of docks]]"

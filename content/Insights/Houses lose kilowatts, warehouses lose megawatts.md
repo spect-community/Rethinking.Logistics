@@ -6,13 +6,16 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
   - "topic/provocation"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Heating energy demand]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — percentages read oddly; verify against the deck"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"

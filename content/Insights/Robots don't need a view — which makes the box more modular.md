@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,7 +15,8 @@ tags:
   - "topic/energy"
   - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
 metrics: []
 case_studies: []
 ---

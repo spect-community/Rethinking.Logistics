@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — sample size hedged"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/people"

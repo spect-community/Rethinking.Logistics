@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the attendance figures are spoken loosely (Friday reads \"at 17\")"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/people"

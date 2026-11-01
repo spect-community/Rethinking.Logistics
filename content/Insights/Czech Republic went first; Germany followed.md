@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the parent company's and the executive's names are garbled in the transcript"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/materials"

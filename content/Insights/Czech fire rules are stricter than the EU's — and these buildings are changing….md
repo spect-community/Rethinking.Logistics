@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the 850 m² threshold is stated loosely (\"the room is something is over than 850 square meters\")"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/materials"
   - "topic/certification"
   - "topic/trade-off"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

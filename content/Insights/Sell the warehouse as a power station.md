@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -16,8 +17,11 @@ tags:
   - "strategy/5-energy-symbiosis"
   - "strategy/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Waste heat recovery]]"
+  - "[[Rooftop PV generation]]"
 case_studies: []
 ---
 ## Context

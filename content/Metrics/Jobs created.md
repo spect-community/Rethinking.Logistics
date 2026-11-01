@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Roshni Basu]]"
 auto_insights:
   - "[[Amazon locates by unemployment rate]]"
+  - "[[Manufacturing is a better neighbour than logistics]]"
+  - "[[What will we do if we replace every job by a robot]]"
 auto_strategies: []
 auto_tools: []
 ---

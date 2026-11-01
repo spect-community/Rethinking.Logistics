@@ -9,7 +9,8 @@ challenges:
   - "[[Waste heat and cooling of data centres]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
-auto_insights: []
+auto_insights:
+  - "[[Brewing waste heat heats the public building]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -14,8 +15,10 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Public access and community use of logistics sites]]"
+metrics:
+  - "[[Publicly accessible area]]"
 case_studies: []
 ---
 ## Context

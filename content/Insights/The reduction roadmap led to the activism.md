@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/carbon"
@@ -13,8 +14,10 @@ tags:
   - "topic/data"
   - "strategy/2-adaptive-modular"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon saved by reuse]]"
 case_studies: []
 ---
 ## Context

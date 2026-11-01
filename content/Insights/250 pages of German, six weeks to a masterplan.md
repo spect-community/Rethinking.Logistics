@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the quoted \"only understands audio\" reads \"only understand boring\" in the transcript"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/data"

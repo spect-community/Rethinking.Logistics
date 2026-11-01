@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the city reads \"Auckland\" in the transcript"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -15,7 +16,9 @@ tags:
   - "strategy/1-regenerative-park"
   - "strategy/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
-challenges: []
+challenges:
+  - "[[Public access and community use of logistics sites]]"
+  - "[[Visual impact and acceptance by neighbours]]"
 metrics: []
 case_studies: []
 ---

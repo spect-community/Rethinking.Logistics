@@ -17,6 +17,7 @@ auto_case_studies:
 auto_insights:
   - "[[Eight degrees quintuples walking distance]]"
   - "[[Humidity, not Celsius, is the barrier]]"
+  - "[[Timber buildings overheat without thermal mass]]"
 auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"

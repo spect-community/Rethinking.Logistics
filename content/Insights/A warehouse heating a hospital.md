@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -14,8 +15,10 @@ tags:
   - "topic/externality"
   - "strategy/5-energy-symbiosis"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Rooftop PV generation]]"
 case_studies: []
 ---
 ## Context

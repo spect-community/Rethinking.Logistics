@@ -23,7 +23,9 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Amazon 2014 vs 2022 – same floorplate, different building]]"
+  - "[[Energy performance is a financing instrument]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

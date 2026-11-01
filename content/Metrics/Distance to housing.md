@@ -16,7 +16,8 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Lindsay Daphne Macuja]]"
-auto_insights: []
+auto_insights:
+  - "[[Noise – the logistics is the problem, not the building]]"
 auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"

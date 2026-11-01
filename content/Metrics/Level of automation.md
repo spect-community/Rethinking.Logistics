@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:
   - "[[A warehouse run by four people]]"
+  - "[[Automation is a wage-driven substitution, not a technology story]]"
+  - "[[Full automation would need power plants bigger than the logistics]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -23,7 +23,8 @@ metrics:
   - "[[Mixed-use ratio]]"
   - "[[Worker well-being]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Consolidation centres cut trips 20–50%]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261009100946.png]]

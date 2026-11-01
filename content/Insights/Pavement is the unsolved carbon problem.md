@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the truck sentence reads \"it's still going to work with heavy trucks\" in the transcript; the negation is inferred"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/carbon"
@@ -13,8 +14,11 @@ tags:
   - "topic/externality"
   - "topic/trade-off"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Truck flow and yard efficiency]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

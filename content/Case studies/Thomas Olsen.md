@@ -20,7 +20,8 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Publicly accessible area]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Consolidation centres cut trips 20–50%]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031091033.png]]

@@ -7,6 +7,8 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
 auto_insights:
   - "[[Data centres are giant heaters]]"
+  - "[[Industrial sheds as 4th-generation district heating nodes]]"
+  - "[[Sell the warehouse as a power station]]"
 auto_metrics:
   - "[[Carbon usage effectiveness]]"
   - "[[Heat recovery radius]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -15,7 +16,8 @@ tags:
   - "strategy/4-mobility-last-mile"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Delivery time]]"
 case_studies: []
 ---
 ## Context

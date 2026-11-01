@@ -29,6 +29,7 @@ metrics:
 tools: []
 auto_insights:
   - "[[Don't let every unit be 2,000 m²]]"
+  - "[[Location is king, and it moves with the market]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031083733.png]]

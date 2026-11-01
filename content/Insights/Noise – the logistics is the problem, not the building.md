@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/externality"
@@ -14,8 +15,11 @@ tags:
   - "topic/trade-off"
   - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+metrics:
+  - "[[Noise level]]"
+  - "[[Distance to housing]]"
 case_studies: []
 ---
 ## Context

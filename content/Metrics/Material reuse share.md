@@ -18,6 +18,7 @@ auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_insights:
   - "[[Brownfield rules block on-site recycling]]"
+  - "[[Certification of reused structural elements is the real blocker]]"
 auto_strategies: []
 auto_tools: []
 ---

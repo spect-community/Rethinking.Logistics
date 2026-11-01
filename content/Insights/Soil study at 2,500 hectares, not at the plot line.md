@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the area reads \"2.2500 hectares\" in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -14,7 +15,8 @@ tags:
   - "topic/data"
   - "strategy/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
 metrics: []
 case_studies: []
 ---

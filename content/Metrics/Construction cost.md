@@ -16,6 +16,8 @@ auto_case_studies:
 auto_insights:
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[Fit-out can cost more than the building]]"
+  - "[[Height buys efficiency and buys a fire problem]]"
+  - "[[Timber sells on schedule, not on carbon]]"
 auto_strategies: []
 auto_tools:
   - "[[Galapagos]]"

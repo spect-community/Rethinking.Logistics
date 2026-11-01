@@ -6,8 +6,14 @@ auto_case_studies:
   - "[[Sara Gani]]"
 auto_insights:
   - "[[A three-dimensional street inside the shed]]"
+  - "[[Architecture as a human resource tool]]"
+  - "[[Better toilets make politer shop assistants]]"
   - "[[Skylights as wayfinding in a 565 m building]]"
+  - "[[The employees are trapped outside the real world]]"
   - "[[The literal glass wall between collars]]"
+  - "[[The office is becoming the amenity that holds the workforce]]"
+  - "[[The roof as employee ground]]"
+  - "[[What performs is what you can't see]]"
 auto_metrics:
   - "[[Daylight autonomy]]"
   - "[[Function stacking index]]"

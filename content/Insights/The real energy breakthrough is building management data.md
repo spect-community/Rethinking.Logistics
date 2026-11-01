@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"
   - "topic/energy"
   - "topic/synergy"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

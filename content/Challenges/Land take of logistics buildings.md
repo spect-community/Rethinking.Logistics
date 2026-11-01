@@ -12,7 +12,10 @@ auto_insights:
   - "[[Amazon multi-storey – 60–70% self-supplied]]"
   - "[[Brownfields are per mils of the market]]"
   - "[[Density is the environmental strategy]]"
+  - "[[Farmland bans are the engine of brownfield revival]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
+  - "[[Multi-storey manufacturing is a Czech taboo]]"
+  - "[[Shared warehouses could cut construction by 60–70%]]"
   - "[[Single-function land use is the real waste]]"
 auto_metrics:
   - "[[Function stacking index]]"

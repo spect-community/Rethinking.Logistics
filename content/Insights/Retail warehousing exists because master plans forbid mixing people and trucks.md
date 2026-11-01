@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -14,9 +15,13 @@ tags:
   - "topic/externality"
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
+challenges:
+  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Public access and community use of logistics sites]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Julia Kopác]]"
 ---
 ## Context
 

@@ -12,7 +12,11 @@ challenges:
 auto_case_studies:
   - "[[Amy Naprstek]]"
 auto_insights:
+  - "[[Digging materials up costs more than buying new]]"
+  - "[[Long-life loose-fit and design for disassembly]]"
+  - "[[Mycelium pavilion that returns to the field]]"
   - "[[Tailoring is a one-way door]]"
+  - "[[The material bank argument to the client]]"
 auto_strategies: []
 auto_tools: []
 ---

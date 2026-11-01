@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the start year reads \"2001, 21? 21\", the towers' purpose (\"cloud marking\") and the location are garbled"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
   - "topic/trade-off"
   - "topic/provocation"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
 metrics: []
 case_studies: []
 ---

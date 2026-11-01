@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the client and forest owner's names are garbled in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
   - "topic/carbon"
   - "topic/landscape"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

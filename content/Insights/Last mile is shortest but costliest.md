@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "high — but see Part 6, the best-sourced public figure is ~41%"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"
@@ -13,8 +14,10 @@ tags:
   - "topic/taxonomy"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
+metrics:
+  - "[[Last-mile delivery cost]]"
 case_studies: []
 ---
 ## Context

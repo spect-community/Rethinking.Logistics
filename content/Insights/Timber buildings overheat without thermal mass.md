@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
   - "topic/materials"
   - "topic/trade-off"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Thermal comfort]]"
 case_studies: []
 ---
 ## Context

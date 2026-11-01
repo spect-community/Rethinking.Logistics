@@ -11,11 +11,15 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
 auto_insights:
   - "[[A dump site that forbade digging became islands]]"
+  - "[[Beyond Czech water standards, into BREEAM's]]"
   - "[[Daylighting a river that was a technical problem]]"
   - "[[Don't dig down vs biodiversity]]"
+  - "[[Keep every drop on site]]"
   - "[[Nature-based solutions because pipes can't cope]]"
   - "[[Rain harvested to grow the walls]]"
   - "[[Retention ponds redesigned as habitat]]"
+  - "[[Soil study at 2,500 hectares, not at the plot line]]"
+  - "[[The flood model was right, and the tenant kept trading]]"
   - "[[Traffic engineers are expert space-consumers]]"
 auto_metrics:
   - "[[Biotope area factor]]"

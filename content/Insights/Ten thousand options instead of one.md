@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — what is \"kept stable\" is garbled in the transcript and he says the daylight decreased"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"
   - "topic/trade-off"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Daylight autonomy]]"
 case_studies: []
 ---
 ## Context

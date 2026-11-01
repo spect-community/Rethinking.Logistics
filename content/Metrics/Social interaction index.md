@@ -17,7 +17,9 @@ auto_case_studies:
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
 auto_insights:
+  - "[[20,000 factory visitors a year, aiming at 25,000]]"
   - "[[27 neighbourhoods, 15,000 datasets, 1,200 answers]]"
+  - "[[Circulation spaces defended with sensor data]]"
   - "[[Two twin harbours, opposite performance]]"
 auto_strategies: []
 auto_tools: []

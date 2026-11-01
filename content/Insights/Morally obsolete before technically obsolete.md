@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/adaptability"
@@ -13,7 +14,8 @@ tags:
   - "topic/circularity"
   - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
 metrics: []
 case_studies: []
 ---

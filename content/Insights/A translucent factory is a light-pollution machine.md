@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/externality"
@@ -13,7 +14,8 @@ tags:
   - "topic/people"
   - "topic/provocation"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
-challenges: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
 metrics: []
 case_studies: []
 ---

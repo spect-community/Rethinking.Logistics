@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -14,8 +15,10 @@ tags:
   - "topic/adaptability"
   - "strategy/5-energy-symbiosis"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Waste heat recovery]]"
 case_studies: []
 ---
 ## Context

@@ -16,6 +16,7 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:
   - "[[Reuse can lose on whole-life carbon]]"
+  - "[[The reduction roadmap led to the activism]]"
   - "[[You can buy a second-hand warehouse]]"
 auto_strategies: []
 auto_tools:

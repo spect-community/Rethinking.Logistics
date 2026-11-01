@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/economics"
@@ -13,7 +14,8 @@ tags:
   - "topic/energy"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Energy use intensity]]"
 case_studies: []
 ---
 ## Context

@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
   - "topic/synergy"
   - "topic/economics"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges: []
+challenges:
+  - "[[Worker comfort and well-being]]"
 metrics: []
 case_studies: []
 ---

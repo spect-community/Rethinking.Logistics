@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,7 +14,8 @@ tags:
   - "topic/data"
   - "strategy/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
-challenges: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
 metrics: []
 case_studies: []
 ---

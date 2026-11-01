@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/data"
@@ -13,7 +14,8 @@ tags:
   - "topic/economics"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
 metrics: []
 case_studies: []
 ---

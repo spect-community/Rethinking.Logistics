@@ -11,7 +11,8 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"
-auto_insights: []
+auto_insights:
+  - "[[Last mile is shortest but costliest]]"
 auto_strategies: []
 auto_tools: []
 ---

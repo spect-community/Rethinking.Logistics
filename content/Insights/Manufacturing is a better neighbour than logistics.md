@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -14,8 +15,10 @@ tags:
   - "topic/externality"
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+metrics:
+  - "[[Jobs created]]"
 case_studies: []
 ---
 ## Context

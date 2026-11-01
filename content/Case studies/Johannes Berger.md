@@ -22,7 +22,8 @@ metrics:
   - "[[Delivery time]]"
   - "[[Level of automation]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Going above the traffic, not through it]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261009102848.png]]

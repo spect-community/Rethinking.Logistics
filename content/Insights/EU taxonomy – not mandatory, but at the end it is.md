@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/certification"
@@ -14,7 +15,8 @@ tags:
   - "topic/data"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Whole-life carbon]]"
 case_studies: []
 ---
 ## Context

@@ -14,7 +14,9 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
-auto_insights: []
+auto_insights:
+  - "[[Carbon is decided in network design, not in the building]]"
+  - "[[Hub placement decided without data]]"
 auto_strategies: []
 auto_tools: []
 ---

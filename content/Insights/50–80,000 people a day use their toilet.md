@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the shopping centre's name is garbled; the figure is given as 80,000 and then as 50–80,000 per day"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/people"

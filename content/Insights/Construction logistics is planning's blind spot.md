@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -15,7 +16,8 @@ tags:
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Road freight impact]]"
 case_studies: []
 ---
 ## Context

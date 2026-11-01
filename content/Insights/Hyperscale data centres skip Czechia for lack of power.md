@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -16,7 +17,9 @@ tags:
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Katrin Rybinskiy]]"
+  - "[[Julia Godard Lombard]]"
 ---
 ## Context
 

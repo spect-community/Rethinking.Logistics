@@ -26,6 +26,7 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Gani]]"
 auto_insights:
+  - "[[159 kg per m² for under 1% of investment cost]]"
   - "[[A baseline they never intended to build]]"
   - "[[Basements are bad news, full stop]]"
   - "[[Biogenic carbon is a bonus, not a currency]]"
@@ -36,6 +37,8 @@ auto_insights:
   - "[[From ~12 to 6.6 kg CO2e per m² per yr]]"
   - "[[Generic EPDs first, product-specific later, contractually locked]]"
   - "[[Low-carbon concrete has a scaling filter]]"
+  - "[[Minus 65% carbon on the structure]]"
+  - "[[Pavement is the unsolved carbon problem]]"
   - "[[Per-kilogram intensity is the wrong question]]"
   - "[[Seven-metre floors flatter the per-m² number]]"
   - "[[The right answer is three materials, not one]]"

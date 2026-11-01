@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
@@ -13,7 +14,9 @@ tags:
   - "topic/energy"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Water reuse share]]"
+  - "[[Waste heat recovery]]"
 case_studies: []
 ---
 ## Context
