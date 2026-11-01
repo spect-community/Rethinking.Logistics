@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the cooperation with the Technical University of Denmark is hedged (\"maybe\") in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"

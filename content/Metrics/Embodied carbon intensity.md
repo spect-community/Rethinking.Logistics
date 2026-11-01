@@ -25,7 +25,21 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Gani]]"
-auto_insights: []
+auto_insights:
+  - "[[A baseline they never intended to build]]"
+  - "[[Basements are bad news, full stop]]"
+  - "[[Biogenic carbon is a bonus, not a currency]]"
+  - "[[Carbon has a horizontal bias]]"
+  - "[[Concrete is a low-carbon material]]"
+  - "[[False precision is nonsense]]"
+  - "[[Floor-area definitions move your number 5–20%]]"
+  - "[[From ~12 to 6.6 kg CO2e per m² per yr]]"
+  - "[[Generic EPDs first, product-specific later, contractually locked]]"
+  - "[[Low-carbon concrete has a scaling filter]]"
+  - "[[Per-kilogram intensity is the wrong question]]"
+  - "[[Seven-metre floors flatter the per-m² number]]"
+  - "[[The right answer is three materials, not one]]"
+  - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
 auto_strategies: []
 auto_tools:
   - "[[Bombyx]]"

@@ -10,7 +10,9 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
-auto_insights: []
+auto_insights:
+  - "[[35,000 m² of green façade, possibly the world's largest]]"
+  - "[[Client refused to wait 15 years for green]]"
 auto_strategies: []
 auto_tools: []
 ---

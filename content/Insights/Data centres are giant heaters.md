@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -14,9 +15,12 @@ tags:
   - "topic/externality"
   - "strategy/5-energy-symbiosis"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Waste heat recovery]]"
+case_studies:
+  - "[[Julia Godard Lombard]]"
 ---
 ## Context
 

@@ -18,7 +18,11 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Lindsay Daphne Macuja]]"
-auto_insights: []
+auto_insights:
+  - "[[80% of what a city needs is made outside it]]"
+  - "[[Don't let every unit be 2,000 m²]]"
+  - "[[Residential and logistics cannot share a block; offices and retail can]]"
+  - "[[Single-function land use is the real waste]]"
 auto_strategies: []
 auto_tools: []
 ---

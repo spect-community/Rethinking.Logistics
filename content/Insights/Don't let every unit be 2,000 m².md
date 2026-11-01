@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"
@@ -13,9 +14,12 @@ tags:
   - "topic/people"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
+metrics:
+  - "[[Mixed-use ratio]]"
+case_studies:
+  - "[[Marek Nový]]"
 ---
 ## Context
 

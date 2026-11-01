@@ -5,7 +5,8 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Robin Jesenský]]"
-auto_insights: []
+auto_insights:
+  - "[[Data centres are giant heaters]]"
 auto_metrics:
   - "[[Carbon usage effectiveness]]"
   - "[[Heat recovery radius]]"

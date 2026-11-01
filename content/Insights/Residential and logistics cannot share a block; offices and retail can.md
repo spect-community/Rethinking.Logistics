@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -15,9 +16,12 @@ tags:
   - "strategy/3-urban-hybrid"
   - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
+metrics:
+  - "[[Mixed-use ratio]]"
+case_studies:
+  - "[[Lindsay Daphne Macuja]]"
 ---
 ## Context
 

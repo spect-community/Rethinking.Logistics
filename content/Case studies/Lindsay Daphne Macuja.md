@@ -28,7 +28,8 @@ metrics:
 tools:
   - "[[One Click LCA]]"
   - "[[Grasshopper]]"
-auto_insights: []
+auto_insights:
+  - "[[Residential and logistics cannot share a block; offices and retail can]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031083257.png]]

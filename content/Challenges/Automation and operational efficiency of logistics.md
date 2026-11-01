@@ -3,7 +3,11 @@ category: Operations
 status: published
 auto_case_studies:
   - "[[Johannes Berger]]"
-auto_insights: []
+auto_insights:
+  - "[[8–10% of the area, 50% of the people]]"
+  - "[[A warehouse run by four people]]"
+  - "[[Fit-out can cost more than the building]]"
+  - "[[The MHE designed the building, not the architect]]"
 auto_metrics:
   - "[[Carbon per pallet handled]]"
   - "[[Delivery time]]"

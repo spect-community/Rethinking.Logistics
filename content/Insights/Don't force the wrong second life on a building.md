@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,9 +15,13 @@ tags:
   - "topic/circularity"
   - "strategy/2-adaptive-modular"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Whole-life carbon]]"
+case_studies:
+  - "[[Julia Godard Lombard]]"
+  - "[[Katrin Rybinskiy]]"
 ---
 ## Context
 

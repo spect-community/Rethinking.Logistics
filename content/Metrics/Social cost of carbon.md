@@ -9,7 +9,8 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
-auto_insights: []
+auto_insights:
+  - "[[We can price carbon, not nature]]"
 auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"

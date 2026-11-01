@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,7 +14,8 @@ tags:
   - "topic/provocation"
   - "strategy/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
 metrics: []
 case_studies: []
 ---

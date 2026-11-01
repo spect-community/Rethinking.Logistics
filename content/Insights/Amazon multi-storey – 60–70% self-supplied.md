@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — speaker hedges"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -14,8 +15,11 @@ tags:
   - "strategy/5-energy-symbiosis"
   - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[On-site renewable energy share]]"
 case_studies: []
 ---
 ## Context

@@ -27,7 +27,9 @@ metrics:
   - "[[Adaptability]]"
   - "[[Distance to housing]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Flexibility is time, not just hardware]]"
+  - "[[Grey space – buildings sized for Black Friday]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031080333.png]]

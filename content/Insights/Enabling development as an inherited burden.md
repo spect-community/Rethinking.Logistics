@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — phrase partly garbled"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"

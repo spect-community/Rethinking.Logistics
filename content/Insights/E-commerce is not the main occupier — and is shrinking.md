@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — see Part 6; CBRE's published series uses different numbers. In the transcript the 15–25% figure refers to online's share of space demand, not of retail sales"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"

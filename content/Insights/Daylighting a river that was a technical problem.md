@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -14,7 +15,8 @@ tags:
   - "topic/adaptability"
   - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
-challenges: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
 metrics: []
 case_studies: []
 ---

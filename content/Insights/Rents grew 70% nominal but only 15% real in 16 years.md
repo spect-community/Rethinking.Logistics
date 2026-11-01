@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — a stray \"5.6% a year\" in the same passage appears garbled"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/economics"

@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the transcript says \"16 or 17\" solutions, and the project name is garbled (\"my mom Mullen\")"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
   - "topic/materials"
   - "topic/provocation"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

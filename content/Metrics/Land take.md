@@ -21,7 +21,10 @@ auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
-auto_insights: []
+auto_insights:
+  - "[[58% of the site lost, biodiversity still up 10–11%]]"
+  - "[[Density is the environmental strategy]]"
+  - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the neighbourhood names read \"Aarhuskel\" and \"Slusser Holtman\" in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/economics"
@@ -14,7 +15,8 @@ tags:
   - "topic/city"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Social interaction index]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,7 +14,8 @@ tags:
   - "topic/economics"
   - "strategy/5-energy-symbiosis"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
-challenges: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

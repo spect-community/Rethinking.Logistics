@@ -19,7 +19,12 @@ auto_case_studies:
   - "[[Sara Gani]]"
   - "[[Sara Sulollari]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[A High Line for a whole industrial estate]]"
+  - "[[Don't let every unit be 2,000 m²]]"
+  - "[[Residential and logistics cannot share a block; offices and retail can]]"
+  - "[[The ecotone is the design brief]]"
+  - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Green-core anchoring of mixed uses]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/synergy"
@@ -14,7 +15,8 @@ tags:
   - "topic/provocation"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

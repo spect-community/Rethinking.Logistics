@@ -4,7 +4,10 @@ status: published
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"
-auto_insights: []
+auto_insights:
+  - "[[A three-dimensional street inside the shed]]"
+  - "[[Skylights as wayfinding in a 565 m building]]"
+  - "[[The literal glass wall between collars]]"
 auto_metrics:
   - "[[Daylight autonomy]]"
   - "[[Function stacking index]]"

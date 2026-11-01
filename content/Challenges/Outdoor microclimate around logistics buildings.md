@@ -5,7 +5,10 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
-auto_insights: []
+auto_insights:
+  - "[[Eight degrees quintuples walking distance]]"
+  - "[[Humidity, not Celsius, is the barrier]]"
+  - "[[Microclimate decides whether a masterplan works]]"
 auto_metrics:
   - "[[Noise level]]"
   - "[[Pedestrian-level wind speed]]"

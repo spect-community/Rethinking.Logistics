@@ -15,7 +15,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
-auto_insights: []
+auto_insights:
+  - "[[Data centres are giant heaters]]"
 auto_strategies: []
 auto_tools:
   - "[[nPro]]"

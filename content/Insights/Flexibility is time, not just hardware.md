@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,9 +15,13 @@ tags:
   - "strategy/2-adaptive-modular"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Public access and community use of logistics sites]]"
+metrics:
+  - "[[Adaptability]]"
+case_studies:
+  - "[[Elsa Hauksdottir]]"
 ---
 ## Context
 

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -15,7 +16,8 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Green-core anchoring of mixed uses]]"
 case_studies: []
 ---
 ## Context

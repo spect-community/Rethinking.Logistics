@@ -5,7 +5,10 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Katrin Rybinskiy]]"
-auto_insights: []
+auto_insights:
+  - "[[Parking hidden inside a fauna corridor]]"
+  - "[[The dog-walker on the dyke as a design client]]"
+  - "[[Warehouses aren't sexy — but that's changing]]"
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Social acceptance]]"

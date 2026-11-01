@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — see Part 6; the canonical figure is >75%"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/landscape"

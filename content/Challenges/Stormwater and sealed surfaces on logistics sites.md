@@ -9,7 +9,14 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
-auto_insights: []
+auto_insights:
+  - "[[A dump site that forbade digging became islands]]"
+  - "[[Daylighting a river that was a technical problem]]"
+  - "[[Don't dig down vs biodiversity]]"
+  - "[[Nature-based solutions because pipes can't cope]]"
+  - "[[Rain harvested to grow the walls]]"
+  - "[[Retention ponds redesigned as habitat]]"
+  - "[[Traffic engineers are expert space-consumers]]"
 auto_metrics:
   - "[[Biotope area factor]]"
   - "[[Function stacking index]]"

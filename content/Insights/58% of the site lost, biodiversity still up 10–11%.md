@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,8 +14,11 @@ tags:
   - "topic/trade-off"
   - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Biodiversity net gain]]"
+  - "[[Land take]]"
 case_studies: []
 ---
 ## Context

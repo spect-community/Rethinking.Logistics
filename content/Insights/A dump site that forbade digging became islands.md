@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
@@ -14,8 +15,10 @@ tags:
   - "topic/synergy"
   - "strategy/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+metrics:
+  - "[[Stormwater retention volume]]"
 case_studies: []
 ---
 ## Context

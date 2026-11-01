@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
@@ -14,8 +15,10 @@ tags:
   - "topic/landscape"
   - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+metrics:
+  - "[[Impervious surface ratio]]"
 case_studies: []
 ---
 ## Context

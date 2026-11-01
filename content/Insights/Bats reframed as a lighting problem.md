@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — 'insects' reads 'intact' in the transcript, and 'they don't get killed in the lamps' may refer to insects rather than bats"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/synergy"
@@ -14,7 +15,8 @@ tags:
   - "topic/data"
   - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
-challenges: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
 metrics: []
 case_studies: []
 ---

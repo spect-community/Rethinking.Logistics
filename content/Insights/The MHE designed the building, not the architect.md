@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/trade-off"
   - "topic/adaptability"
   - "topic/provocation"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
 metrics: []
 case_studies: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/externality"
@@ -15,9 +16,12 @@ tags:
   - "topic/provocation"
   - "strategy/2-adaptive-modular"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
+metrics:
+  - "[[Space utilisation]]"
+case_studies:
+  - "[[Elsa Hauksdottir]]"
 ---
 ## Context
 

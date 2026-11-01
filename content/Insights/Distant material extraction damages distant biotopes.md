@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/materials"
@@ -13,8 +14,10 @@ tags:
   - "topic/externality"
   - "topic/landscape"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Biodiversity stress from materials]]"
 case_studies: []
 ---
 ## Context

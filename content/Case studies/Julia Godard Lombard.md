@@ -31,7 +31,10 @@ metrics:
   - "[[Function stacking index]]"
 tools:
   - "[[Geoportal Praha]]"
-auto_insights: []
+auto_insights:
+  - "[[Data centres are giant heaters]]"
+  - "[[Don't force the wrong second life on a building]]"
+  - "[[Reuse can lose on whole-life carbon]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031081842.png]]

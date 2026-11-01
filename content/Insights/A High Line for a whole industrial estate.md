@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the campus name reads \"Lundbridge\" in the transcript"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,9 +15,12 @@ tags:
   - "topic/landscape"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
+challenges:
+  - "[[Public access and community use of logistics sites]]"
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Ilinca Maria Baciu]]"
 ---
 ## Context
 

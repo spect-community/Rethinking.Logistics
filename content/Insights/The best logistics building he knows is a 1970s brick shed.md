@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "high — but see Part 6 for the correct building name"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/materials"
   - "topic/provocation"
   - "topic/carbon"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/carbon"
@@ -13,7 +14,9 @@ tags:
   - "topic/data"
   - "topic/provocation"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

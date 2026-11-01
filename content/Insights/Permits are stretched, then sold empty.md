@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,7 +15,8 @@ tags:
   - "strategy/2-adaptive-modular"
   - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
 metrics: []
 case_studies: []
 ---

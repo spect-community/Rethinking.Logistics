@@ -7,7 +7,11 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
-auto_insights: []
+auto_insights:
+  - "[[A High Line for a whole industrial estate]]"
+  - "[[A water treatment plant that is also a walk]]"
+  - "[[Flexibility is time, not just hardware]]"
+  - "[[Nature designed to exclude people]]"
 auto_metrics:
   - "[[Green area ratio]]"
   - "[[Green space per visitor]]"

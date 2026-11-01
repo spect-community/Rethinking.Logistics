@@ -18,7 +18,8 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Data centre carbon is many multiples of a warehouse]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

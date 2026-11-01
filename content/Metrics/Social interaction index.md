@@ -16,7 +16,9 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
-auto_insights: []
+auto_insights:
+  - "[[27 neighbourhoods, 15,000 datasets, 1,200 answers]]"
+  - "[[Two twin harbours, opposite performance]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
   - "topic/synergy"
   - "topic/city"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+metrics:
+  - "[[Daylight autonomy]]"
 case_studies: []
 ---
 ## Context

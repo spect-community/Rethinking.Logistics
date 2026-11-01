@@ -7,7 +7,13 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
   - "[[Johannes Berger]]"
   - "[[Julia Kopác]]"
-auto_insights: []
+auto_insights:
+  - "[[4.7% vs 8–9% vs 14–15%]]"
+  - "[[Amazon multi-storey – 60–70% self-supplied]]"
+  - "[[Brownfields are per mils of the market]]"
+  - "[[Density is the environmental strategy]]"
+  - "[[Mandatory site greenery as anti-landscape policy]]"
+  - "[[Single-function land use is the real waste]]"
 auto_metrics:
   - "[[Function stacking index]]"
   - "[[Impervious surface ratio]]"

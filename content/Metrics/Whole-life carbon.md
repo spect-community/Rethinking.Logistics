@@ -12,7 +12,12 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Building services are a whole-life carbon sleeper]]"
+  - "[[Don't force the wrong second life on a building]]"
+  - "[[Logistics is not one typology — it's a carbon spectrum]]"
+  - "[[Reuse can lose on whole-life carbon]]"
+  - "[[Whole-life carbon usually isn't whole]]"
 auto_strategies: []
 auto_tools:
   - "[[CO2mpare]]"

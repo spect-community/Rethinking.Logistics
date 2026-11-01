@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the figure is said loosely in mid-sentence and not sourced"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -16,7 +17,8 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Mixed-use ratio]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/data"
@@ -13,7 +14,8 @@ tags:
   - "topic/trade-off"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

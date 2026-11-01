@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the quarry by-product is garbled in the transcript (\"spoiler, which is the Isola stone\"); \"quarry spoil\" is an inference"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/materials"
   - "topic/economics"
   - "topic/provocation"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

@@ -6,7 +6,17 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Kopác]]"
-auto_insights: []
+auto_insights:
+  - "[[80% of the market need, not 100% of one tenant]]"
+  - "[[Expandable units are wanted but planning kills them]]"
+  - "[[Flexibility is time, not just hardware]]"
+  - "[[Grey space – buildings sized for Black Friday]]"
+  - "[[Over-build the height, don't charge for it]]"
+  - "[[Permits are stretched, then sold empty]]"
+  - "[[Tailoring is a one-way door]]"
+  - "[[The biggest possible hall reflex is a carbon cost]]"
+  - "[[Today's sheds are tomorrow's convertible stock]]"
+  - "[[You can buy a second-hand warehouse]]"
 auto_metrics:
   - "[[Adaptability]]"
   - "[[Construction cost]]"

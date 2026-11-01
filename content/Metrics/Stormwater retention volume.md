@@ -14,7 +14,9 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
   - "[[Marek Nový]]"
-auto_insights: []
+auto_insights:
+  - "[[A dump site that forbade digging became islands]]"
+  - "[[Retention ponds redesigned as habitat]]"
 auto_strategies: []
 auto_tools: []
 ---

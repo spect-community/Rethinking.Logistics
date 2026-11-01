@@ -11,7 +11,8 @@ challenges:
   - "[[Waste heat and cooling of data centres]]"
 auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
-auto_insights: []
+auto_insights:
+  - "[[Rethink the normalising unit per typology]]"
 auto_strategies: []
 auto_tools: []
 ---

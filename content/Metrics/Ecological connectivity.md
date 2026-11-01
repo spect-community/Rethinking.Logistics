@@ -13,7 +13,11 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
-auto_insights: []
+auto_insights:
+  - "[[Biodiversity net gain, step by step]]"
+  - "[[No islands — connectivity is the metric]]"
+  - "[[Parking hidden inside a fauna corridor]]"
+  - "[[Singapore's 20 km road becomes a green corridor]]"
 auto_strategies: []
 auto_tools: []
 ---

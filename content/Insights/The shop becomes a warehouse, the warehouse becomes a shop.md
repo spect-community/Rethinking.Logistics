@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -15,9 +16,11 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/4-mobility-last-mile"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Adam Večeřa]]"
 ---
 ## Context
 

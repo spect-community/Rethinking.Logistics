@@ -15,7 +15,8 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Lindsay Daphne Macuja]]"
   - "[[Roshni Basu]]"
-auto_insights: []
+auto_insights:
+  - "[[Amazon multi-storey – 60–70% self-supplied]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

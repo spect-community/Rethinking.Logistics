@@ -15,7 +15,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
-auto_insights: []
+auto_insights:
+  - "[[Eight degrees quintuples walking distance]]"
 auto_strategies: []
 auto_tools:
   - "[[Lands Design]]"

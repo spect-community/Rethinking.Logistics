@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"
@@ -13,7 +14,8 @@ tags:
   - "topic/people"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Social interaction index]]"
 case_studies: []
 ---
 ## Context

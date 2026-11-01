@@ -12,7 +12,8 @@ challenges:
   - "[[Automation and operational efficiency of logistics]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
-auto_insights: []
+auto_insights:
+  - "[[A warehouse run by four people]]"
 auto_strategies: []
 auto_tools: []
 ---

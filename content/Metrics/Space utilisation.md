@@ -15,7 +15,9 @@ auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
-auto_insights: []
+auto_insights:
+  - "[[Electrifying the car is the lazy answer]]"
+  - "[[Grey space – buildings sized for Black Friday]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

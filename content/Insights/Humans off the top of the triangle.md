@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the name of the block type is garbled in the transcript"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/landscape"

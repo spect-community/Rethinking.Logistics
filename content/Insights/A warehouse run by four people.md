@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — hedged with \"apparently\" in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
   - "topic/data"
   - "topic/provocation"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
+metrics:
+  - "[[Level of automation]]"
 case_studies: []
 ---
 ## Context

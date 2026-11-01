@@ -6,7 +6,12 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
-auto_insights: []
+auto_insights:
+  - "[[Amazon multi-storey – 60–70% self-supplied]]"
+  - "[[Lifts and PVs eat a quarter of the carbon budget]]"
+  - "[[Norms force oversized heat pumps]]"
+  - "[[Self-generated power as a development advantage]]"
+  - "[[Skylights as a legislative contradiction]]"
 auto_metrics:
   - "[[CapEx–OpEx ratio]]"
   - "[[Carbon per pallet handled]]"

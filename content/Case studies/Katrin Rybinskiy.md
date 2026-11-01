@@ -23,7 +23,9 @@ metrics:
   - "[[CapEx–OpEx ratio]]"
   - "[[Electricity price]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Don't force the wrong second life on a building]]"
+  - "[[Reuse can lose on whole-life carbon]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031082008.png]]

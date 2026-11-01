@@ -29,7 +29,8 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
@@ -14,9 +15,14 @@ tags:
   - "topic/carbon"
   - "strategy/1-regenerative-park"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Green roof coverage]]"
+  - "[[Structural utilisation]]"
+  - "[[Biodiversity stress from materials]]"
+case_studies:
+  - "[[Ece Yasar]]"
 ---
 ## Context
 

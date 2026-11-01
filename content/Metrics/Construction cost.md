@@ -13,7 +13,9 @@ challenges:
 auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
-auto_insights: []
+auto_insights:
+  - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
+  - "[[Fit-out can cost more than the building]]"
 auto_strategies: []
 auto_tools:
   - "[[Galapagos]]"

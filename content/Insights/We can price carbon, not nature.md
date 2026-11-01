@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/externality"
@@ -14,7 +15,8 @@ tags:
   - "topic/data"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Social cost of carbon]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/landscape"
@@ -14,8 +15,10 @@ tags:
   - "topic/trade-off"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Mixed-use ratio]]"
 case_studies: []
 ---
 ## Context

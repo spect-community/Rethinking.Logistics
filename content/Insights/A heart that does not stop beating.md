@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — metaphor garbled as \"hard\" for \"heart\""
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/city"

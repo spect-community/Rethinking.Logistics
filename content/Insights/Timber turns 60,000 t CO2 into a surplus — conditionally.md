@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the result is hedged by the speaker: it depends on the timber not being burned after 50 years and on future EU legislation"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/carbon"
@@ -13,8 +14,11 @@ tags:
   - "topic/trade-off"
   - "topic/circularity"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
+  - "[[Life-cycle impact by stage]]"
 case_studies: []
 ---
 ## Context

@@ -3,9 +3,10 @@ statement: "Omnichannel retailers, 3PLs and post/parcel operators together accou
 source_type: expert
 locator: "early-mid — anchor: \"third-party logistics providers, so a DHL\""
 quote_type: paraphrase
-evidence_status: open-for-review
+evidence_status: disputed
 confidence: "check — sentence garbled in the transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -29,3 +30,7 @@ Cartlich (CBRE) moves from macro drivers to the sector and lists the occupier se
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (sentence garbled). To be checked against the recording.
+
+## What needs checking (curation)
+
+Puts all traditional users (manufacturing, construction, medical) at 15–20% of take-up, while 'Manufacturing take-up more than doubled' has manufacturing alone at ~12% in 2021 and over ~24% by 2025 — the two shares cannot both hold for the current market.

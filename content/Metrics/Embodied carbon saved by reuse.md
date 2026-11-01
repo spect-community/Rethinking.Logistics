@@ -14,7 +14,9 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
-auto_insights: []
+auto_insights:
+  - "[[Reuse can lose on whole-life carbon]]"
+  - "[[You can buy a second-hand warehouse]]"
 auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"

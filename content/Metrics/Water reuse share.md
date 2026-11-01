@@ -14,7 +14,8 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
-auto_insights: []
+auto_insights:
+  - "[[Rain harvested to grow the walls]]"
 auto_strategies: []
 auto_tools: []
 ---

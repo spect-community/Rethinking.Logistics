@@ -16,7 +16,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Sulollari]]"
-auto_insights: []
+auto_insights:
+  - "[[Brownfield rules block on-site recycling]]"
 auto_strategies: []
 auto_tools: []
 ---

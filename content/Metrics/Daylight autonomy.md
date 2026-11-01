@@ -13,7 +13,9 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Gani]]"
-auto_insights: []
+auto_insights:
+  - "[[Skylights as a legislative contradiction]]"
+  - "[[Skylights as wayfinding in a 565 m building]]"
 auto_strategies: []
 auto_tools:
   - "[[Honeybee]]"

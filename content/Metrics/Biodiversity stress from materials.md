@@ -12,7 +12,9 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
-auto_insights: []
+auto_insights:
+  - "[[Distant material extraction damages distant biotopes]]"
+  - "[[Green roofs are a biodiversity investment, not a carbon one]]"
 auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"

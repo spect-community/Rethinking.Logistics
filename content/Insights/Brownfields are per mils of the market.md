@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/trade-off"
@@ -13,7 +14,8 @@ tags:
   - "topic/provocation"
   - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges: []
+challenges:
+  - "[[Land take of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

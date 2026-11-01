@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"
@@ -13,8 +14,10 @@ tags:
   - "topic/materials"
   - "topic/provocation"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Automation and operational efficiency of logistics]]"
+metrics:
+  - "[[Construction cost]]"
 case_studies: []
 ---
 ## Context

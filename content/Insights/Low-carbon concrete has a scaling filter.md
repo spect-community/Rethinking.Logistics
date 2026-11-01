@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/economics"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

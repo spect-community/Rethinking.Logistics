@@ -15,7 +15,10 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Ilinca Maria Baciu]]"
   - "[[Thomas Olsen]]"
-auto_insights: []
+auto_insights:
+  - "[[Every surface recruited – wetland, roof meadow, green facade]]"
+  - "[[Green roofs are a biodiversity investment, not a carbon one]]"
+  - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

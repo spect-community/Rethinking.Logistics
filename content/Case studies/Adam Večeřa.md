@@ -45,7 +45,8 @@ metrics:
   - "[[Green-core anchoring of mixed uses]]"
 tools:
   - "[[Grasshopper]]"
-auto_insights: []
+auto_insights:
+  - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261009101951.png]]

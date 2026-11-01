@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -15,8 +16,12 @@ tags:
   - "strategy/1-regenerative-park"
   - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Green area ratio]]"
+  - "[[Land take]]"
 case_studies: []
 ---
 ## Context

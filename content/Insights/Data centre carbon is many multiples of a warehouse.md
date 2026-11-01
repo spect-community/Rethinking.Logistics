@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -13,7 +14,8 @@ tags:
   - "topic/data"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Operational carbon]]"
 case_studies: []
 ---
 ## Context

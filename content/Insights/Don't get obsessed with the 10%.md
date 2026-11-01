@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/provocation"
@@ -14,7 +15,8 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Biodiversity net gain]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/landscape"
@@ -15,7 +16,8 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Carbon sequestration by planting]]"
 case_studies: []
 ---
 ## Context

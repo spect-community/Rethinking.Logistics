@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/provocation"
@@ -14,7 +15,8 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Space utilisation]]"
 case_studies: []
 ---
 ## Context

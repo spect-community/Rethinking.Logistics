@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/city"
@@ -15,8 +16,10 @@ tags:
   - "strategy/1-regenerative-park"
   - "strategy/4-mobility-last-mile"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+metrics:
+  - "[[Impervious surface ratio]]"
 case_studies: []
 ---
 ## Context

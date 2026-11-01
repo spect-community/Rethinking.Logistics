@@ -12,7 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
-auto_insights: []
+auto_insights:
+  - "[[Amazon locates by unemployment rate]]"
 auto_strategies: []
 auto_tools: []
 ---

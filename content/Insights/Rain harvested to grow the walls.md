@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,8 +14,11 @@ tags:
   - "topic/landscape"
   - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+metrics:
+  - "[[Water reuse share]]"
+  - "[[Stormwater runoff reduction]]"
 case_studies: []
 ---
 ## Context

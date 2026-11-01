@@ -6,14 +6,17 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the office-equivalent figure reads \"444.5\" in the transcript"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/provocation"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

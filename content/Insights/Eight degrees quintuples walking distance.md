@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the baseline perceived temperature reads \"4040 degrees\" in the transcript; 8 degrees and five times are clear"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -14,8 +15,11 @@ tags:
   - "topic/data"
   - "strategy/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Outdoor microclimate around logistics buildings]]"
+metrics:
+  - "[[Thermal comfort]]"
+  - "[[Tree count and canopy cover]]"
 case_studies: []
 ---
 ## Context

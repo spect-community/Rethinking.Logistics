@@ -29,7 +29,8 @@ metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Operational carbon]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[A High Line for a whole industrial estate]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031081638.png]]

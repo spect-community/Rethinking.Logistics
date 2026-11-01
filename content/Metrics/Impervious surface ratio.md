@@ -20,7 +20,9 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
-auto_insights: []
+auto_insights:
+  - "[[Don't dig down vs biodiversity]]"
+  - "[[Traffic engineers are expert space-consumers]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

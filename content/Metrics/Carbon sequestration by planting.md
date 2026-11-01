@@ -12,7 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
-auto_insights: []
+auto_insights:
+  - "[[Wetlands chosen partly as carbon sinks]]"
 auto_strategies: []
 auto_tools: []
 ---

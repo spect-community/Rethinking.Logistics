@@ -11,7 +11,8 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
-auto_insights: []
+auto_insights:
+  - "[[Tailoring is a one-way door]]"
 auto_strategies: []
 auto_tools: []
 ---

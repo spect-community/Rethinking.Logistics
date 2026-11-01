@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — see Part 6"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"

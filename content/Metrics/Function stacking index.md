@@ -21,7 +21,9 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"
   - "[[Julia Godard Lombard]]"
-auto_insights: []
+auto_insights:
+  - "[[Every surface recruited – wetland, roof meadow, green facade]]"
+  - "[[Four habitat types as design vocabulary]]"
 auto_strategies: []
 auto_tools: []
 ---

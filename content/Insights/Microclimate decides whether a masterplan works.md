@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
   - "topic/trade-off"
   - "topic/data"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges: []
+challenges:
+  - "[[Outdoor microclimate around logistics buildings]]"
 metrics: []
 case_studies: []
 ---

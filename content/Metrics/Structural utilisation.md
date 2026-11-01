@@ -13,7 +13,11 @@ challenges:
   - "[[Adaptable and relocatable logistics structures]]"
 auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
-auto_insights: []
+auto_insights:
+  - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
+  - "[[Forklifts, not robots, forced the concrete]]"
+  - "[[Green roofs are a biodiversity investment, not a carbon one]]"
+  - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_strategies: []
 auto_tools:
   - "[[Donkey]]"

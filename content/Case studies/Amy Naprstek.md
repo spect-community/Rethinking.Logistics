@@ -20,7 +20,8 @@ metrics:
   - "[[Adaptability]]"
   - "[[Distance to housing]]"
 tools: []
-auto_insights: []
+auto_insights:
+  - "[[Expandable units are wanted but planning kills them]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031072137.png]]

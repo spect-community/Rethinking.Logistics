@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/provocation"
   - "topic/city"
   - "topic/people"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
-challenges: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
 metrics: []
 case_studies: []
 ---
