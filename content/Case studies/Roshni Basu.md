@@ -22,6 +22,8 @@ metrics:
   - "[[Jobs created]]"
 tools:
   - "[[Grasshopper]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

@@ -29,6 +29,8 @@ metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Operational carbon]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031081638.png]]
 ## Project

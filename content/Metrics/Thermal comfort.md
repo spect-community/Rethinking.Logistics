@@ -14,6 +14,8 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Honeybee]]"

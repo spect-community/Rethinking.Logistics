@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
   - "[[Marek Nový]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

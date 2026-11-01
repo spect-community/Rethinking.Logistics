@@ -20,6 +20,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

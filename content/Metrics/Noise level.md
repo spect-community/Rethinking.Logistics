@@ -18,6 +18,8 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

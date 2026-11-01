@@ -20,6 +20,8 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Publicly accessible area]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031091033.png]]
 ## Project

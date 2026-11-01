@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Cyclops]]"
   - "[[Dragonfly]]"

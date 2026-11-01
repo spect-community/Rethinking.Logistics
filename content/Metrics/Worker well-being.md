@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

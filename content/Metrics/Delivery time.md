@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

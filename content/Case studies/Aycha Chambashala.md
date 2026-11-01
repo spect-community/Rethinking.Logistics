@@ -22,6 +22,8 @@ metrics:
   - "[[Green area ratio]]"
   - "[[Function stacking index]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031080030.png]]
 ## Project

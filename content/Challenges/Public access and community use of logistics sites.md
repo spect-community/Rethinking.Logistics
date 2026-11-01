@@ -7,6 +7,7 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
+auto_insights: []
 auto_metrics:
   - "[[Green area ratio]]"
   - "[[Green space per visitor]]"
@@ -14,6 +15,7 @@ auto_metrics:
   - "[[Mixed-use ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

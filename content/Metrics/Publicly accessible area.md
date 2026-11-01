@@ -26,6 +26,8 @@ auto_case_studies:
   - "[[Sara Gani]]"
   - "[[Sara Sulollari]]"
   - "[[Thomas Olsen]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

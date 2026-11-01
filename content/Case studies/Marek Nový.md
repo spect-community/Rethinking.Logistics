@@ -27,6 +27,8 @@ metrics:
   - "[[Space utilisation]]"
   - "[[Green-core anchoring of mixed uses]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031083733.png]]
 ## Project

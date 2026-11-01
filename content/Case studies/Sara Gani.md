@@ -31,6 +31,8 @@ metrics:
   - "[[Life-cycle impact by stage]]"
   - "[[Green-core anchoring of mixed uses]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031084803.png]]
 ## Project

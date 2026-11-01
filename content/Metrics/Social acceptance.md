@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Eva Kažukolovaitė]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

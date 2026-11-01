@@ -11,6 +11,8 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

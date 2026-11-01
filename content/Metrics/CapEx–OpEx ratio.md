@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

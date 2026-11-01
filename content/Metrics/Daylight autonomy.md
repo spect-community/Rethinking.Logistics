@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Honeybee]]"
   - "[[Pollination]]"

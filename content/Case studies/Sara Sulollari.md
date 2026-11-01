@@ -24,6 +24,8 @@ tools:
   - "[[Eddy3D]]"
   - "[[Grasshopper]]"
   - "[[Ladybug]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009101110.png]]
 ## Project

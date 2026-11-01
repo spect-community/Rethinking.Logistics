@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -6,11 +6,13 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Kopác]]"
+auto_insights: []
 auto_metrics:
   - "[[Adaptability]]"
   - "[[Construction cost]]"
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
+auto_strategies: []
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

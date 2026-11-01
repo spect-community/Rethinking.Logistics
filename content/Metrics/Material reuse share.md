@@ -16,6 +16,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Sulollari]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

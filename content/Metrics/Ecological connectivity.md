@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

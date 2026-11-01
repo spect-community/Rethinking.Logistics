@@ -22,6 +22,8 @@ metrics:
   - "[[Delivery time]]"
   - "[[Level of automation]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009102848.png]]
 ## Project

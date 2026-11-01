@@ -9,6 +9,7 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Lindsay Daphne Macuja]]"
   - "[[Sara Gani]]"
+auto_insights: []
 auto_metrics:
   - "[[Biodiversity net gain]]"
   - "[[Biodiversity stress from materials]]"
@@ -22,6 +23,7 @@ auto_metrics:
   - "[[Green-core anchoring of mixed uses]]"
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

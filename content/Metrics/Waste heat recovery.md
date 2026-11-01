@@ -15,6 +15,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[nPro]]"
 ---

@@ -9,6 +9,7 @@ auto_case_studies:
   - "[[Sara Sulollari]]"
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
+auto_insights: []
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
   - "[[CapEx–OpEx ratio]]"
@@ -20,6 +21,7 @@ auto_metrics:
   - "[[Social cost of carbon]]"
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
+auto_strategies: []
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

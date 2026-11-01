@@ -12,6 +12,8 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[CO2mpare]]"
   - "[[One Click LCA]]"

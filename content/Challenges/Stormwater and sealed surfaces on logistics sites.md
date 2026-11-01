@@ -9,6 +9,7 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
+auto_insights: []
 auto_metrics:
   - "[[Biotope area factor]]"
   - "[[Function stacking index]]"
@@ -19,6 +20,7 @@ auto_metrics:
   - "[[Stormwater runoff reduction]]"
   - "[[Water reuse share]]"
   - "[[Yard area per dock]]"
+auto_strategies: []
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

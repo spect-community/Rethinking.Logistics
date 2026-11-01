@@ -20,6 +20,8 @@ metrics:
   - "[[Adaptability]]"
   - "[[Distance to housing]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031072137.png]]
 ## Project

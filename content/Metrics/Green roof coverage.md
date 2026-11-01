@@ -15,6 +15,8 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Ilinca Maria Baciu]]"
   - "[[Thomas Olsen]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

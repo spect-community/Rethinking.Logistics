@@ -21,6 +21,8 @@ auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

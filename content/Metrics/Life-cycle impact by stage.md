@@ -10,6 +10,8 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 auto_case_studies:
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

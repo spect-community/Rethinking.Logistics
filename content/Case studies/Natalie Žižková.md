@@ -29,6 +29,8 @@ metrics:
 tools:
   - "[[Grasshopper]]"
   - "[[Galapagos]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031084932.png]]
 ![[Pasted image 20261031085016.png]]

@@ -18,6 +18,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

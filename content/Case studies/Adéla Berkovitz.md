@@ -26,6 +26,8 @@ metrics:
   - "[[Throughput per site area]]"
   - "[[Function stacking index]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031081120.png]]
 ![[Pasted image 20261031071906.png]]

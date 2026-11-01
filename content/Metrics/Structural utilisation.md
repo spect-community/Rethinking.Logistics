@@ -13,6 +13,8 @@ challenges:
   - "[[Adaptable and relocatable logistics structures]]"
 auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Donkey]]"
   - "[[Karamba3D]]"

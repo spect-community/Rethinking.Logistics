@@ -23,6 +23,8 @@ metrics:
   - "[[CapEx–OpEx ratio]]"
   - "[[Electricity price]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031082008.png]]
 ## Project

@@ -31,6 +31,8 @@ tools:
   - "[[AutoTURN]]"
   - "[[Kangaroo]]"
   - "[[Grasshopper]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009102125.png]]
 ## Project

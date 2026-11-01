@@ -19,6 +19,7 @@ auto_case_studies:
   - "[[Sara Gani]]"
   - "[[Sara Sulollari]]"
   - "[[Vladi Kostecki]]"
+auto_insights: []
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Green-core anchoring of mixed uses]]"
@@ -30,6 +31,7 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Social interaction index]]"
   - "[[Walkability]]"
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

@@ -3,6 +3,7 @@ category: Operations
 status: published
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_insights: []
 auto_metrics:
   - "[[Carbon per pallet handled]]"
   - "[[Delivery time]]"
@@ -12,6 +13,7 @@ auto_metrics:
   - "[[Level of automation]]"
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

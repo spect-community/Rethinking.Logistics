@@ -10,6 +10,8 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
 ---

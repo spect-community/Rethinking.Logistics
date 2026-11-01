@@ -21,6 +21,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Jifto]]"
   - "[[Ladybug]]"

@@ -12,6 +12,8 @@ challenges:
   - "[[Automation and operational efficiency of logistics]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

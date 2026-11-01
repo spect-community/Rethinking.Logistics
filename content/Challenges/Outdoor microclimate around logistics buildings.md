@@ -5,6 +5,7 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
+auto_insights: []
 auto_metrics:
   - "[[Noise level]]"
   - "[[Pedestrian-level wind speed]]"
@@ -13,6 +14,7 @@ auto_metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Urban heat island effect]]"
   - "[[Wind conditions]]"
+auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
   - "[[Cyclops]]"

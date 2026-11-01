@@ -5,6 +5,7 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Robin Jesenský]]"
+auto_insights: []
 auto_metrics:
   - "[[Carbon usage effectiveness]]"
   - "[[Heat recovery radius]]"
@@ -12,6 +13,7 @@ auto_metrics:
   - "[[Waste heat recovery]]"
   - "[[Water consumption]]"
   - "[[Wind conditions]]"
+auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

@@ -25,6 +25,8 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

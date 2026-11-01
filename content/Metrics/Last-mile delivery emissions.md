@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

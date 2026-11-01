@@ -28,6 +28,8 @@ metrics:
 tools:
   - "[[One Click LCA]]"
   - "[[Grasshopper]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031083257.png]]
 ## Project

@@ -6,6 +6,7 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
+auto_insights: []
 auto_metrics:
   - "[[Delivery catchment]]"
   - "[[Delivery time]]"
@@ -14,6 +15,7 @@ auto_metrics:
   - "[[Last-mile delivery emissions]]"
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

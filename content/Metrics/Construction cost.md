@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Galapagos]]"
 ---

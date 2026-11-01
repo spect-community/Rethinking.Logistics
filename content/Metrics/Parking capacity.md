@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -10,6 +10,8 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

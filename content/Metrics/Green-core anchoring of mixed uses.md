@@ -21,6 +21,8 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

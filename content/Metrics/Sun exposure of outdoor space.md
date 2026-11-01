@@ -14,6 +14,8 @@ challenges:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Marek Nový]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Cyclops]]"
   - "[[Jifto]]"

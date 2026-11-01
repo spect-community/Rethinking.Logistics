@@ -7,6 +7,7 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
   - "[[Johannes Berger]]"
   - "[[Julia Kopác]]"
+auto_insights: []
 auto_metrics:
   - "[[Function stacking index]]"
   - "[[Impervious surface ratio]]"
@@ -16,6 +17,7 @@ auto_metrics:
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
   - "[[Yard area per dock]]"
+auto_strategies: []
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

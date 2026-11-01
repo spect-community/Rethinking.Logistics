@@ -15,6 +15,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Lands Design]]"
 ---

@@ -23,6 +23,8 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

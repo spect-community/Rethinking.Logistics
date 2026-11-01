@@ -11,6 +11,8 @@ challenges:
   - "[[Worker comfort and well-being]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

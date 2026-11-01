@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

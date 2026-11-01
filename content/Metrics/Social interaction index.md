@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

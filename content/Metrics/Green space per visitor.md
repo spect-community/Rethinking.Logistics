@@ -10,6 +10,8 @@ challenges:
   - "[[Public access and community use of logistics sites]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

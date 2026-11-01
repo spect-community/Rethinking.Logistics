@@ -15,6 +15,8 @@ auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

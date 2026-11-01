@@ -10,6 +10,8 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Honeybee]]"
   - "[[nPro]]"

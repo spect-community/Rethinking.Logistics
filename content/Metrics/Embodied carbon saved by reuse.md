@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

@@ -16,6 +16,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

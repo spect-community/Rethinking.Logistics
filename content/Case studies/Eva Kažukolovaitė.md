@@ -23,6 +23,8 @@ metrics:
   - "[[Mixed-use ratio]]"
   - "[[Worker well-being]]"
 tools: []
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009100946.png]]
 ## Project

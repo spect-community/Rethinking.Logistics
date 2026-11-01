@@ -12,6 +12,8 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
 auto_case_studies:
   - "[[Sara Sulollari]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

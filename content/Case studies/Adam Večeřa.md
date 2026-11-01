@@ -45,6 +45,8 @@ metrics:
   - "[[Green-core anchoring of mixed uses]]"
 tools:
   - "[[Grasshopper]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261009101951.png]]
 ## Project

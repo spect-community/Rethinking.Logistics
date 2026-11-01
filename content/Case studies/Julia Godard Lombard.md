@@ -31,6 +31,8 @@ metrics:
   - "[[Function stacking index]]"
 tools:
   - "[[Geoportal Praha]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031081842.png]]
 ## Project

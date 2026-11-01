@@ -5,10 +5,12 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Katrin Rybinskiy]]"
+auto_insights: []
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

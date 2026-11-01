@@ -12,6 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 

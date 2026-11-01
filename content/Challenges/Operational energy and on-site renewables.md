@@ -6,6 +6,7 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
+auto_insights: []
 auto_metrics:
   - "[[CapEx–OpEx ratio]]"
   - "[[Carbon per pallet handled]]"
@@ -18,6 +19,7 @@ auto_metrics:
   - "[[Operational carbon]]"
   - "[[Rooftop PV generation]]"
   - "[[Whole-life carbon]]"
+auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
   - "[[CO2mpare]]"

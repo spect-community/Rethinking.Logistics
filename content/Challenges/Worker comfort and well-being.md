@@ -4,6 +4,7 @@ status: published
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"
+auto_insights: []
 auto_metrics:
   - "[[Daylight autonomy]]"
   - "[[Function stacking index]]"
@@ -13,6 +14,7 @@ auto_metrics:
   - "[[Thermal comfort]]"
   - "[[Worker safety incidents]]"
   - "[[Worker well-being]]"
+auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

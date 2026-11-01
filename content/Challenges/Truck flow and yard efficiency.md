@@ -6,11 +6,13 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"
+auto_insights: []
 auto_metrics:
   - "[[Dock turnaround time]]"
   - "[[Number of docks]]"
   - "[[Truck throughput]]"
   - "[[Yard area per dock]]"
+auto_strategies: []
 auto_tools:
   - "[[AutoTURN]]"
 ---

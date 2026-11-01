@@ -32,6 +32,8 @@ metrics:
   - "[[Function stacking index]]"
 tools:
   - "[[One Click LCA]]"
+auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031081315.png]]
 ## Project

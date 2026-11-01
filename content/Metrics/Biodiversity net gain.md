@@ -20,6 +20,8 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[Rhino.Ecologic]]"
 ---

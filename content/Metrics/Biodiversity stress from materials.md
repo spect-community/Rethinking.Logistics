@@ -12,6 +12,8 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
+auto_insights: []
+auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

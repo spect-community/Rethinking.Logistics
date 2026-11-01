@@ -12,6 +12,8 @@ challenges:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
+auto_insights: []
+auto_strategies: []
 auto_tools: []
 ---
 
