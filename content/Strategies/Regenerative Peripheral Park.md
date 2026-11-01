@@ -177,6 +177,8 @@ Seven student projects work with this approach, from a single roof to a whole di
 - [[Aycha Chambashala]] terraces an urban logistics centre in Bursa under green roofs, with bioswales and tree-canopy streets.
 - [[Adéla Berkovitz]] splits a battery-recycling plant in Česká Lípa into three volumes with green roofs, an earth berm and a rainwater pond that doubles as fire-water reserve.
 
+The exhibition also showed *Too Green To Be True!*, a contribution by landscape students of the Faculty of Horticulture of Mendel University in Brno (Lednice) (Markéta Bláhová, Martina Bobrovská, Helena Iwaniecová, Johana Joklová, Natálie Kruckovyčová). It catalogues the green tools of this strategy — vegetation, water, energy and building measures — on one idealised logistics park.
+
 ![[What Can Logistics Give Back.jpg]]
 
 ![[Regenerative.Logistics.jpg]]
@@ -184,6 +186,8 @@ Seven student projects work with this approach, from a single roof to a whole di
 ![[From 4 Sisters to 4 Rooftops.jpg]]
 
 ![[Humanizing Logistics (group).jpg]]
+
+![[Too Green To Be True!.jpg]]
 
 ## Key metrics
 
