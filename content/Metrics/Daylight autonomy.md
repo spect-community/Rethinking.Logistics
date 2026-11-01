@@ -14,6 +14,9 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Gani]]"
 auto_insights:
+  - "[[1,500 lux is where people improvise blinds]]"
+  - "[[LEED supplies the ceiling the code lacks]]"
+  - "[[More glass does not mean more daylight]]"
   - "[[Old sheds knew things the new ones forgot]]"
   - "[[Skylights as a legislative contradiction]]"
   - "[[Skylights as wayfinding in a 565 m building]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the speaker first says \"26 thousand\" and then corrects to 20,600"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/people"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -13,8 +14,10 @@ tags:
   - "topic/certification"
   - "topic/taxonomy"
 source: "[[National Law Review, 2024]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+metrics:
+  - "[[Distance to housing]]"
+  - "[[Visual impact on neighbours]]"
 case_studies: []
 ---
-

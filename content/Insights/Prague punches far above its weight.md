@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the speaker gives the figures off the top of his head and the population share reads \"1510 to 15%\" in the transcript"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/city"

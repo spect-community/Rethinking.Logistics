@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -14,8 +15,10 @@ tags:
   - "strategy/1-regenerative-park"
   - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Ecological connectivity]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -13,8 +14,10 @@ tags:
   - "topic/city"
   - "topic/landscape"
 source: "[[Transport Intelligence]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Space utilisation]]"
 case_studies: []
 ---
 ## Further sources

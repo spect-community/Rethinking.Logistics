@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,8 +14,9 @@ tags:
   - "topic/data"
   - "topic/provocation"
 source: "[[European Environment Agency, Net land take in cities and commuting zones, 2024]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Land take]]"
 case_studies: []
 ---
-

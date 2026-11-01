@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — he hedges the figure (\"I think, nearly 7000\")"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/synergy"
@@ -16,9 +17,12 @@ tags:
   - "strategy/5-energy-symbiosis"
   - "strategy/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Waste heat recovery]]"
+case_studies:
+  - "[[Katrin Rybinskiy]]"
 ---
 ## Context
 

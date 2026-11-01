@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — researcher name from audio transcript"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -15,7 +16,8 @@ tags:
   - "strategy/1-regenerative-park"
   - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
-challenges: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
 metrics: []
 case_studies: []
 ---

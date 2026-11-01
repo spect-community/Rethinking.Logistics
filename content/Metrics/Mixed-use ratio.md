@@ -19,6 +19,7 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Lindsay Daphne Macuja]]"
 auto_insights:
+  - "[[A logistics hotel with football pitches on top]]"
   - "[[Don't let every unit be 2,000 m²]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
   - "[[Single-function land use is the real waste]]"

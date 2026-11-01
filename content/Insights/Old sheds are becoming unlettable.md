@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/circularity"
@@ -13,8 +14,9 @@ tags:
   - "topic/economics"
   - "topic/provocation"
 source: "[[CBRE Investment Management, European Logistics – From Obsolescence to…]]"
-challenges: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---
-

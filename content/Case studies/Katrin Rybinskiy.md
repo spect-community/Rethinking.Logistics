@@ -24,6 +24,7 @@ metrics:
   - "[[Electricity price]]"
 tools: []
 auto_insights:
+  - "[[7,000 m² of farming on a Paris data centre roof]]"
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"

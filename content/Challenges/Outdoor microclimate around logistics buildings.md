@@ -6,9 +6,11 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
 auto_insights:
+  - "[[A rain garden answers four risks at once]]"
   - "[[Eight degrees quintuples walking distance]]"
   - "[[Humidity, not Celsius, is the barrier]]"
   - "[[Microclimate decides whether a masterplan works]]"
+  - "[[Warehouse belts create heat islands between fields]]"
   - "[[White facades, urban heat and the wind that saves them]]"
 auto_metrics:
   - "[[Noise level]]"

@@ -13,6 +13,8 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
 auto_insights:
+  - "[[A reflective roof is a public health measure]]"
+  - "[[Warehouse belts create heat islands between fields]]"
   - "[[White facades, urban heat and the wind that saves them]]"
 auto_strategies: []
 auto_tools:

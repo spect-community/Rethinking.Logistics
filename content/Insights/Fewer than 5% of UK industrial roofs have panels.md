@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,8 +14,10 @@ tags:
   - "topic/trade-off"
   - "topic/provocation"
 source: "[[EQT, Why it's so difficult to put solar panels on warehouse roofs]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Rooftop PV generation]]"
+  - "[[Structural utilisation]]"
 case_studies: []
 ---
-

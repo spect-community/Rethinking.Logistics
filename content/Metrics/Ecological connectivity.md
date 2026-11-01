@@ -15,7 +15,10 @@ auto_case_studies:
   - "[[Ece Yasar]]"
 auto_insights:
   - "[[Biodiversity net gain, step by step]]"
+  - "[[France maps its ecology before it maps its plots]]"
+  - "[[Lizard habitat in a parking lot]]"
   - "[[No islands — connectivity is the metric]]"
+  - "[[No rule against confetti greenery]]"
   - "[[Parking hidden inside a fauna corridor]]"
   - "[[Singapore's 20 km road becomes a green corridor]]"
 auto_strategies: []

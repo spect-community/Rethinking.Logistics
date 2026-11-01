@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -16,8 +17,10 @@ tags:
   - "strategy/1-regenerative-park"
   - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Green plot ratio]]"
 case_studies: []
 ---
 ## Context

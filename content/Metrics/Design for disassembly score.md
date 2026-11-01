@@ -13,6 +13,7 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
 auto_insights:
   - "[[Digging materials up costs more than buying new]]"
+  - "[[Lessons-learned list for lowering carbon]]"
   - "[[Long-life loose-fit and design for disassembly]]"
   - "[[Mycelium pavilion that returns to the field]]"
   - "[[Tailoring is a one-way door]]"

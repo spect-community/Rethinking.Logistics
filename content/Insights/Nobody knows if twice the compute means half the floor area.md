@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/adaptability"
@@ -14,8 +15,10 @@ tags:
   - "topic/economics"
   - "strategy/2-adaptive-modular"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
+metrics:
+  - "[[Adaptability]]"
 case_studies: []
 ---
 ## Context

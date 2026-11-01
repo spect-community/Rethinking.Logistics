@@ -18,7 +18,9 @@ auto_case_studies:
 auto_insights:
   - "[[Electrifying the car is the lazy answer]]"
   - "[[Grey space – buildings sized for Black Friday]]"
+  - "[[Lessons-learned list for lowering carbon]]"
   - "[[Shared warehouses could cut construction by 60–70%]]"
+  - "[[Stacking is normal — everywhere but here]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

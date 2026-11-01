@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/synergy"
@@ -15,8 +16,11 @@ tags:
   - "topic/city"
   - "strategy/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Heat recovery radius]]"
+  - "[[Waste heat recovery]]"
 case_studies: []
 ---
 ## Context

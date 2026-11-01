@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,8 +14,10 @@ tags:
   - "topic/data"
   - "topic/economics"
 source: "[[Renewable Matter on ISPRA 2025]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Land take]]"
 case_studies: []
 ---
 ## Further sources

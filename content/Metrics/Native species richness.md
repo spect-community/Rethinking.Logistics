@@ -18,6 +18,7 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
 auto_insights:
+  - "[[Green roofs are not a substitute for ground]]"
   - "[[Habitats copied from the surrounding landscape, not invented]]"
   - "[[The lilac vs the oak]]"
 auto_strategies: []

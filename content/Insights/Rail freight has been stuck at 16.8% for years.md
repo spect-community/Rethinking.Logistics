@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/trade-off"
@@ -14,7 +15,7 @@ tags:
   - "topic/data"
 source: "[[International Railway Journal, 2023]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Road freight impact]]"
 case_studies: []
 ---
-

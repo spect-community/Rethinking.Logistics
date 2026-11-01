@@ -13,7 +13,11 @@ challenges:
 auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:
+  - "[[10% GWP cut from six combined measures]]"
+  - "[[2027–2030 – whole-life carbon becomes mandatory]]"
+  - "[[BREEAM LCA runs to 60 years]]"
   - "[[Building services are a whole-life carbon sleeper]]"
+  - "[[Czech benchmarks built from ~117 buildings]]"
   - "[[Don't force the wrong second life on a building]]"
   - "[[EU taxonomy – not mandatory, but at the end it is]]"
   - "[[Logistics is not one typology — it's a carbon spectrum]]"

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/circularity"
@@ -15,9 +16,12 @@ tags:
   - "strategy/2-adaptive-modular"
   - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Embodied carbon saved by reuse]]"
+case_studies:
+  - "[[Thomas Olsen]]"
 ---
 ## Context
 

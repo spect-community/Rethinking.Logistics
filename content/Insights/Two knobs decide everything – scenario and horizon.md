@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — the warming range is garbled in the transcript (\"from three to point 3.2 to 5.4°\")"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/data"

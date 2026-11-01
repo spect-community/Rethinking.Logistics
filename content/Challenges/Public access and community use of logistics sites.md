@@ -10,6 +10,7 @@ auto_case_studies:
 auto_insights:
   - "[[20,000 factory visitors a year, aiming at 25,000]]"
   - "[[A High Line for a whole industrial estate]]"
+  - "[[A logistics hotel with football pitches on top]]"
   - "[[A water treatment plant that is also a walk]]"
   - "[[Adaptive reuse gives a sense of place new construction cannot]]"
   - "[[Brand trust, not planning gain, is what opens the factory]]"

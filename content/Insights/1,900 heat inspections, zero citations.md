@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -13,8 +14,9 @@ tags:
   - "topic/trade-off"
   - "topic/provocation"
 source: "[[NBC News investigation, 2023]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+metrics:
+  - "[[Thermal comfort]]"
 case_studies: []
 ---
-

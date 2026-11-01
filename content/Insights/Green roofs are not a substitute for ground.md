@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,8 +14,10 @@ tags:
   - "topic/trade-off"
   - "topic/landscape"
 source: "[[Knapp, Schmauck & Zehnsdorf, Sustainability 11(20) – 5846, 2019]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Green roof coverage]]"
+  - "[[Native species richness]]"
 case_studies: []
 ---
-

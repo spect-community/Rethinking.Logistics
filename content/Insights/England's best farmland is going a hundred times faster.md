@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,8 +14,8 @@ tags:
   - "topic/trade-off"
   - "topic/people"
 source: "[[CPRE, 2022]]"
-challenges: []
+challenges:
+  - "[[Land take of logistics buildings]]"
 metrics: []
 case_studies: []
 ---
-

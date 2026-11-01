@@ -14,7 +14,9 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
-auto_insights: []
+auto_insights:
+  - "[[Four pillars, with location as the fourth]]"
+  - "[[Your site decides a whole credit block]]"
 auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"

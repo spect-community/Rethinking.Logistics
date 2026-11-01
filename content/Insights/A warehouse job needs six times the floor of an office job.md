@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/economics"
@@ -14,7 +15,7 @@ tags:
   - "topic/data"
 source: "[[Homes and Communities Agency, Employment Densities Guide, 2nd ed., 2010]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Jobs created]]"
 case_studies: []
 ---
-

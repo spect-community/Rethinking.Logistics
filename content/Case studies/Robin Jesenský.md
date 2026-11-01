@@ -21,7 +21,8 @@ metrics:
 tools:
   - "[[Ladybug]]"
   - "[[Grasshopper]]"
-auto_insights: []
+auto_insights:
+  - "[[Liquid cooling may quietly defuse the water fight]]"
 auto_strategies: []
 ---
 ![[Pasted image 20261031090511.png]]

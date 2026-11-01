@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high — the verified industry average is ~1.55"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -14,8 +15,10 @@ tags:
   - "topic/certification"
   - "strategy/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Power usage effectiveness]]"
 case_studies: []
 ---
 ## Context

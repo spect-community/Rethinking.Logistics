@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,7 +14,8 @@ tags:
   - "strategy/5-energy-symbiosis"
   - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
 ---

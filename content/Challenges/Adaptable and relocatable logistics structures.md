@@ -9,6 +9,7 @@ auto_case_studies:
 auto_insights:
   - "[[2050-proof is not enough; make it 2070-proof]]"
   - "[[80% of the market need, not 100% of one tenant]]"
+  - "[[Adaptability saves carbon but can't be counted]]"
   - "[[Easier to drill wood than reinforced concrete]]"
   - "[[Expandable units are wanted but planning kills them]]"
   - "[[Flexibility is time, not just hardware]]"
@@ -16,7 +17,10 @@ auto_insights:
   - "[[Lease length is the hidden design brief]]"
   - "[[Long-life loose-fit and design for disassembly]]"
   - "[[Morally obsolete before technically obsolete]]"
+  - "[[Nobody knows if twice the compute means half the floor area]]"
+  - "[[Old sheds are becoming unlettable]]"
   - "[[Over-build the height, don't charge for it]]"
+  - "[[Oversize the wires now]]"
   - "[[Permits are stretched, then sold empty]]"
   - "[[Tailoring is a one-way door]]"
   - "[[The biggest possible hall reflex is a carbon cost]]"

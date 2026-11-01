@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — see Part 6; the WorldGBC report does not publish these headline figures"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -14,8 +15,10 @@ tags:
   - "topic/synergy"
   - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+metrics:
+  - "[[Worker well-being]]"
 case_studies: []
 ---
 ## Context

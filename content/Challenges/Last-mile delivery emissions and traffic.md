@@ -7,6 +7,7 @@ auto_case_studies:
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
 auto_insights:
+  - "[[36,000 lorry trips removed by barge]]"
   - "[[Access regulation is the strongest design lever]]"
   - "[[Carbon is decided in network design, not in the building]]"
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
@@ -22,6 +23,7 @@ auto_insights:
   - "[[Hub siting is still trial and error]]"
   - "[[Last mile is shortest but costliest]]"
   - "[[Rethinking the vehicle beats electrifying it]]"
+  - "[[Switzerland is digging a 500 km freight tunnel]]"
   - "[[The last node of the warehouse is a room in every building]]"
 auto_metrics:
   - "[[Delivery catchment]]"

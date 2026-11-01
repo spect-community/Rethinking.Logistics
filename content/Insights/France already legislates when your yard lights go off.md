@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,7 +14,9 @@ tags:
   - "topic/certification"
   - "topic/externality"
 source: "[[Ministère de la Transition écologique, arrêté du 27 décembre 2018]]"
-challenges: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
 metrics: []
 case_studies: []
 ---

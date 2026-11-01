@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,7 +14,8 @@ tags:
   - "topic/provocation"
   - "topic/city"
 source: "[[Council of the EU, 2025]]"
-challenges: []
+challenges:
+  - "[[Land take of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

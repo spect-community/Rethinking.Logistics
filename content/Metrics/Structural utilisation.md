@@ -15,9 +15,15 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
 auto_insights:
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
+  - "[[85 GW blocked by roofs that can't take the weight]]"
+  - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Forklifts, not robots, forced the concrete]]"
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
   - "[[Green roofs vs LCA — an admitted conflict]]"
+  - "[[Planar layers cluster stress to 250% utilisation]]"
+  - "[[Same material, different path, opposite outcome]]"
+  - "[[Solar is now a building code, not a choice]]"
+  - "[[Tested to 50 tons without failing]]"
 auto_strategies: []
 auto_tools:
   - "[[Donkey]]"

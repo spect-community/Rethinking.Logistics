@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -15,7 +16,8 @@ tags:
   - "strategy/5-energy-symbiosis"
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Electricity price]]"
 case_studies: []
 ---
 ## Context

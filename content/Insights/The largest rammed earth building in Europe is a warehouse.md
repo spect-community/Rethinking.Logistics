@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -13,8 +14,8 @@ tags:
   - "topic/carbon"
   - "topic/landscape"
 source: "[[Herzog & de Meuron, project 369]]"
-challenges: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
 ---
-

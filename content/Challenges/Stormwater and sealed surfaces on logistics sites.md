@@ -10,10 +10,13 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
 auto_insights:
+  - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
   - "[[A dump site that forbade digging became islands]]"
+  - "[[A rain garden answers four risks at once]]"
   - "[[Beyond Czech water standards, into BREEAM's]]"
   - "[[Daylighting a river that was a technical problem]]"
   - "[[Don't dig down vs biodiversity]]"
+  - "[[For Czechia the risks are drought, floods, precipitation]]"
   - "[[Keep every drop on site]]"
   - "[[Nature-based solutions because pipes can't cope]]"
   - "[[Rain harvested to grow the walls]]"

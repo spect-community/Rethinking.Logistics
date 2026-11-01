@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -14,7 +15,8 @@ tags:
   - "topic/certification"
   - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges: []
+challenges:
+  - "[[Worker comfort and well-being]]"
 metrics: []
 case_studies: []
 ---

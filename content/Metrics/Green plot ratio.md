@@ -13,6 +13,7 @@ auto_case_studies:
 auto_insights:
   - "[[35,000 m² of green façade, possibly the world's largest]]"
   - "[[Client refused to wait 15 years for green]]"
+  - "[[The green wall on printed concrete died]]"
 auto_strategies: []
 auto_tools: []
 ---

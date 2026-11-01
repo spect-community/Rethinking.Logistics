@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "check — the electricity share reads \"1.52%\" in the transcript, and the CO2 share is explicitly hedged (\"very difficult to provide an estimate\")"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"

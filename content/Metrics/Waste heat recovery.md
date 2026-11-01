@@ -16,12 +16,15 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
 auto_insights:
+  - "[[7,000 m² of farming on a Paris data centre roof]]"
   - "[[Brewing waste heat heats the public building]]"
   - "[[Data centres are giant heaters]]"
   - "[[Industrial sheds as 4th-generation district heating nodes]]"
+  - "[[Prague's pipes are an asset — sell the heat]]"
   - "[[Rainwater is not process water]]"
   - "[[Sell the warehouse as a power station]]"
   - "[[Thirty-metre freezers are a heat source]]"
+  - "[[Waste heat is already an approval condition]]"
 auto_strategies: []
 auto_tools:
   - "[[nPro]]"

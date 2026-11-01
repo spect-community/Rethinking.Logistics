@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
@@ -13,8 +14,9 @@ tags:
   - "topic/certification"
   - "topic/city"
 source: "[[European Parliament, February 2024]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Tree count and canopy cover]]"
 case_studies: []
 ---
-

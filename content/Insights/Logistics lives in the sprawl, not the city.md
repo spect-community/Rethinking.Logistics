@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -13,9 +14,11 @@ tags:
   - "topic/taxonomy"
   - "strategy/3-urban-hybrid"
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
-challenges: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
-case_studies: []
+case_studies:
+  - "[[Ilinca Maria Baciu]]"
 ---
 ## Context
 

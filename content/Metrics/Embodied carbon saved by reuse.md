@@ -15,6 +15,7 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
 auto_insights:
+  - "[[Renovating an office saved about 80%]]"
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[The reduction roadmap led to the activism]]"
   - "[[You can buy a second-hand warehouse]]"

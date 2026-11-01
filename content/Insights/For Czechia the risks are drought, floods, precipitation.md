@@ -6,13 +6,15 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/landscape"
   - "topic/green-blue"
   - "topic/city"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
-challenges: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
 metrics: []
 case_studies: []
 ---

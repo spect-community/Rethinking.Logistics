@@ -15,8 +15,11 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights:
+  - "[[1,900 heat inspections, zero citations]]"
+  - "[[A reflective roof is a public health measure]]"
   - "[[Eight degrees quintuples walking distance]]"
   - "[[Humidity, not Celsius, is the barrier]]"
+  - "[[More glass does not mean more daylight]]"
   - "[[Timber buildings overheat without thermal mass]]"
 auto_strategies: []
 auto_tools:

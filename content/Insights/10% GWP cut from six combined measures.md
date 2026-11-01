@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/carbon"
@@ -13,8 +14,10 @@ tags:
   - "topic/data"
   - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Whole-life carbon]]"
 case_studies: []
 ---
 ## Context

@@ -13,7 +13,9 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
 auto_insights:
+  - "[[A warehouse job needs six times the floor of an office job]]"
   - "[[Amazon locates by unemployment rate]]"
+  - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Manufacturing is a better neighbour than logistics]]"
   - "[[What will we do if we replace every job by a robot]]"
 auto_strategies: []

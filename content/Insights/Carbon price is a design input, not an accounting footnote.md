@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -13,8 +14,10 @@ tags:
   - "topic/economics"
   - "topic/trade-off"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[CapEx–OpEx ratio]]"
 case_studies: []
 ---
 ## Context

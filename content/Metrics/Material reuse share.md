@@ -19,6 +19,7 @@ auto_case_studies:
 auto_insights:
   - "[[Brownfield rules block on-site recycling]]"
   - "[[Certification of reused structural elements is the real blocker]]"
+  - "[[Recycling can raise the carbon footprint]]"
 auto_strategies: []
 auto_tools: []
 ---

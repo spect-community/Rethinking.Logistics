@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/provocation"
@@ -13,8 +14,9 @@ tags:
   - "topic/landscape"
   - "topic/adaptability"
 source: "[[SWI swissinfo.ch]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
+metrics:
+  - "[[Road freight impact]]"
 case_studies: []
 ---
-

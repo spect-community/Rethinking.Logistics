@@ -21,6 +21,7 @@ auto_case_studies:
 auto_insights:
   - "[[Data centre carbon is many multiples of a warehouse]]"
   - "[[Operational carbon collapses, embodied carbon takes over]]"
+  - "[[The electricity mix dominates everything]]"
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

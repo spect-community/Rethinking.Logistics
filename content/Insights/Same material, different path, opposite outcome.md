@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/synergy"
@@ -15,7 +16,8 @@ tags:
   - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Structural utilisation]]"
 case_studies: []
 ---
 ## Context

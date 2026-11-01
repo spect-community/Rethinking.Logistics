@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/circularity"
@@ -15,7 +16,8 @@ tags:
   - "strategy/5-energy-symbiosis"
   - "strategy/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
 metrics: []
 case_studies: []
 ---

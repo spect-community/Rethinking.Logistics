@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: disputed
 confidence: "high — but see Part 6 for the exact wording of the 2028 threshold"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/carbon"
@@ -14,8 +15,10 @@ tags:
   - "topic/data"
   - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Whole-life carbon]]"
 case_studies: []
 ---
 ## Context

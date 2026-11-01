@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/people"
@@ -14,8 +15,10 @@ tags:
   - "topic/trade-off"
   - "strategy/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Visual impact and acceptance by neighbours]]"
+metrics:
+  - "[[Social acceptance]]"
 case_studies: []
 ---
 ## Context

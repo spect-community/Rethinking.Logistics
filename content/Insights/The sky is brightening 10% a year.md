@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/externality"
@@ -17,4 +18,3 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-

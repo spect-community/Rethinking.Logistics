@@ -13,7 +13,9 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
-auto_insights: []
+auto_insights:
+  - "[[Liquid cooling may quietly defuse the water fight]]"
+  - "[[Nobody agrees how much water they use]]"
 auto_strategies: []
 auto_tools: []
 ---

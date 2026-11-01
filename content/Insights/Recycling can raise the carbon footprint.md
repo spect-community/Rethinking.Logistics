@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/circularity"
@@ -15,8 +16,10 @@ tags:
   - "topic/provocation"
   - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+metrics:
+  - "[[Material reuse share]]"
 case_studies: []
 ---
 ## Context

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/green-blue"
@@ -13,8 +14,9 @@ tags:
   - "topic/provocation"
   - "topic/data"
 source: "[[zu Ermgassen et al., Conservation Letters, 2019]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+metrics:
+  - "[[Biodiversity net gain]]"
 case_studies: []
 ---
-

@@ -32,6 +32,7 @@ metrics:
 tools:
   - "[[Geoportal Praha]]"
 auto_insights:
+  - "[[A swimming pool heated by servers in Milan]]"
   - "[[Data centres are giant heaters]]"
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"

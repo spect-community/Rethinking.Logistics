@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/people"
@@ -13,8 +14,10 @@ tags:
   - "topic/energy"
   - "topic/synergy"
 source: "[[US EPA, Using Cool Roofs to Reduce Heat Islands]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Worker comfort and well-being]]"
+metrics:
+  - "[[Urban heat island effect]]"
+  - "[[Thermal comfort]]"
 case_studies: []
 ---
-

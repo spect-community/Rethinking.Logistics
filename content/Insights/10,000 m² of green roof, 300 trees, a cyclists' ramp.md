@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/green-blue"
@@ -14,8 +15,11 @@ tags:
   - "strategy/1-regenerative-park"
   - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+metrics:
+  - "[[Green roof coverage]]"
+  - "[[Tree count and canopy cover]]"
 case_studies: []
 ---
 ## Context

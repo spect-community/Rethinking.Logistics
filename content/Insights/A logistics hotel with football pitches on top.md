@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -13,8 +14,10 @@ tags:
   - "topic/city"
   - "topic/energy"
 source: "[[Sogaris, Chapelle International]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
+  - "[[Public access and community use of logistics sites]]"
+metrics:
+  - "[[Mixed-use ratio]]"
 case_studies: []
 ---
-

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/trade-off"
@@ -13,8 +14,9 @@ tags:
   - "topic/economics"
   - "topic/provocation"
 source: "[[Planning Resource, 2020]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Land take]]"
 case_studies: []
 ---
-

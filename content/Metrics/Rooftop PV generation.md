@@ -17,8 +17,12 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
 auto_insights:
+  - "[[355 GW sits on Europe's big roofs]]"
+  - "[[85 GW blocked by roofs that can't take the weight]]"
   - "[[A warehouse heating a hospital]]"
+  - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Sell the warehouse as a power station]]"
+  - "[[Solar is now a building code, not a choice]]"
 auto_strategies: []
 auto_tools:
   - "[[Cyclops]]"

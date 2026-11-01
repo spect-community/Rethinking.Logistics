@@ -22,8 +22,12 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
 auto_insights:
+  - "[[297 hectares of green belt for one rail interchange]]"
   - "[[58% of the site lost, biodiversity still up 10–11%]]"
   - "[[Density is the environmental strategy]]"
+  - "[[Europe seals 1.5 km² of land every day]]"
+  - "[[Italy's warehouses eat 432 hectares a year]]"
+  - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_strategies: []
 auto_tools:

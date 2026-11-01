@@ -11,6 +11,7 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
 auto_insights:
   - "[[Brewing waste heat heats the public building]]"
+  - "[[Prague's pipes are an asset — sell the heat]]"
 auto_strategies: []
 auto_tools: []
 ---

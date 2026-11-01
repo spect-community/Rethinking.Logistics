@@ -21,7 +21,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
-auto_insights: []
+auto_insights:
+  - "[[California wrote the warehouse design code]]"
 auto_strategies: []
 auto_tools:
   - "[[Jifto]]"

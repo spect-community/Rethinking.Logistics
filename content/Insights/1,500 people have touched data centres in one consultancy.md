@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — he hedges the figure (\"I think, about 1,500\")"
 reviewed_by: ""
+relevance: 1
 aliases: []
 tags:
   - "topic/data"

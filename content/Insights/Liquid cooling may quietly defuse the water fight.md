@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/trade-off"
@@ -13,9 +14,12 @@ tags:
   - "topic/people"
   - "topic/provocation"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
-metrics: []
-case_studies: []
+challenges:
+  - "[[Waste heat and cooling of data centres]]"
+metrics:
+  - "[[Water consumption]]"
+case_studies:
+  - "[[Robin Jesenský]]"
 ---
 ## Context
 

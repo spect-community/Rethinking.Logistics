@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,8 +14,10 @@ tags:
   - "topic/trade-off"
   - "topic/adaptability"
 source: "[[Becquerel Institute, via pv magazine, March 2026]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Structural utilisation]]"
+  - "[[Rooftop PV generation]]"
 case_studies: []
 ---
-

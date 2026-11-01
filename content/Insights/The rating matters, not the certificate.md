@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "check — NABERS transcribed as \"neighbors\"; the percentages are stated clearly"
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/economics"

@@ -11,6 +11,7 @@ challenges:
 auto_case_studies:
   - "[[Sara Gani]]"
 auto_insights:
+  - "[[Free night cooling is still the cheapest move]]"
   - "[[Old sheds knew things the new ones forgot]]"
 auto_strategies: []
 auto_tools:

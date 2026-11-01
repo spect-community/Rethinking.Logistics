@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -14,7 +15,8 @@ tags:
   - "strategy/2-adaptive-modular"
   - "strategy/5-energy-symbiosis"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
-challenges: []
+challenges:
+  - "[[Adaptable and relocatable logistics structures]]"
 metrics: []
 case_studies: []
 ---

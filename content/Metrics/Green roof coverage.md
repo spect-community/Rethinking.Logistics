@@ -16,8 +16,11 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Thomas Olsen]]"
 auto_insights:
+  - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
+  - "[[A green roof without maintenance turns grey again]]"
   - "[[Every surface recruited – wetland, roof meadow, green facade]]"
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
+  - "[[Green roofs are not a substitute for ground]]"
   - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_strategies: []
 auto_tools:

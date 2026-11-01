@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/synergy"
@@ -14,7 +15,9 @@ tags:
   - "topic/people"
   - "strategy/1-regenerative-park"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
-challenges: []
+challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+  - "[[Outdoor microclimate around logistics buildings]]"
 metrics: []
 case_studies: []
 ---

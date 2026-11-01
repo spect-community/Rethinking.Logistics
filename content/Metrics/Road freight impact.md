@@ -12,9 +12,12 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:
+  - "[[36,000 lorry trips removed by barge]]"
   - "[[Construction logistics is planning's blind spot]]"
+  - "[[Rail freight has been stuck at 16.8% for years]]"
   - "[[Rail is a rounding error – over 90% moves by truck]]"
   - "[[Ships are cheap, trucks are not]]"
+  - "[[Switzerland is digging a 500 km freight tunnel]]"
 auto_strategies: []
 auto_tools: []
 ---

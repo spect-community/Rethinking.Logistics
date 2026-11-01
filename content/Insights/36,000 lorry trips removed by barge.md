@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/city"
@@ -13,8 +14,9 @@ tags:
   - "topic/carbon"
   - "topic/taxonomy"
 source: "[[AIVP, Paris – transport on the River Seine]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Last-mile delivery emissions and traffic]]"
+metrics:
+  - "[[Road freight impact]]"
 case_studies: []
 ---
-

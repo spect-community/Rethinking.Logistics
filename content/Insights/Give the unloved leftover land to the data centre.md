@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/landscape"
@@ -14,7 +15,8 @@ tags:
   - "topic/synergy"
   - "strategy/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges: []
+challenges:
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []
 ---

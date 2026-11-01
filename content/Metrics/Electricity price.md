@@ -12,6 +12,7 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Sara Sulollari]]"
 auto_insights:
+  - "[[Renewables as price insulation, not just carbon]]"
   - "[[The energy price forecast is always wrong]]"
   - "[[Three price scenarios, not one number]]"
 auto_strategies: []

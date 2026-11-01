@@ -13,6 +13,7 @@ auto_insights:
   - "[[Height buys efficiency and buys a fire problem]]"
   - "[[Robots don't need a view — which makes the box more modular]]"
   - "[[The MHE designed the building, not the architect]]"
+  - "[[Warehouses break the user-comfort premise]]"
   - "[[What will we do if we replace every job by a robot]]"
 auto_metrics:
   - "[[Carbon per pallet handled]]"

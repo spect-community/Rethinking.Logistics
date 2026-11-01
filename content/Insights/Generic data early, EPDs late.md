@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: "high"
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/materials"
@@ -14,7 +15,8 @@ tags:
   - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
-metrics: []
+metrics:
+  - "[[Embodied carbon intensity]]"
 case_studies: []
 ---
 ## Context

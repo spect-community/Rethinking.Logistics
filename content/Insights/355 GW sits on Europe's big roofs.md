@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/energy"
@@ -13,8 +14,9 @@ tags:
   - "topic/provocation"
   - "topic/data"
 source: "[[JRC - Nature Energy, 2026]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Rooftop PV generation]]"
 case_studies: []
 ---
-

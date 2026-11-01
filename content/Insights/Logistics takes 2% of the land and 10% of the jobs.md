@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 2
 aliases: []
 tags:
   - "topic/trade-off"
@@ -13,8 +14,10 @@ tags:
   - "topic/economics"
   - "topic/city"
 source: "[[France Logistique, ZAN et logistique, 2025]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+metrics:
+  - "[[Land take]]"
+  - "[[Jobs created]]"
 case_studies: []
 ---
-

@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/taxonomy"
@@ -13,8 +14,9 @@ tags:
   - "topic/people"
   - "topic/adaptability"
 source: "[[SEGRO, April 2024]]"
-challenges: []
+challenges:
+  - "[[Land take of logistics buildings]]"
+  - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []
 ---
-

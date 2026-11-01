@@ -6,6 +6,7 @@ quote_type: paraphrase
 evidence_status: open-for-review
 confidence: ""
 reviewed_by: ""
+relevance: 3
 aliases: []
 tags:
   - "topic/energy"
@@ -13,8 +14,10 @@ tags:
   - "topic/adaptability"
   - "topic/city"
 source: "[[European Commission, Solar energy in buildings (EPBD)]]"
-challenges: []
-metrics: []
+challenges:
+  - "[[Operational energy and on-site renewables]]"
+metrics:
+  - "[[Structural utilisation]]"
+  - "[[Rooftop PV generation]]"
 case_studies: []
 ---
-

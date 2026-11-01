@@ -17,6 +17,7 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Lindsay Daphne Macuja]]"
 auto_insights:
+  - "[[California wrote the warehouse design code]]"
   - "[[Noise – the logistics is the problem, not the building]]"
 auto_strategies: []
 auto_tools:

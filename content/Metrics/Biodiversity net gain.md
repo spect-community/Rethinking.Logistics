@@ -27,7 +27,9 @@ auto_insights:
   - "[[Biodiversity net gain, step by step]]"
   - "[[BNG used outside Britain, as a design instrument]]"
   - "[[Don't get obsessed with the 10%]]"
+  - "[[Less than 2% of England's offset land has sold]]"
   - "[[Measure it or you're just claiming it]]"
+  - "[[Not one forest offset achieved no net loss]]"
   - "[[Three tiers of ambition on a plot]]"
 auto_strategies: []
 auto_tools:
