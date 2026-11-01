@@ -11,7 +11,7 @@ How to use this plan: this file holds what applies to **every** phase. Each phas
 | 0 | Repository consistency | [plans/phase-0-consistency.md](plans/phase-0-consistency.md) | done |
 | 1 | Schema extension | [plans/phase-1-schema.md](plans/phase-1-schema.md) | done |
 | 2 | Ingest sources and insights | [plans/phase-2-ingest.md](plans/phase-2-ingest.md) | done |
-| 3 | Curation (in batches) | [plans/phase-3-curation.md](plans/phase-3-curation.md) | todo |
+| 3 | Curation (in batches) | [plans/phase-3-curation.md](plans/phase-3-curation.md) | done |
 | 4 | Five strategies | [plans/phase-4-strategies.md](plans/phase-4-strategies.md) | todo |
 | 5 | Edition 1.0 framing | [plans/phase-5-framing.md](plans/phase-5-framing.md) | todo |
 | 6 | QA (before release) | [plans/phase-6-qa.md](plans/phase-6-qa.md) | todo |
@@ -59,3 +59,4 @@ Publish the knowledge base as a **finished Edition 1.0** (our work is done) in w
 - 2026-11-01 — phase 0 done: portfolios public and renamed to case study names (PDF linked via `portfolio_pdf`, not shown on site), CC BY 4.0 + MIT licence, draft banner removed, `.smart-env` untracked.
 - 2026-11-01 — phase 1 done: strategy, source (`kind`) and insight types with relations and templates; status `draft`/`verified` → `published`; evidence badges, Insights overview and `About/Evidence status` legend.
 - 2026-11-01 — phase 2 done: 668 claims imported (628 published insights + 40 sensitive held in `import/private/held-insights/`), 50 sources with lecture announcements; second round added transcript context, separated 119 editorial notes, flagged 83 figures `check`, provisional strategy tags; lectures 02, 14, 15, 16 await transcripts (`todo/transcript`).
+- 2026-11-02 — phase 3 done: all 668 insights curated in 19 batches / 3 waves (links with justifications in `import/curation-log.md`, relevance 3/2/1 = 177/310/141 published), 10 % samples checked (`import/curation-samples.md`), 2 weak links removed, 3 new disputed flags, no duplicates merged.
