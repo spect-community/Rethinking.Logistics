@@ -1,0 +1,21 @@
+---
+statement: "Where the national standard has no upper bound, LEED's Useful Daylight Illuminance (work surface, around a 3,000 lux upper limit) and Annual Sunlight Exposure (floor-measured, 1,000 lux exceeded for more than 250 hours a year, expressed as a percentage of area) do — and ASE counts only areas actually intended for office work."
+source_type: expert
+locator: "~01:30–01:35 — anchor: \"which already has this upper limit set up\""
+quote_type: paraphrase
+evidence_status: open-for-review
+confidence: "high"
+reviewed_by: ""
+aliases: []
+tags:
+  - "topic/certification"
+  - "topic/data"
+  - "topic/people"
+source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
+challenges: []
+metrics: []
+case_studies: []
+---
+## Quote
+
+> "we have UDI, useful daylight illuminance, which is part of LEED which already has this upper limit set up"

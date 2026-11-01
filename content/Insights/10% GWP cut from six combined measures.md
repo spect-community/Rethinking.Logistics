@@ -1,0 +1,21 @@
+---
+statement: "Campus Science Park in Brno, the first LEED v4 certified building in the country, achieved a 10% reduction in global warming potential — plus photochemical oxidants, acidification and non-renewable energy — through a package of six measures acting together, not one intervention."
+source_type: expert
+locator: "~00:56 — anchor: \"complex of of 6 measures\""
+quote_type: paraphrase
+evidence_status: open-for-review
+confidence: "high"
+reviewed_by: ""
+aliases: []
+tags:
+  - "topic/carbon"
+  - "topic/materials"
+  - "topic/data"
+source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
+challenges: []
+metrics: []
+case_studies: []
+---
+## Quote
+
+> "the global warming potential was calculated and 10% reduction has been reached, that's a complex of 6 measures"
