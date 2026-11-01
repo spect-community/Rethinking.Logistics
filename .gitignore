@@ -6,5 +6,5 @@ content/.obsidian/workspace*.json
 content/.obsidian/cache
 content/.trash/
 .DS_Store
-portfolios/
 import/private/
+content/.smart-env/
