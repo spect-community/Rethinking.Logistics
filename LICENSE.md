@@ -1,14 +1,48 @@
-# Licence — to be decided
+# Licence
 
-The licensing of the Rethinking Logistics knowledge base has not been decided yet.
+Copyright © 2026 ARCHIP
 
-The planned approach is to license the two parts separately:
+The Rethinking Logistics repository is licensed in two parts:
 
-| Part | Folders | Candidate licences |
+| Part | Folders | Licence |
 | --- | --- | --- |
-| Knowledge content | `content/` | e.g. CC BY 4.0 or CC BY-SA 4.0 |
-| Code and website | `scripts/`, `site/`, `schema/`, `.github/` | e.g. MIT |
+| Knowledge content and student portfolios | `content/`, `portfolios/` | [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
+| Code and website | `scripts/`, `site/`, `schema/`, `.github/` | MIT (text below) |
 
-Until a licence is chosen, all rights are reserved by the project maintainers. Contributors are asked (in the issue forms) to agree that their contribution will be published under the project's content licence once chosen.
+Student work and posters remain © their authors and are published here with their consent. When reusing them, credit the author named on the case-study page or in the portfolio.
 
-Standards referenced in the Atlas remain the property of their publishers; the Atlas only links to them and paraphrases their scope.
+Contributions made through the issue forms are published under the licence of the part they belong to.
+
+Standards referenced in the knowledge base remain the property of their publishers; the knowledge base only links to them and paraphrases their scope.
+
+---
+
+## CC BY 4.0 — content
+
+You are free to share and adapt the material for any purpose, including commercially, provided you give appropriate credit, link to the licence and indicate if changes were made. Full legal code: <https://creativecommons.org/licenses/by/4.0/legalcode>.
+
+Suggested attribution: *Rethinking.Logistics knowledge base, Edition 1.0, ARCHIP 2026, CC BY 4.0, <https://logistics.spect.cz>.*
+
+---
+
+## MIT License — code
+
+Copyright (c) 2026 ARCHIP
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
