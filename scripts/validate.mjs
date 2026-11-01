@@ -30,10 +30,13 @@ for (const n of notes) {
   for (const k of Object.keys(n.data)) if (!known.has(k) && !k.startsWith("auto_")) w(n, `extra property "${k}" (fine — it is shown on the page, just not used in overviews)`)
 }
 
-for (const n of kb.drafts) warnings.push(`${n.rel}: marked "draft: true" — ignored and not published (delete it if it is obsolete)`)
+// Notes held back on purpose (e.g. sensitive insights) are summarised, not listed one by one.
+const draftsByFolder = Object.groupBy(kb.drafts, (n) => n.rel.split("/")[0])
+const held = Object.entries(draftsByFolder).map(([folder, ns]) => `${ns.length} in ${folder}/`).join(", ")
 
 const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes.filter((n) => n.type === t).length]))
 console.log(`Rethinking Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
+if (held) console.log(`Not published (draft: true): ${held}`)
 if (warnings.length) {
   console.log(`\n⚠️  ${warnings.length} note(s) to look at (nothing is blocked):`)
   for (const x of warnings) console.log("  - " + x)
