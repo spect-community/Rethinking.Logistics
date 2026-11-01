@@ -54,7 +54,7 @@ const fmt = (v) =>
     .replace(/\|/g, "\\|")
 const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status", number: "Number", group: "Group", summary: "Summary", hero_image: "Image", posters: "Posters", kind: "Kind", speaker: "Speaker", affiliation: "Affiliation", date: "Date", locator: "Where in the source", confidence: "Confidence", reviewed_by: "Reviewed by" }
 // Fields shown elsewhere on the page (not in the property table)
-const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type", "relevance"])
+const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type", "relevance", "posters", "hero_image"])
 // How the statement was recorded, in the wording of Edition 1.0
 const recorded = (d) => {
   if (key(d.quote_type ?? "") === "verbatim") return "Verbatim quote"
@@ -108,6 +108,16 @@ for (const n of kb.notes) {
     }
     const connections = merged.size ? `\n\n## Connections\n\n${[...merged].map(([k, v]) => `- **${k}:** ${v.join(", ")}`).join("\n")}\n` : ""
     const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${mailto("Rethinking Logistics – correction: " + n.name)})*\n`
+    // Strategy pages: list items that are just an insight link get its badges and source
+    if (n.type === "strategy") {
+      body = body.replace(/^- \[\[([^\]|#]+)\]\]\s*$/gm, (m, name) => {
+        const t = kb.find(name)
+        if (t?.type !== "insight") return m
+        const src = t.links.source?.[0]?.note
+        const by = src ? ` — ${src.data.speaker ? `${src.data.speaker}, ` : ""}[[${src.name}|${src.data.title ?? src.name}]]` : ""
+        return `- [[${t.name}]] ${insightBadges(t.data)}${by}`
+      })
+    }
     body = top + body.trim() + connections + edit
 
     // frontmatter for Quartz: drop relation fields, add tags

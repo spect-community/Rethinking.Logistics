@@ -31,7 +31,8 @@ tools:
 auto_insights:
   - "[[In-city logistics is a separate typology with separate rules]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261031083257.png]]
 ## Project

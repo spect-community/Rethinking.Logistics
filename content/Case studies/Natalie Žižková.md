@@ -30,7 +30,8 @@ tools:
   - "[[Grasshopper]]"
   - "[[Galapagos]]"
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261031084932.png]]
 ![[Pasted image 20261031085016.png]]

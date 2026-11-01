@@ -20,7 +20,8 @@ auto_metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Urban heat island effect]]"
   - "[[Wind conditions]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Cyclops]]"

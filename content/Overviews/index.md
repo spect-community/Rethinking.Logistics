@@ -16,4 +16,5 @@ description: "Views computed from all notes."
 | [[Case studies overview]] | *What did the students design, and which tools did they use?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
+| [[Strategies]] | *Which integration approaches does the studio propose, and what is the evidence?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |

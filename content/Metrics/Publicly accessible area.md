@@ -30,7 +30,8 @@ auto_insights:
   - "[[Concentration of functions equals freedom elsewhere]]"
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Nature designed to exclude people]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

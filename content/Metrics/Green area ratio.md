@@ -32,7 +32,8 @@ auto_case_studies:
 auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

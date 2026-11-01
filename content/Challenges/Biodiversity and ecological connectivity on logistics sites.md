@@ -62,7 +62,8 @@ auto_metrics:
   - "[[Green-core anchoring of mixed uses]]"
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

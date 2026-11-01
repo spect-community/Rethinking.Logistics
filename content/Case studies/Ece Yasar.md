@@ -35,7 +35,8 @@ tools:
 auto_insights:
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
   - "[[No islands — connectivity is the metric]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261031081315.png]]
 ## Project

@@ -144,6 +144,23 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
   pages["Evidence gaps"] = page("Evidence gaps", "Where the chain from tool to metric to decision is incomplete.", body)
 }
 
+// ── Strategies ───────────────────────────────────────────────────────────────
+{
+  const strategies = ofType(kb, "strategy").sort((a, b) => (a.data.number ?? 99) - (b.data.number ?? 99))
+  const intro = `Five integration approaches synthesised from the student projects of the *Rethinking.Logistics* studio and the expert lectures. Each strategy page links its projects, metrics, trade-offs, evidence gaps and expert insights; every number traces to a linked note.
+
+![[Rethinking.Logistics – Bridging Academia and Industry.jpg]]
+
+![[Methodology.jpg]]
+
+![[Typologies.jpg]]
+`
+  const body = strategies.length
+    ? intro + "\n## The five strategies\n\n" + table(["#", "Strategy", "In short", "Projects"], strategies.map((x) => [String(x.data.number ?? ""), wl(x.name), esc(x.data.summary), links(linked(x, "case_studies"))]))
+    : intro + "\n*No strategies yet.*"
+  pages["Strategies"] = page("Strategies", "The five strategies and the student projects behind them.", body)
+}
+
 // ── Insights ─────────────────────────────────────────────────────────────────
 {
   const insights = ofType(kb, "insight")
@@ -169,6 +186,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Case studies overview]] | *What did the students design, and which tools did they use?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
+| [[Strategies]] | *Which integration approaches does the studio propose, and what is the evidence?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |
 `)
 

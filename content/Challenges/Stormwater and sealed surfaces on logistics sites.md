@@ -34,7 +34,8 @@ auto_metrics:
   - "[[Stormwater runoff reduction]]"
   - "[[Water reuse share]]"
   - "[[Yard area per dock]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

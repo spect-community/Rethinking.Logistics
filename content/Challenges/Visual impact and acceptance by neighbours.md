@@ -30,7 +30,8 @@ auto_metrics:
   - "[[Distance to housing]]"
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

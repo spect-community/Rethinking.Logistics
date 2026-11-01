@@ -2,6 +2,7 @@
 // Friendly check of all notes. It only WARNS — it never stops the build.
 // Usage: node scripts/validate.mjs
 
+import { spawnSync } from "node:child_process"
 import { loadKB } from "./lib/kb.mjs"
 
 const kb = loadKB()
@@ -37,6 +38,12 @@ const held = Object.entries(draftsByFolder).map(([folder, ns]) => `${ns.length} 
 const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes.filter((n) => n.type === t).length]))
 console.log(`Rethinking Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
 if (held) console.log(`Not published (draft: true): ${held}`)
+// Numbers on strategy pages must trace to a linked note (warning only)
+if (notes.some((n) => n.type === "strategy")) {
+  const r = spawnSync(process.execPath, [new URL("./check-strategy-numbers.mjs", import.meta.url).pathname.replace(/^\/(\w:)/, "$1")], { encoding: "utf8" })
+  for (const l of r.stdout.split("\n")) if (/^Strategies\//.test(l)) warnings.push(l)
+}
+
 if (warnings.length) {
   console.log(`\n⚠️  ${warnings.length} note(s) to look at (nothing is blocked):`)
   for (const x of warnings) console.log("  - " + x)

@@ -29,7 +29,8 @@ auto_metrics:
   - "[[Mixed-use ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

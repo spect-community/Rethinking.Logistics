@@ -36,7 +36,8 @@ auto_metrics:
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
   - "[[Yard area per dock]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

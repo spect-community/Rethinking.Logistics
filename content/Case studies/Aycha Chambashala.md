@@ -23,7 +23,8 @@ metrics:
   - "[[Function stacking index]]"
 tools: []
 auto_insights: []
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261031080030.png]]
 ## Project

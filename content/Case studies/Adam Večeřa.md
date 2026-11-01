@@ -48,7 +48,8 @@ tools:
 auto_insights:
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261009101951.png]]
 ## Project

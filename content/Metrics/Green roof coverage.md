@@ -22,7 +22,8 @@ auto_insights:
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
   - "[[Green roofs are not a substitute for ground]]"
   - "[[Green roofs vs LCA — an admitted conflict]]"
-auto_strategies: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---
