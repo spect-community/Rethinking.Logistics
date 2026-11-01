@@ -12,11 +12,18 @@ tags:
   - "topic/carbon"
   - "topic/synergy"
   - "topic/green-blue"
+  - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "wetlands, for instance, they are the type of landscapes that actually sequester the most carbon from the atmosphere"
+Ingvartsen explains why the landscape around the Bestseller campus was designed as nature rather than lawn.
+
+## From the transcript
+
+> And further analysis also showed that these types of landscape, wetlands, for instance, they are the type of landscapes that actually sequester the most carbon from the atmosphere. So that could also be a benefit of thinking about the landscape in this way.
+
+*Automatic transcript, presentation, around 00:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

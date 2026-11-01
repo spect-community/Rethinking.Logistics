@@ -15,9 +15,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "we tendered the project where we brought the number down to around 8.9 and then we got down to 6.6"
+The embodied carbon of the Bestseller building's materials, calculated with the Danish LCA method, in kg CO2e per m² of floor area per year. The starting value is garbled in the automatic transcript, which reads 'around 2'; since the later values are higher, the claim bank reads it as about 12.
+
+## From the transcript
+
+> But we started out with […] a baseline where we were around [1]2 kilos of CO2 equivalent per square meter per year, until when we tendered the project, where we brought the number down to around 8.9, and then in the further process, where all the generic EPDs were replaced with more specific ones, we got down to 6.6. And we have not seen the final calculation, but it looks like […] we remain within this territory of around 6.6 kilos per square meter per year, or perhaps even a little bit lower.
+
+*Automatic transcript, presentation, around 00:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

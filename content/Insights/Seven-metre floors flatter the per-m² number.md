@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "if we were to compare it to an office building typology with lower ceiling heights, we would probably be at around 4-4.5"
+Ingvartsen comments on the embodied-carbon result of the Bestseller building, about 6.6 kg CO2e per m² per year, and on why it is hard to compare with other building types. The transcript renders the office-equivalent figure as '444.5', read as 4–4.5.
+
+## From the transcript
+
+> And I think in that it is important also to note that, as I said, we have floor heights of seven meters. So of course, if you were to compare that to […] an office building where you perhaps would have had a floor-to-ceiling height of around 4 meters, you could almost double the amount of square meters to divide by. Of course […] adding that floor slab would also add a little bit of carbon. But […] if we were to compare it to an office building typology with lower ceiling heights, we would probably be at around 4 to 4.5. So very, very low carbon numbers for this building.
+
+*Automatic transcript, presentation, around 00:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

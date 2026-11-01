@@ -11,11 +11,22 @@ tags:
   - "topic/data"
   - "topic/certification"
   - "topic/landscape"
+  - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+How the team chose the plants for the Bestseller campus in Lelystad (NL) and checked the landscape design against its biodiversity target, using a British method on a Dutch project.
+
+## From the transcript
+
+> We use this tool called BNG, which is a British measuring standard for measuring biodiversity, and the process is basically one where we start by measuring the biodiversity of the site before we do anything. […] the area is a factor and then the number of species that you find within the area. Also […] the age of the plants, so that is also a factor, and then that measure we then compare with a similar measure of the habitats we have designed.
+
+*Automatic transcript, presentation, around 00:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+
 ## Externally checked
 
 A verification pass against public sources (claim bank, fact-check item 15) found:

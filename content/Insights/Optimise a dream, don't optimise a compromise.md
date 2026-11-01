@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it's much easier to optimize something that is not a compromise. If you compromise too much in the beginning you've sort of put trip wires out in front of your design process"
+A student asked which aspects to prioritise when starting to design a project as large as the Bestseller campus.
+
+## From the transcript
+
+> […] before any client signs on to something, we need to somehow sell them the dream in a way. What is the ambition? What should this place do? What are the qualities? […] it's much easier to optimize something that is not a compromise. […] If you compromise too much in the beginning, you've sort of put trip wires out in front of your design process and said, OK, now I make cost the most important thing. […] Nobody wants to be in that building. Yeah, it might be cheap, but nobody wants it, perhaps, either.
+
+*Automatic transcript, Q&A, 01:04:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

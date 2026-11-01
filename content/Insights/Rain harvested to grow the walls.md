@@ -11,9 +11,18 @@ tags:
   - "topic/green-blue"
   - "topic/synergy"
   - "topic/landscape"
+  - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+From the answer on how the landscape concept of the Bestseller campus grew out of planning requirements, one step at a time.
+
+## From the transcript
+
+> […] we have very, very large roof areas. Of course we can collect some of the rainwater to store it, and we can use it to irrigate plants on our green facades, but we can also actually stop how much rainwater is going to our retention pools by having a landscape that sucks some of that water […] So there it was a chain of thinking.
+
+*Automatic transcript, Q&A, 01:40:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

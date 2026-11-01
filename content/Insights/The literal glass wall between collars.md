@@ -16,4 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+A student liked that the offices of the Bestseller terminal look directly into the automated hall, and asked how noise from the machines is kept out.
+
+## From the transcript
+
+> We had acousticians working on the project as well, and they did the sound measurements from an existing facility that Bestseller have. So we knew what the noise levels are from the MHE. And then in that glass wall that we have between the admin area and the MHE area, we basically specified the sound dampening that was the requirement for that wall […] and then there was further some vibration tests done on a mock-up during the early stages of construction.
+
+*Automatic transcript, Q&A, 00:58:45. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

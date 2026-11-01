@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "It is a big box and there's a lot of equipment within it. But the question was how can we express these special moments"
+A student asked why the roof of the Bestseller terminal has its particular shape. Ingvartsen explains how the material-handling equipment (MHE) shaped the building after the competition.
+
+## From the transcript
+
+> […] one of the things that happened after we won the competition was that we got the design from the company who's doing all of the material handling equipment, and […] that has a huge requirement, and that just meant that it became quite obvious early, when the real design started […] that we were working with a form that was probably not that expressive. It is a big box and there's a lot of equipment within it. But the question was, there are still sort of special moments. How can we express these special moments that are happening within the building?
+
+*Automatic transcript, Q&A, 01:00:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

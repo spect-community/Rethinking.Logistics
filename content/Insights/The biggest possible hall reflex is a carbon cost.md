@@ -12,11 +12,18 @@ tags:
   - "topic/carbon"
   - "topic/adaptability"
   - "topic/provocation"
+  - "strategy/2-adaptive-modular"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "when you build a logistics center, you just have the biggest hole possible. But the moment you do a hole with very large spans you need very big beams"
+From the same answer on transport and resource use, Ingvartsen turns to structural spans. ('Hole' in the transcript is 'hall'.)
+
+## From the transcript
+
+> […] someone might say, when you build a logistics center, you just have the biggest [hall] possible, because then I'm sort of free to do whatever I want within it. But the moment you do a [hall] with very large spans, it of course also means that you need to have very big beams to do that span. So maybe if you can accept to have shorter spans, well, then I can decrease the size of my beams […] So finding those balances also about what level of flexibility do I need to build into such a facility is actually also important.
+
+*Automatic transcript, Q&A, 01:22:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

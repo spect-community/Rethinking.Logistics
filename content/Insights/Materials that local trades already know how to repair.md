@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "there's a sort of sense of alienation to all these material processes which are void of a human touch of the human hand"
+Continuing his answer to the student's question about prototypes, Ingvartsen describes visiting the construction site of the timber-and-straw building.
+
+## From the transcript
+
+> […] it's very easy to understand what it is. […] intuitively we all know what might happen to it if it gets wet. OK, then I'll probably take out some hay and then I'll put in some new hay. […] whereas when the rubber gasket on my window fails, I'll be much fine to just call the company […] there's a sort of sense of alienation to all these material processes, which are sort of void of a human touch […] they have a long tradition for doing brickwork, for instance. So therefore there'll be a lot of bricklayers in the area, and then these bricklayers, they will actually be really good at maintaining this building.
+
+*Automatic transcript, Q&A, 01:19:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

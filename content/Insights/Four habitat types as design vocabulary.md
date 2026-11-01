@@ -12,9 +12,18 @@ tags:
   - "topic/green-blue"
   - "topic/taxonomy"
   - "topic/synergy"
+  - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+The landscape strategy of Bestseller's logistics campus in Lelystad, inspired by a nearby bird island on reclaimed land.
+
+## From the transcript
+
+> So our entire landscape strategy is one where we have actually developed these four different types of habitats. One is the wetland. We've also developed a forest habitat and a moorland habitat and a green facade habitat. And these were then used to create different areas on and around the building. […] we have created this wetland which sits next to the big truck yard […] the forest habitat is one that we're using to integrate the parking […] The moorland is located on the roof […] And […] our high bays we have designed with green facades.
+
+*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
