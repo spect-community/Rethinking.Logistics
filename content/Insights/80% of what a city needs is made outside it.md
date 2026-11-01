@@ -17,8 +17,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
-metrics:
-  - "[[Mixed-use ratio]]"
+metrics: []
 case_studies: []
 ---
 ## Context
