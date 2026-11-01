@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/people"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) adds the effect of light on the body clock (circadian rhythm) to her study of visual comfort in a Prague office.
+
 ## Quote
 
 > "melanopic light which is linked to circadian arrangements, if it's not treated, people get sleepy"

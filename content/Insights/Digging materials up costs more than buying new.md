@@ -11,9 +11,18 @@ tags:
   - "topic/circularity"
   - "topic/economics"
   - "topic/trade-off"
+  - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+In the Q&A a student asked how to convince people to use reclaimed materials given policy and insurance barriers. Goláň answered that besides perception, the economics are a barrier.
+
+## From the transcript
+
+> […] once you actually also use the economical term of reusing material, you come to the problem that actually digging them up from the existing building might be more expensive than using the new one, right? So that's why we actually have to design for [disassembly], so it's not costly and it's not a problem, right?
+
+*Automatic transcript, Q&A, around 01:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

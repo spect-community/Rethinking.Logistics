@@ -12,11 +12,17 @@ tags:
   - "topic/city"
   - "topic/taxonomy"
   - "topic/materials"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) answers why Czech industrial buildings are rarely converted to other uses, comparing Czech brownfields with the light industrial stock of Germany, France or Spain.
+
 ## Quote
 
 > "They simply don't exist as a light industrial in Czech. Most of the properties which were developed now are brownfields, old steel mills, heavy factories."

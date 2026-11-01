@@ -11,9 +11,12 @@ tags:
   - "topic/city"
   - "topic/certification"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) present the Czech certification system SBTool CZ and what distinguishes it from LEED and BREEAM.

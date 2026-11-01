@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "in real terms, rents are only 15% above where they were 16 years ago"
+Cartlich (CBRE) presents a prime logistics rent index over about 16 years, since the financial crisis. The year of the peak is garbled in the transcript ("2223", "2222"), and a per-year real growth figure reads "5.6% a year", which does not fit the 15% over 16 years.
+
+## From the transcript
+
+> Rents on a year on year basis, prime rents of over 15% / 16% at one stage and we'd actually never seen double digits before. […] We're down now to about 3 1/2% as of fourth quarter last year. […] So in nominal terms, they're now 70% above where they were in the financial crisis, but it took […] four or five years to get back to those levels […]. But in real terms, actually rents are only 15% above where they were 16 years ago. So in real terms, rents have barely […] grown on a […] year on year basis, probably about [5.6% a year, garbled in the transcript]. So not a terribly exciting performance in real terms.
+
+*Automatic transcript, presentation, around 24:00 and 26:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

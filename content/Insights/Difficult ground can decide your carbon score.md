@@ -13,11 +13,16 @@ tags:
   - "topic/trade-off"
   - "topic/landscape"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, the UCEEB researcher returns to the case study of a house designed in three material variants and explains what dominated its carbon footprint.
+
 ## Quote
 
 > "there is a question if the limits for the carbon footprint of buildings are really usable for every case"

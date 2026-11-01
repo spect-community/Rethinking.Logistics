@@ -12,11 +12,16 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains why the scale of a printed object matters: each layer needs time to gain strength before the next one is laid on it. He returns to the point in the Q&A with the nozzle size and layer height used for the printed house Prvok.
+
 ## Quote
 
 > "the bigger the object you print, the easier it gets printed because you have more time"

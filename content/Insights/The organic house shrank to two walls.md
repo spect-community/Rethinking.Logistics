@@ -11,9 +11,12 @@ tags:
   - "topic/trade-off"
   - "topic/materials"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) tells how the design of Prvok, the 3D-printed house, changed after the first test prints.

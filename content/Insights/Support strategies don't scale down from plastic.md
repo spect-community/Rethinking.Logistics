@@ -11,11 +11,16 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/circularity"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains how overhangs could be supported in concrete printing, comparing it with plastic printing, and mentions a project printed in a box of sand whose name is garbled in the transcript.
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (the named sand-printed reference is garbled). To be checked against the recording.

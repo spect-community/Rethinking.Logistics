@@ -11,11 +11,16 @@ tags:
   - "topic/certification"
   - "topic/taxonomy"
   - "topic/economics"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the discussion of certification, the UCEEB researchers (CTU Prague) explain how BREEAM handles warehouses, and the growing role of the Czech system SBTool CZ in legislation and with banks.
+
 ## Quote
 
 > "they couldn't put it away just because it's the generic one"

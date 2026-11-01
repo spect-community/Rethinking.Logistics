@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "Instead of just designing, we were harvesting data. Based on the data we create the prompts."
+Jakob Strømann-Andersen (Henning Larsen) describes an open competition for redeveloping an industrial harbour area in Copenhagen, where the team, short of time, tried producing the entry largely with AI: text, images and diagrams were AI-generated, starting from data harvested from social media.
+
+## From the transcript
+
+> What we did here was the first thing instead of just [designing], we [were] harvesting data. Based on the data we create the prompts, recommendation and then we created images […] And where did we get data from? From social media? From Mark Zuckerberg. […] So we scraped a lot of social data from Instagram and Facebook, photos of people taking pictures inside and relating to [it]. Was it positive? Negative? […] We use [Clarifai] and […] identifying what is in the image. It's a tree, it's a bike, it's a lane, it's a building and then we try to organize clustering what people [are] relating to it. But again […] data can be biased […] if you don't understand the context of the site […] It could be a fun city to design for those kind of people […] And then we cluster data into […] time schedule […]
+
+*Automatic transcript, presentation, middle part. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

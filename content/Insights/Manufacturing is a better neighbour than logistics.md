@@ -12,11 +12,18 @@ tags:
   - "topic/people"
   - "topic/city"
   - "topic/externality"
+  - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "Less traffic, there's less truck, better paid jobs. They stay in these locations for longer periods of time."
+James Fitzgerald (IO Partners) shows how warehouse deals split by tenant type across Europe and in the Czech Republic, and explains why a high share of manufacturing matters for local communities.
+
+## From the transcript
+
+> 3PL third party[…] logistics[…] accounts for 43% of all the deals that were done last year. Yeah, […] Retail another 20%. And then interestingly, this is what I want you to know. Only 21% in Europe as a whole is manufacturing, OK. But when we compare it to what happened last year in the Czech Republic, more than half of our deals[…] [were] manufacturing. […] So why this is also important is because these manufactur[ing] jobs[…] for local communities, now I'm talking about from the perspective of kind of local communities […] Less traffic, there's less truck[s], better paid jobs. […] and usually it means that they stay in these locations for longer periods of time.
+
+*Automatic transcript, presentation, around 00:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

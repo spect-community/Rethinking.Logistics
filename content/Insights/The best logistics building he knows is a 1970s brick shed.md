@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it gets all of its strength from the form, not from the mass of the material"
+Ending his presentation, Paul Astle (Ramboll) shows what he calls the coolest logistics building he has seen and asks the room to identify it; someone guesses Philippe Block's research group. It is Eladio Dieste's warehouse in Montevideo, Uruguay (transcribed as 'the deposit to Montevideo'), still in use today.
+
+## From the transcript
+
+> So this is by Eladio Dieste, really amazing Uruguayan engineer and this is a functional building today. […] So it's in Montevideo in Uruguay. […] this isn't even the original building, so the roof is new. I say new. The roof was built in the 1970s on walls that were much older. It's made from bricks or ceramics, but basically bricks that are held together with mortar and then the whole thing is post tensioned. And it forms these Gaussian shells or vaults which are incredibly stiff. So it gets all of its strength from the form, not from the mass of the material. […] the reason that he did this kind of approach is that in Uruguay at the time, there was lots of limitations on the availability of concrete, cement and steel. […] I use this as an example of how a constraint led to incredible innovation […]
+
+*Automatic transcript, presentation, around 00:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

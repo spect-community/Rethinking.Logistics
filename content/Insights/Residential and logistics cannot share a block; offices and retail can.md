@@ -12,11 +12,17 @@ tags:
   - "topic/people"
   - "topic/trade-off"
   - "topic/taxonomy"
+  - "strategy/3-urban-hybrid"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) discusses mixed use: which uses can be combined with logistics and industry, with the example of a Prague business park.
+
 ## Quote
 
 > "when you combine it with a good sleep it doesn't match"

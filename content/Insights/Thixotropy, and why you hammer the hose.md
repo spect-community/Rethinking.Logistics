@@ -11,11 +11,16 @@ tags:
   - "topic/materials"
   - "topic/data"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains the flow behaviour of the printing mix and why it can hold its shape right after it leaves the nozzle.
+
 ## Quote
 
 > "when you are giving some energy to the material, it's liquid and when you are not giving the energy, it's solid"

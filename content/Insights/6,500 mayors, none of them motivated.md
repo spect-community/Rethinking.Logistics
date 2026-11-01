@@ -12,11 +12,16 @@ tags:
   - "topic/city"
   - "topic/people"
   - "topic/externality"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains why Czech municipalities rarely welcome industrial development: tax revenue goes to the national level, and each of the small municipalities has its own master plan. He describes what a new development means for a mayor.
+
 ## Quote
 
 > "you've got six and a half thousand mayors and managers which are not anyhow motivated to think how to support business"

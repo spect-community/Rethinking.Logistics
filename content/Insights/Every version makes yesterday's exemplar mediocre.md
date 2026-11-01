@@ -11,11 +11,16 @@ tags:
   - "topic/certification"
   - "topic/adaptability"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) introduces his main case study, the ČSOB South Headquarters in Prague, certified under LEED v3, and puts its score in the context of later LEED versions.
+
 ## Quote
 
 > "nowadays this building would get definitely much less credits"

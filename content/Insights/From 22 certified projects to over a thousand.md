@@ -11,11 +11,16 @@ tags:
   - "topic/data"
   - "topic/certification"
   - "topic/economics"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) gives an overview of green building certification in the Czech Republic and how it has grown.
+
 ## Quote
 
 > "In 2012 there were only 22 certified projects"

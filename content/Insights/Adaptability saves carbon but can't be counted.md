@@ -13,11 +13,17 @@ tags:
   - "topic/carbon"
   - "topic/provocation"
   - "topic/trade-off"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, the UCEEB researcher discusses adaptability and design for disassembly in LCA, and why current standards do not credit a longer building life.
+
 ## Quote
 
 > "it's not about service life of the material. It's about the moral service life of the building because you demolish it not only because it's in not good state, but you demolish it because you don't like it anymore"

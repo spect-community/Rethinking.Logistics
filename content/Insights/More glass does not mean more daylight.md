@@ -11,11 +11,16 @@ tags:
   - "topic/trade-off"
   - "topic/energy"
   - "topic/people"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) opens the second part of the lecture, on optimising office façades for daylight and overheating.
+
 ## Quote
 
 > "if you want enough daylight in your interior, you just increase the glazing ratio of your facade or windows. This is a myth"

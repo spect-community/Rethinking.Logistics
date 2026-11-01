@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "trying to forecast in the different years the price of the oil and you see the forecast is always wrong"
+Fojtík (Panattoni) imagines a client asking for the payback period of heat pumps compared with gas, and shows a chart of successive oil-price forecasts (the publisher's name is garbled in the transcript) to argue that future energy prices cannot be predicted.
+
+## From the transcript
+
+> But the question is how do you want to predict the future cost of the energy? Imagine situation: the client comes to you currently and says count me the payback period of the heat pumps technology compared to the gas, and make for me such a calculation. Well, how do you want to [predict] the price of the gas or electricity if you see the, let's say, four years back how it was dramatically changing. So this is the very nice picture where [they] […] [try] to forecast in the different years […] the price of the oil and you see the forecast is always wrong. So it's important for you or for designers to have such a complex solution which could react on the different scenarios in the future and different price.
+
+*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

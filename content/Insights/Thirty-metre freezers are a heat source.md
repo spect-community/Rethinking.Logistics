@@ -11,9 +11,18 @@ tags:
   - "topic/energy"
   - "topic/synergy"
   - "topic/city"
+  - "strategy/5-energy-symbiosis"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+In the Q&A a student asked about the heat recovery mentioned in the presentations. After Goláň explained the brewery case, Novotný compared it with the Frýdek-Místek food factory and its tall freezer and cold-store volumes.
+
+## From the transcript
+
+> For example, here it's much better because those 30 meter freezers and [stores] produce so much excessive heat that you can use it to heat the buildings, at least the part where people are [concentrated] in here. What you need is interconnectivity. So once you do things like this, it's no brainer.
+
+*Automatic transcript, Q&A, around 01:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

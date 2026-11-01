@@ -15,9 +15,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "all CLT, which is interesting is minus sixty-five percent of carbon footprint on this construction."
+Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) on their CLT Penny supermarket in Czechia, the first of a series. Three have been built and five or six are expected. They give the carbon saving of the construction without saying exactly what the figure covers.
+
+## From the transcript
+
+> And now we have already built three. I think it will be 5, 6. […] all CLT, which is interesting is minus sixty-five percent of carbon footprint on this construction. So. It's faster, and the atmosphere on the interior […] is for free.
+
+*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

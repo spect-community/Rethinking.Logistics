@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "incomes per household are stagnating because you're just seeing more and more people"
+In the Q&A the host asked why Helsinki shows growth driven only by employment, with weak productivity; a follow-up question asked what productivity actually measures. Parker (Oxford Economics) answers that growth needs both population and productivity, and gives recent Spanish cities as an example, a trend he expects to reverse over the forecast period.
+
+## From the transcript
+
+> If you just have population growth, what we often see is that, and we've seen this in some of the Spanish cities recently, we expect that to reverse over the forecast. But where they've seen really strong population growth and employment growth, productivity has been really weak. And what we're seeing is actually household incomes have stagnated. So you've got [a] scale effect of more and more people coming in, the labor market increasing, but the actual incomes per household are stagnating because you're just seeing more and more people. But when you divide output by employment, it's relatively weak because it's being distorted.
+
+*Automatic transcript, Q&A, 01:06:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

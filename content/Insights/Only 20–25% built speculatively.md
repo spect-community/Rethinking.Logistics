@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) describes Panattoni's approach to risk: most of what it builds in Czechia is built for a known occupier rather than speculatively.
+
 ## Quote
 
 > "out of 2,000,000 meters which we have developed in Czech, 20 percent, 25% was on speculative basis"

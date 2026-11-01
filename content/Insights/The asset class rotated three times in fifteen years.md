@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/energy"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) describes how investors' appetite for logistics property has changed since the 2008–09 crisis, and which asset classes and industries drive investment today.
+
 ## Quote
 
 > "at the moment the most successful asset class is hotels"

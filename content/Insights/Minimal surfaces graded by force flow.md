@@ -12,11 +12,16 @@ tags:
   - "topic/data"
   - "topic/synergy"
   - "topic/carbon"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+As part of his research on design for concrete 3D printing, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) presents a published study that used minimal-surface infill shaped by the forces in a printed bridge. The paper's title is uncertain in the claim bank (possibly 'anticlastic', transcribed as 'anti plastic').
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (paper title as transcribed; likely "anticlastic" rather than "anti plastic"). To be checked against the recording.

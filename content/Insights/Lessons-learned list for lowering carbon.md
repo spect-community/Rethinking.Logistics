@@ -13,11 +13,17 @@ tags:
   - "topic/circularity"
   - "topic/adaptability"
   - "topic/energy"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+The UCEEB researchers close the LCA case studies with a list of lessons on what designers should do to lower a building's carbon footprint.
+
 ## Quote
 
 > "not always, you cannot say that if you build only from wood, it's the best way"

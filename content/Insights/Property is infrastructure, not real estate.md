@@ -11,9 +11,12 @@ tags:
   - "topic/adaptability"
   - "topic/city"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Pavel Sovička (Panattoni CZ & SK) states the lecture's main premise: Panattoni treats its industrial properties as infrastructure for business rather than as real estate.

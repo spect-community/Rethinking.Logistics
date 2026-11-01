@@ -11,9 +11,13 @@ tags:
   - "topic/externality"
   - "topic/green-blue"
   - "topic/landscape"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Discussing the specific impacts of logistics sites that certification misses, the UCEEB researchers (CTU Prague) point to outdoor lighting.

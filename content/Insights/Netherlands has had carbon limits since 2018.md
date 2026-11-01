@@ -11,11 +11,16 @@ tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/economics"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the LCA part of the lecture, the UCEEB researchers show a map of how ready EU countries are for building carbon limits, and where Czechia stands.
+
 ## Externally checked
 
 A verification pass against public sources (claim bank, fact-check item 6) found:

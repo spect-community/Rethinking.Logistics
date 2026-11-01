@@ -1,5 +1,5 @@
 ---
-statement: "Risk responses: accept and do nothing (a legitimate strategy in some cases), transfer to another party, mitigate, or insure. Naming \"do nothing\" as defensible is unusually candid."
+statement: "Risk responses: accept and do nothing (a legitimate strategy in some cases), transfer to another party, mitigate, or insure."
 source_type: expert
 locator: "~25:06 — anchor: \"transfer the risk to the other party\""
 quote_type: paraphrase
@@ -15,6 +15,18 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "We can also practically decide that we want to do nothing. Even that would be a coping strategy with the risk"
+Miroslav Král (EY) explains why companies manage risk, using insurance as the everyday comparison, and lists the ways of responding to a risk.
+
+## From the transcript
+
+> Let's think about insurance. Why do we have insurance? Because we want to avoid costly losses and disruptions if something happens to us or our property. We can also practically decide that we want to do nothing. Let's say even that would be a coping strategy with the risk, but it sometimes can make sense. You can transfer the risk to the other party or to mitigate the risk completely. So we can imagine why it is important. It works a little bit like insurance […]
+
+*Automatic transcript, presentation, 00:24:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+
+## Editorial note
+
+Naming "do nothing" as defensible is unusually candid.
+
+*An interpretation added when the claim bank was compiled — not said in the lecture.*

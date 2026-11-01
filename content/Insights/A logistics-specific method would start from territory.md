@@ -12,11 +12,17 @@ tags:
   - "topic/externality"
   - "topic/landscape"
   - "topic/city"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+After listing where certification systems misfire on logistics halls, the UCEEB researchers (CTU Prague) describe what an evaluation method made for logistics buildings would focus on.
+
 ## Quote
 
 > "the transport is the biggest problem of this building"

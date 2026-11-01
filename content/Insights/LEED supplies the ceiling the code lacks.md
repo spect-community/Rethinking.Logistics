@@ -11,11 +11,16 @@ tags:
   - "topic/certification"
   - "topic/data"
   - "topic/people"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) compares the Czech daylight code with the daylight metrics used in LEED, in her study of a Prague office floor plate.
+
 ## Quote
 
 > "we have UDI, useful daylight illuminance, which is part of LEED which already has this upper limit set up"

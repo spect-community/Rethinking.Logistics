@@ -11,11 +11,16 @@ tags:
   - "topic/carbon"
   - "topic/materials"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) turns to life-cycle assessment in certification, with the example of Campus Science Park in Brno, described as the first LEED v4 certified building in the country.
+
 ## Quote
 
 > "the global warming potential was calculated and 10% reduction has been reached, that's a complex of 6 measures"

@@ -11,11 +11,17 @@ tags:
   - "topic/adaptability"
   - "topic/carbon"
   - "topic/trade-off"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains how Panattoni keeps buildings usable for future tenants, using clear height as the example.
+
 ## Quote
 
 > "they say we need only 8 meters clear height. We generally push them build 10. We will not charge you for the additional 2 meters."

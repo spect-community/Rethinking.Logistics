@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "you need to present such a certificate to banks and to the investors, you will get better financing for the project"
+Fojtík (Panattoni) ends the energy part of the lecture by linking energy performance to how projects are financed, showing an example Energy Performance Certificate (EPC).
+
+## From the transcript
+
+> I told you at the beginning that the energy is completely different story right now and also important for the financing of the project. So every project has EPC, Energy Performance Certificate, and you need to present such a certificate to banks and to the investors. You need to be under some, let's say, some of the value, some of the line and you will get a better financing for the project. So the energy [is] making the difference in the businesses.
+
+*Automatic transcript, presentation, around 00:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

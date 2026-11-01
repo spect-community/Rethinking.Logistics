@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/externality"
   - "topic/city"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains the Czech fiscal system as the reason municipalities resist logistics and industrial development, and contrasts it with how German municipalities attract businesses.
+
 ## Quote
 
 > "the municipality collects from overall proceeds into the public finance budgets gets only 3%, only tax you get locally is the property tax"

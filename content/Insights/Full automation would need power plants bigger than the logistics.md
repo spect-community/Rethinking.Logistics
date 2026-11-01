@@ -12,11 +12,18 @@ tags:
   - "topic/externality"
   - "topic/data"
   - "topic/trade-off"
+  - "strategy/5-energy-symbiosis"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "we will have power plants and software centres bigger than the logistics just to create computing power."
+Still answering what potential they see in logistics, Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) doubt that warehouses can be reinvented with drones. A fully drone-run operation would need power plants and computing centres bigger than the logistics buildings themselves.
+
+## From the transcript
+
+> Because I don't think we can reinvent the warehouse. Maybe, I don't know if there are […] [drones] flying around the warehouse. […] but then if we do the whole drone only, which will be very hard, we will have power plants and software centres bigger than the logistics just to create computing power.
+
+*Automatic transcript, Q&A, 00:51:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

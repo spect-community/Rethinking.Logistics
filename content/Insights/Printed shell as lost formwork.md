@@ -11,9 +11,12 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/circularity"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+After explaining that printed layers bond weakly to each other, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) describes how load-bearing structures are made with printing, including how the printed house Prvok was reinforced.

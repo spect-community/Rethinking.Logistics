@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "We have cultivated, exploited, drained, coated 78% of the land globally. So there's very, very little real nature left."
+Franziska Meisel (Henning Larsen / Ramboll) opens her lecture on designing for and with nature by explaining why nature matters to her and to Henning Larsen, starting with the scale of human impact on the planet.
+
+## From the transcript
+
+> As humans, our impact on the planet has really been immense. We have cultivated, exploited, drained, coated 78% of the land globally. So there's very, very little real nature left. And this has of course led to the climate crisis and you see that more and more we are challenged. Our planet is not healthy. […] we're also in the middle of a biodiversity crisis and as shown in this diagram, biodiversity, and that means really the variety of all species on this planet, it's very fast going down. We are losing species at an incredible speed at the moment […]
+
+*Automatic transcript, presentation, around 00:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

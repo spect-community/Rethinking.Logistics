@@ -12,11 +12,17 @@ tags:
   - "topic/landscape"
   - "topic/trade-off"
   - "topic/provocation"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) criticises the Czech regulation requiring 20–30% of an industrial site to stay green, comparing it with Germany and the US and with a brownfield case where greenery was demanded on a former steel mill.
+
 ## Quote
 
 > "you have to keep 20 to 30% green, which is not helping anyone, but we have to consume more space to accommodate the same building"

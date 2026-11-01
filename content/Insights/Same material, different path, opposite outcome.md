@@ -12,11 +12,16 @@ tags:
   - "topic/materials"
   - "topic/carbon"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+The core experiment of Jiří Vele's PhD research at the Faculty of Architecture CTU Prague: printed samples where only the toolpath differs, planar (flat layers) versus non-planar (curved layers).
+
 ## Quote
 
 > "with just changing the print path, you can achieve greater design freedom and more structurally sound elements"

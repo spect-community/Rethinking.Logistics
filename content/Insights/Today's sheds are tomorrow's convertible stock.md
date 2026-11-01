@@ -12,11 +12,18 @@ tags:
   - "topic/circularity"
   - "topic/city"
   - "topic/taxonomy"
+  - "strategy/2-adaptive-modular"
+  - "strategy/3-urban-hybrid"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) discusses whether today's logistics buildings can be converted to other uses later, referring to Western European experience and to older industrial buildings in Prague.
+
 ## Quote
 
 > "they are really changing the use from logistics or light industrial into sporting grounds, retail, retail parks"

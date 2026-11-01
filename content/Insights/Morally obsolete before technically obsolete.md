@@ -11,11 +11,18 @@ tags:
   - "topic/adaptability"
   - "topic/provocation"
   - "topic/circularity"
+  - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "buildings actually might become obsolete morally before they become obsolete technically"
+Karel Goláň (CREA-TURA) lists the design challenges of factories and logistics buildings today; one is that buildings can lose their appeal before they wear out, illustrated with current office buildings.
+
+## From the transcript
+
+> […] what we have to deal with is that buildings actually might become obsolete morally before they become obsolete technically, right? Good example might be the office buildings which are being built at the very moment. Probably most of them are [due for] a big refurbishment of their facade in 30–40 years, just because it doesn't meet the moral criteria how it could look to be [a] prime building.
+
+*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

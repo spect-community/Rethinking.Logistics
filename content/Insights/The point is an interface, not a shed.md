@@ -12,11 +12,18 @@ tags:
   - "topic/provocation"
   - "topic/synergy"
   - "topic/taxonomy"
+  - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "we should not only be housing the machines and goods, but actually create an interface between machine, people, city, urban fabric and the site itself"
+Karel Goláň (CREA-TURA)'s conclusion of the presentation, after the case studies of a brewery and a food factory in Czech towns.
+
+## From the transcript
+
+> So concluding this lecture or the tiny lesson is that we should not only be housing the machines and goods, but […] actually create an interface between machine, people, city, urban fabric and the site itself. […] We believe that the success is found when it actually becomes the ecosystem like a city, district or neighborhood, rather than considering the building on their own in a virtual space in isolated utility.
+
+*Automatic transcript, presentation, around 01:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

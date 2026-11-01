@@ -12,11 +12,18 @@ tags:
   - "topic/landscape"
   - "topic/city"
   - "topic/data"
+  - "strategy/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "because of the wind, because of the orientation, because of the greenery which is around the buildings, you can deal with such a thing like urban heat"
+Fojtík (Panattoni) describes a microclimate simulation for another greenfield park, made to test the white facade Panattoni uses across its portfolio.
+
+## From the transcript
+
+> The similar simulation we did for, for example, another park, it's also in the greenfield and [we were] measuring the differences between the color of the warehouse. We decided for the white facade in our portfolio, but we wasn't sure about the reflection of the facade, we wasn't sure about the urban heat and the risk which is linked with it, and other things, but the simulation and the cooperation with the experts show us that because of the wind, because of the orientation, because of the greenery which is around the buildings, you can deal with such a thing like urban heat. You can deal with the risk.
+
+*Automatic transcript, presentation, around 00:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

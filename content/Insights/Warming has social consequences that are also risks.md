@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it will have some socio-economic consequences such as migration, higher illnesses"
+Jakub Veselka (EY) introduces the second IPCC scenario family, the shared socio-economic pathways (SSPs), after the RCPs.
+
+## From the transcript
+
+> And there are two type[s], second type of scenarios. It's called social economic pathways and it means that since environment will be different, warmer, most probably it will have some social economic consequences such as migration, higher illnesses, et cetera. It's described in IPCC report. You can dig deeper if you're interested. And in the end of the day, you need to cover all those aspect[s] if you want to make proper climate risk assessment of your asset.
+
+*Automatic transcript, presentation, 00:44:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

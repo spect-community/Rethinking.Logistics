@@ -11,11 +11,16 @@ tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/economics"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the LCA part of the lecture, the UCEEB researchers explain how they derived preliminary Czech carbon benchmarks for buildings from their own collection of case studies.
+
 ## Quote
 
 > "the 41, for example, is the 66th percentile of all the values"

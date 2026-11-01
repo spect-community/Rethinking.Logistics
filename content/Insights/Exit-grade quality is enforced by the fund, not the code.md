@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/certification"
   - "topic/synergy"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains Panattoni's model of developing buildings for sale to institutional investors, and what that means for the quality of each building.
+
 ## Quote
 
 > "every single asset has to withstand the competition within Europe"

@@ -12,11 +12,16 @@ tags:
   - "topic/city"
   - "topic/provocation"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Discussing the limits of certification for logistics halls, the UCEEB researchers (CTU Prague) give the example of points for cycling infrastructure.
+
 ## Quote
 
 > "if I have some warehouse in the middle of nowhere, who is coming on the bike? Nobody."

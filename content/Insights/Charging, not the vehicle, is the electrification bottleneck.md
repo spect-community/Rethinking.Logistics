@@ -12,11 +12,18 @@ tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/trade-off"
+  - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "one of the biggest barriers to electrification is not the vehicle itself, but the charging process behind it"
+Wiebke Müller (EIT Urban Mobility) presents NGSeat, an EIT Urban Mobility co-funded project on zero-emission delivery fleets, as an example of electrification as a system. It was tested with last-mile food-delivery couriers; she names Bolt and Glovo but is unsure which operated it in Prague.
+
+## From the transcript
+
+> But one of the biggest barriers to the electrification is not the vehicle itself, but the charging process behind it. So it takes long charging times, there's a limited infrastructure. And of course, it's also operational downtime for the courier, and the project [NGSeat] addresses this by creating a battery swapping ecosystem. The key innovation is a universal battery that can be used across more than twenty types of vehicles from e-scooters to cargo vans. And instead of waiting for hours, minutes, depends how much you want to charge, the couriers can swap batteries in under a minute and continue the operation without interruption. […] the project aims to reduce CO2 emissions by up to 90%, cut operational cost and also make electric delivery fleets scalable across cities.
+
+*Automatic transcript, presentation, around 01:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

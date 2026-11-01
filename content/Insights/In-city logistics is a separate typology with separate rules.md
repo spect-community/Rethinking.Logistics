@@ -12,11 +12,19 @@ tags:
   - "topic/city"
   - "topic/people"
   - "topic/circularity"
+  - "strategy/3-urban-hybrid"
+  - "strategy/4-mobility-last-mile"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "Some developers call them sticky boxes."
+James Fitzgerald (IO Partners) in the Q&A. Asked whether demand in cities has increased, he describes the small business units (SBUs) serving urban demand; asked later about small multi-tenant warehouses and 'city boxes' for rent, he describes who rents them and on what terms.
+
+## From the transcript
+
+> In the city you have then small business units, we call them SBUs, […] and these SBUs generally are for related to like pharmaceutical[,] food. […] And that's increasing in the city a lot where people need to be close to the consumer, they need to be there in one hour in the city, small business units […] In the cities, it's generally Brownfield sites […] — (Q&A) […] multi warehouse, small business units. They call them[…] some developers call them sticky boxes. […] That's like usually family businesses. People in e-commerce or they just set up their own little business […] A lot of developers like them. They're much higher rents, really high rents. They're shorter leases, so the developers and landlords want more money rents from them.
+
+*Automatic transcript, Q&A, around 01:08 and 01:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

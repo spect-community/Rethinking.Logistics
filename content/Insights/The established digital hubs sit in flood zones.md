@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "some of these key established hubs are relatively exposed to physical risk"
+Parker (Oxford Economics) presents physical climate risk as an increasingly important consideration for planners, for data centres as well as for commercial and residential buildings, using a map of climate-related exposure across Europe.
+
+## From the transcript
+
+> So the map here just shows at a [NUTS 3] level […] the exposure across Europe and the share of local level GDP within cities and regions relating to physical events such as river and coastal flooding, heat waves, droughts and wildfires. […] some of the established data center hubs, so for example, […] around Amsterdam, […] but also within London along the River Thames, […] some of these key established hubs are relatively exposed to physical risk. Amsterdam is a really good example of this that's particularly exposed to river and coastal flooding. By contrast, the Nordic markets tend to be relatively less exposed overall, which adds another layer to why we're actually seeing increased interest in these locations for new technology infrastructure development.
+
+*Automatic transcript, presentation, around 58:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

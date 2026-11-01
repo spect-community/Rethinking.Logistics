@@ -11,11 +11,18 @@ tags:
   - "topic/taxonomy"
   - "topic/landscape"
   - "topic/data"
+  - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "often classical, you come to a plot, you bulldoze it, you build your logistics centre"
+Meisel introduces how Henning Larsen works with a biodiversity strategy and biodiversity net gain calculation, before explaining the steps.
+
+## From the transcript
+
+> So in reality, like I said, often classical, you come to a plot, you bulldoze it, you build your logistics centre or what it is. Sometimes you do better by saying no, we don't want to lose nature, so we will provide… we will, for example, keep the trees. And sometimes you do even better by saying yes, but we will also have a real biodiversity net [gain], and I will explain you a bit step by step how to do that.
+
+*Automatic transcript, presentation, around 00:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -15,6 +15,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "Cities are per say the most important civilization tool for us working with transformation"
+Signe Kongebro (Ramboll) opens the lecture with a quote from UN Secretary-General António Guterres and widens it: cities matter for more than the climate. The point frames the projects she then presents.
+
+## From the transcript
+
+> So I will open this lecture with a quote from Antonio Guterres. He's the Secretary General [of the] United Nation[s] and he said in [20]19: Cities are where the climate battle will largely be won or lost. I mean, a lot of things happened since. It is not only [the] climate battle that will be won or lost in cities. Cities are per [se] the most important civilization tool for us working with transformation and I will show a lot of examples in this.
+
+*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

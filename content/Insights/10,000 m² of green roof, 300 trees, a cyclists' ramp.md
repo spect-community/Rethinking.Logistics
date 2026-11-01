@@ -11,11 +11,17 @@ tags:
   - "topic/green-blue"
   - "topic/city"
   - "topic/data"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) walks through the site measures of the ČSOB South Headquarters in Prague, a LEED v3 certified office building, his main case study.
+
 ## Quote
 
 > "it's about 10,000 square meters of green roofs"

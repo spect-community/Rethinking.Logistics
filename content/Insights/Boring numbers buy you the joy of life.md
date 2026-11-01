@@ -15,6 +15,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "That might sound a bit boring, which is more numbers and graphs, but it gives us the opportunity later to have room for design and joy of life."
+Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) describe the start of a typical office commission. The client knows its headcount but not how to organise it, and YUAR's analysis with numbers and graphs is what later makes room for design.
+
+## From the transcript
+
+> They come up, they show up, they say we have 2000 employees. We need place for 2000 employees, but we don't know how to divide them into teams, departments. And this is where our job starts. That might sound a bit boring, which is more numbers and graphs, but it gives us the opportunity later to have room for design and joy of life.
+
+*Automatic transcript, presentation, around 00:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

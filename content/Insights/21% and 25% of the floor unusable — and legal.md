@@ -12,11 +12,16 @@ tags:
   - "topic/data"
   - "topic/provocation"
   - "topic/certification"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) gives the results of her daylight and glare study of a real Prague office floor plate, measured with LEED-type metrics that have an upper limit, and compares them with the Czech daylight code.
+
 ## Quote
 
 > "So we know that it's bad, but the Czech code would be OK with it. And that's not good."

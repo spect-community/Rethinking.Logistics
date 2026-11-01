@@ -11,11 +11,16 @@ tags:
   - "topic/city"
   - "topic/economics"
   - "topic/adaptability"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains what Czech zoning does and does not give a developer, and how long land has to be held before a building can be offered.
+
 ## Quote
 
 > "when you have it, it doesn't mean you can develop, it just means you are allowed to apply for additional permits"

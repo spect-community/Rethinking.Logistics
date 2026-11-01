@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) show two certified Czech logistics buildings, including the country's highest-rated one and the largest logistics park near Pilsen, next to a conventional warehouse.
+
 ## Quote
 
 > "still you can see it's just a big box and nothing more"

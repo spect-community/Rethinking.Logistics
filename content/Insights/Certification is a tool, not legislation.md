@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+The closing takeaway of the certification part of the lecture by Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague).
+
 ## Quote
 
 > "we need to do what makes sense and not what makes me just the points"

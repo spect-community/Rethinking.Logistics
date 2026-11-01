@@ -10,11 +10,18 @@ aliases: []
 tags:
   - "topic/landscape"
   - "topic/green-blue"
+  - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it's not about introducing a tropical garden, but it's really trying to reinforce the nature that is on site"
+Meisel explains the landscape plan of Bestseller's logistics campus in Lelystad, where several habitat types were introduced to raise species variety towards the biodiversity net gain target.
+
+## From the transcript
+
+> […] we introduced different habitats. So what you see on the landscape plan, it's really about creating different kind of biotopes, these support different species and so on. So your biodiversity, your really your variety of species gets higher, and of course these habitats that we're introducing, they are inspired by surrounding landscape types. So it's not about introducing a tropical garden, but it's really kind of trying to [reinforce] the nature that is on [site] and in a way giving a helping hand […]
+
+*Automatic transcript, presentation, around 00:48. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

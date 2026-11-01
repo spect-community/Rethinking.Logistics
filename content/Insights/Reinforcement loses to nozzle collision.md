@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/materials"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains why steel reinforcement is hard to combine with concrete 3D printing.
+
 ## Quote
 
 > "the robot would be bumping into these objects. So when you are printing you always need ideally levelled surfaces"

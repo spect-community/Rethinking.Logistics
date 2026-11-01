@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/certification"
   - "topic/adaptability"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) explains why the ČSOB South Headquarters in Prague, his main case study, scored so high under LEED v3.
+
 ## Quote
 
 > "the main reason probably is that the investor is owner as well. So it's not a typical development when one entity builds a building and then it sells"

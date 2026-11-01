@@ -11,11 +11,16 @@ tags:
   - "topic/trade-off"
   - "topic/landscape"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) puts brownfield redevelopment into proportion. Although Panattoni has built more than 1,000,000 m² on brownfields, he argues that brownfields are a tiny share of all built space, so greenfield development remains necessary.
+
 ## Quote
 
 > "it's very fashionable to talk at the conferences about the utilisation of the brownfields. But it's very tiny, it's per mils."

@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "what you can see can be the fancy picture and everything is solved there and what is not visible, it's for example acoustic."
+Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) on the office they built inside a logistics warehouse, apparently answering a question about acoustics. The acoustics are handled only where needed: closed meeting rooms and porous brick left unfinished. They say the parts that do the work, acoustics, layout and how the space functions, are the ones photos do not show.
+
+## From the transcript
+
+> acoustic panels, acoustic panels, and then […] the acoustic is solved where you need, so we have these closed meeting rooms, and then what we have, we have this porous brick that we left without any chips and that it solves more sounds than a flat wall. Of course, because what you can see can be the fancy picture and everything is solved there and what is not visible, it's for example acoustic, and mostly how the thing works. If it's the layout of the exposure position, how effective is for user.
+
+*Automatic transcript, presentation, around 00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -11,11 +11,18 @@ tags:
   - "topic/energy"
   - "topic/synergy"
   - "topic/trade-off"
+  - "strategy/5-energy-symbiosis"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "once the heat is high enough you can use water and the heat can travel far distances; once you are using heat which is not that hot, the distance is very short"
+From Karel Goláň (CREA-TURA)'s presentation of the brewery the studio redesigned in a dense town on the southern Czech border (the client wanted to open the site to the public for the city's year as a 2028 cultural capital; names are garbled in the transcript), and from the Q&A, where a student asked how the heat recovery works. Goláň showed the brew house on the axonometric drawing; Novotný added the limit on how far heat can travel.
+
+## From the transcript
+
+> […] when you're brewing a beer, it produces a lot of excess heat, and we have used this excess heat to actually heat up the buildings themselves, right? […] Also the cold storage, you might actually use [a] heat pump to actually use this also in terms of balancing the energy needs as well. — (Q&A) This is the brew house where […] a lot of heat is actually produced, right? And we just use it via ventilation to actually heat up the […] new public open building. […] Once the heat is high enough you can use water and the heat can travel for so far distances; once you are using the heat which is not that hot, […] the distance is very short.
+
+*Automatic transcript, presentation, around 00:30, and Q&A, around 01:04. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

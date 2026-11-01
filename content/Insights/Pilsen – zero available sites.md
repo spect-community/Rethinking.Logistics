@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/city"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) illustrates the shortage of permitted industrial land in Czechia with Pilsen, near the German border, the country's second-largest industrial market.
+
 ## Quote
 
 > "there's no single site which could offer a guaranteed move in date within next two years. There's simply no site available, zero."

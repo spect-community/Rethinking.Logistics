@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "It has a really nice sweet spot between highly skilled people, university educated, very technical, also in combination with a lot of blue collar workers."
+James Fitzgerald (IO Partners) opens his presentation with a 2025 KPMG survey of companies that recently chose Central and Eastern Europe for a warehouse, and comments on each of the reasons given.
+
+## From the transcript
+
+> […] [KPMG] study done in 2025, not[…] a big one, but 130 or so companies were surveyed as to why they recently selected[…] the [CEE] for this region, including the Czech Republic for their warehouse […] Overwhelmingly, number one was that the local demand, so particularly in consumer goods consumption in CE is rising a lot. […] Secondly, which is a huge benefit for the region, is the availability of qualified workers. […] what is really interesting about our region[…] is that it has a really nice sweet spot between highly skilled people like yourself, university educat[ed], very technical, also in combination with a lot of blue collar workers. […] The third one is low labour cost. […] [Ease of] doing business. 22% of German customers said that [ease of] doing business was one of the reasons they came to our region.
+
+*Automatic transcript, presentation, around 00:12–00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/data"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) explains the simulation models used to optimise a façade, and why the simple parametric room model is not enough for visual comfort.
+
 ## Quote
 
 > "we're missing the window sill, the thickness of a wall, we're missing the frame of the window"

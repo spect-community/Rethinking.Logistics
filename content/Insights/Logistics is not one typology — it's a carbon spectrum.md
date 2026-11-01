@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it's important to just have a sense of what is the dominance driver in a given typology"
+Right after breaking down global building emissions (existing buildings dominated by operational carbon, new ones more by embodied carbon), Paul Astle (Ramboll) adds a note specific to logistics buildings.
+
+## From the transcript
+
+> Now just a note on that for logistics buildings, it's a bit more complex because you're looking at a very large range of typologies within the logistics space and you'll have some logistics buildings which are completely dominated by embodied carbon because their operational carbon is very low and then if we go to the other end of the scale, things like data centres, you'll find that the operational carbon is enormous and completely eclipses embodied carbon. So it's important to just have a sense of what is the dominance driver in a given typology.
+
+*Automatic transcript, presentation, around 00:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

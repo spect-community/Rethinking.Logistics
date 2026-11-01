@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "It's not only the temperature, the Celsius that is the problem, it's also the humidity"
+Signe Kongebro (Ramboll) introduces the North-South Corridor in Singapore, where an eight-lane traffic corridor is being turned into new urban development. She describes how hot the street is today as the starting point for the project's work on microclimate.
+
+## From the transcript
+
+> […] but growing cities all over the world are developing their own climate with accelerated temperatures and I think that is actually how do you beat the heat in that sense […] This is how it looks. It's quite hot. Nobody walks. It's not only the [temperature], the Celsius that is the problem, it's also the humidity.
+
+*Automatic transcript, presentation, around 00:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

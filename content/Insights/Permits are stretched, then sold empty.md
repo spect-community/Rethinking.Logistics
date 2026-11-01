@@ -11,11 +11,17 @@ tags:
   - "topic/adaptability"
   - "topic/city"
   - "topic/trade-off"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains that Czech developers must secure land and permits long before they know the customer, and how they plan permits for that uncertainty.
+
 ## Quote
 
 > "we are trying to stretch the permits into the maximum levels of the zoning and of the community acceptance"

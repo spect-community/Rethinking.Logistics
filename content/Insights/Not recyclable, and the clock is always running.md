@@ -12,11 +12,16 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/people"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, a student asked whether the printed material is recyclable. Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) answers, and describes the waste and time pressure of printing with a cementitious mix.
+
 ## Quote
 
 > "you have 10 minutes before it starts setting inside your equipment. So it's very stressful to print"

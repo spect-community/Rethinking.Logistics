@@ -11,11 +11,17 @@ tags:
   - "topic/adaptability"
   - "topic/economics"
   - "topic/trade-off"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains how a developer designs for an investor who holds the building longer than any single lease. The point follows his remarks on buildings tailor-made for tenants such as Amazon or H&M.
+
 ## Quote
 
 > "it matches like 80% of the market need and then you just replace the tenant, improve the technology"

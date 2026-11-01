@@ -15,9 +15,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "There was a lot of money on the market. And now it's closed. The window is closed."
+In the discussion after the presentation, Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) describe the Prague office-design market where YUAR has worked since 2008. The market grew from about 2012, peaked around 2021 on startup money, and has now closed. Being in the right place at the right time matters.
+
+## From the transcript
+
+> And in Prague, there are like 5 big players for office design. Okay, 2012, the office design start to be a traffic. And the big was in 2021 with the companies as startups. There was a lot of money on the market. […] Everybody did it. And now it's closed. The windows is closed. The windows is closed. Yeah. I got no investments. It means to be in the right place at the right time.
+
+*Automatic transcript, Q&A, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -11,11 +11,16 @@ tags:
   - "topic/energy"
   - "topic/carbon"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the LCA part of the lecture, the UCEEB researchers explain what has the greatest effect on the carbon footprint of buildings and of products in general.
+
 ## Quote
 
 > "the nuclear power has one of the main impacts on the electricity mix because it's actually without emissions"

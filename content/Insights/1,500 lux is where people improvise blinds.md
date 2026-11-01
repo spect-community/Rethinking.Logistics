@@ -11,11 +11,16 @@ tags:
   - "topic/people"
   - "topic/data"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) presents a daylight and glare study of a Prague office floor plate and explains the upper threshold she uses for illuminance measured on the floor.
+
 ## Quote
 
 > "it comes from studies where office workers were observed when they intuitively start setting up some improvised shading for themselves"

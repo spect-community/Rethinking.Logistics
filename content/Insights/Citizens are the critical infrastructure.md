@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "It is not only about energy, it's not only about data. It is about how we use the cities as an asset"
+Signe Kongebro (Ramboll) introduces a Ramboll study of how Copenhagen became a liveable city, now being extended to the other Nordic capitals, on how cities can become resilient.
+
+## From the transcript
+
+> So I think if I go into sort of the Copenhagen way, we know that citizens are Europe's most critical infrastructure for future resilience. It is not only about energy, it's not only about data. It is about how we use the cities as an asset, as a typology, and what we also see is that this is where all the GDP is. Citizens are the most rich part of the nations by far.
+
+*Automatic transcript, presentation, around 00:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

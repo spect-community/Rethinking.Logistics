@@ -10,11 +10,18 @@ aliases: []
 tags:
   - "topic/materials"
   - "topic/circularity"
+  - "strategy/2-adaptive-modular"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "The scaffolding could go to the building site and the mycelium could go to the field."
+Near the end of his presentation, showing how AI images feed design ideas, Jakob Strømann-Andersen (Henning Larsen) presents a pavilion Henning Larsen built from mycelium-grown materials for Milan Design Week.
+
+## From the transcript
+
+> […] we did a pavilion for the Venice Biennale this year. No, not the Venice Biennale, the design week in Milan and the idea was to work with mycelium growing materials […] So we have those big mycelium balls coming up. That was under the [Politecnico] in the lab, the students. They grow in the lab at the university. […] The lab was just down there. So it grows and […] put it together [in] the scaffolding system and we could take everything apart again. The scaffolding could go to the building site and the [mycelium] could go to the field.
+
+*Automatic transcript, presentation, late part. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

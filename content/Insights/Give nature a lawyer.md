@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "in New Zealand, they start to give nature like a lawyer on the side, you can also make nature go to court"
+A student asked about the biggest institutional barriers that keep logistics and infrastructure projects from putting nature at their core. Toward the end of her answer Meisel points to legal standing for nature.
+
+## From the transcript
+
+> I think if you also from nature perspective, because nature in our society is not protected, it doesn't have like a voice, no. I think it's very interesting when you look at indigenous cultures or in New Zealand, they start to give nature like a lawyer on the side. So nature actually has a theoretical advisor in a way. And so you can also make nature go to court, into a lawsuit. I mean that's amazing, no, if you think about it, because I think we culturally… for many, many hundreds of years we have exploited nature […]
+
+*Automatic transcript, Q&A, 01:18:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

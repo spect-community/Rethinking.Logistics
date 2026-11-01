@@ -12,11 +12,18 @@ tags:
   - "topic/city"
   - "topic/provocation"
   - "topic/materials"
+  - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "construction logistics is one of the largest but least managed sources of urban traffic, a major blind spot still in urban planning"
+Wiebke Müller (EIT Urban Mobility) opens her section on construction site logistics, one of the six urban logistics segments she distinguishes, before presenting the newly started EIT Urban Mobility project on digitalised construction logistics (piloted in Poland and Ukraine).
+
+## From the transcript
+
+> So why this is relevant: it involves heavy vehicles, which have a disproportionately high impact on congestion, on emissions, but also on the road […]. So [construction logistics can] account for 20 to 30% of urban freight traffic and up to 1/3 or 37% actually of vehicle kilometers driven, much higher than the last mile as outlined, which gets far more attention. So this will continue to grow with urbanization and building renovations. And the planning relevance: despite its scale, it's often poorly coordinated and rarely integrated into planning processes. […] And construction logistics is one of the largest but least managed sources of urban traffic. You can summarize [it as] a major blind spot still in urban planning.
+
+*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -10,9 +10,12 @@ aliases: []
 tags:
   - "topic/data"
   - "topic/carbon"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+In the LCA part of the lecture, the UCEEB researchers present a case study of a Skanska residential project (Dřevák, garbled as 'Drewag' in the transcript) calculated both from a BIM model and from a bill of quantities.

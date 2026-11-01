@@ -12,11 +12,16 @@ tags:
   - "topic/carbon"
   - "topic/economics"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) introduces concrete 3D printing with the printing of Prvok, a 3D-printed house, explaining what the printed material actually is.
+
 ## Quote
 
 > "sometimes it's referred to as concrete, but it's not exactly concrete. It's a cementitious material. This mixture is way more expensive than the regular concrete"

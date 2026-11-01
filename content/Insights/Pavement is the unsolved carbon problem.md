@@ -4,7 +4,7 @@ source_type: expert
 locator: "Q&A — anchor: \"there's no real solution for it now\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — sentence garbled in transcription"
+confidence: "check — the truck sentence reads \"it's still going to work with heavy trucks\" in the transcript; the negation is inferred"
 reviewed_by: ""
 aliases: []
 tags:
@@ -17,9 +17,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "From a CO2 perspective, the focus should be on the pavement, there's no real solution for it now. We see it all over the world and the asphalt is there. It's enormous."
+In the Q&A a student asked which paving materials Jakob Strømann-Andersen (Henning Larsen) prefers. He said the focus on buildings leaves urban spaces neglected, mentioned a mycelium paving test area at Fælledby, and pointed the students' logistics work toward pavement. The transcript is garbled here: the truck sentence reads "it's still going to work with heavy trucks".
+
+## From the transcript
+
+> The big focus on the building, what is the lack of focuses on the urban spaces and we use a lot of [pavement] on the urban spaces. What we are looking into at the moment is like maybe on the [Fælledby] project there's like a test area where we have the mycelium [paver]. That is the [binder] is mycelium, but aggregate is [crushed] concrete. […] but it's still going to work with heavy trucks and stuff like that […] It could be one of your strategy to look at the pavement. What can you do when you have those heavy trucks coming in? Because from a CO2 perspective, the [focus] should be on the pavement in the [external areas]. […] it's the pavement and there's no real solution for it now. We see it all over the world and the asphalt is there […] It's enormous.
+
+*Automatic transcript, Q&A (no timestamp in the transcript). Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

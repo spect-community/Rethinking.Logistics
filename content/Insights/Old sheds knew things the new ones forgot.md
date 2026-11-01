@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "the structure of the buildings, it's quite simple and don't use these energy potential at all"
+Fojtík (Panattoni) refers to the historic industrial buildings in Kladno that the students had visited, comparing their shape and passive principles with today's simple sheds, and suggests the students bring such principles back.
+
+## From the transcript
+
+> And it's not that easy, but you saw in [Kladno] in the old buildings that the shape of the buildings used to be a bit different. There was principle of the [natural] ventilation, there was more playing with the lights and the mass of the construction. So this may be inspiration also for you to bring such a principles back in the game, because now the structure of the buildings, it's quite simple and don't use these, let's say, energy potential at all.
+
+*Automatic transcript, presentation, around 00:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

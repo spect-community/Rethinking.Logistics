@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "House prices since 2015 are up by nearly 90%, household disposable income over this time period has increased by only around 10%"
+Parker (Oxford Economics) turns to housing affordability, which policymakers, planners and mayors repeatedly named as their main concern at the EU Cities and Regions Week in Brussels. He shows European house prices and household disposable income, both indexed to 2015.
+
+## From the transcript
+
+> So what we've done is indexed house prices and household disposable income. […] What you're seeing is quite a clear gap over time. House prices since 2015 are up by around nearly 90% and we expect it to be about 90% higher than 2015 levels by [2030]. While household disposable income over this time period has increased by only around 10%. A similar trend would be evident if we [changed] from house prices to the rental market as well.
+
+*Automatic transcript, presentation, around 37:45. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

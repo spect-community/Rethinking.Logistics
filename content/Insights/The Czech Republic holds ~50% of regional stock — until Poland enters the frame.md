@@ -4,7 +4,7 @@ source_type: expert
 locator: "mid — anchor: \"takes up almost 50% of this industrial stock\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — Poland transcribed as \"Owen\"; Czech figure hedged 12/13"
+confidence: "check — Poland is transcribed as \"Owen\"; the Czech figure reads \"12, yeah, 13\""
 reviewed_by: ""
 aliases: []
 tags:
@@ -16,6 +16,16 @@ challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+James Fitzgerald (IO Partners) shows how the industry reports industrial stock, take-up and rents for CEE and explains why Poland is left out of the regional chart. In the automatic transcript Poland is garbled as 'Owen' and the Czech figure is given as '12, yeah, 13' million m².
+
+## From the transcript
+
+> So interestingly, the Czech Republic takes up almost 50% of this industrial stock across our entire region. So it's quite big if I put Poland on this map. Czech Republic has roughly 12, yeah, 13 million square meters of floor space. [Poland] has 45. It's huge. So often when we're talking about the Central Eastern Europe[,] we should be putting Poland in there because it's so important, but it just absolutely skews the data and you just can't really focus on these small countries. So actually all the other countries combined, you put them together, it's equal [to] Poland.
+
+*Automatic transcript, presentation, around 00:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (Poland transcribed as "Owen"; Czech figure hedged 12/13). To be checked against the recording.

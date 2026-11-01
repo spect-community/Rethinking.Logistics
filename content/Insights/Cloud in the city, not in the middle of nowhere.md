@@ -11,11 +11,18 @@ tags:
   - "topic/city"
   - "topic/provocation"
   - "topic/energy"
+  - "strategy/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "they should be part of our cities rather than, you know, in the middle of nowhere"
+Jonathan Martins (global lead for buildings and cities in Ramboll's consultancy business, trained as an urban planner) explains the title of his lecture on data centres and urban development. He restates the point in the Q&A, answering a student who asked about a huge new data centre project in Utah.
+
+## From the transcript
+
+> I have called this session Cloud in the City as a slight play on words from the famous TV show, because one of the things that I believe is important for architects, designers, developers, investors of today is really to consider how data centres can kind of come back into our cities […] — (Q&A) that's why I wanted to make this presentation about […] how we make our data centers more part of our cities and integrated and effectively, part of the way we live, you know, we all go on the internet, we all rely on IT systems, and they should be part of our cities rather than, you know, in the middle of nowhere.
+
+*Automatic transcript, presentation, around 00:09, and Q&A, 01:04:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

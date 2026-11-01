@@ -12,11 +12,16 @@ tags:
   - "topic/certification"
   - "topic/economics"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the life-cycle assessment (LCA) part of the lecture, the UCEEB researchers (CTU Prague) outline the EU legislative timeline for building carbon under the recast Energy Performance of Buildings Directive (EPBD).
+
 ## Quote
 
 > "starting January 28, actually the public buildings will have to prove the GWP already. So it's very close."

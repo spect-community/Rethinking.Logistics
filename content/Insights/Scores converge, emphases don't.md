@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the discussion of certification, the UCEEB researchers (CTU Prague) report how different certification systems compare when applied to the same administrative buildings.
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (no reason given). To be checked against the recording.

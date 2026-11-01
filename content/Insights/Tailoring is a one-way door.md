@@ -12,11 +12,17 @@ tags:
   - "topic/circularity"
   - "topic/trade-off"
   - "topic/materials"
+  - "strategy/2-adaptive-modular"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) discusses buildings tailor-made for tenants with heavy automation, such as Amazon or H&M, and what that means for their future use and end of life.
+
 ## Quote
 
 > "tailor made to the point where it's not usable for the future, we always have to take care that in the future it will be possible to recycle it very easily on site"

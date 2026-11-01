@@ -12,11 +12,17 @@ tags:
   - "topic/materials"
   - "topic/synergy"
   - "topic/circularity"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, after describing the failed greenery on the printed house Prvok, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) mentions research at his faculty on letting algae, moss and other organisms grow on printed structures. The researcher's name is uncertain in the claim bank.
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (researcher name from audio transcript). To be checked against the recording.

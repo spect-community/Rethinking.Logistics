@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/data"
   - "topic/people"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) explains the glare metrics in her study of a Prague office floor plate and how the point of assessment is chosen.
+
 ## Quote
 
 > "this type of analysis is done for one critical spot, which is usually chosen to be possibly the worst"

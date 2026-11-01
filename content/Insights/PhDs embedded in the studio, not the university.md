@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "You're employed by the company and you do research together with the university partner."
+Jakob Strømann-Andersen (Henning Larsen), himself a former industrial PhD at Henning Larsen, introduces how the studio works with PhD candidates and university partners, presenting the candidates and their topics one by one. At the start of the lecture he mentioned the 20–30 interns a year.
+
+## From the transcript
+
+> […] every year we get around 20 to 30 new students into the studio for internships. […] — that is the special set up in Denmark. So you're employed by the company and you do [research] together with the university partner. […] Katie was looking into additive manufacturing and 3D printing. […] looking into transformation […] looking into micro climate, particularly weather scenarios […] the idea was to bring acoustic into the built environment. […] The whole facade is built up of the […] prefab panel, but instead of just having like a gypsum on the inside, we have the acoustic absorption [built into] the prefab facade. […] now he has the fastest growing start up in Iceland […] looking into ecosystem service and Jesse […] looking into how we could put KPIs on our biodiversity and [Nitsan] is our AI guy […]
+
+*Automatic transcript, presentation, early part and presentation, middle part. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

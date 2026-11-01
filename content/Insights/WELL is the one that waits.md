@@ -11,11 +11,16 @@ tags:
   - "topic/certification"
   - "topic/people"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) compares the three certification systems LEED, BREEAM and WELL.
+
 ## Quote
 
 > "The WELL certification is much more about the operational state"

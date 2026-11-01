@@ -13,11 +13,17 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/trade-off"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) describes what happened to the plants placed against the printed wall of Prvok.
+
 ## Quote
 
 > "It's nice to sell the idea. Oh, it's amazing. I will have this liveable wall. But unfortunately it died quite fast"

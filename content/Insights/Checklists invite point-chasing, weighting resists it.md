@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) compare how LEED, BREEAM, DGNB and SBTool CZ turn criteria into a final score, stressing the role of weighting.
+
 ## Quote
 
 > "you couldn't go just like in checklist and look for the most evaluated categories"

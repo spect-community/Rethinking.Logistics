@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "you will not reinvent the container shape because the containers are standardised for worldwide travel."
+A question from the floor asked what obvious but unused potential Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) see in logistics, beyond better use of space. They answer that the form of the warehouse is settled, like the shape of the shipping container, and that the potential lies elsewhere.
+
+## From the transcript
+
+> In terms of form architecture, I think the warehouses are set because the [boss side — garbled], same like you will not reinvent the container shape because the containers are standardised for worldwide [travel]. But where I can see a potential is all this is probably AI and apps to use shared logistics centers, right?
+
+*Automatic transcript, Q&A, 00:51:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

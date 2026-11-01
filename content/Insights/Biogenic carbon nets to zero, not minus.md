@@ -11,11 +11,16 @@ tags:
   - "topic/carbon"
   - "topic/materials"
   - "topic/circularity"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, the UCEEB researcher explains how the standardised LCA method counts carbon stored in timber (biogenic carbon) over a building's life cycle.
+
 ## Quote
 
 > "you actually have to return the carbon back to nature. So you got the plus there, you've got like 0."

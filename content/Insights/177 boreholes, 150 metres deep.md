@@ -10,11 +10,17 @@ aliases: []
 tags:
   - "topic/energy"
   - "topic/data"
+  - "strategy/5-energy-symbiosis"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) describes the heating and cooling system of the ČSOB South Headquarters in Prague, his main LEED case study.
+
 ## Quote
 
 > "There are 177 drills 150 meters deep, the function of regeneration of heat in the soil"

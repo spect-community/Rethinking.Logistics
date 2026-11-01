@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "the warehouses, logistic infrastructure, etc. is one of the biggest parts of the building market. The money are there. So, but the architecture is not there."
+In the discussion, after talking about the constraints of discount-store design, Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) point to warehouses and logistics infrastructure as a market niche for architects.
+
+## From the transcript
+
+> So the warehouses, logistic infrastructure, et cetera, is the one of the biggest part on the building market. […] What does it mean? It means that the money are there. So, but the architecture is not there. It's we think it's our your niche.
+
+*Automatic transcript, Q&A, around 00:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

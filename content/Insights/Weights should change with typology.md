@@ -10,9 +10,12 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) explain how the Czech system SBTool CZ weights criteria differently for each building type.

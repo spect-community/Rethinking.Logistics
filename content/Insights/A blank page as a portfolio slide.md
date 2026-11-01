@@ -14,6 +14,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "So this is a blank page. Because no one knew us, yet we were delivering large projects. And still nobody knows us."
+Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) show an empty slide while explaining how the studio positioned itself. They have delivered large projects for years and are still unknown.
+
+## From the transcript
+
+> So this is a blank page. Because no one knew us, yet we were delivering large projects. And still nobody knows us. And we are delivering these large products because we solved the right problems, we point out the right problems.
+
+*Automatic transcript, presentation, around 00:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

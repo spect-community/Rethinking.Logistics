@@ -12,11 +12,16 @@ tags:
   - "topic/economics"
   - "topic/certification"
   - "topic/synergy"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) argues that the business case for certified buildings rests on their occupants rather than on energy savings.
+
 ## Quote
 
 > "people are usually two days less sick during the year in certified buildings"

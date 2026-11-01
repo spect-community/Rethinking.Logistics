@@ -11,11 +11,16 @@ tags:
   - "topic/materials"
   - "topic/data"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+At the start of the lecture, Petr Zahradník (EkoWATT) explains why buildings need assessment beyond energy, using comparisons to make the scale of material extraction and water use in the Czech Republic and Prague easier to grasp.
+
 ## Quote
 
 > "it's like when you dig 5% of Prague to a depth of 1m"

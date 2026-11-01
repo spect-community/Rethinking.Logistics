@@ -11,11 +11,16 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/certification"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) explains the daylight factor, the metric of the Czech daylight code, and what it does not measure.
+
 ## Quote
 
 > "there's no maximum value being tracked, there's too much daylight and it's not efficient or it's not wanted, but the code actually doesn't care"

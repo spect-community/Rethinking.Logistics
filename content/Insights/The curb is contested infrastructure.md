@@ -12,11 +12,18 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/synergy"
+  - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "the curb is not just anymore at the edge of the street. It's one of the most valuable and also the most contested piece of urban infrastructure"
+Wiebke Müller (EIT Urban Mobility) defines the curb and curbside management, the first of two enablers of urban logistics she looks at in detail.
+
+## From the transcript
+
+> The curb is the edge of the street where the roadway meets the sidewalk, serving as the main interface between movement and access in cities. And curbside management is then the allocation and regulation of curb space to balance competing uses like deliveries, parking, pickups, but of course also public space such as benches. […] So integrating curb planning into [street] design is essential. And the curb, you can say, is not just anymore at the edge of the street. It's one of the most valuable and also the most contested piece of urban infrastructure.
+
+*Automatic transcript, presentation, around 01:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

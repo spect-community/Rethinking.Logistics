@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/materials"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, on reinforcing printed structures, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) comments on research groups in the Netherlands that lay steel wire into the printed layers.
+
 ## Quote
 
 > "the concrete and reinforcement, they become like very good friends and stick very well to each other"

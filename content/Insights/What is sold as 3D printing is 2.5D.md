@@ -11,11 +11,16 @@ tags:
   - "topic/provocation"
   - "topic/materials"
   - "topic/taxonomy"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Introducing his research, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) compares the promise of concrete 3D printing with what is typically built.
+
 ## Quote
 
 > "that's rather called a 2 1/2 D printing because you're just stacking the same layers on top of each other"

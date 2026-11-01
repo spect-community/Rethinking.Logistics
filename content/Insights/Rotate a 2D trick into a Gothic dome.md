@@ -11,9 +11,12 @@ tags:
   - "topic/materials"
   - "topic/synergy"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Continuing the non-planar printing tests of his PhD research, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) shows how the tested profiles could be turned into a spatial structure.

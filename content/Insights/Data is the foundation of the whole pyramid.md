@@ -11,11 +11,16 @@ tags:
   - "topic/data"
   - "topic/carbon"
   - "topic/certification"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the LCA part of the lecture, the UCEEB researchers explain why LCA databases matter, using a pyramid with data at the base and sustainability at the top.
+
 ## Quote
 
 > "without the data you cannot assess, you cannot set limits"

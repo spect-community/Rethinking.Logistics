@@ -12,11 +12,18 @@ tags:
   - "topic/people"
   - "topic/landscape"
   - "topic/synergy"
+  - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "every surface, both roof and facade, is also used to really gain more biodiversity on site"
+Meisel walks through the landscape plan of Bestseller's logistics campus in Lelystad, where habitats were designed both for biodiversity and for the experience of people arriving at and working on the site.
+
+## From the transcript
+
+> […] here on top you have the wetland area that is of course also handling rain water and so on. So it doesn't only serve the purpose of biodiversity. […] you really almost can stage this different situations by working with landscape design. So you will arrive to the project driving through a more forested landscape. You will come to this more open kind of wetland nature types that invites […] as a kind of experience where you maybe can take a walk. You have the large roof meadow, giving space for lunch break, for example, for the people working in the logistics centre, and really just always kind of blending nature with the function. Also giving a green facade. So in many ways every surface, both roof and facade, is also used to really gain more biodiversity on site.
+
+*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

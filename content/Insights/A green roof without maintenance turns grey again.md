@@ -11,11 +11,17 @@ tags:
   - "topic/green-blue"
   - "topic/trade-off"
   - "topic/certification"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) discuss green measures that score points in certification of warehouses. The green-roof example comes later in the lecture, in the discussion of certification.
+
 ## Quote
 
 > "if you are making a green roof, you need to think who will take care of it"

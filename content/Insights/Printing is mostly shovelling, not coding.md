@@ -12,11 +12,16 @@ tags:
   - "topic/circularity"
   - "topic/provocation"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) describes the test prints for Prvok, a 3D-printed house, and what happens when a concrete print fails.
+
 ## Quote
 
 > "concrete 3D printing isn't about coding, but it's about hammering or having a shovel and putting this failed concrete into this box"

@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the discussion of certification, the UCEEB researchers (CTU Prague) compare how openly the methodologies of DGNB, BREEAM, LEED and SBTool CZ are available.
+
 ## Quote
 
 > "it's in PDF and it has something like 600 pages"

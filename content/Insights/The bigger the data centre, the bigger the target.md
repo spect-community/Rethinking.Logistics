@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "smaller units working more as a network rather than just one or two large units is always a much more resilient system. That's true in nature in general and that's true in infrastructure."
+Continuing his answer to a student's question about NVIDIA's mini data centres next to houses, Martins (Ramboll) adds a resilience argument for smaller units.
+
+## From the transcript
+
+> Another consideration that we don't really talk about much is the bigger the data centre, the bigger the target in case of problems in the world. War, for example. So if we want to have a resilient system as a whole, having a network of smaller facilities makes things a little bit more easier to manage from a resilience point of view. So smaller units working more as a network rather than just one or two large units is always a much more resilient system. That's true in nature in general and that's true in infrastructure.
+
+*Automatic transcript, Q&A, 01:01:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

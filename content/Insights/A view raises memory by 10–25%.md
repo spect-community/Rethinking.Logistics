@@ -12,11 +12,16 @@ tags:
   - "topic/green-blue"
   - "topic/data"
   - "topic/synergy"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) argues that the business case for green buildings rests on their occupants, citing figures he attributes to a 2013 World Green Building Council survey. The claim bank notes that the WorldGBC report does not publish these headline figures.
+
 ## Quote
 
 > "when you have good outside view, for example, in the park, greenery, river, mental function and good memory has risen from 10 to 25%"

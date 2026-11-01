@@ -1,5 +1,5 @@
 ---
-statement: "Standard warehouses are 12 m clear internally to suit racking; production tenants ask for only 6–8 m, partly because they don't need high racking and partly because heating and cooling a tall volume is expensive. Building height is thus an energy decision."
+statement: "Standard warehouses are 12 m clear internally to suit racking; production tenants ask for only 6–8 m, partly because they don't need high racking and partly because heating and cooling a tall volume is expensive."
 source_type: expert
 locator: "Q&A — anchor: \"usually a standard warehouse is 12 meters high\""
 quote_type: paraphrase
@@ -16,9 +16,21 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "They also want to be lower because the energy costs are lower. If you need to heat and cool the whole warehouse, it's expensive."
+In the Q&A a student asked whether demand in cities has increased. Before answering, James Fitzgerald (IO Partners) explains the different warehouse types, starting with the difference in height between a standard distribution warehouse and a production building.
+
+## From the transcript
+
+> In the city, in our[…] warehousing, there are different types of warehouse, right? You have a warehouse and a big box warehouse. You then have production warehouses. They're very different. […] usually a standard warehouse is 12 meters high. 12 metre inside, right? Because it's standard, you can fit the rack and everything […] Production wants to be lower and the reason […] they usually only ask to say 6 to 8 metre clear[…]. The reason is because they don't need high racking, right? They only need machining and they also want to be lower because the energy costs are lower. If you need to […] heat and cool the whole warehouse, it's expensive.
+
+*Automatic transcript, Q&A, around 01:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+
+## Editorial note
+
+Building height is thus an energy decision.
+
+*An interpretation added when the claim bank was compiled — not said in the lecture.*
 
 ## Externally checked
 

@@ -11,11 +11,18 @@ tags:
   - "topic/carbon"
   - "topic/circularity"
   - "topic/data"
+  - "strategy/2-adaptive-modular"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "We could see from the data we cannot reduce by building new, we can only reduce by using what we have."
+In the Q&A, after the mobility question, Jakob Strømann-Andersen (Henning Larsen) spoke about a student-driven activist movement in Denmark against building new, and where its reasoning came from.
+
+## From the transcript
+
+> […] and it came out to start with about the [Reduction Roadmap] that was about how do we reduce and we could see from the data we cannot reduce by building new, we can only reduce by using what [we] have. And then this activism group came out of it […]
+
+*Automatic transcript, Q&A (no timestamp in the transcript). Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

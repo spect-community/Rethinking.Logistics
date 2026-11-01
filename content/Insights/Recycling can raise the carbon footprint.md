@@ -13,11 +13,16 @@ tags:
   - "topic/carbon"
   - "topic/trade-off"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, the UCEEB researcher discusses whether reuse and recycling lower the carbon footprint, citing a student thesis on concrete made with recycled aggregate.
+
 ## Quote
 
 > "it doesn't necessarily mean that if you reuse you will save carbon footprint, or if you recycle you will save carbon footprint. It doesn't work like that. Sometimes it's really worse."

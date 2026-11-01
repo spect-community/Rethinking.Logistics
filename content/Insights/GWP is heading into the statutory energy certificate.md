@@ -11,11 +11,16 @@ tags:
   - "topic/carbon"
   - "topic/certification"
   - "topic/materials"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Discussing life-cycle assessment and embodied carbon, Petr Zahradník (EkoWATT) comments on where Czech legislation is heading.
+
 ## Quote
 
 > "the global warming potential should be a part of a new version of these energy performance certificates"

@@ -12,11 +12,17 @@ tags:
   - "topic/city"
   - "topic/trade-off"
   - "topic/data"
+  - "strategy/4-mobility-last-mile"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) gives an example of the infrastructure problems of brownfield redevelopment: a traffic assessment at a junction next to a former heavy-industry site.
+
 ## Quote
 
 > "you are told there's a 0 capacity on the junction which is at your brownfield because simply there are cars passing by to other parts of the city"

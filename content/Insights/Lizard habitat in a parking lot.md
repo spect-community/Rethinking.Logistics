@@ -11,11 +11,17 @@ tags:
   - "topic/green-blue"
   - "topic/certification"
   - "topic/provocation"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Discussing the limits of certification for logistics, the UCEEB researchers (CTU Prague) give the example of biodiversity points that Czech warehouses commonly collect.
+
 ## Quote
 
 > "if you will put it in the middle of the parking lot, will it really help lizards or not?"

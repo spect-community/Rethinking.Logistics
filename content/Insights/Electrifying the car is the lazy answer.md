@@ -11,11 +11,18 @@ tags:
   - "topic/provocation"
   - "topic/adaptability"
   - "topic/energy"
+  - "strategy/2-adaptive-modular"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "they all talk about let's make them electric. OK, that's the simple thinking. But the other good thing is actually being five persons in that car"
+Continuing her answer to a student's question on designing logistics infrastructure that can be converted later, Signe Kongebro (Ramboll) uses the car as an analogy for flexibility as better use rather than better hardware.
+
+## From the transcript
+
+> I could also compare it with the vehicle thinking, right? You have one person in a fossil […] driven car, one person sitting in a car. OK, so the vehicle providers, they all talk about let's make them electric. OK, that's one way, that's the simple thinking. We just make them better, the hardware better. But the other good thing […] is actually being five persons in that car. Then suddenly that's also a strategy of flexibility and lowering the pressure of a building, that you actually utilize it even more.
+
+*Automatic transcript, Q&A, 01:09:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -16,4 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+In the Q&A a student asked whether a fully automated warehouse is possible. James Fitzgerald (IO Partners) says such warehouses exist in Western Europe but need tall buildings that Czech planning rarely allows, and concludes with this remark.
+
+## From the transcript
+
+> And so this[…] automation is really important for [high-bay] warehouse[s]. If you want a fully automated warehouse, it's the technology, the hard[er] in[…] lower warehouse[s]. For the planning scheme[…], the master plans need to evolve with this if they want to attract these investments.
+
+*Automatic transcript, Q&A, around 01:17. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -17,6 +17,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "These are not leftover spaces, they are learning spaces — and they said how can we document that."
+Prompted by a student's question about a slide during the presentation, Jakob Strømann-Andersen (Henning Larsen) describes a university building in Cincinnati, one of Henning Larsen's first US projects, whose design relies on atria and open common spaces.
+
+## From the transcript
+
+> And the thing about US, you cannot seek private or public funding for undefined spaces. So everything needs to be lecture rooms or classrooms or office spaces for the professors. But our design is very much based on the common spaces, the atrium, the open spaces. So we came in […] and [they] said no, no, we cannot [fund] all the square meters for the big stairs […] all the big corridors that you're designing is too expensive for us. And then we said no, these are not leftover spaces, they are learning spaces and they said how can we document that and we set up a research project […] So we put up sensors, cameras […] and then we registered how do the students interact there […] and it was like during the pandemic. And so all the classroom was closed down, but all the open space was open. So that was the only building [on] the new campus that actually worked during the pandemic […]
+
+*Automatic transcript, presentation, middle part. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

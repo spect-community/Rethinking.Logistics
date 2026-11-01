@@ -12,11 +12,18 @@ tags:
   - "topic/city"
   - "topic/people"
   - "topic/externality"
+  - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "When you're combining personal cars and trucks, it's a big issue."
+In the Q&A a student suggested combining warehouses with retail for the public. James Fitzgerald (IO Partners) replies that this already exists as a separate subsector and explains why it is kept apart from ordinary industrial plots.
+
+## From the transcript
+
+> […] there's a subsector called retail warehousing. We already have this. […] those retail warehousing is usually, yeah, they're on[…] highway junctions where the master plan allows that to be, because a lot of when you're looking at land use and master plans, […] what you're talking about is having people, consumers go onto the block. That's not allowed in industrial plots. It's gotta be a specific use, so they have to have a[…] retail element there where they'll allow consumers and […] personal vehicles come on there. The reason for this is obviously[…] traffic, there's one. There's multiple reasons. Traffic's a big one. The second one is obviously[…] safety is a big one. When you're combining personal cars and trucks, it's a big issue.
+
+*Automatic transcript, Q&A, around 01:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

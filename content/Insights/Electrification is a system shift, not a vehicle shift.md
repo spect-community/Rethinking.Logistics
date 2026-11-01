@@ -12,11 +12,19 @@ tags:
   - "topic/synergy"
   - "topic/city"
   - "topic/carbon"
+  - "strategy/4-mobility-last-mile"
+  - "strategy/5-energy-symbiosis"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "it's not just easy to switch from one vehicle to a more electric sustainable one, but it's about creating a whole support system"
+Wiebke Müller (EIT Urban Mobility) lists fleet electrification among the key enablers of sustainable urban logistics and later returns to it to introduce two charging projects (NGSeat and Micro Mobility Infra).
+
+## From the transcript
+
+> […] it also requires change in infrastructure and operations. So it's just not a vehicle shift as discussed, it's a system shift. […] But it's not just [easy] to switch from one vehicle to a more electric sustainable one, but it's about creating a whole support system. So here one of the main questions to address is how can the city actually integrate charging stations, battery swapping systems and the energy infrastructure into, when you look at it from a space point of view, streets, but also logistic hubs or buildings and most importantly into the energy system. So this means then coordination between transport planning, energy planning and urban development.
+
+*Automatic transcript, presentation, around 00:58 and 01:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

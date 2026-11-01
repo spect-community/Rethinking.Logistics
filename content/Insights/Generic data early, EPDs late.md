@@ -11,11 +11,16 @@ tags:
   - "topic/materials"
   - "topic/carbon"
   - "topic/data"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the LCA part of the lecture, the UCEEB researchers explain the difference between generic data and product-specific data from Environmental Product Declarations (EPDs), and when to use each.
+
 ## Quote
 
 > "you don't know where you will get the product from, there are quite large differences"

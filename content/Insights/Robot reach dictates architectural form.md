@@ -12,11 +12,16 @@ tags:
   - "topic/adaptability"
   - "topic/trade-off"
   - "topic/economics"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) presents Prvok, a 3D-printed house, and how the industrial robot used to print it limited the size and shape of the printed parts, which were printed in České Budějovice and moved to Prague.
+
 ## Quote
 
 > "if you imagine a robot here, it's the most convenient shape to print. So basically you cannot print much larger than these shapes"

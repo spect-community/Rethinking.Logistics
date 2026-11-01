@@ -12,11 +12,16 @@ tags:
   - "topic/certification"
   - "topic/externality"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, Petr Zahradník (EkoWATT) explains which LEED credits depend on the location of the site rather than on the design.
+
 ## Quote
 
 > "if there's no metro, no tram, no buses, then you cannot get any credit for that"

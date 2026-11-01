@@ -12,11 +12,16 @@ tags:
   - "topic/energy"
   - "topic/data"
   - "topic/certification"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) introduce resilience as a layer beyond sustainability and present the evaluation tools UCEEB is developing in an EU project.
+
 ## Quote
 
 > "if I am speaking about sustainability, I'm speaking about normal conditions"

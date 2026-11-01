@@ -11,11 +11,16 @@ tags:
   - "topic/economics"
   - "topic/people"
   - "topic/synergy"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) explains what a developer does, answering the question whether he is an architect.
+
 ## Quote
 
 > "we have to align all those interests, including the public and the community interest, how to create all the wins everywhere"

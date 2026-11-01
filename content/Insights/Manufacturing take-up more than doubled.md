@@ -17,9 +17,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "that is probably the best guide that we can point to to see actually, yeah, we are seeing a lot of demand for space from manufacturers within Europe"
+Same slide comparing European take-up by occupier type in 2021 and 2025: Cartlich (CBRE) points to manufacturing as the segment that grew and reads it as evidence of near-shoring. The 2025 share is not given as a number in the transcript.
+
+## From the transcript
+
+> Manufacturing on the other hand was only about 12%. […] Retail pretty flat, [3PL] is pretty flat in terms of the percentage, but manufacturing is more than doubled. So manufacturing is now a much more important contributor to demand [for] space in the European market […] And that's probably the best guide to what people are calling onshoring or near shoring or reshoring or [friend-shoring], whatever you want to call it. That is probably the best guide that we can point to to see actually, yeah, we are seeing a lot of demand for space from manufacturers within Europe, which perhaps is either Chinese manufacturers and Asian manufacturers coming into Europe or European manufacturers saying actually I want to be […] located more closely to my consumer.
+
+*Automatic transcript, presentation, around 14:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

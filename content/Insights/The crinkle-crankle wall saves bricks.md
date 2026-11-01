@@ -12,11 +12,16 @@ tags:
   - "topic/carbon"
   - "topic/synergy"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) uses the historical serpentine ('crinkle-crankle') garden wall to explain how geometry can replace material, and links it to the wavy walls of the printed house Prvok.
+
 ## Quote
 
 > "by doing this zigzag you save bricks. So in this construction there are fewer bricks used than in two layers"

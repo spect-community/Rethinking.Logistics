@@ -4,7 +4,7 @@ source_type: expert
 locator: "early — anchor: \"the best picnic spot\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "high (city name transcribed as \"Auckland\"; likely Aarhus)"
+confidence: "check — the city reads \"Auckland\" in the transcript"
 reviewed_by: ""
 aliases: []
 tags:
@@ -12,11 +12,19 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/provocation"
+  - "strategy/1-regenerative-park"
+  - "strategy/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "Normally that will be something that is outside the city, no one likes it. Here we wanted it to be the best picnic spot for the city."
+Among the Henning Larsen projects shown at the start of the lecture, Jakob Strømann-Andersen (Henning Larsen) singles out a wastewater treatment facility as one the studio is most proud of. The city is transcribed as "Auckland"; the claim bank reads it as Aarhus.
+
+## From the transcript
+
+> This is actually one of the project that we [are] also most proud of. It's a wastewater facility. […] And normally that will be something that is outside the city. No one likes [it] […] But here we wanted [it] to be the best picnic spot for the city of [Auckland, likely Aarhus] […] landscape on top of the water treatment and make it some kind of […] learning space […]
+
+*Automatic transcript, presentation, early part. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

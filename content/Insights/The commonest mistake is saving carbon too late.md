@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "you've got to buy the best in class materials in order to save carbon"
+A student asked Paul Astle (Ramboll) what the most common mistakes are when organisations try to reduce their carbon footprint, such as myths about supposedly sustainable choices.
+
+## From the transcript
+
+> I'd say the most common mistake is that they try to save carbon too late in the project and they try to kind of design it as normal and then say we're going to make it low carbon, and then they try to find materials which are low carbon which they can use in the normal way and so they lose a lot of opportunities […] And then what happens is it's expensive, because you've got to buy the best in class materials in order to save carbon. So the biggest mistake is not thinking from day one, not how can we make our materials low carbon, but how can we make this building low carbon? What's the lowest carbon way we can address this?
+
+*Automatic transcript, Q&A, 01:23:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

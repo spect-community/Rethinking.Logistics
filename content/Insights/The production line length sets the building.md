@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "the size of the manufacturing plan is limited by the length of the manufacturing line"
+František Novotný (CREA-TURA) presents the multi-storey food (cake, biscuit and snack-bar) factory in the centre of Frýdek-Místek, built on a former textile-factory brownfield next to housing, a school and the river. Two layout options for the site were tested; the one chosen differs mainly in where the truck hubs and main gate sit. The transcript also mentions trying 'South and E orientation', and names the options' sides as north and east/north-east.
+
+## From the transcript
+
+> […] because the size of the manufacturing plan is limited by the length of the manufacturing line, the robot work that makes the good. It's this long and it cannot be turned or […] it's very complicated to turn it or make it in a different way. So this is given somehow. […] The option A has all the logistic hubs, the goods going in and out on the let's say north side and the option B has those logistic hubs on the east side. Northeast side. […] Also those options have different connections to the […] [skeleton] of the city, to the roads and to in and out. […] So every time it's very tricky to pick the right option. Every option you pick has some downs and ups.
+
+*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

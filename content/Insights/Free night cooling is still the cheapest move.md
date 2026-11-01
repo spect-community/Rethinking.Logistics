@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/energy"
   - "topic/trade-off"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Petr Zahradník (EkoWATT) discusses ventilation strategies, in connection with the ČSOB South Headquarters in Prague.
+
 ## Quote
 
 > "the first and the cheapest way of ventilation is passive ventilation using the so-called chimney effect"

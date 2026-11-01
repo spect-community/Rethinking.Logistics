@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "professional services based within cities tend to be more likely to use AI compared to the same firms that maybe operate outside of cities"
+Parker (Oxford Economics) compares AI use in selected major European cities with their national averages and explains the urban premium partly by sector mix (more ICT and professional services in cities) and partly by location.
+
+## From the transcript
+
+> There's also evidence of location effects within cities. So for example, professional services, it may be consulting firms or law firms for example, that are based within cities tend to be more likely to use AI compared to the same firms that maybe operate outside of cities in peripheral areas or rural areas. […] within cities, large businesses operate. They tend to also be businesses that operate on a global scale. So there's an increasing need to remain competitive and utilize new technologies so they can compete with international firms. In contrast, outside of cities, firms at a local level, [a] law firm for example, there may be less requirement to adopt the latest technology advancements. […] By contrast, what we see in the ICT sector is […] much less of a location difference.
+
+*Automatic transcript, presentation, around 49:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

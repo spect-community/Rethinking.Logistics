@@ -11,11 +11,16 @@ tags:
   - "topic/people"
   - "topic/data"
   - "topic/synergy"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Ellen Krečková (EkoWATT) presents the visual-comfort part of her study of a Prague office floor: the luminance contrast between a computer screen and the surfaces around it.
+
 ## Quote
 
 > "the ratio is still 1 to 18 which is too high which could lead to migraines and poor concentration and loss of productivity"

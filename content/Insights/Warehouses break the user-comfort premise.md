@@ -12,11 +12,16 @@ tags:
   - "topic/people"
   - "topic/taxonomy"
   - "topic/provocation"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Discussing the limits of certification for logistics halls, the UCEEB researchers (CTU Prague) point out that the tools assume a building with users.
+
 ## Quote
 
 > "they are still thinking about the user and not so much about the location where it is and who is using it"

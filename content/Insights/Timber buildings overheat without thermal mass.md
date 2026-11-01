@@ -16,6 +16,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "We see a lot of overheating issues with some of the timber buildings — need to be better aware of how much glass we put into the design."
+In the Q&A a student asked how timber buildings are protected from weather during construction. Jakob Strømann-Andersen (Henning Larsen) went on to the real trade-offs of timber, among them the loss of thermal mass that concrete buildings have.
+
+## From the transcript
+
+> […] that's also about something about thermal comfort. [A] concrete building [is] chilled in the morning because [it has] been cooled down during the night time. So we see a lot of overheating issues with some of the timber buildings, [we need] to be better aware of how much [glass we] put into the [design].
+
+*Automatic transcript, Q&A (no timestamp in the transcript). Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

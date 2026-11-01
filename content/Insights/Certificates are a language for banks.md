@@ -10,11 +10,16 @@ aliases: []
 tags:
   - "topic/economics"
   - "topic/certification"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) explain what building certification (LEED, BREEAM, DGNB, SBTool CZ) is actually used for in practice.
+
 ## Quote
 
 > "banks are saying OK if you would like to have this amount of money then we need to reach at least gold certificate"

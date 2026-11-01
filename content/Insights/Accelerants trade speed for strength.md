@@ -11,11 +11,16 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/carbon"
+  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains the material side of concrete 3D printing: how fast the printed mix sets, and how setting can be sped up with accelerant added at the nozzle.
+
 ## Quote
 
 > "you are using a very ultra high performance concrete level of materials and then you put accelerants in there and final strength is even worse than the regular concrete sometimes"

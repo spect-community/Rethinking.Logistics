@@ -13,11 +13,17 @@ tags:
   - "topic/carbon"
   - "topic/externality"
   - "topic/trade-off"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, a student asked whether replanting the trees cut down on a site could be shown as a benefit through LCA.
+
 ## Quote
 
 > "carbon footprint is just one small piece of the sustainability"

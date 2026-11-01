@@ -12,14 +12,21 @@ tags:
   - "topic/provocation"
   - "topic/city"
   - "topic/data"
+  - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "last mile delivery actually only accounts for about 3% of the vehicle kilometers driven. But construction side logistics accounts for 37%."
+Wiebke Müller (EIT Urban Mobility) walks through six segments of urban logistics. Introducing construction site logistics, she compares its share of urban vehicle kilometres with that of last-mile parcel delivery, which gets most of the policy attention.
+
+## From the transcript
+
+> And here it's also interesting to say that much emphasis is given in recent policy making and also EU funding programs to [parcel] and last [mile] deliveries. But last [mile] delivery actually only accounts for about 3% of the vehicle kilometer[s] driven. But construction [site] logistics accounts for 37%. So it's way bigger, but way less in the attention of policy makers or the general public discussion around urban logistics.
+
+*Automatic transcript, presentation, around 00:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

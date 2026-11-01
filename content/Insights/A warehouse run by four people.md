@@ -4,7 +4,7 @@ source_type: expert
 locator: "early — anchor: \"which employs apparently four people\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — hedged with \"apparently\""
+confidence: "check — hedged with \"apparently\" in the transcript"
 reviewed_by: ""
 aliases: []
 tags:
@@ -16,9 +16,15 @@ challenges: []
 metrics: []
 case_studies: []
 ---
-## Quote
+## Context
 
-> "there is a jd.com warehouse which employs apparently four people"
+Early in the presentation, Cartlich (CBRE) illustrates how technically advanced modern warehouses have become, with an Ocado robot warehouse in the UK and a jd.com warehouse in China. He hedges the four-person figure with "apparently".
+
+## From the transcript
+
+> They also embrace technology. This is a warehouse used by […] Ocado. This one's in the UK, but it employs […] over 1000 robots picking and sorting the deliveries for the consumer. So impressive use of technology. And similarly in […] China, there is a jd.com warehouse which employs apparently four people. Which is the level of automation in that warehouse.
+
+*Automatic transcript, presentation, around 03:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -11,11 +11,17 @@ tags:
   - "topic/energy"
   - "topic/carbon"
   - "topic/adaptability"
+  - "strategy/5-energy-symbiosis"
+  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+Pavel Sovička (Panattoni CZ & SK) presents the multi-storey Amazon facility on a Czech brownfield, which he calls the first really multi-storey building of its kind. The share of consumption covered by photovoltaics is his own estimate, and he hedges it.
+
 ## Transcription
 
 The number or wording may have been garbled in the transcript, or the speaker hedged it (speaker hedges). To be checked against the recording.

@@ -15,4 +15,12 @@ challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
 
+Signe Kongebro (Ramboll) names one of the drivers of Copenhagen's harbour transformation, right after describing how the old harbour fronts were opened up for housing.
+
+## From the transcript
+
+> And I think what drove this was also the investors' ability of moving fast. So within eight years we did sort of the first neighborhood of North Harbour, with a lot of buildings and so on […]
+
+*Automatic transcript, presentation, around 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -12,11 +12,17 @@ tags:
   - "topic/landscape"
   - "topic/certification"
   - "topic/externality"
+  - "strategy/1-regenerative-park"
+  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
 case_studies: []
 ---
+## Context
+
+In the Q&A, a student asked whether LEED prevents the required green area from being split into small fragments, such as strips between parking bays, instead of being kept continuous for biodiversity. Petr Zahradník (EkoWATT) answers.
+
 ## Quote
 
 > "if you have half a square meter of green somewhere in the middle of a concrete square, it will probably not be counted"
