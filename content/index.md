@@ -1,5 +1,5 @@
 ---
-title: "Rethinking Logistics: an evidence-based design ontology"
+title: "Rethinking.Logistics: an evidence-based design ontology"
 description: An interactive knowledge base that links the spatial challenges of logistics architecture to measurable goals, strategies and computational tools — from the Rethinking.Logistics studio at ARCHIP.
 ---
 
