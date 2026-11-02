@@ -55,7 +55,9 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Social interaction index]]"
   - "[[Walkability]]"
-auto_references: []
+auto_references:
+  - "[[Chapelle International]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

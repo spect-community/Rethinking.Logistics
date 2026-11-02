@@ -20,6 +20,8 @@ challenges:
 metrics:
   - "[[Biodiversity net gain]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

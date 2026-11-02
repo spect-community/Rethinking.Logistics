@@ -17,6 +17,8 @@ challenges:
   - "[[Worker comfort and well-being]]"
 metrics: []
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

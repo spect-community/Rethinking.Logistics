@@ -18,6 +18,8 @@ challenges:
 metrics:
   - "[[Daylight autonomy]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

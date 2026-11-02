@@ -27,7 +27,8 @@ auto_metrics:
   - "[[Level of automation]]"
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

@@ -35,6 +35,7 @@ auto_metrics:
   - "[[Water reuse share]]"
   - "[[Yard area per dock]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"

@@ -51,6 +51,8 @@ auto_metrics:
   - "[[Whole-life carbon]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
+  - "[[Ricola Kräuterzentrum]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

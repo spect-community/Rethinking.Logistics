@@ -52,7 +52,8 @@ auto_insights:
   - "[[Three tiers of ambition on a plot]]"
   - "[[Traffic engineers are expert space-consumers]]"
   - "[[We can price carbon, not nature]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 ---
 
 Lecture 6 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 06.3.2026.

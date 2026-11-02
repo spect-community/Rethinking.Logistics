@@ -21,6 +21,8 @@ challenges:
 metrics:
   - "[[Publicly accessible area]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

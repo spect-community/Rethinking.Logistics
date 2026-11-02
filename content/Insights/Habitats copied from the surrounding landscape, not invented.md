@@ -18,6 +18,8 @@ challenges:
 metrics:
   - "[[Native species richness]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

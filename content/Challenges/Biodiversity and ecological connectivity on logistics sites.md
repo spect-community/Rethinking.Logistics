@@ -64,6 +64,7 @@ auto_metrics:
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"

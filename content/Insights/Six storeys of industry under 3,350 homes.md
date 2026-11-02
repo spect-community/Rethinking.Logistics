@@ -20,4 +20,6 @@ challenges:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []
+reference_projects:
+  - "[[SEGRO V-Park Grand Union]]"
 ---

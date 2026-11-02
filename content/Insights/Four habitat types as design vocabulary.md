@@ -20,6 +20,8 @@ challenges:
 metrics:
   - "[[Function stacking index]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

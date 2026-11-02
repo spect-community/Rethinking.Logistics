@@ -20,6 +20,8 @@ challenges:
 metrics:
   - "[[Structural utilisation]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

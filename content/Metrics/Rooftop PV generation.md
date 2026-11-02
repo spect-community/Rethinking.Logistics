@@ -25,6 +25,8 @@ auto_insights:
   - "[[Solar is now a building code, not a choice]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
+  - "[[Ricola Kräuterzentrum]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Urban Hybrid]]"

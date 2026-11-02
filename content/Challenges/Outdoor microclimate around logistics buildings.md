@@ -20,7 +20,8 @@ auto_metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Urban heat island effect]]"
   - "[[Wind conditions]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"

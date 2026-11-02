@@ -20,7 +20,8 @@ auto_insights:
   - "[[Fit-out can cost more than the building]]"
   - "[[Height buys efficiency and buys a fire problem]]"
   - "[[Timber sells on schedule, not on carbon]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools:

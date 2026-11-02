@@ -106,7 +106,9 @@ auto_metrics:
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
+  - "[[Ricola Kräuterzentrum]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

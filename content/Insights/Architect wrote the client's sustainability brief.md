@@ -16,6 +16,8 @@ source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Log
 challenges: []
 metrics: []
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

@@ -19,6 +19,8 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
 metrics: []
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

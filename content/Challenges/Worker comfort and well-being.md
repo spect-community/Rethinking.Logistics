@@ -39,7 +39,9 @@ auto_metrics:
   - "[[Worker safety incidents]]"
   - "[[Worker well-being]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"

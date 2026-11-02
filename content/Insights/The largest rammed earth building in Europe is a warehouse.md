@@ -18,4 +18,6 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 metrics: []
 case_studies: []
+reference_projects:
+  - "[[Ricola Kräuterzentrum]]"
 ---

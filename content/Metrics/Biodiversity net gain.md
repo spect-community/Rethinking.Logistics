@@ -31,7 +31,8 @@ auto_insights:
   - "[[Measure it or you're just claiming it]]"
   - "[[Not one forest offset achieved no net loss]]"
   - "[[Three tiers of ambition on a plot]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
 auto_tools:

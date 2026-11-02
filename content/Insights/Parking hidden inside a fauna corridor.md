@@ -21,6 +21,8 @@ challenges:
 metrics:
   - "[[Ecological connectivity]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

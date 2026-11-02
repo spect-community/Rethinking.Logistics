@@ -20,6 +20,8 @@ challenges:
 metrics:
   - "[[Stormwater retention volume]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

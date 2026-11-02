@@ -20,4 +20,6 @@ challenges:
 metrics:
   - "[[Mixed-use ratio]]"
 case_studies: []
+reference_projects:
+  - "[[Chapelle International]]"
 ---

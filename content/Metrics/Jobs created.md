@@ -19,7 +19,9 @@ auto_insights:
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Manufacturing is a better neighbour than logistics]]"
   - "[[What will we do if we replace every job by a robot]]"
-auto_references: []
+auto_references:
+  - "[[Chapelle International]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies: []
 auto_tools: []
 ---

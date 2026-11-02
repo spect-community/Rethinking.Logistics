@@ -9,7 +9,8 @@ status: published
 aliases: []
 auto_insights:
   - "[[Six storeys of industry under 3,350 homes]]"
-auto_references: []
+auto_references:
+  - "[[SEGRO V-Park Grand Union]]"
 ---
 
 ## About this source

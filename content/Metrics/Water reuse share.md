@@ -19,6 +19,7 @@ auto_insights:
   - "[[Rain harvested to grow the walls]]"
   - "[[Rainwater is not process water]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
 auto_strategies: []
 auto_tools: []

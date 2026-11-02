@@ -9,7 +9,8 @@ status: published
 aliases: []
 auto_insights:
   - "[[The largest rammed earth building in Europe is a warehouse]]"
-auto_references: []
+auto_references:
+  - "[[Ricola Kräuterzentrum]]"
 ---
 
 ## About this source

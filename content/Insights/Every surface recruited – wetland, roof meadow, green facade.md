@@ -21,6 +21,8 @@ metrics:
   - "[[Function stacking index]]"
   - "[[Green roof coverage]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

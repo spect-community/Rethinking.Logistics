@@ -36,7 +36,10 @@ auto_metrics:
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
   - "[[Yard area per dock]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
+  - "[[Chapelle International]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Micro-Hubs and Urban Mobility]]"

@@ -57,6 +57,7 @@ auto_insights:
   - "[[Timber, brick and light concrete came out near-identical]]"
   - "[[Two Czech databases disagree by 10%+]]"
 auto_references:
+  - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"

@@ -21,6 +21,8 @@ metrics:
   - "[[Level of automation]]"
   - "[[Jobs created]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

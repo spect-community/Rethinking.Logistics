@@ -20,6 +20,8 @@ metrics:
   - "[[Biodiversity net gain]]"
   - "[[Land take]]"
 case_studies: []
+reference_projects:
+  - "[[Bestseller Logistics Center West]]"
 ---
 ## Context
 

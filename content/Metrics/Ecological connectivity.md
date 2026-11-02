@@ -21,7 +21,8 @@ auto_insights:
   - "[[No rule against confetti greenery]]"
   - "[[Parking hidden inside a fauna corridor]]"
   - "[[Singapore's 20 km road becomes a green corridor]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
 auto_tools: []
