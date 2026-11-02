@@ -14,6 +14,7 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Screening with greenery and façades]]"
   - "[[Green and productive roofs]]"
   - "[[Logistics as part of the city]]"
   - "[[Safe sites with separated flows]]"

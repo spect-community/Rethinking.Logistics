@@ -40,6 +40,7 @@ auto_ambitions:
   - "[[Design for disassembly and relocation]]"
   - "[[Good neighbour]]"
   - "[[Habitat and ecological connectivity]]"
+  - "[[Lightweight structures]]"
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"
   - "[[Low energy and water demand]]"

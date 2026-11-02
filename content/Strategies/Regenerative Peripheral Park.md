@@ -49,11 +49,13 @@ auto_ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"
   - "[[Mixed use and function stacking]]"
+  - "[[Multi-storey logistics]]"
   - "[[On-site renewable energy]]"
   - "[[Open and connected edges]]"
   - "[[Public access and community use]]"
   - "[[Rainwater kept on site]]"
   - "[[Safe sites with separated flows]]"
+  - "[[Screening with greenery and façades]]"
 auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"

@@ -42,7 +42,9 @@ metrics:
   - "[[Embodied carbon saved by reuse]]"
 auto_ambitions:
   - "[[Adaptable over time]]"
+  - "[[Cargo bikes and light electric vehicles]]"
   - "[[Compact footprint]]"
+  - "[[Drone and autonomous delivery]]"
   - "[[Efficient automated operations]]"
   - "[[Efficient truck flow and compact yards]]"
   - "[[Fewer and cleaner last-mile trips]]"
@@ -52,10 +54,12 @@ auto_ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Micro-hub networks]]"
   - "[[Modular and prefabricated architecture]]"
+  - "[[Multi-storey logistics]]"
   - "[[Public access and community use]]"
   - "[[Rainwater kept on site]]"
   - "[[Reuse of existing buildings]]"
   - "[[Safe sites with separated flows]]"
+  - "[[Screening with greenery and façades]]"
 auto_insights:
   - "[[A rule you cannot enforce is not a rule]]"
   - "[[A two-to-three-tier building taxonomy]]"

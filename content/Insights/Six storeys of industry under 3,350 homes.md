@@ -19,6 +19,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
 ambitions:
   - "[[Mixed use and function stacking]]"
+  - "[[Multi-storey logistics]]"
 metrics: []
 case_studies: []
 reference_projects:

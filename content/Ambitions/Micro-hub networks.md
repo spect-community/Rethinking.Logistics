@@ -9,7 +9,8 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
 auto_challenges:
   - "[[Last-mile delivery emissions and traffic]]"
-auto_insights: []
+auto_insights:
+  - "[[Hub siting is still trial and error]]"
 auto_metrics:
   - "[[Delivery catchment]]"
   - "[[Delivery time]]"
@@ -35,7 +36,7 @@ A network of small urban hubs brings goods close to customers, where vans hand o
 - [[Roshni Basu]] — “Urban integration of logistics micro-hubs”
 - [[Thomas Olsen]] — project description: “an urban logistics hub where trucks deliver to regional-scale docks and electric vans and bikes carry out last-mile delivery”
 
-Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

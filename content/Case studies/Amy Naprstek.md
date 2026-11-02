@@ -13,6 +13,7 @@ challenges:
   - "[[Buildings that change slower than logistics]]"
   - "[[Land take of logistics buildings]]"
 ambitions:
+  - "[[Lightweight structures]]"
   - "[[Modular and prefabricated architecture]]"
   - "[[Adaptable over time]]"
   - "[[Compact footprint]]"

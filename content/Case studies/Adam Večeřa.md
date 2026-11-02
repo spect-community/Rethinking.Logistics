@@ -14,6 +14,7 @@ challenges:
   - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 ambitions:
+  - "[[Multi-storey logistics]]"
   - "[[Green and productive roofs]]"
   - "[[Compact footprint]]"
   - "[[Habitat and ecological connectivity]]"

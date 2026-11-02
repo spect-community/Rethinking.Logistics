@@ -15,6 +15,8 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Multi-storey logistics]]"
+  - "[[Cargo bikes and light electric vehicles]]"
   - "[[Green and productive roofs]]"
   - "[[Micro-hub networks]]"
   - "[[Reuse of existing buildings]]"

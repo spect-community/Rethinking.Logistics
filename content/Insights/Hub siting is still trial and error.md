@@ -16,6 +16,9 @@ tags:
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
+ambitions:
+  - "[[Freight consolidation]]"
+  - "[[Micro-hub networks]]"
 metrics: []
 case_studies: []
 ---

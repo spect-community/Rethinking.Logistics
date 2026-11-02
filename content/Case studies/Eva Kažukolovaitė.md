@@ -14,6 +14,8 @@ challenges:
   - "[[Deep, dark and noisy workplaces]]"
   - "[[Buildings that change slower than logistics]]"
 ambitions:
+  - "[[Cargo bikes and light electric vehicles]]"
+  - "[[Screening with greenery and façades]]"
   - "[[Modular and prefabricated architecture]]"
   - "[[Micro-hub networks]]"
   - "[[Logistics as part of the city]]"

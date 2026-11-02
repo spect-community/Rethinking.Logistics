@@ -5,6 +5,7 @@ aliases:
   - "Visual impact and acceptance by neighbours"
 ambitions:
   - "[[Good neighbour]]"
+  - "[[Screening with greenery and façades]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"

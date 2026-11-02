@@ -47,7 +47,7 @@ Logistics buildings and data centres need less energy and water for heating and 
 - [[Robin Jesenský]] — “Water and energy use for data-centre cooling”
 - [[Robin Jesenský]] — “Wind-driven passive cooling of buildings”
 
-Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

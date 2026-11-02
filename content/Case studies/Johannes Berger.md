@@ -14,6 +14,8 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Space, energy and labour needs changing with automation]]"
 ambitions:
+  - "[[Multi-storey logistics]]"
+  - "[[Drone and autonomous delivery]]"
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Compact footprint]]"
   - "[[Efficient automated operations]]"

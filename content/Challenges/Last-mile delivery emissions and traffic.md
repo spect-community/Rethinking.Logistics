@@ -4,6 +4,9 @@ status: published
 ambitions:
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Micro-hub networks]]"
+  - "[[Cargo bikes and light electric vehicles]]"
+  - "[[Freight consolidation]]"
+  - "[[Drone and autonomous delivery]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"

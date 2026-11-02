@@ -37,7 +37,7 @@ The large roofs and sites of logistics buildings produce renewable energy for th
 - [[Thomas Olsen]] — “Roof use for energy and biodiversity”
 - [[Ilinca Maria Baciu]] — “Rooftop renewable energy on large warehouses”
 
-Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

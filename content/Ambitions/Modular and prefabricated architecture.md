@@ -37,7 +37,7 @@ Buildings are assembled from modules and prefabricated parts that can be added, 
 - [[Eva Kažukolovaitė]] — “Adaptable modular logistics infrastructure”
 - [[Roshni Basu]] — project description: “a modular Urban Logistic PlugIn unit … stackable and joinable”
 
-Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

@@ -6,6 +6,7 @@ aliases:
 ambitions:
   - "[[Low embodied carbon]]"
   - "[[Reuse of existing buildings]]"
+  - "[[Lightweight structures]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"

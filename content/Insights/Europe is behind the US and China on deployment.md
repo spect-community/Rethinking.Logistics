@@ -14,6 +14,8 @@ tags:
   - "topic/trade-off"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
+ambitions:
+  - "[[Drone and autonomous delivery]]"
 metrics: []
 case_studies: []
 ---

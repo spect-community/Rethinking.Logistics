@@ -14,6 +14,8 @@ challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
   - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Multi-storey logistics]]"
+  - "[[Cargo bikes and light electric vehicles]]"
   - "[[Micro-hub networks]]"
   - "[[Logistics as part of the city]]"
   - "[[Fewer and cleaner last-mile trips]]"

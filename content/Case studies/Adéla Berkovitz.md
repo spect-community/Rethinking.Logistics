@@ -15,6 +15,7 @@ challenges:
   - "[[Habitat loss and cut ecological corridors]]"
   - "[[Large paved truck yards and waiting times]]"
 ambitions:
+  - "[[Screening with greenery and façades]]"
   - "[[Green and productive roofs]]"
   - "[[Good neighbour]]"
   - "[[Safe sites with separated flows]]"

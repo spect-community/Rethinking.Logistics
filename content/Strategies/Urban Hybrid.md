@@ -34,6 +34,7 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Rooftop PV generation]]"
 auto_ambitions:
+  - "[[Cargo bikes and light electric vehicles]]"
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Good neighbour]]"
   - "[[Green and productive roofs]]"
@@ -42,6 +43,7 @@ auto_ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Micro-hub networks]]"
   - "[[Mixed use and function stacking]]"
+  - "[[Multi-storey logistics]]"
   - "[[On-site renewable energy]]"
   - "[[Public access and community use]]"
   - "[[Rainwater kept on site]]"

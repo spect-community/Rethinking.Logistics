@@ -16,6 +16,8 @@ tags:
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
+ambitions:
+  - "[[Drone and autonomous delivery]]"
 metrics: []
 case_studies:
   - "[[Johannes Berger]]"

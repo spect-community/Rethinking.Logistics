@@ -3,6 +3,7 @@ category: Land & water
 status: published
 ambitions:
   - "[[Compact footprint]]"
+  - "[[Multi-storey logistics]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Amy Naprstek]]"
