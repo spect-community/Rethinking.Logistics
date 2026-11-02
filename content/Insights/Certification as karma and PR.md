@@ -4,7 +4,7 @@ source_type: expert
 locator: "~56:55–57:14 — anchor: \"get some karma for it\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — the speaker of the later passage is unclear in the transcript"
+confidence: high
 reviewed_by: ""
 relevance: 1
 aliases: []
@@ -19,7 +19,7 @@ case_studies: []
 ---
 ## Context
 
-Earlier in the Q&A, answering whether developers would really pay for sustainability, Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) say sustainability lives on marketing. Later, in the discussion of green financing, the speaker refers back to this ('as you said'): green credentials are mostly company PR, a way to earn 'karma'. The transcript does not make clear whether a YUAR speaker or the course host says the later passage.
+Earlier in the Q&A, answering whether developers would really pay for sustainability, Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) say sustainability lives on marketing. Later, in the discussion of green financing, Janáč refers back to this ('as you said'): green credentials are mostly company PR, a way to earn 'karma'.
 
 ## From the transcript
 

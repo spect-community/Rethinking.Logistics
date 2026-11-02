@@ -4,7 +4,7 @@ source_type: expert
 locator: "~55:47–56:33 — anchor: \"0.1 to 0.2\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — rate stated without units; the horizon reads \"30 to 40\" and \"30 to 14\" in the two transcript streams; the speaker is unclear"
+confidence: "check — rate stated without units; the horizon reads \"30 to 40\" and \"30 to 14\" in the two transcript streams"
 reviewed_by: ""
 relevance: 2
 aliases: []
@@ -20,7 +20,7 @@ case_studies: []
 ---
 ## Context
 
-Following the student's question on green incentives for logistics developers, the discussion turns to finance: complying with ESG criteria can earn a better interest rate. Some banks offer 0.1–0.2 below average, and banks think over a longer horizon than investors. The transcript does not make clear whether a YUAR speaker or the course host says this. The rate is given without units, and the loan horizon is garbled ('30 to 40' / '30 to 14' years).
+Following the student's question on green incentives for logistics developers, Gregory M. Speck (YUAR Architects, Prague) hands over to his colleague Lukáš Janáč, who turns to finance: complying with ESG criteria can earn a better interest rate. Some banks offer 0.1–0.2 below average, and banks think over a longer horizon than investors. The rate is given without units, and the loan horizon is garbled ('30 to 40' / '30 to 14' years).
 
 ## From the transcript
 

@@ -13,9 +13,9 @@ How to use this plan: this file holds what applies to **every** phase. Each phas
 | 2 | Ingest sources and insights | [plans/phase-2-ingest.md](plans/phase-2-ingest.md) | done |
 | 3 | Curation (in batches) | [plans/phase-3-curation.md](plans/phase-3-curation.md) | done |
 | 4 | Five strategies | [plans/phase-4-strategies.md](plans/phase-4-strategies.md) | done |
-| 5 | Edition 1.0 framing | [plans/phase-5-framing.md](plans/phase-5-framing.md) | todo |
-| 6 | QA (before release) | [plans/phase-6-qa.md](plans/phase-6-qa.md) | todo |
-| 7 | Export and release | [plans/phase-7-release.md](plans/phase-7-release.md) | todo |
+| 5 | Edition 1.0 framing | [plans/phase-5-framing.md](plans/phase-5-framing.md) | moved to spect-community/www |
+| 6 | QA (before release) | [plans/phase-6-qa.md](plans/phase-6-qa.md) | moved to spect-community/www |
+| 7 | Export and release | [plans/phase-7-release.md](plans/phase-7-release.md) | moved to spect-community/www |
 
 Inputs Lukáš provides: [plans/inputs.md](plans/inputs.md). When a phase is approved, set its status to `done` here and add one line to the log below.
 
@@ -61,3 +61,4 @@ Publish the knowledge base as a **finished Edition 1.0** (our work is done) in w
 - 2026-11-01 — phase 2 done: 668 claims imported (628 published insights + 40 sensitive held in `import/private/held-insights/`), 50 sources with lecture announcements; second round added transcript context, separated 119 editorial notes, flagged 83 figures `check`, provisional strategy tags; lectures 02, 14, 15, 16 await transcripts (`todo/transcript`).
 - 2026-11-02 — phase 3 done: all 668 insights curated in 19 batches / 3 waves (links with justifications in `import/curation-log.md`, relevance 3/2/1 = 177/310/141 published), 10 % samples checked (`import/curation-samples.md`), 2 weak links removed, 3 new disputed flags, no duplicates merged.
 - 2026-11-02 — phase 4 done: five strategy notes (Regenerative Peripheral Park, Adaptive and Modular Logistics, Urban Hybrid, Micro-Hubs and Urban Mobility, Energy Symbiosis) approved, 22 poster images, `Overviews/Strategies`, number-traceability check in validate; the 40 held insights released and published (668 total). Highlights deferred.
+- 2026-11-02 — after phase 4: transcripts for 02, 14, 15, 16 processed from WebVTT (no `todo/transcript` left); exact cue timestamps for 367 insights; strategy insights now collected by `strategy/N` tag; first deploy of Edition 1.0 from `main` (fast-forward of `edition-1.0`). Phases 5–7 moved to `spect-community/www`.
