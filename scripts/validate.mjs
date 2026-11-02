@@ -3,7 +3,7 @@
 // Usage: node scripts/validate.mjs
 
 import { spawnSync } from "node:child_process"
-import { loadKB } from "./lib/kb.mjs"
+import { loadKB, tokensIn, knownToken } from "./lib/kb.mjs"
 
 const kb = loadKB()
 const { schema, notes } = kb
@@ -12,6 +12,7 @@ const w = (n, msg) => warnings.push(`${n.rel}: ${msg}`)
 
 for (const n of notes) {
   if (n.error) w(n, `properties could not be read (${n.error}). Check the YAML at the top of the note.`)
+  for (const t of tokensIn(n.body)) if (!knownToken(schema, t)) w(n, `unknown token "{{${t}}}" — it is shown as typed on the website (known: {{count:<type>}}, {{schema-diagram}}, {{repo}}, {{contact}}, {{project}})`)
   if (!n.type) continue
   const def = schema.types[n.type]
   for (const r of schema.relations.filter((r) => r.from === n.type)) {

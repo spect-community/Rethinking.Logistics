@@ -172,3 +172,65 @@ export function section(body, heading) {
   const m = body.match(re)
   return m ? m[1].trim() : ""
 }
+
+// ── Page tokens ──────────────────────────────────────────────────────────────
+// Hand-written pages (e.g. the home page) can use tokens that the website build fills in:
+//   {{count:<type>}}   number of published notes of that type, e.g. {{count:case-study}}
+//   {{schema-diagram}} a radial diagram (inline SVG) of all types and relations in schema/schema.yml
+// {{repo}}, {{contact}} and {{project}} are filled from site.config.json by build-site.mjs.
+export const SITE_TOKENS = ["repo", "contact", "project"]
+export const tokensIn = (text) => [...String(text).matchAll(/\{\{([^{}]+)\}\}/g)].map((m) => m[1].trim())
+export const knownToken = (schema, t) => SITE_TOKENS.includes(t) || t === "schema-diagram" || (/^count:/.test(t) && t.slice(6) in schema.types)
+
+export function schemaDiagram(kb) {
+  // Radial diagram: every type on a ring (in schema order), size by number of notes,
+  // every relation as a curved arrow labelled with its verb. Colours follow the site theme.
+  const { schema } = kb
+  const types = Object.keys(schema.types)
+  const S = 860, C = S / 2, R = 285
+  const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;")
+  const node = {}
+  types.forEach((t, i) => {
+    const a = -Math.PI / 2 + (2 * Math.PI * i) / types.length
+    const n = ofType(kb, t).length
+    node[t] = { x: C + R * Math.cos(a), y: C + R * Math.sin(a), a, n, r: 24 + 1.35 * Math.sqrt(n) }
+  })
+  const edges = schema.relations.map((r) => ({ from: r.from, to: r.to, verb: r.verb ?? r.label.toLowerCase(), dashed: false }))
+  for (const dr of schema.derived ?? []) if (dr.tagged) edges.push({ from: dr.tagged.type, to: dr.on, verb: dr.verb ?? "tagged with", dashed: true })
+  const f = (v) => v.toFixed(1)
+  const cls = (t) => t.replace(/[^a-z0-9]/gi, "-")
+  const out = [`<figure class="rl-schema"><svg viewBox="0 0 ${S} ${S}" role="img" aria-label="Diagram of all note types and the links between them" xmlns="http://www.w3.org/2000/svg">`,
+    `<defs><marker id="rl-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" style="fill:var(--gray)"/></marker></defs>`]
+  for (const e of edges) {
+    const a = node[e.from], b = node[e.to]
+    if (!a || !b) continue
+    const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2
+    const cx = C + (mx - C) * 0.35, cy = C + (my - C) * 0.35
+    const cut = (p, r) => { const dx = cx - p.x, dy = cy - p.y, d = Math.hypot(dx, dy) || 1; return [p.x + (dx / d) * r, p.y + (dy / d) * r] }
+    const [x1, y1] = cut(a, a.r + 2), [x2, y2] = cut(b, b.r + 6)
+    const lx = 0.25 * x1 + 0.5 * cx + 0.25 * x2, ly = 0.25 * y1 + 0.5 * cy + 0.25 * y2
+    const title = `${schema.types[e.from].plural} ${e.verb} ${schema.types[e.to].plural.toLowerCase()}`
+    out.push(`<g class="rl-edge rl-e-${cls(e.from)} rl-e-${cls(e.to)}"><title>${esc(title)}</title><path d="M${f(x1)},${f(y1)} Q${f(cx)},${f(cy)} ${f(x2)},${f(y2)}" marker-end="url(#rl-arrow)" style="fill:none;stroke:var(--gray);stroke-width:1.4${e.dashed ? ";stroke-dasharray:5 4" : ""}"/><text x="${f(lx)}" y="${f(ly)}" text-anchor="middle" dominant-baseline="middle" style="font-size:12px;fill:var(--darkgray);paint-order:stroke;stroke:var(--light);stroke-width:4px">${esc(e.verb)}</text></g>`)
+  }
+  for (const t of types) {
+    const p = node[t], d = schema.types[t]
+    const lr = p.r + 16, tx = p.x + Math.cos(p.a) * lr, ty = p.y + Math.sin(p.a) * lr
+    const anchor = Math.abs(Math.cos(p.a)) < 0.3 ? "middle" : Math.cos(p.a) > 0 ? "start" : "end"
+    const base = Math.sin(p.a) > 0.5 ? "hanging" : Math.sin(p.a) < -0.5 ? "auto" : "middle"
+    out.push(`<g class="rl-node rl-n-${cls(t)}"><title>${esc(`${d.plural}: ${p.n} — ${d.description}`)}</title><circle cx="${f(p.x)}" cy="${f(p.y)}" r="${f(p.r)}" style="fill:var(--highlight);stroke:var(--secondary);stroke-width:2"/><text x="${f(p.x)}" y="${f(p.y)}" text-anchor="middle" dominant-baseline="central" style="font-size:15px;font-weight:700;fill:var(--secondary)">${p.n}</text><text x="${f(tx)}" y="${f(ty)}" text-anchor="${anchor}" dominant-baseline="${base}" style="font-size:16px;font-weight:600;fill:var(--dark)">${esc(d.plural)}</text></g>`)
+  }
+  // labels show on hover; hovering a type highlights its links
+  const css = [".rl-schema .rl-edge text{opacity:0;transition:opacity .15s}", ".rl-schema .rl-edge,.rl-schema .rl-node{transition:opacity .15s}", ".rl-schema .rl-edge:hover text{opacity:1}", ".rl-schema .rl-node{cursor:default}",
+    ...types.map((t) => `.rl-schema svg:has(.rl-n-${cls(t)}:hover) .rl-edge:not(.rl-e-${cls(t)}){opacity:.12}.rl-schema svg:has(.rl-n-${cls(t)}:hover) .rl-e-${cls(t)} text{opacity:1}.rl-schema svg:has(.rl-n-${cls(t)}:hover) .rl-e-${cls(t)} path{stroke:var(--secondary)}`)]
+  out.push(`<style>${css.join("")}</style></svg><figcaption>Point at a type to see its links.</figcaption></figure>`)
+  return out.join("")
+}
+
+export function fillTokens(kb, text) {
+  return String(text).replace(/\{\{([^{}]+)\}\}/g, (m, raw) => {
+    const t = raw.trim()
+    if (t === "schema-diagram") return schemaDiagram(kb)
+    if (/^count:/.test(t) && t.slice(6) in kb.schema.types) return String(ofType(kb, t.slice(6)).length)
+    return m
+  })
+}

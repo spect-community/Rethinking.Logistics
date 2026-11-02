@@ -77,6 +77,7 @@ types:
     fields: [statement, source_type, locator, quote_type, evidence_status, confidence, reviewed_by, relevance, aliases]
 
 # Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
+# `verb` labels the arrow in the diagram of the knowledge base ({{schema-diagram}} on the home page).
 relations:
   - from: case-study
     field: challenges
@@ -84,108 +85,126 @@ relations:
     auto: auto_case_studies
     label: Challenges addressed
     auto_label: Case studies
+    verb: addresses
   - from: case-study
     field: metrics
     to: metric
     auto: auto_case_studies
     label: Metrics used
     auto_label: Used in case studies
+    verb: uses
   - from: case-study
     field: tools
     to: tool
     auto: auto_case_studies
     label: Tools used
     auto_label: Used in case studies
+    verb: uses
   - from: tool
     field: metrics
     to: metric
     auto: auto_tools
     label: Metrics it can calculate
     auto_label: Tools that can calculate it
+    verb: calculates
   - from: metric
     field: challenges
     to: challenge
     auto: auto_metrics
     label: Informs decisions on
     auto_label: Metrics
+    verb: informs decisions on
   - from: insight
     field: source
     to: source
     auto: auto_insights
     label: Source
     auto_label: Insights
+    verb: comes from
   - from: insight
     field: challenges
     to: challenge
     auto: auto_insights
     label: Challenges
     auto_label: Insights
+    verb: is about
   - from: insight
     field: metrics
     to: metric
     auto: auto_insights
     label: Metrics
     auto_label: Insights
+    verb: is about
   - from: insight
     field: case_studies
     to: case-study
     auto: auto_insights
     label: Case studies
     auto_label: Insights
+    verb: is about
   - from: strategy
     field: case_studies
     to: case-study
     auto: auto_strategies
     label: Case studies
     auto_label: Strategies
+    verb: is synthesised from
   - from: strategy
     field: challenges
     to: challenge
     auto: auto_strategies
     label: Challenges addressed
     auto_label: Strategies
+    verb: addresses
   - from: strategy
     field: metrics
     to: metric
     auto: auto_strategies
     label: Metrics
     auto_label: Strategies
+    verb: is measured by
   - from: reference
     field: challenges
     to: challenge
     auto: auto_references
     label: Challenges addressed
     auto_label: Reference projects
+    verb: addresses
   - from: reference
     field: metrics
     to: metric
     auto: auto_references
     label: Metrics reported
     auto_label: Reported in reference projects
+    verb: reports
   - from: reference
     field: tools
     to: tool
     auto: auto_references
     label: Tools used
     auto_label: Used in reference projects
+    verb: uses
   - from: reference
     field: sources
     to: source
     auto: auto_references
     label: Sources
     auto_label: Reference projects
+    verb: is documented in
   - from: insight
     field: reference_projects
     to: reference
     auto: auto_insights
     label: Reference projects
     auto_label: Insights
+    verb: is about
   - from: strategy
     field: reference_projects
     to: reference
     auto: auto_strategies
     label: Reference projects
     auto_label: Strategies
+    verb: is shown in
 
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
@@ -203,3 +222,4 @@ derived:
     tagged:
       type: insight
       prefix: "strategy/{number}-"
+    verb: supports

@@ -19,7 +19,7 @@ import fs from "node:fs"
 import path from "node:path"
 import { execSync } from "node:child_process"
 import yaml from "js-yaml"
-import { ROOT, CONTENT, loadKB, loadConfig, computeAuto, asList, wl, key, insightBadges } from "./lib/kb.mjs"
+import { ROOT, CONTENT, loadKB, loadConfig, computeAuto, asList, wl, key, insightBadges, fillTokens } from "./lib/kb.mjs"
 
 const serve = process.argv.includes("--serve")
 const skipQuartz = process.argv.includes("--skip-quartz")
@@ -67,6 +67,7 @@ for (const n of kb.notes) {
   const target = path.join(BUILD, n.rel)
   if (!fs.existsSync(target)) continue
   let body = n.body.replaceAll("{{repo}}", repoUrl).replaceAll("{{contact}}", contactUrl).replaceAll("{{project}}", projectUrl)
+  body = fillTokens(kb, body)
   let d = { ...n.data }
   if (n.type) {
     const def = schema.types[n.type]
