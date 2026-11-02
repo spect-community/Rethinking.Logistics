@@ -89,17 +89,33 @@ const pages = {}
 
 // ── Case studies ─────────────────────────────────────────────────────────────
 {
-  const rows = cases.map((c) => [wl(c.name), esc(c.data.project), esc(c.data.location), esc(c.data.typology), links(linked(c, "tools")), String(linked(c, "metrics").length)])
-  const usage = tools.map((t) => [t, A(t, "auto_case_studies").length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1])
-  const body = `${table(["Case study", "Project", "Location", "Typology", "Tools used", "# metrics"], rows)}
+  const isIndustry = (c) => c.data.kind === "industry"
+  const studio = cases.filter((c) => !isIndustry(c))
+  const industry = cases.filter(isIndustry)
+  const studioNames = new Set(studio.map((c) => c.name))
+  const head = ["Case study", "Project", "Location", "Typology", "Tools used", "# metrics"]
+  const row = (c) => [wl(c.name), esc(c.data.project), esc(c.data.location), esc(c.data.typology), links(linked(c, "tools")), String(linked(c, "metrics").length)]
+  const usage = tools.map((t) => [t, A(t, "auto_case_studies").filter((x) => studioNames.has(x)).length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1])
+  const industryBlock = industry.length
+    ? `
+## Industry reference projects
 
+Built or planned projects outside the studio, with figures as published by the developer.
+
+${table(head, industry.map(row))}
+`
+    : ""
+  const body = `## Student projects
+
+${table(head, studio.map(row))}
+${industryBlock}
 ## Tool use across the studio
 
 ${usage.length ? table(["Tool", "Case studies"], usage.map(([t, n]) => [wl(t.name), String(n)])) : "*No tools linked yet.*"}
 
-Case studies without any linked tool: **${cases.filter((c) => !linked(c, "tools").length).length} of ${cases.length}** — their metrics were estimated by hand, taken from literature, or not quantified.
+Student projects without any linked tool: **${studio.filter((c) => !linked(c, "tools").length).length} of ${studio.length}** — their metrics were estimated by hand, taken from literature, or not quantified.
 `
-  pages["Case studies overview"] = page("Case studies overview", "All student projects at a glance, and which tools they used.", body)
+  pages["Case studies overview"] = page("Case studies overview", "All student projects and industry reference projects at a glance, and which tools they used.", body)
 }
 
 // ── Trade-offs ───────────────────────────────────────────────────────────────

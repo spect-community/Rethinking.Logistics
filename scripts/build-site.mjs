@@ -84,6 +84,10 @@ for (const n of kb.notes) {
     if (rows.length) top += `| | |\n| --- | --- |\n${rows.join("\n")}\n\n`
     if (aliases.length) top += `*Also known as:* ${aliases.join(" · ")}\n\n`
     if (n.type === "case-study" && d.portfolio) top += `**[📖 Open the portfolio](${d.portfolio})**\n\n`
+    if (n.type === "case-study" && d.kind === "industry") {
+      top += `> [!note] Industry reference project\n> Figures as published by the developer.\n\n`
+      if (d.url) top += `**[🌐 Open the project website](${d.url})**\n\n`
+    }
 
     // connections, both directions
     const lines = []

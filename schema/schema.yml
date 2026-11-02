@@ -37,8 +37,9 @@ types:
     folder: Case studies
     label: Case study
     plural: Case studies
-    description: A student project from the Rethinking.Logistics studio showing how tools deliver metrics for decisions.
-    fields: [student, project, portfolio, portfolio_pdf, studio, year, location, typology, status, aliases]
+    description: A student project from the Rethinking.Logistics studio, or an industry reference project, showing how tools deliver metrics for decisions.
+    # kind: studio | industry (empty = studio). Industry reference projects use `url` instead of `portfolio`.
+    fields: [kind, student, project, portfolio, portfolio_pdf, url, studio, year, location, typology, status, aliases]
 
   strategy:
     folder: Strategies
