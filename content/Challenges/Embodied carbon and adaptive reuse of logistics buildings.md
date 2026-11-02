@@ -1,6 +1,8 @@
 ---
 category: Carbon
 status: published
+ambitions:
+  - "[[Low-carbon and energy-positive logistics]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"

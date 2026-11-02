@@ -11,9 +11,10 @@ status: published
 aliases: []
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Truck flow and yard efficiency]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Whole-life carbon]]"
   - "[[Embodied carbon saved by reuse]]"

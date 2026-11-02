@@ -11,8 +11,9 @@ status: published
 aliases: []
 challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Pedestrian-level wind speed]]"
   - "[[Publicly accessible area]]"

@@ -15,7 +15,8 @@ tags:
   - "topic/taxonomy"
   - "strategy/3-urban-hybrid"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Mixed-use ratio]]"

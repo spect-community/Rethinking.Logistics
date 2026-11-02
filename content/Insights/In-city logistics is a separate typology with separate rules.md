@@ -16,7 +16,8 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/4-mobility-last-mile"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies:

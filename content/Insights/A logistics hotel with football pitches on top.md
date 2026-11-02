@@ -15,8 +15,9 @@ tags:
   - "topic/energy"
 source: "[[Sogaris, Chapelle International]]"
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Mixed-use ratio]]"
 case_studies: []

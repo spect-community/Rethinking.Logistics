@@ -10,9 +10,10 @@ aliases:
   - Noise level at highway edge
   - Acoustic comfort
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Worker comfort and well-being]]"
   - "[[Outdoor microclimate around logistics buildings]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Julia Kopác]]"

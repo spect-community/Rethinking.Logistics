@@ -13,11 +13,12 @@ status: published
 aliases:
   - Chapelle International logistics hotel
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Land take of logistics buildings]]"
   - "[[Waste heat and cooling of data centres]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Mixed-use ratio]]"
   - "[[Jobs created]]"

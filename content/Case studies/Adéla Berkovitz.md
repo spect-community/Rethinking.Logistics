@@ -11,10 +11,11 @@ status: published
 aliases:
   - Adela Berkowitz
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Truck flow and yard efficiency]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Energy use intensity]]"
   - "[[Space utilisation]]"

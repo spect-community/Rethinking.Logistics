@@ -11,10 +11,11 @@ status: published
 aliases:
   - Elsa Hlíðberg Hauksdóttir
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Operational energy and on-site renewables]]"
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Adaptable and relocatable logistics structures]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Heating energy demand]]"
   - "[[Energy use intensity]]"

@@ -10,10 +10,11 @@ typology: existing 3PL distribution centre / logistics hub retrofitted with mixe
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Public access and community use of logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Parking capacity]]"

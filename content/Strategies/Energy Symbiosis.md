@@ -19,8 +19,9 @@ challenges:
   - "[[Waste heat and cooling of data centres]]"
   - "[[Operational energy and on-site renewables]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Visual impact and acceptance by neighbours]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Waste heat recovery]]"
   - "[[Heat recovery radius]]"

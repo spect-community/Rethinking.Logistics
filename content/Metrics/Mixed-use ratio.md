@@ -10,8 +10,9 @@ aliases:
   - Economic and social use share
   - Floor area by programme
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Eva Kažukolovaitė]]"

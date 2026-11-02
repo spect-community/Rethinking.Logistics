@@ -14,7 +14,8 @@ tags:
   - "topic/externality"
   - "strategy/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []

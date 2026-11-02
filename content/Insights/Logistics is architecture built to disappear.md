@@ -13,7 +13,8 @@ tags:
   - "topic/provocation"
   - "topic/externality"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []

@@ -10,10 +10,11 @@ typology: big-box warehouse park retrofit (existing SEGRO-type logistics zone) w
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Operational energy and on-site renewables]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Rooftop PV generation]]"
   - "[[Land take]]"

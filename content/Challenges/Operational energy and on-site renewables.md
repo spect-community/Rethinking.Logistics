@@ -1,6 +1,8 @@
 ---
 category: Energy
 status: published
+ambitions:
+  - "[[Low-carbon and energy-positive logistics]]"
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Ilinca Maria Baciu]]"

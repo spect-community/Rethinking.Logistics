@@ -13,7 +13,8 @@ tags:
   - "topic/provocation"
   - "topic/people"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []

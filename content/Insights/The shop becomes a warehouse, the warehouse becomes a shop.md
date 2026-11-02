@@ -16,7 +16,8 @@ tags:
   - "strategy/3-urban-hybrid"
   - "strategy/4-mobility-last-mile"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies:

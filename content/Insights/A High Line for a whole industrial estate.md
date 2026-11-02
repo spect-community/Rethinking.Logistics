@@ -17,6 +17,7 @@ tags:
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Public access and community use of logistics sites]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies:

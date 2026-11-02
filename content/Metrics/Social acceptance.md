@@ -9,6 +9,7 @@ aliases:
   - Connection to community
 challenges:
   - "[[Visual impact and acceptance by neighbours]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Ece Yasar]]"

@@ -10,10 +10,11 @@ typology: modular multi-tenant storage warehouse bridging a highway (automated c
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Land take of logistics buildings]]"
   - "[[Outdoor microclimate around logistics buildings]]"
   - "[[Adaptable and relocatable logistics structures]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Green area ratio]]"
   - "[[Noise level]]"

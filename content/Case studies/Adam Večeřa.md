@@ -13,6 +13,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Biodiversity net gain]]"

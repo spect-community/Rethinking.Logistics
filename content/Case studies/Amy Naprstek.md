@@ -12,6 +12,7 @@ aliases: []
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
   - "[[Land take of logistics buildings]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Biodiversity net gain]]"

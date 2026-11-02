@@ -1,6 +1,8 @@
 ---
 category: Ecology
 status: published
+ambitions:
+  - "[[Nature-positive logistics sites]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"

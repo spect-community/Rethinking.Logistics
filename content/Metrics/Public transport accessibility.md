@@ -10,8 +10,9 @@ aliases:
   - Bicycle parking spaces
   - Cycling lanes infrastructure
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Last-mile delivery emissions and traffic]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights:

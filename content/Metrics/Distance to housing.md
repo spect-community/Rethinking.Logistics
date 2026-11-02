@@ -9,9 +9,10 @@ aliases:
   - Walking distance from residential area
   - Distance from warehouse to nearest residential building
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

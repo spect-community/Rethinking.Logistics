@@ -14,7 +14,8 @@ tags:
   - "topic/taxonomy"
   - "strategy/3-urban-hybrid"
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies:

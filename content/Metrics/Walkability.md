@@ -10,7 +10,8 @@ aliases:
   - Walkability score
   - Connected public pathways
   - Pedestrian accessibility
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"

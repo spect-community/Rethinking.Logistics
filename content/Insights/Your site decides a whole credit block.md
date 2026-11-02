@@ -14,7 +14,8 @@ tags:
   - "topic/externality"
   - "topic/trade-off"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Public transport accessibility]]"

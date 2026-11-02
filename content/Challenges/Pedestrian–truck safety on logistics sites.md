@@ -1,6 +1,8 @@
 ---
 category: Safety
 status: published
+ambitions:
+  - "[[Healthy and safe workplaces]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Eva Kažukolovaitė]]"

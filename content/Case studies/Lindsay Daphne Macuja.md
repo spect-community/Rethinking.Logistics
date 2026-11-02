@@ -10,10 +10,11 @@ typology: last-mile logistics hub with public market, local businesses and offic
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Distance to housing]]"
   - "[[Green area ratio]]"

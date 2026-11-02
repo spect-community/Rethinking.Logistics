@@ -16,6 +16,7 @@ aliases:
   - Wind-sheltered public space area
 challenges:
   - "[[Public access and community use of logistics sites]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"

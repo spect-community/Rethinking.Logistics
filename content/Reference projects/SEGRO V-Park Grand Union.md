@@ -14,9 +14,10 @@ aliases:
   - V-Park Grand Union
 challenges:
   - "[[Land take of logistics buildings]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Operational energy and on-site renewables]]"
   - "[[Worker comfort and well-being]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Land take]]"
   - "[[Jobs created]]"

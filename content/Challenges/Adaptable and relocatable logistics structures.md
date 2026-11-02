@@ -1,6 +1,8 @@
 ---
 category: Flexibility
 status: published
+ambitions:
+  - "[[Buildings that outlive their first use]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

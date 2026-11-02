@@ -1,24 +1,32 @@
 ---
-category: Urban
+summary: "Logistics buildings become good neighbours: connected to streets and green networks, mixed with other uses, and accepted by residents."
 status: published
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"
   - "[[Amy Naprstek]]"
   - "[[Aycha Chambashala]]"
+  - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Julia Kopác]]"
+  - "[[Katrin Rybinskiy]]"
   - "[[Khrystyna Verbitska]]"
   - "[[Lindsay Daphne Macuja]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
+  - "[[Robin Jesenský]]"
   - "[[Roshni Basu]]"
   - "[[Sara Gani]]"
   - "[[Sara Sulollari]]"
+  - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
+auto_challenges:
+  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Public access and community use of logistics sites]]"
+  - "[[Visual impact and acceptance by neighbours]]"
 auto_insights:
   - "[[A High Line for a whole industrial estate]]"
   - "[[A logistics hotel with football pitches on top]]"
@@ -46,15 +54,24 @@ auto_insights:
   - "[[Your site decides a whole credit block]]"
 auto_metrics:
   - "[[Distance to housing]]"
+  - "[[Green area ratio]]"
+  - "[[Green space per visitor]]"
   - "[[Green-core anchoring of mixed uses]]"
   - "[[Jobs created]]"
   - "[[Mixed-use ratio]]"
   - "[[Noise level]]"
+  - "[[Pedestrian-level wind speed]]"
   - "[[Public transport accessibility]]"
   - "[[Publicly accessible area]]"
   - "[[Social acceptance]]"
   - "[[Social interaction index]]"
+  - "[[Sun exposure of outdoor space]]"
+  - "[[Thermal comfort]]"
+  - "[[Tree count and canopy cover]]"
+  - "[[Urban heat island effect]]"
+  - "[[Visual impact on neighbours]]"
   - "[[Walkability]]"
+  - "[[Wind conditions]]"
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
@@ -62,13 +79,11 @@ auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
   - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
-auto_tools:
-  - "[[Geoportal Praha]]"
-  - "[[Grasshopper]]"
 ---
 
-## Challenge
+## Ambition
 
 Logistics buildings are usually isolated, mono-functional boxes behind fences. As e-commerce brings them closer to cities, the challenge is to make them good neighbours: connected to streets and green networks, mixed with other uses, and accepted by residents.
 

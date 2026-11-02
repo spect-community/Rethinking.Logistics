@@ -15,12 +15,13 @@ case_studies:
   - "[[Vladi Kostecki]]"
   - "[[Ilinca Maria Baciu]]"
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Visual impact and acceptance by neighbours]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Publicly accessible area]]"
   - "[[Embodied carbon saved by reuse]]"

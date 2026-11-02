@@ -10,10 +10,11 @@ typology: "mixed industrial–logistics district: large warehouses, medium works
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Operational energy and on-site renewables]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Sun exposure of outdoor space]]"

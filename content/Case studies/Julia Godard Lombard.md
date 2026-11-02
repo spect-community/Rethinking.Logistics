@@ -13,6 +13,7 @@ aliases:
 challenges:
   - "[[Waste heat and cooling of data centres]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Waste heat recovery]]"

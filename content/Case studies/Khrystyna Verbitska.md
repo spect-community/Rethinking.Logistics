@@ -10,10 +10,11 @@ typology: urban last-mile micro-hub (cargo-bike and EV dispatch) with showroom a
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Green area ratio]]"
   - "[[Embodied carbon saved by reuse]]"

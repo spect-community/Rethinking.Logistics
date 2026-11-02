@@ -12,6 +12,13 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 types:
+  ambition:
+    folder: Ambitions
+    label: Ambition
+    plural: Ambitions
+    description: A broad aim for logistics architecture that several design challenges serve.
+    fields: [summary, status, aliases]
+
   challenge:
     folder: Challenges
     label: Challenge
@@ -206,6 +213,48 @@ relations:
     auto_label: Strategies
     verb: is shown in
 
+  - from: challenge
+    field: ambitions
+    to: ambition
+    auto: auto_challenges
+    label: Ambition
+    auto_label: Challenges
+    verb: serves
+  - from: case-study
+    field: ambitions
+    to: ambition
+    auto: auto_case_studies
+    label: Ambitions
+    auto_label: Case studies
+    verb: pursues
+  - from: strategy
+    field: ambitions
+    to: ambition
+    auto: auto_strategies
+    label: Ambitions
+    auto_label: Strategies
+    verb: pursues
+  - from: reference
+    field: ambitions
+    to: ambition
+    auto: auto_references
+    label: Ambitions
+    auto_label: Reference projects
+    verb: pursues
+  - from: insight
+    field: ambitions
+    to: ambition
+    auto: auto_insights
+    label: Ambitions
+    auto_label: Insights
+    verb: is about
+  - from: metric
+    field: ambitions
+    to: ambition
+    auto: auto_metrics
+    label: Informs decisions on
+    auto_label: Metrics
+    verb: informs decisions on
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
 # (e.g. case_studies). `paths` lists several chains whose results are combined;
@@ -223,3 +272,18 @@ derived:
       type: insight
       prefix: "strategy/{number}-"
     verb: supports
+  # through the challenges that serve the ambition (same label = shown in one list)
+  - on: ambition
+    auto: auto_case_studies
+    label: Case studies
+    path: [auto_challenges, auto_case_studies]
+  # through the challenges that serve the ambition (same label = shown in one list)
+  - on: ambition
+    auto: auto_strategies
+    label: Strategies
+    path: [auto_challenges, auto_strategies]
+  # through the challenges that serve the ambition (same label = shown in one list)
+  - on: ambition
+    auto: auto_metrics
+    label: Metrics
+    path: [auto_challenges, auto_metrics]

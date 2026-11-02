@@ -14,7 +14,8 @@ tags:
   - "topic/people"
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Mixed-use ratio]]"

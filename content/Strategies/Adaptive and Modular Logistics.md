@@ -20,9 +20,10 @@ challenges:
   - "[[Adaptable and relocatable logistics structures]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Land take of logistics buildings]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Operational energy and on-site renewables]]"
   - "[[Outdoor microclimate around logistics buildings]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Adaptability]]"
   - "[[Design for disassembly score]]"

@@ -21,11 +21,12 @@ case_studies:
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Truck flow and yard efficiency]]"
-  - "[[Urban integration of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Land take of logistics buildings]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Last-mile delivery emissions]]"
   - "[[Last-mile delivery cost]]"

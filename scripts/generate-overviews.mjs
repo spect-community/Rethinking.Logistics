@@ -18,6 +18,7 @@ const metrics = ofType(kb, "metric")
 const tools = ofType(kb, "tool")
 const cases = ofType(kb, "case-study")
 const refs = ofType(kb, "reference")
+const ambitions = ofType(kb, "ambition")
 
 const esc = (s) => String(s ?? "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ").trim() || "—"
 const links = (names) => (names.length ? names.map(wl).join(", ") : "—")
@@ -47,12 +48,23 @@ ${body.trim()}
 `
 const pages = {}
 
+// ── Ambitions ────────────────────────────────────────────────────────────────
+{
+  let body = "From each broad ambition to the design challenges that serve it, and the student projects and strategies that pursue it — directly or through those challenges.\n\n"
+  body += table(
+    ["Ambition", "In short", "Challenges", "Case studies", "Strategies"],
+    ambitions.map((a) => [wl(a.name), esc(a.data.summary), links(A(a, "auto_challenges")), String(A(a, "auto_case_studies").length), links(A(a, "auto_strategies"))]),
+  ) + "\n"
+  pages["Ambitions overview"] = page("Ambitions overview", "Ambitions → challenges → case studies and strategies.", body)
+}
+
 // ── Challenge map ────────────────────────────────────────────────────────────
 {
   let body = "From each design challenge to the metrics that inform the decision, the tools that can calculate them, and the student projects that did it.\n\n"
   for (const c of challenges) {
     const ms = A(c, "auto_metrics").map((n) => kb.find(n)).filter(Boolean)
     body += `## ${wl(c.name)}\n\n`
+    if (linked(c, "ambitions").length) body += `*Serves the ambition:* ${links(linked(c, "ambitions"))}\n\n`
     if (!ms.length) body += "*No metrics linked yet.*\n\n"
     else
       body += table(
@@ -189,10 +201,11 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
 }
 
 // ── Index ────────────────────────────────────────────────────────────────────
-pages["index"] = page("Overviews", "Views computed from all notes.", `**At a glance:** ${challenges.length} challenges · ${metrics.length} metrics · ${tools.length} tools · ${cases.length} case studies · ${refs.length} reference projects
+pages["index"] = page("Overviews", "Views computed from all notes.", `**At a glance:** ${ambitions.length} ambitions · ${challenges.length} challenges · ${metrics.length} metrics · ${tools.length} tools · ${cases.length} case studies · ${refs.length} reference projects
 
 | Page | Answers |
 | --- | --- |
+| [[Ambitions overview]] | *What should logistics architecture achieve, and which challenges serve each aim?* |
 | [[Challenge map]] | *For my design challenge — what should I measure, and with which tool?* |
 | [[Metric catalogue]] | *How is a metric calculated, and who used it?* |
 | [[Tool directory]] | *What can a tool calculate, and in which projects was it used?* |

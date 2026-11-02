@@ -10,9 +10,10 @@ aliases:
   - Shared green core access
   - Mixed uses bound to green space
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"

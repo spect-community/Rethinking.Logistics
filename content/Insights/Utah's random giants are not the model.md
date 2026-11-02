@@ -15,7 +15,8 @@ tags:
   - "topic/city"
   - "strategy/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
-challenges:
+challenges: []
+ambitions:
   - "[[Urban integration of logistics buildings]]"
 metrics: []
 case_studies: []

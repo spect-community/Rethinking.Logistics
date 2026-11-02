@@ -7,8 +7,9 @@ status: published
 aliases:
   - Local economic activation
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Automation and operational efficiency of logistics]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"

@@ -10,10 +10,11 @@ typology: storage and distribution warehouse (pallet / high-bay storage) with of
 status: published
 aliases: []
 challenges:
-  - "[[Urban integration of logistics buildings]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Worker comfort and well-being]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
+ambitions:
+  - "[[Urban integration of logistics buildings]]"
 metrics:
   - "[[Publicly accessible area]]"
   - "[[Embodied carbon intensity]]"

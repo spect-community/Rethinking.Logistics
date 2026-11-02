@@ -1,6 +1,8 @@
 ---
 category: Operations
 status: published
+ambitions:
+  - "[[Compact and clean freight]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Aycha Chambashala]]"
