@@ -15,8 +15,8 @@ tags:
   - "topic/provocation"
 source: "[[CBRE Investment Management, European Logistics – From Obsolescence to…]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Buildings that change slower than logistics]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics: []
 case_studies: []
 ---

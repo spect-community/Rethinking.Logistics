@@ -11,8 +11,9 @@ status: published
 aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
   - "[[Low energy and water demand]]"
   - "[[Compact footprint]]"
 metrics:

@@ -15,7 +15,7 @@ tags:
   - "topic/circularity"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Life-cycle impact by stage]]"

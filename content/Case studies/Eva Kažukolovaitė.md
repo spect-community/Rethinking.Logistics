@@ -10,10 +10,12 @@ typology: urban last-mile cargo-bike micro-hub (cross-dock pavilion of modular t
 status: published
 aliases: []
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Worker comfort and well-being]]"
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[Buildings that change slower than logistics]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
+  - "[[Micro-hub networks]]"
   - "[[Logistics as part of the city]]"
   - "[[Safe sites with separated flows]]"
   - "[[Healthy workplaces]]"

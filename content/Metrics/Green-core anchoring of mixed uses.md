@@ -10,8 +10,8 @@ aliases:
   - Shared green core access
   - Mixed uses bound to green space
 challenges:
-  - "[[Public access and community use of logistics sites]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 ambitions:
   - "[[Mixed use and function stacking]]"
 auto_case_studies:

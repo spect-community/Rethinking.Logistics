@@ -16,8 +16,8 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Buildings that change slower than logistics]]"
+  - "[[Closed sites that give little back to the city]]"
 metrics:
   - "[[Adaptability]]"
 case_studies:

@@ -17,7 +17,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics:
   - "[[Noise level]]"
 case_studies: []

@@ -10,7 +10,7 @@ aliases:
   - Health and wellbeing index
   - Occupant satisfaction
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Elsa Hauksdottir]]"

@@ -1,9 +1,12 @@
 ---
-category: Flexibility
+category: Carbon & circularity
 status: published
+aliases:
+  - "Adaptable and relocatable logistics structures"
 ambitions:
   - "[[Design for disassembly and relocation]]"
   - "[[Adaptable over time]]"
+  - "[[Modular and prefabricated architecture]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

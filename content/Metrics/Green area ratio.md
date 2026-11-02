@@ -15,8 +15,8 @@ aliases:
   - Green space preservation
   - Land use ratio
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Closed sites that give little back to the city]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Aycha Chambashala]]"

@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Biodiversity net gain]]"
 case_studies: []

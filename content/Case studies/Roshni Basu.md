@@ -11,8 +11,10 @@ status: published
 aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
+  - "[[Micro-hub networks]]"
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Logistics as part of the city]]"
   - "[[Public access and community use]]"

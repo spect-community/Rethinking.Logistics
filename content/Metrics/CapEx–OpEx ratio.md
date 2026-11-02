@@ -10,8 +10,8 @@ aliases:
   - CapEx/OpEx ratio over 30 years
   - Life-cycle cost
 challenges:
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[High operational energy demand]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Katrin Rybinskiy]]"

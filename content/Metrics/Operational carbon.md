@@ -10,7 +10,7 @@ aliases:
   - Operational carbon emissions
   - Carbon emission share
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Hynek Hrabík]]"

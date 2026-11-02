@@ -8,9 +8,9 @@ aliases:
   - Green roof/wall coverage
   - Roof utilisation
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Ilinca Maria Baciu]]"

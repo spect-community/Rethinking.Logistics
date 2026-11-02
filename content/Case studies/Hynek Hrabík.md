@@ -10,7 +10,7 @@ typology: Parcel cross-dock / automated e-commerce sorting hub (hub-and-spoke ne
 status: published
 aliases: []
 challenges:
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
   - "[[Land take of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 ambitions:

@@ -10,8 +10,8 @@ aliases:
   - PMV
   - UTCI
 challenges:
-  - "[[Worker comfort and well-being]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights:

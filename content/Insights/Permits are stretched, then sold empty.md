@@ -15,7 +15,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics: []
 case_studies: []
 ---

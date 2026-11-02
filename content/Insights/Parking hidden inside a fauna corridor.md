@@ -16,8 +16,8 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics:
   - "[[Ecological connectivity]]"
 case_studies: []

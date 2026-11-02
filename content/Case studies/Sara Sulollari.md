@@ -10,9 +10,10 @@ typology: port logistics building (container terminal warehouse) adapted with co
 status: published
 aliases: []
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
   - "[[Outdoor comfort]]"
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"

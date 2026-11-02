@@ -15,7 +15,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics: []
 case_studies: []
 ---

@@ -1,8 +1,10 @@
 ---
-category: Operations
+category: Freight
 status: published
+aliases:
+  - "Automation and operational efficiency of logistics"
 ambitions:
-  - "[[Efficient truck flow and compact yards]]"
+  - "[[Efficient automated operations]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:

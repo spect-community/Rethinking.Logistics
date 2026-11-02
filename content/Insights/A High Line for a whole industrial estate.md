@@ -16,7 +16,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
   - "[[Open and connected edges]]"
   - "[[Public access and community use]]"

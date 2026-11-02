@@ -8,7 +8,7 @@ description: "Design challenges → metrics → tools → case studies."
 
 From each design challenge to the metrics that inform the decision, the tools that can calculate them, and the student projects that did it.
 
-## [[Adaptable and relocatable logistics structures]]
+## [[Buildings that change slower than logistics|Adaptable and relocatable logistics structures]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -19,7 +19,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Julia Kopác]]
 
-## [[Automation and operational efficiency of logistics]]
+## [[Space, energy and labour needs changing with automation|Automation and operational efficiency of logistics]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Johannes Berger]]
 
-## [[Biodiversity and ecological connectivity on logistics sites]]
+## [[Habitat loss and cut ecological corridors|Biodiversity and ecological connectivity on logistics sites]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinca Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
 
-## [[Embodied carbon and adaptive reuse of logistics buildings]]
+## [[Embodied carbon of new and demolished warehouses|Embodied carbon and adaptive reuse of logistics buildings]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Johannes Berger]], [[Khrystyna Verbitska]], [[Roshni Basu]], [[Thomas Olsen]]
 
-## [[Operational energy and on-site renewables]]
+## [[High operational energy demand|Operational energy and on-site renewables]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Elsa Hauksdottir]], [[Ilinca Maria Baciu]], [[Katrin Rybinskiy]], [[Marek Nový]]
 
-## [[Outdoor microclimate around logistics buildings]]
+## [[Wind, heat and missing shade around large buildings|Outdoor microclimate around logistics buildings]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -131,7 +131,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Julia Kopác]], [[Robin Jesenský]], [[Sara Sulollari]]
 
-## [[Pedestrian–truck safety on logistics sites]]
+## [[Pedestrian–truck conflicts on logistics sites|Pedestrian–truck safety on logistics sites]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -141,7 +141,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adéla Berkovitz]], [[Eva Kažukolovaitė]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]]
 
-## [[Public access and community use of logistics sites]]
+## [[Closed sites that give little back to the city|Public access and community use of logistics sites]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adam Večeřa]], [[Aycha Chambashala]], [[Ece Yasar]], [[Hynek Hrabík]], [[Ilinca Maria Baciu]], [[Marek Nový]], [[Natalie Žižková]]
 
-## [[Truck flow and yard efficiency]]
+## [[Large paved truck yards and waiting times|Truck flow and yard efficiency]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -198,7 +198,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Ilinca Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopác]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vladi Kostecki]]
 
-## [[Visual impact and acceptance by neighbours]]
+## [[Visual impact of logistics on neighbours|Visual impact and acceptance by neighbours]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -221,7 +221,7 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Robin Jesenský]]
 
-## [[Worker comfort and well-being]]
+## [[Deep, dark and noisy workplaces|Worker comfort and well-being]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |

@@ -6,7 +6,7 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Sara Sulollari]]"
 auto_challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_insights: []
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
@@ -29,12 +29,12 @@ auto_strategies:
 
 Structures and materials carry less embodied carbon, including reused building materials.
 
-## How the students framed it
+## In the student projects
 
 - [[Sara Sulollari]] — “Reuse of shipping containers as building material”
 - [[Lindsay Daphne Macuja]] — “Embodied carbon of warehouse structures”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

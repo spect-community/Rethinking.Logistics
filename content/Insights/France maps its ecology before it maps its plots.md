@@ -15,7 +15,7 @@ tags:
   - "topic/synergy"
 source: "[[Ministère de la Transition écologique, Trame verte et bleue]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Ecological connectivity]]"
 case_studies: []

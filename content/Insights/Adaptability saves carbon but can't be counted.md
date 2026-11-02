@@ -17,8 +17,8 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Buildings that change slower than logistics]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Adaptability]]"
 case_studies: []

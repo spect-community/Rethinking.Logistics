@@ -17,7 +17,7 @@ tags:
   - "strategy/4-mobility-last-mile"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
 metrics:
   - "[[Pedestrian–vehicle conflict points]]"
 case_studies:

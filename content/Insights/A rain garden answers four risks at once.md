@@ -17,7 +17,7 @@ tags:
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 metrics: []
 case_studies: []
 ---

@@ -16,7 +16,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Embodied carbon saved by reuse]]"
   - "[[Whole-life carbon]]"

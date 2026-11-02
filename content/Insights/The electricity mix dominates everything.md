@@ -14,7 +14,7 @@ tags:
   - "topic/data"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Operational carbon]]"
 case_studies: []

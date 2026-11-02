@@ -10,10 +10,11 @@ typology: cross-dock warehouse (retrofit)
 status: published
 aliases: []
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Habitat and ecological connectivity]]"
   - "[[Rainwater kept on site]]"
   - "[[Open and connected edges]]"

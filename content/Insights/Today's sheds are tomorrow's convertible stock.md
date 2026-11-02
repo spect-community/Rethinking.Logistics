@@ -17,8 +17,8 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Buildings that change slower than logistics]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Adaptability]]"
 case_studies: []

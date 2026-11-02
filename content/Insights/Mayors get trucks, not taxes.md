@@ -16,7 +16,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics:
   - "[[Social acceptance]]"
 case_studies: []

@@ -15,7 +15,7 @@ tags:
   - "topic/synergy"
 source: "[[US EPA, Using Cool Roofs to Reduce Heat Islands]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics:
   - "[[Urban heat island effect]]"
   - "[[Thermal comfort]]"

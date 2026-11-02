@@ -11,9 +11,9 @@ status: published
 aliases:
   - Elsa Hlíðberg Hauksdóttir
 challenges:
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Visual impact and acceptance by neighbours]]"
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[High operational energy demand]]"
+  - "[[Visual impact of logistics on neighbours]]"
+  - "[[Buildings that change slower than logistics]]"
 ambitions:
   - "[[Low energy and water demand]]"
   - "[[Good neighbour]]"

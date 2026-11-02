@@ -12,7 +12,7 @@ aliases:
   - Visual impact
   - Visual transparency of production façades
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"

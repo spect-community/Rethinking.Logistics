@@ -1,5 +1,5 @@
 ---
-category: Land use
+category: Land & water
 status: published
 ambitions:
   - "[[Compact footprint]]"

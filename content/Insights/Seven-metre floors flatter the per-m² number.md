@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Embodied carbon intensity]]"
 case_studies: []

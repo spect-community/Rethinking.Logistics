@@ -15,7 +15,7 @@ tags:
   - "topic/city"
 source: "[[European Commission, Solar energy in buildings (EPBD)]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Structural utilisation]]"
   - "[[Rooftop PV generation]]"

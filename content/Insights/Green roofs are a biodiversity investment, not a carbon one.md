@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Green roof coverage]]"
   - "[[Structural utilisation]]"

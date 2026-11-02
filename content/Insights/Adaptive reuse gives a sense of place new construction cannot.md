@@ -16,8 +16,8 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Closed sites that give little back to the city]]"
 metrics: []
 case_studies: []
 ---

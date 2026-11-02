@@ -14,7 +14,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Design for disassembly score]]"
 case_studies: []

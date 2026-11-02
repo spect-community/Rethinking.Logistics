@@ -22,12 +22,12 @@ case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Adéla Berkovitz]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Land take of logistics buildings]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
-  - "[[Visual impact and acceptance by neighbours]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
+  - "[[Visual impact of logistics on neighbours]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions: []
 metrics:
   - "[[Biodiversity net gain]]"
@@ -44,6 +44,7 @@ auto_ambitions:
   - "[[Compact footprint]]"
   - "[[Efficient truck flow and compact yards]]"
   - "[[Good neighbour]]"
+  - "[[Green and productive roofs]]"
   - "[[Habitat and ecological connectivity]]"
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"
@@ -136,7 +137,7 @@ A logistics site on the urban edge is treated as landscape infrastructure rather
 
 ## Why it matters
 
-Warehouses are among the most land-hungry building types, and most of that land ends up sealed: yards, roads and parking around a single storey of storage ([[Land take of logistics buildings]]). Net land take in EU cities and their commuting zones reached 540 km² a year in 2018–2021 ([[Europe seals 1.5 km² of land every day]]). On the edge of a city, this land is often exactly where forests, fields and housing meet, so a logistics site cuts ecological corridors ([[Biodiversity and ecological connectivity on logistics sites]]), sends stormwater straight to drains ([[Stormwater and sealed surfaces on logistics sites]]) and presents a hard edge to its neighbours ([[Visual impact and acceptance by neighbours]]).
+Warehouses are among the most land-hungry building types, and most of that land ends up sealed: yards, roads and parking around a single storey of storage ([[Land take of logistics buildings]]). Net land take in EU cities and their commuting zones reached 540 km² a year in 2018–2021 ([[Europe seals 1.5 km² of land every day]]). On the edge of a city, this land is often exactly where forests, fields and housing meet, so a logistics site cuts ecological corridors ([[Habitat loss and cut ecological corridors|Biodiversity and ecological connectivity on logistics sites]]), sends stormwater straight to drains ([[Stormwater and sealed surfaces on logistics sites]]) and presents a hard edge to its neighbours ([[Visual impact of logistics on neighbours|Visual impact and acceptance by neighbours]]).
 
 The question the studio asked is the one on Ece Yasar's poster: *what can logistics give back?*
 

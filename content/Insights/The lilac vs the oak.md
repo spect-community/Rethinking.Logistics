@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Native species richness]]"
 case_studies: []

@@ -15,7 +15,7 @@ tags:
   - "topic/data"
 source: "[[JRC - Nature Energy, 2026]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Rooftop PV generation]]"
 case_studies: []

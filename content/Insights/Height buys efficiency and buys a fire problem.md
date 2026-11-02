@@ -14,7 +14,7 @@ tags:
   - "topic/materials"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Construction cost]]"
 case_studies: []

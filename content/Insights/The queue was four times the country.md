@@ -15,7 +15,7 @@ tags:
   - "topic/provocation"
 source: "[[NESO, 2025]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics: []
 case_studies: []
 ---

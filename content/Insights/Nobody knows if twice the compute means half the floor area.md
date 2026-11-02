@@ -16,7 +16,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics:
   - "[[Adaptability]]"
 case_studies: []

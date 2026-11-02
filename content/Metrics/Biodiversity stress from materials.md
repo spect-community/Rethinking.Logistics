@@ -8,8 +8,8 @@ aliases:
   - Biodiversity stress
   - Potentially disappeared fraction of species
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
 auto_insights:

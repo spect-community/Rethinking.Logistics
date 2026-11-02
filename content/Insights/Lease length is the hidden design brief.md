@@ -16,7 +16,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics: []
 case_studies:
   - "[[Amy Naprstek]]"

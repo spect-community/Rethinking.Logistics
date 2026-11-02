@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics: []
 case_studies: []
 ---

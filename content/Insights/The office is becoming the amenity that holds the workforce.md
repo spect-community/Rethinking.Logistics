@@ -15,7 +15,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics: []
 case_studies: []
 ---

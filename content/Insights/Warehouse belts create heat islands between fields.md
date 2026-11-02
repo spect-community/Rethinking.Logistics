@@ -15,7 +15,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 metrics:
   - "[[Urban heat island effect]]"
 case_studies: []

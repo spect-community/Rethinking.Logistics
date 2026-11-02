@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics: []
 case_studies: []
 ---

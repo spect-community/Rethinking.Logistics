@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Daylight autonomy]]"
 case_studies: []

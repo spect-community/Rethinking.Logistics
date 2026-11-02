@@ -14,7 +14,7 @@ tags:
   - "topic/people"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics: []
 case_studies: []
 ---

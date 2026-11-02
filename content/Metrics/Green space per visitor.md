@@ -7,7 +7,7 @@ status: published
 aliases:
   - Green space per capita
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights: []

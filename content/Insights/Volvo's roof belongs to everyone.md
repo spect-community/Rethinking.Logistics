@@ -15,7 +15,7 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 metrics: []
 case_studies: []
 ---

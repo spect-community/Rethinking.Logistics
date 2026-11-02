@@ -11,10 +11,12 @@ status: published
 aliases:
   - Thomas Lund Olsen
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
   - "[[Last-mile delivery emissions and traffic]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Green and productive roofs]]"
+  - "[[Micro-hub networks]]"
   - "[[Reuse of existing buildings]]"
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Public access and community use]]"

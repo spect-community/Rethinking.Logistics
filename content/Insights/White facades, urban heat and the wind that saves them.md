@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 metrics:
   - "[[Urban heat island effect]]"
 case_studies: []

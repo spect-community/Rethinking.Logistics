@@ -6,8 +6,8 @@ origin: adapted
 status: published
 aliases: []
 challenges:
-  - "[[Worker comfort and well-being]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Sara Gani]]"
 auto_insights:

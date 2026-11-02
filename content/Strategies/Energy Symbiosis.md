@@ -17,9 +17,9 @@ case_studies:
   - "[[Robin Jesenský]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[High operational energy demand]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Visual impact of logistics on neighbours]]"
 ambitions: []
 metrics:
   - "[[Waste heat recovery]]"
@@ -37,6 +37,7 @@ auto_ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Low energy and water demand]]"
   - "[[Mixed use and function stacking]]"
+  - "[[Modular and prefabricated architecture]]"
   - "[[Reuse of existing buildings]]"
   - "[[Shared waste heat]]"
 auto_insights:
@@ -83,9 +84,9 @@ A data centre is the newest kind of logistics building: it stores data instead o
 
 ## Why it matters
 
-Data centres are growing faster than the grids and cities around them. In the comparison used in the studio, an average conventional data centre consumes as much energy as roughly 20,000 households and a hyperscale one about 100,000 ([[From 20,000 households to a country]]). Cooling takes energy and, where traditional methods persist, large amounts of water ([[Waste heat and cooling of data centres]], [[Nobody agrees how much water they use]]). In Czechia, power is already the limiting factor for where such facilities can go ([[Hyperscale data centres skip Czechia for lack of power]]), and the energy a building consumes and produces on site is a design question in its own right ([[Operational energy and on-site renewables]]).
+Data centres are growing faster than the grids and cities around them. In the comparison used in the studio, an average conventional data centre consumes as much energy as roughly 20,000 households and a hyperscale one about 100,000 ([[From 20,000 households to a country]]). Cooling takes energy and, where traditional methods persist, large amounts of water ([[Waste heat and cooling of data centres]], [[Nobody agrees how much water they use]]). In Czechia, power is already the limiting factor for where such facilities can go ([[Hyperscale data centres skip Czechia for lack of power]]), and the energy a building consumes and produces on site is a design question in its own right ([[High operational energy demand|Operational energy and on-site renewables]]).
 
-Yet most data centres already sit in or near cities ([[Most of them are already urban]]), beside homes that need heat and neighbours who see blank boxes ([[Visual impact and acceptance by neighbours]], [[Logistics as part of the city|Urban integration of logistics buildings]]). The studio asked whether this proximity can become an exchange rather than a conflict.
+Yet most data centres already sit in or near cities ([[Most of them are already urban]]), beside homes that need heat and neighbours who see blank boxes ([[Visual impact of logistics on neighbours|Visual impact and acceptance by neighbours]], [[Logistics as part of the city|Urban integration of logistics buildings]]). The studio asked whether this proximity can become an exchange rather than a conflict.
 
 ## Projects
 

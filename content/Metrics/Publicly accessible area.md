@@ -15,7 +15,7 @@ aliases:
   - Accessible green space
   - Wind-sheltered public space area
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
   - "[[Public access and community use]]"
 auto_case_studies:

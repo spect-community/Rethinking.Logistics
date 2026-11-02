@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Level of automation]]"
 case_studies: []

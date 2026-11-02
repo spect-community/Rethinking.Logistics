@@ -17,7 +17,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Design for disassembly score]]"
   - "[[Space utilisation]]"

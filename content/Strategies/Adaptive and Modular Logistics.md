@@ -17,11 +17,11 @@ case_studies:
   - "[[Julia Kopác]]"
   - "[[Sara Sulollari]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Buildings that change slower than logistics]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
   - "[[Land take of logistics buildings]]"
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[High operational energy demand]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 ambitions: []
 metrics:
   - "[[Adaptability]]"
@@ -43,6 +43,7 @@ auto_ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"
   - "[[Low energy and water demand]]"
+  - "[[Modular and prefabricated architecture]]"
   - "[[Open and connected edges]]"
   - "[[Outdoor comfort]]"
   - "[[Rainwater kept on site]]"
@@ -104,9 +105,9 @@ A logistics building is designed for change rather than for a single tenant at a
 
 ## Why it matters
 
-Logistics changes faster than buildings: tenants, automation and delivery models turn over within years, and a hall that fits only one of them is demolished early ([[Adaptable and relocatable logistics structures]]). Logistics tenants typically sign leases of 5–7 years, while the building is expected to last far longer ([[Lease length is the hidden design brief]]). Inside those leases, occupiers deliberately keep slack — perhaps 50–70% utilisation for most of the year — so that they can reach full capacity before Christmas, which means buildings are sized and heated for an annual peak ([[Grey space – buildings sized for Black Friday]]).
+Logistics changes faster than buildings: tenants, automation and delivery models turn over within years, and a hall that fits only one of them is demolished early ([[Buildings that change slower than logistics|Adaptable and relocatable logistics structures]]). Logistics tenants typically sign leases of 5–7 years, while the building is expected to last far longer ([[Lease length is the hidden design brief]]). Inside those leases, occupiers deliberately keep slack — perhaps 50–70% utilisation for most of the year — so that they can reach full capacity before Christmas, which means buildings are sized and heated for an annual peak ([[Grey space – buildings sized for Black Friday]]).
 
-The market is already sorting stock that can adapt from stock that cannot: in the Netherlands over 80% of vacant logistics space is second-hand, and retrofitting older sheds is often impractical ([[Old sheds are becoming unlettable]]). Every early demolition wastes the carbon already spent in the structure ([[Embodied carbon and adaptive reuse of logistics buildings]]).
+The market is already sorting stock that can adapt from stock that cannot: in the Netherlands over 80% of vacant logistics space is second-hand, and retrofitting older sheds is often impractical ([[Old sheds are becoming unlettable]]). Every early demolition wastes the carbon already spent in the structure ([[Embodied carbon of new and demolished warehouses|Embodied carbon and adaptive reuse of logistics buildings]]).
 
 ## Projects
 

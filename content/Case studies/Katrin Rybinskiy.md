@@ -11,9 +11,9 @@ status: published
 aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Visual impact and acceptance by neighbours]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[High operational energy demand]]"
+  - "[[Visual impact of logistics on neighbours]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 ambitions:
   - "[[Shared waste heat]]"
   - "[[Low energy and water demand]]"

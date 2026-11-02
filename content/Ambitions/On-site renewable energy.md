@@ -7,7 +7,7 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Thomas Olsen]]"
 auto_challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_insights: []
 auto_metrics:
   - "[[CapEx–OpEx ratio]]"
@@ -31,13 +31,13 @@ auto_strategies:
 
 The large roofs and sites of logistics buildings produce renewable energy for the building, its users and the grid.
 
-## How the students framed it
+## In the student projects
 
 - [[Marek Nový]] — “On-site renewable energy for logistics”
 - [[Thomas Olsen]] — “Roof use for energy and biodiversity”
 - [[Ilinca Maria Baciu]] — “Rooftop renewable energy on large warehouses”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

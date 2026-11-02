@@ -5,7 +5,7 @@ status: published
 auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_insights: []
 auto_metrics:
   - "[[Noise level]]"
@@ -24,11 +24,11 @@ auto_strategies:
 
 Outdoor spaces around logistics buildings are sheltered from wind, with sun in winter and shade in summer.
 
-## How the students framed it
+## In the student projects
 
 - [[Sara Sulollari]] — “Pedestrian wind comfort around logistics buildings”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

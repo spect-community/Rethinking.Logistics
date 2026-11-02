@@ -11,9 +11,10 @@ status: published
 aliases: []
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[High operational energy demand]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Good neighbour]]"
   - "[[Rainwater kept on site]]"
   - "[[Habitat and ecological connectivity]]"

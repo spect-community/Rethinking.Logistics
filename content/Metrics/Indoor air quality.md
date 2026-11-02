@@ -8,7 +8,7 @@ status: published
 aliases:
   - Indoor CO2 concentration
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights: []

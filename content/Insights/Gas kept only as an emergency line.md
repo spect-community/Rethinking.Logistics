@@ -14,7 +14,7 @@ tags:
   - "topic/landscape"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics: []
 case_studies: []
 ---

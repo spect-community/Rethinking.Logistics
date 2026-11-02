@@ -7,7 +7,7 @@ status: published
 aliases:
   - Local economic activation
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 ambitions:
   - "[[Public access and community use]]"
 auto_case_studies:

@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics: []
 case_studies: []
 ---

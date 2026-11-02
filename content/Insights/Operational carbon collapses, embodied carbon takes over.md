@@ -13,7 +13,7 @@ tags:
   - "topic/materials"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Whole-life carbon]]"
   - "[[Operational carbon]]"

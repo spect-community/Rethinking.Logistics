@@ -6,7 +6,7 @@ auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"
 auto_challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 auto_insights:
   - "[[The employees are trapped outside the real world]]"
 auto_metrics:
@@ -28,12 +28,12 @@ auto_strategies:
 
 Workers have daylight, clean air, quiet and good facilities.
 
-## How the students framed it
+## In the student projects
 
 - [[Eva Kažukolovaitė]] — “Worker well-being in logistics facilities”
 - [[Sara Gani]] — “Worker comfort and daylight in warehouses”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

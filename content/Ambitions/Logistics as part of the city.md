@@ -47,7 +47,7 @@ auto_strategies:
 
 Logistics is planned and designed as part of the city, rather than exiled to its edge and ignored.
 
-## How the students framed it
+## In the student projects
 
 - [[Elsa Hauksdottir]] — “Urban integration of logistics buildings”
 - [[Sara Sulollari]] — “Urban integration of port logistics waterfront”
@@ -63,7 +63,7 @@ Logistics is planned and designed as part of the city, rather than exiled to its
 - [[Sara Gani]] — “Urban integration of logistics buildings”
 - [[Vladi Kostecki]] — “Urban integration of logistics buildings”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

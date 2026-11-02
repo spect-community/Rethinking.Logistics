@@ -16,8 +16,8 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics: []
 case_studies: []
 ---

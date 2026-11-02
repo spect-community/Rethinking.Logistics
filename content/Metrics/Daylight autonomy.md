@@ -9,7 +9,7 @@ aliases:
   - Daylight comfort
   - DA
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Gani]]"

@@ -1,6 +1,8 @@
 ---
-category: Comfort
+category: People
 status: published
+aliases:
+  - "Worker comfort and well-being"
 ambitions:
   - "[[Healthy workplaces]]"
 auto_case_studies:

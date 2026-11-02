@@ -33,7 +33,7 @@ auto_strategies:
 
 Logistics needs less land for the same output, by stacking, compacting or sharing space.
 
-## How the students framed it
+## In the student projects
 
 - [[Amy Naprstek]] — “Land take and landscape fragmentation”
 - [[Julia Kopác]] — “Land take and sealed surfaces of warehouses”
@@ -42,7 +42,7 @@ Logistics needs less land for the same output, by stacking, compacting or sharin
 - [[Hynek Hrabík]] — “Truck manoeuvring area and paved land take”
 - [[Adam Večeřa]] — “Land take of horizontal retail warehouses”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

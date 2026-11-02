@@ -10,7 +10,7 @@ aliases:
   - Shaded outdoor space for employees
   - Sunlight hours
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Marek Nový]]"

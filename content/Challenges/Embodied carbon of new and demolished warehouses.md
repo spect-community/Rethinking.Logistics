@@ -1,6 +1,8 @@
 ---
-category: Carbon
+category: Carbon & circularity
 status: published
+aliases:
+  - "Embodied carbon and adaptive reuse of logistics buildings"
 ambitions:
   - "[[Low embodied carbon]]"
   - "[[Reuse of existing buildings]]"

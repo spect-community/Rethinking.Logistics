@@ -1,6 +1,8 @@
 ---
-category: Social
+category: City & community
 status: published
+aliases:
+  - "Public access and community use of logistics sites"
 ambitions:
   - "[[Public access and community use]]"
 auto_case_studies:

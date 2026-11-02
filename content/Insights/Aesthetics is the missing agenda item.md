@@ -17,7 +17,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 ambitions:
   - "[[Good neighbour]]"
 metrics: []

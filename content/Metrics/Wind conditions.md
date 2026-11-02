@@ -10,7 +10,7 @@ aliases:
   - Wind direction and speed frequency
   - Wind rose
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
   - "[[Waste heat and cooling of data centres]]"
 auto_case_studies:
   - "[[Robin Jesenský]]"

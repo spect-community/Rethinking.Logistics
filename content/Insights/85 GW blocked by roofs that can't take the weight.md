@@ -15,7 +15,7 @@ tags:
   - "topic/adaptability"
 source: "[[Becquerel Institute, via pv magazine, March 2026]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Structural utilisation]]"
   - "[[Rooftop PV generation]]"

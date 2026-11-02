@@ -8,8 +8,8 @@ status: published
 aliases:
   - Annualised life-cycle carbon
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:

@@ -15,7 +15,7 @@ tags:
   - "strategy/5-energy-symbiosis"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics: []
 case_studies: []
 ---

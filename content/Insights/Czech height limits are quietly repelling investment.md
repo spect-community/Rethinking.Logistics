@@ -15,8 +15,8 @@ tags:
   - "topic/provocation"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Space, energy and labour needs changing with automation]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics: []
 case_studies:
   - "[[Adam Večeřa]]"

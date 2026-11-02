@@ -16,7 +16,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics: []
 case_studies: []
 ---

@@ -9,7 +9,7 @@ aliases:
   - Storage capacity
   - Floor area reallocation
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
   - "[[Land take of logistics buildings]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"

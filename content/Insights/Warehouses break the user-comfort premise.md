@@ -15,7 +15,7 @@ tags:
   - "topic/provocation"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics: []
 case_studies: []
 ---

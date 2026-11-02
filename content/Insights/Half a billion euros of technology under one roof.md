@@ -14,7 +14,7 @@ tags:
   - "topic/adaptability"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Level of automation]]"
 case_studies: []

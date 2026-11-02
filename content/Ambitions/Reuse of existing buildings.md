@@ -9,7 +9,7 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
 auto_challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_insights: []
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
@@ -33,7 +33,7 @@ auto_strategies:
 
 Existing industrial and urban buildings are converted for logistics instead of being demolished.
 
-## How the students framed it
+## In the student projects
 
 - [[Katrin Rybinskiy]] — “Adaptive reuse of industrial buildings”
 - [[Julia Godard Lombard]] — “Adaptive reuse of abandoned listed buildings”
@@ -41,7 +41,7 @@ Existing industrial and urban buildings are converted for logistics instead of b
 - [[Thomas Olsen]] — “Adaptive reuse to cut embodied carbon”
 - [[Vladi Kostecki]] — “Adaptive reuse to cut embodied carbon”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

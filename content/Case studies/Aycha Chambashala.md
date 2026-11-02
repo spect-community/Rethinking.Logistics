@@ -10,10 +10,11 @@ typology: urban logistics centre with storage/cross-dock and offices/control poi
 status: published
 aliases: []
 challenges:
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Logistics as part of the city]]"
   - "[[Efficient truck flow and compact yards]]"
   - "[[Rainwater kept on site]]"

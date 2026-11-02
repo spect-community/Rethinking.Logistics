@@ -8,8 +8,8 @@ aliases:
   - Carbon intensity per pallet handled
   - CO2 per pallet
 challenges:
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[High operational energy demand]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:

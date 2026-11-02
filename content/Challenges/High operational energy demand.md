@@ -1,6 +1,8 @@
 ---
 category: Energy
 status: published
+aliases:
+  - "Operational energy and on-site renewables"
 ambitions:
   - "[[On-site renewable energy]]"
   - "[[Low energy and water demand]]"

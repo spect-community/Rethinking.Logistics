@@ -9,7 +9,7 @@ aliases:
   - Controlled wind flow around building mass
   - Wind comfort
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_insights: []

@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 metrics:
   - "[[Thermal comfort]]"
   - "[[Tree count and canopy cover]]"

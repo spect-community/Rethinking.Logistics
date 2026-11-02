@@ -11,7 +11,7 @@ aliases:
   - Required apron depth in front of docks
   - Loading bay dimensions
 challenges:
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
   - "[[Land take of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 auto_case_studies:

@@ -13,7 +13,7 @@ tags:
   - "topic/trade-off"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Natural ventilation potential]]"
 case_studies: []

@@ -1,6 +1,8 @@
 ---
-category: Operations
+category: Freight
 status: published
+aliases:
+  - "Truck flow and yard efficiency"
 ambitions:
   - "[[Efficient truck flow and compact yards]]"
 auto_case_studies:

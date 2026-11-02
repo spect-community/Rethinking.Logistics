@@ -15,7 +15,7 @@ tags:
   - "topic/data"
 source: "[[Leverhulme Centre for Nature Recovery, University of Oxford, 2025]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Biodiversity net gain]]"
 case_studies: []

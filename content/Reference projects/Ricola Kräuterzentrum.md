@@ -13,8 +13,8 @@ status: published
 aliases:
   - Ricola Herb Centre
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Land take]]"
   - "[[Rooftop PV generation]]"

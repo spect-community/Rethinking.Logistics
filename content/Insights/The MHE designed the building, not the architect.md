@@ -14,7 +14,7 @@ tags:
   - "topic/provocation"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics: []
 case_studies: []
 reference_projects:

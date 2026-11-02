@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Ecological connectivity]]"
 case_studies: []

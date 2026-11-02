@@ -15,7 +15,7 @@ tags:
   - "topic/provocation"
 source: "[[NBC News investigation, 2023]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics:
   - "[[Thermal comfort]]"
 case_studies: []

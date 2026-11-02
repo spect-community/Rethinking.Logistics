@@ -7,7 +7,7 @@ status: published
 aliases:
   - Annual operational heating energy
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Elsa Hauksdottir]]"
 auto_insights:

@@ -8,7 +8,7 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Robin Jesenský]]"
 auto_challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
   - "[[Waste heat and cooling of data centres]]"
 auto_insights: []
 auto_metrics:
@@ -39,7 +39,7 @@ auto_strategies:
 
 Logistics buildings and data centres need less energy and water for heating and cooling, including through passive means.
 
-## How the students framed it
+## In the student projects
 
 - [[Elsa Hauksdottir]] — “Heating energy wasted on underused warehouse volume”
 - [[Katrin Rybinskiy]] — “Data centre energy demand and grid strain”
@@ -47,7 +47,7 @@ Logistics buildings and data centres need less energy and water for heating and 
 - [[Robin Jesenský]] — “Water and energy use for data-centre cooling”
 - [[Robin Jesenský]] — “Wind-driven passive cooling of buildings”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

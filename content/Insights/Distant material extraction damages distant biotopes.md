@@ -15,7 +15,7 @@ tags:
   - "topic/landscape"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Biodiversity stress from materials]]"
 case_studies: []

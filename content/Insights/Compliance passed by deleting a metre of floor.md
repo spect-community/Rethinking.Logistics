@@ -14,7 +14,7 @@ tags:
   - "topic/trade-off"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics: []
 case_studies: []
 ---

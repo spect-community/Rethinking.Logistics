@@ -15,7 +15,7 @@ tags:
   - "strategy/4-mobility-last-mile"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Number of docks]]"
 case_studies:

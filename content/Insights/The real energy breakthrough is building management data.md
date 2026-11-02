@@ -14,7 +14,7 @@ tags:
   - "topic/synergy"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics: []
 case_studies: []
 ---

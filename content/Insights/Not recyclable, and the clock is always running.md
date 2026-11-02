@@ -15,7 +15,7 @@ tags:
   - "topic/people"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics: []
 case_studies: []
 ---

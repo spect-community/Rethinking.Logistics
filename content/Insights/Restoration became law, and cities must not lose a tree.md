@@ -15,7 +15,7 @@ tags:
   - "topic/city"
 source: "[[European Parliament, February 2024]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Tree count and canopy cover]]"
 case_studies: []

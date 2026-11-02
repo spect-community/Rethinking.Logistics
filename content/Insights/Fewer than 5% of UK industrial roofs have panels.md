@@ -15,7 +15,7 @@ tags:
   - "topic/provocation"
 source: "[[EQT, Why it's so difficult to put solar panels on warehouse roofs]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Rooftop PV generation]]"
   - "[[Structural utilisation]]"

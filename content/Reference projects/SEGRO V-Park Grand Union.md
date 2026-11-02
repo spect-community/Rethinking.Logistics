@@ -14,8 +14,8 @@ aliases:
   - V-Park Grand Union
 challenges:
   - "[[Land take of logistics buildings]]"
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Worker comfort and well-being]]"
+  - "[[High operational energy demand]]"
+  - "[[Deep, dark and noisy workplaces]]"
 ambitions:
   - "[[Mixed use and function stacking]]"
 metrics:

@@ -9,8 +9,8 @@ aliases:
   - Structural dead, live and snow loads
   - Structural loads
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Buildings that change slower than logistics]]"
 auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
 auto_insights:

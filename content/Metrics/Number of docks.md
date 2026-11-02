@@ -7,7 +7,7 @@ status: published
 aliases:
   - Number of docks needed for a given throughput
 challenges:
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
   - "[[Land take of logistics buildings]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"

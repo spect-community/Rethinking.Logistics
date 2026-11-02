@@ -15,13 +15,13 @@ aliases:
   - Logistics Center West
   - LCW
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Land take of logistics buildings]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
-  - "[[Worker comfort and well-being]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Biodiversity net gain]]"
   - "[[Land take]]"

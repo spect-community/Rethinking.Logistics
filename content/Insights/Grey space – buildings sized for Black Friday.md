@@ -17,7 +17,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 metrics:
   - "[[Space utilisation]]"
 case_studies:

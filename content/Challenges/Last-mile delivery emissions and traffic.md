@@ -1,8 +1,9 @@
 ---
-category: Mobility
+category: Freight
 status: published
 ambitions:
   - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Micro-hub networks]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"

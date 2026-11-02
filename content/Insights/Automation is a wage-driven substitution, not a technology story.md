@@ -15,7 +15,7 @@ tags:
   - "topic/trade-off"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Level of automation]]"
 case_studies: []

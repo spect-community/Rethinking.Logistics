@@ -9,8 +9,8 @@ aliases:
   - Hazard segregation
   - Drone delivery safety record
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Worker comfort and well-being]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Deep, dark and noisy workplaces]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Johannes Berger]]"

@@ -16,7 +16,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Knapp, Schmauck & Zehnsdorf, Sustainability 11(20) – 5846, 2019]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Green roof coverage]]"
   - "[[Native species richness]]"

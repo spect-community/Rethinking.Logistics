@@ -15,7 +15,7 @@ tags:
   - "topic/synergy"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics:
   - "[[Worker well-being]]"
 case_studies: []

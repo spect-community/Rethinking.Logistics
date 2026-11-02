@@ -14,7 +14,7 @@ tags:
   - "topic/trade-off"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Embodied carbon intensity]]"
 case_studies: []

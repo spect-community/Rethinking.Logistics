@@ -12,7 +12,7 @@ aliases:
   - Construction waste diversion
   - Material mix by hierarchy
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Sulollari]]"

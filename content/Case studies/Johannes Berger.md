@@ -12,11 +12,11 @@ aliases: []
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Land take of logistics buildings]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 ambitions:
   - "[[Fewer and cleaner last-mile trips]]"
   - "[[Compact footprint]]"
-  - "[[Efficient truck flow and compact yards]]"
+  - "[[Efficient automated operations]]"
   - "[[Logistics as part of the city]]"
 metrics:
   - "[[Road freight impact]]"

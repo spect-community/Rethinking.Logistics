@@ -1,6 +1,8 @@
 ---
-category: Comfort
+category: People
 status: published
+aliases:
+  - "Outdoor microclimate around logistics buildings"
 ambitions:
   - "[[Outdoor comfort]]"
 auto_case_studies:

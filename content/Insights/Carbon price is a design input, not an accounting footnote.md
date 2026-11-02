@@ -15,7 +15,7 @@ tags:
   - "topic/trade-off"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[CapEx–OpEx ratio]]"
 case_studies: []

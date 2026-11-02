@@ -10,10 +10,11 @@ typology: existing 3PL distribution centre / logistics hub retrofitted with mixe
 status: published
 aliases: []
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Logistics as part of the city]]"
   - "[[Safe sites with separated flows]]"
   - "[[Habitat and ecological connectivity]]"

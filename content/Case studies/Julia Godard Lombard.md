@@ -12,7 +12,7 @@ aliases:
   - Julia Lombard
 challenges:
   - "[[Waste heat and cooling of data centres]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 ambitions:
   - "[[Shared waste heat]]"
   - "[[Reuse of existing buildings]]"

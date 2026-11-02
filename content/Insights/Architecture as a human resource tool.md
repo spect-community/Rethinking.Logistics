@@ -15,7 +15,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics:
   - "[[Worker well-being]]"
 case_studies: []

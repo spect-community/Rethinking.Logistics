@@ -9,8 +9,8 @@ aliases:
   - Net tree gain
   - Tree canopy coverage
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Marek Nový]]"

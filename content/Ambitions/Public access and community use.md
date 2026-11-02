@@ -10,7 +10,7 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
 auto_challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 auto_insights:
   - "[[A High Line for a whole industrial estate]]"
 auto_metrics:
@@ -32,7 +32,7 @@ auto_strategies:
 
 Parts of the site, such as roofs, edges and leftover land, are open to the public and used by local communities.
 
-## How the students framed it
+## In the student projects
 
 - [[Khrystyna Verbitska]] — “Public access and community use of logistics sites”
 - [[Roshni Basu]] — “Activation of underused residential open space”
@@ -41,7 +41,7 @@ Parts of the site, such as roofs, edges and leftover land, are open to the publi
 - [[Thomas Olsen]] — “Public access to closed logistics sites”
 - [[Vladi Kostecki]] — “Brownfield conversion into public green space”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

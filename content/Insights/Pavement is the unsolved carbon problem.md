@@ -15,8 +15,8 @@ tags:
   - "topic/trade-off"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Large paved truck yards and waiting times]]"
 metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Yard area per dock]]"

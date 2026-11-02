@@ -14,7 +14,7 @@ tags:
   - "topic/trade-off"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Heating energy demand]]"
 case_studies: []

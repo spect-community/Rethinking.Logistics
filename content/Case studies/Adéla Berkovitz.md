@@ -11,10 +11,11 @@ status: published
 aliases:
   - Adela Berkowitz
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Large paved truck yards and waiting times]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Good neighbour]]"
   - "[[Safe sites with separated flows]]"
   - "[[Habitat and ecological connectivity]]"

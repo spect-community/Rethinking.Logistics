@@ -8,7 +8,7 @@ aliases:
   - Roof heat island effect
   - Urban heat island intensity
 challenges:
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"

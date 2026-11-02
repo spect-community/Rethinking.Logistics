@@ -9,7 +9,7 @@ aliases:
   - Automation level
   - Employees per facility
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:

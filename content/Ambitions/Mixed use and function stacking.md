@@ -32,7 +32,7 @@ auto_strategies:
 
 Logistics shares its building or site with other uses: offices, retail, production, sport or community.
 
-## How the students framed it
+## In the student projects
 
 - [[Julia Godard Lombard]] — project description: a storage data centre paired with sauna and wellness, dry-food production and a café
 - [[Lindsay Daphne Macuja]] — “Mixed-use / social value of logistics hubs”
@@ -41,7 +41,7 @@ Logistics shares its building or site with other uses: offices, retail, producti
 - [[Vladi Kostecki]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
 - [[Ilinca Maria Baciu]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

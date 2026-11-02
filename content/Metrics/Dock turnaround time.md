@@ -8,8 +8,8 @@ aliases:
   - Dock-to-process time
   - Truck turnaround
 challenges:
-  - "[[Truck flow and yard efficiency]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Large paved truck yards and waiting times]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"

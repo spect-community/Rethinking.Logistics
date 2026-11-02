@@ -6,7 +6,7 @@ origin: standard
 status: published
 aliases: []
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
 auto_insights:

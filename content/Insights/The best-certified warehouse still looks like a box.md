@@ -13,7 +13,7 @@ tags:
   - "topic/provocation"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics: []
 case_studies: []
 ---

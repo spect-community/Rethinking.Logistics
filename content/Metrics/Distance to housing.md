@@ -9,8 +9,8 @@ aliases:
   - Walking distance from residential area
   - Distance from warehouse to nearest residential building
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Visual impact of logistics on neighbours]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
 ambitions:
   - "[[Good neighbour]]"
 auto_case_studies:

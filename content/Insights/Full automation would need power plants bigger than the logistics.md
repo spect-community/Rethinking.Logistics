@@ -16,7 +16,7 @@ tags:
   - "strategy/5-energy-symbiosis"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 metrics:
   - "[[Level of automation]]"
 case_studies: []

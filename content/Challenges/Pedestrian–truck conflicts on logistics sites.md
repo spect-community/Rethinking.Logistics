@@ -1,6 +1,8 @@
 ---
-category: Safety
+category: People
 status: published
+aliases:
+  - "Pedestrian–truck safety on logistics sites"
 ambitions:
   - "[[Safe sites with separated flows]]"
 auto_case_studies:

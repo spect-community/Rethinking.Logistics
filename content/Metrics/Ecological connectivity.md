@@ -9,7 +9,7 @@ aliases:
   - Wildlife corridor connectivity
   - Ecological land use
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"

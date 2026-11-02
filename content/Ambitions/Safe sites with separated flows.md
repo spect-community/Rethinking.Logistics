@@ -10,7 +10,7 @@ auto_case_studies:
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
 auto_challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
 auto_insights: []
 auto_metrics:
   - "[[Distance to housing]]"
@@ -28,7 +28,7 @@ auto_strategies:
 
 Trucks, vans, workers and the public move on separated, safe routes, and hazardous processes are kept apart from people.
 
-## How the students framed it
+## In the student projects
 
 - [[Julia Kopác]] — “Pedestrian safety and connectivity across infrastructure”
 - [[Eva Kažukolovaitė]] — “Van, cargo-bike and pedestrian conflicts”
@@ -37,7 +37,7 @@ Trucks, vans, workers and the public move on separated, safe routes, and hazardo
 - [[Sara Gani]] — “Truck, car and pedestrian flow separation”
 - [[Vladi Kostecki]] — “Truck and pedestrian conflict on logistics sites”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

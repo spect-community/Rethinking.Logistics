@@ -9,7 +9,7 @@ aliases:
   - PV energy offset
   - Renewable energy share
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"

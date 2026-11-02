@@ -15,7 +15,7 @@ tags:
   - "strategy/5-energy-symbiosis"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
   - "[[Land take of logistics buildings]]"
 metrics:
   - "[[On-site renewable energy share]]"

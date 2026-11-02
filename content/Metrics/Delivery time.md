@@ -9,7 +9,7 @@ aliases:
   - Cycle time
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"

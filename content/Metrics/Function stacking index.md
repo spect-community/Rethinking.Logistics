@@ -11,9 +11,9 @@ aliases:
   - Stacked functions per m²
   - Nature–programme blending
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
   - "[[Land take of logistics buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"

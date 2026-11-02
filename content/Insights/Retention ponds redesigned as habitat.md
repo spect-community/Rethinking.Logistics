@@ -16,7 +16,7 @@ tags:
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Stormwater retention volume]]"
 case_studies: []

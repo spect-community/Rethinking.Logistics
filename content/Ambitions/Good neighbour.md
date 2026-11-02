@@ -11,7 +11,7 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Roshni Basu]]"
 auto_challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 auto_insights:
   - "[[Aesthetics is the missing agenda item]]"
   - "[[Logistics is architecture built to disappear]]"
@@ -34,7 +34,7 @@ auto_strategies:
 
 Logistics buildings look good and stay quiet for the people who live around them.
 
-## How the students framed it
+## In the student projects
 
 - [[Elsa Hauksdottir]] — “Visual impact on neighbouring residents”
 - [[Amy Naprstek]] — “Urban integration of logistics near housing”
@@ -45,7 +45,7 @@ Logistics buildings look good and stay quiet for the people who live around them
 - [[Adéla Berkovitz]] — “Urban integration of hazardous logistics facilities”
 - [[Ilinca Maria Baciu]] — “Urban integration of logistics next to housing”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

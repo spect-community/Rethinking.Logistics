@@ -15,7 +15,7 @@ tags:
   - "strategy/1-regenerative-park"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Green roof coverage]]"
 case_studies: []

@@ -9,7 +9,7 @@ aliases:
   - Truck flow-through rate
   - Trucks handled
 challenges:
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
 auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"

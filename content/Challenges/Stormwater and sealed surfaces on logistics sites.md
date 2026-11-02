@@ -1,8 +1,9 @@
 ---
-category: Water
+category: Land & water
 status: published
 ambitions:
   - "[[Rainwater kept on site]]"
+  - "[[Green and productive roofs]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Aycha Chambashala]]"

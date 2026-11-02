@@ -11,8 +11,8 @@ status: published
 aliases: []
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Public access and community use of logistics sites]]"
-  - "[[Operational energy and on-site renewables]]"
+  - "[[Closed sites that give little back to the city]]"
+  - "[[High operational energy demand]]"
 ambitions:
   - "[[Logistics as part of the city]]"
   - "[[Rainwater kept on site]]"

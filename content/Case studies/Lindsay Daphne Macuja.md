@@ -10,10 +10,11 @@ typology: last-mile logistics hub with public market, local businesses and offic
 status: published
 aliases: []
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Logistics as part of the city]]"
   - "[[Low embodied carbon]]"
   - "[[Habitat and ecological connectivity]]"

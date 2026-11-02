@@ -28,14 +28,14 @@ auto_strategies:
 
 Goods reach the city with fewer vehicle trips, cleaner vehicles and shorter distances.
 
-## How the students framed it
+## In the student projects
 
 - [[Khrystyna Verbitska]] — “Last-mile delivery emissions and traffic”
 - [[Roshni Basu]] — “Fragmented last-mile delivery in dense cities”
 - [[Johannes Berger]] — “Truck dependency and road freight emissions”
 - [[Thomas Olsen]] — “Last-mile delivery emissions in cities”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

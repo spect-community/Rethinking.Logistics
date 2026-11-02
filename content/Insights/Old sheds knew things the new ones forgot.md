@@ -15,7 +15,7 @@ tags:
   - "topic/adaptability"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Natural ventilation potential]]"
   - "[[Daylight autonomy]]"

@@ -15,7 +15,7 @@ tags:
   - "strategy/2-adaptive-modular"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Design for disassembly score]]"
 case_studies: []

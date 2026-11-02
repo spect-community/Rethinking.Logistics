@@ -15,7 +15,7 @@ tags:
   - "topic/certification"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Heating energy demand]]"
 case_studies: []

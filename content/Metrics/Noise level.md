@@ -10,8 +10,8 @@ aliases:
   - Noise level at highway edge
   - Acoustic comfort
 challenges:
-  - "[[Worker comfort and well-being]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
 ambitions:
   - "[[Good neighbour]]"
 auto_case_studies:

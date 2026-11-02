@@ -9,7 +9,7 @@ aliases:
   - Building envelope cost
   - Façade perimeter reduction
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"

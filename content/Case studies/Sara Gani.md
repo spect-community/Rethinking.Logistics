@@ -10,10 +10,11 @@ typology: storage and distribution warehouse (pallet / high-bay storage) with of
 status: published
 aliases: []
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Worker comfort and well-being]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Deep, dark and noisy workplaces]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Logistics as part of the city]]"
   - "[[Safe sites with separated flows]]"
   - "[[Healthy workplaces]]"

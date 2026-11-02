@@ -15,7 +15,7 @@ tags:
   - "topic/data"
 source: "[[zu Ermgassen et al., Conservation Letters, 2019]]"
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics:
   - "[[Biodiversity net gain]]"
 case_studies: []

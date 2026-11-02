@@ -7,7 +7,7 @@ standard: EN 15978
 status: published
 aliases: []
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Sara Gani]]"
 auto_insights:

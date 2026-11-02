@@ -9,7 +9,7 @@ aliases:
   - Embodied carbon renovation vs demolition
   - Embodied carbon of retrofit
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"

@@ -15,7 +15,7 @@ tags:
   - "topic/taxonomy"
 source: "[[National Law Review, 2024]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 metrics:
   - "[[Distance to housing]]"
   - "[[Visual impact on neighbours]]"

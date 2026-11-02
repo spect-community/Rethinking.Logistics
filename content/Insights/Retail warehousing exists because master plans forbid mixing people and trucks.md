@@ -16,8 +16,8 @@ tags:
   - "strategy/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 metrics: []
 case_studies:
   - "[[Adam Večeřa]]"

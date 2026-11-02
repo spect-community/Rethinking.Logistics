@@ -10,9 +10,9 @@ typology: mixed-use logistics hub in a reused industrial plant (logistics, stora
 status: published
 aliases: []
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Pedestrian–truck safety on logistics sites]]"
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
+  - "[[Large paved truck yards and waiting times]]"
 ambitions:
   - "[[Reuse of existing buildings]]"
   - "[[Logistics as part of the city]]"

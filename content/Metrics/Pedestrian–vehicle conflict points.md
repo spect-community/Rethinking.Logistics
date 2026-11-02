@@ -10,7 +10,7 @@ aliases:
   - Traffic separation
   - Truck–pedestrian conflicts
 challenges:
-  - "[[Pedestrian–truck safety on logistics sites]]"
+  - "[[Pedestrian–truck conflicts on logistics sites]]"
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Natalie Žižková]]"

@@ -10,9 +10,10 @@ typology: Temporary modular (relocatable) storage warehouse combined with public
 status: published
 aliases: []
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
   - "[[Land take of logistics buildings]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
   - "[[Adaptable over time]]"
   - "[[Compact footprint]]"
   - "[[Habitat and ecological connectivity]]"

@@ -16,7 +16,7 @@ tags:
   - "strategy/5-energy-symbiosis"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 metrics:
   - "[[Rooftop PV generation]]"
 case_studies: []

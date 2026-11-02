@@ -12,7 +12,7 @@ aliases:
   - Floor panel installation rate
   - Module size
 challenges:
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Buildings that change slower than logistics]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Amy Naprstek]]"

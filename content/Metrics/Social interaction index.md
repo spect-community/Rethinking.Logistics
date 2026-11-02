@@ -10,7 +10,7 @@ aliases:
   - Public seating density
   - Public safety activation
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
   - "[[Public access and community use]]"
 auto_case_studies:

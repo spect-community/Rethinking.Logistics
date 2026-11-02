@@ -14,7 +14,7 @@ tags:
   - "topic/trade-off"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
-  - "[[Worker comfort and well-being]]"
+  - "[[Deep, dark and noisy workplaces]]"
 metrics:
   - "[[Noise level]]"
 case_studies: []

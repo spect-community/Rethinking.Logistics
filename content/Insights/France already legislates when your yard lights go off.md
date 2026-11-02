@@ -15,8 +15,8 @@ tags:
   - "topic/externality"
 source: "[[Ministère de la Transition écologique, arrêté du 27 décembre 2018]]"
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Visual impact of logistics on neighbours]]"
+  - "[[Habitat loss and cut ecological corridors]]"
 metrics: []
 case_studies: []
 ---

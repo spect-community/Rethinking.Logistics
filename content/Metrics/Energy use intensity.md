@@ -12,7 +12,7 @@ aliases:
   - Monthly energy consumption
   - Warehouse energy use intensity
 challenges:
-  - "[[Operational energy and on-site renewables]]"
+  - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"

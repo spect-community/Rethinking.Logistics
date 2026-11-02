@@ -10,7 +10,7 @@ aliases:
   - Processing capacity
 challenges:
   - "[[Land take of logistics buildings]]"
-  - "[[Automation and operational efficiency of logistics]]"
+  - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"

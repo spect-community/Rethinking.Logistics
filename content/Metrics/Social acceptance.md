@@ -8,7 +8,7 @@ aliases:
   - Social compatibility
   - Connection to community
 challenges:
-  - "[[Visual impact and acceptance by neighbours]]"
+  - "[[Visual impact of logistics on neighbours]]"
 ambitions:
   - "[[Good neighbour]]"
 auto_case_studies:

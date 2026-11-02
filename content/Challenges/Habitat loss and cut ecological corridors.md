@@ -1,8 +1,11 @@
 ---
-category: Ecology
+category: Nature
 status: published
+aliases:
+  - "Biodiversity and ecological connectivity on logistics sites"
 ambitions:
   - "[[Habitat and ecological connectivity]]"
+  - "[[Green and productive roofs]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"

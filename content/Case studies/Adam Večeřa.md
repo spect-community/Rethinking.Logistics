@@ -11,9 +11,10 @@ status: published
 aliases: []
 challenges:
   - "[[Land take of logistics buildings]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 ambitions:
+  - "[[Green and productive roofs]]"
   - "[[Compact footprint]]"
   - "[[Habitat and ecological connectivity]]"
   - "[[Rainwater kept on site]]"

@@ -8,7 +8,7 @@ status: published
 aliases:
   - BAF
 challenges:
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
+  - "[[Habitat loss and cut ecological corridors]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"

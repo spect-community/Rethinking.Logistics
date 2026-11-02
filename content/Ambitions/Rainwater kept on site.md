@@ -36,7 +36,7 @@ auto_strategies:
 
 Rain is retained, reused and soaked into the ground on site instead of running off sealed roofs, yards and parking.
 
-## How the students framed it
+## In the student projects
 
 - [[Julia Kopác]] — “Land take and sealed surfaces of warehouses”
 - [[Hynek Hrabík]] — “Stormwater runoff from sealed logistics sites”
@@ -47,7 +47,7 @@ Rain is retained, reused and soaked into the ground on site instead of running o
 - [[Aycha Chambashala]] — “Stormwater runoff on large logistics sites”
 - [[Ilinca Maria Baciu]] — “Sealed surfaces and stormwater runoff on logistics sites”
 
-Quoted lines are the challenges as the students framed them (as reported by the student).
+Unlabelled quotes are the challenges as the students framed them; lines marked *project description* quote the project summary of the case study (as reported by the student).
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

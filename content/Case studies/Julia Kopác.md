@@ -11,9 +11,10 @@ status: published
 aliases: []
 challenges:
   - "[[Land take of logistics buildings]]"
-  - "[[Outdoor microclimate around logistics buildings]]"
-  - "[[Adaptable and relocatable logistics structures]]"
+  - "[[Wind, heat and missing shade around large buildings]]"
+  - "[[Buildings that change slower than logistics]]"
 ambitions:
+  - "[[Modular and prefabricated architecture]]"
   - "[[Good neighbour]]"
   - "[[Compact footprint]]"
   - "[[Rainwater kept on site]]"

@@ -13,12 +13,12 @@ status: published
 aliases:
   - Nexus
 challenges:
-  - "[[Operational energy and on-site renewables]]"
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-  - "[[Biodiversity and ecological connectivity on logistics sites]]"
-  - "[[Worker comfort and well-being]]"
+  - "[[High operational energy demand]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Habitat loss and cut ecological corridors]]"
+  - "[[Deep, dark and noisy workplaces]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
-  - "[[Truck flow and yard efficiency]]"
+  - "[[Large paved truck yards and waiting times]]"
 metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Parking capacity]]"

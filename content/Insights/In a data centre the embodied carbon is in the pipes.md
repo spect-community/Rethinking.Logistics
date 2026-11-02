@@ -15,7 +15,7 @@ tags:
   - "topic/provocation"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
-  - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+  - "[[Embodied carbon of new and demolished warehouses]]"
 metrics:
   - "[[Embodied carbon intensity]]"
 case_studies: []

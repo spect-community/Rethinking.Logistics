@@ -10,7 +10,7 @@ aliases:
   - Economic and social use share
   - Floor area by programme
 challenges:
-  - "[[Public access and community use of logistics sites]]"
+  - "[[Closed sites that give little back to the city]]"
 ambitions:
   - "[[Mixed use and function stacking]]"
 auto_case_studies:

@@ -1,6 +1,8 @@
 ---
-category: Social
+category: City & community
 status: published
+aliases:
+  - "Visual impact and acceptance by neighbours"
 ambitions:
   - "[[Good neighbour]]"
 auto_case_studies:
