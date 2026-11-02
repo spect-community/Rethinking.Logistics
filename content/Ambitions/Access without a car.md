@@ -12,6 +12,8 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
+auto_tools:
+  - "[[Geoportal Praha]]"
 ---
 
 ## Ambition

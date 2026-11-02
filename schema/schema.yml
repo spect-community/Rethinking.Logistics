@@ -288,3 +288,8 @@ derived:
     auto: auto_ambitions
     label: Ambitions (through its projects)
     path: [case_studies, ambitions]
+  # tools that can calculate the metrics of an ambition (after its metrics are derived)
+  - on: ambition
+    auto: auto_tools
+    label: Tools (via metrics)
+    path: [auto_metrics, auto_tools]

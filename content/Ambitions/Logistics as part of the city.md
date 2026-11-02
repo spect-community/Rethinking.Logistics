@@ -41,6 +41,7 @@ auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_tools: []
 ---
 
 ## Ambition

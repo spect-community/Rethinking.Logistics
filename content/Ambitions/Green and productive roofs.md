@@ -39,6 +39,13 @@ auto_references: []
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_tools:
+  - "[[AutoTURN]]"
+  - "[[Grasshopper]]"
+  - "[[Lands Design]]"
+  - "[[One Click LCA]]"
+  - "[[Rainflow-Sim]]"
+  - "[[Rhino.Ecologic]]"
 ---
 
 ## Ambition

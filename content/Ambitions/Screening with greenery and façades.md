@@ -17,6 +17,11 @@ auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+auto_tools:
+  - "[[Geoportal Praha]]"
+  - "[[Grasshopper]]"
+  - "[[Jifto]]"
+  - "[[Ladybug]]"
 ---
 
 ## Ambition

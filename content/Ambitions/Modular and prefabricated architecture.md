@@ -22,6 +22,10 @@ auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
   - "[[Micro-Hubs and Urban Mobility]]"
+auto_tools:
+  - "[[Donkey]]"
+  - "[[Galapagos]]"
+  - "[[Karamba3D]]"
 ---
 
 ## Ambition

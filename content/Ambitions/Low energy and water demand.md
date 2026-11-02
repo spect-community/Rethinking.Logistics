@@ -33,6 +33,20 @@ auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
+auto_tools:
+  - "[[Butterfly]]"
+  - "[[CO2mpare]]"
+  - "[[Cyclops]]"
+  - "[[Dragonfly]]"
+  - "[[Eddy3D]]"
+  - "[[Grasshopper]]"
+  - "[[Honeybee]]"
+  - "[[Jifto]]"
+  - "[[Ladybug]]"
+  - "[[nPro]]"
+  - "[[One Click LCA]]"
+  - "[[Pollination]]"
+  - "[[URBANopt]]"
 ---
 
 ## Ambition

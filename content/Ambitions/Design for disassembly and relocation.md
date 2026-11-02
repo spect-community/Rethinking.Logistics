@@ -15,6 +15,10 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
+auto_tools:
+  - "[[Donkey]]"
+  - "[[Galapagos]]"
+  - "[[Karamba3D]]"
 ---
 
 ## Ambition

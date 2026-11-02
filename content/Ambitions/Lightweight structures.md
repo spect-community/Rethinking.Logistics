@@ -21,6 +21,13 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
+auto_tools:
+  - "[[Bombyx]]"
+  - "[[CO2mpare]]"
+  - "[[Donkey]]"
+  - "[[Karamba3D]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
 ---
 
 ## Ambition

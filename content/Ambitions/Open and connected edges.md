@@ -15,6 +15,7 @@ auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"
+auto_tools: []
 ---
 
 ## Ambition

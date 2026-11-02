@@ -18,6 +18,17 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
+auto_tools:
+  - "[[Butterfly]]"
+  - "[[Cyclops]]"
+  - "[[Dragonfly]]"
+  - "[[Eddy3D]]"
+  - "[[Geoportal Praha]]"
+  - "[[Honeybee]]"
+  - "[[Jifto]]"
+  - "[[Ladybug]]"
+  - "[[Lands Design]]"
+  - "[[Pollination]]"
 ---
 
 ## Ambition

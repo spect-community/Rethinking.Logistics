@@ -27,6 +27,9 @@ auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+auto_tools:
+  - "[[AutoTURN]]"
+  - "[[Grasshopper]]"
 ---
 
 ## Ambition

@@ -20,6 +20,8 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
+auto_tools:
+  - "[[Geoportal Praha]]"
 ---
 
 ## Ambition

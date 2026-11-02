@@ -18,6 +18,8 @@ auto_metrics:
   - "[[Road freight impact]]"
 auto_references: []
 auto_strategies: []
+auto_tools:
+  - "[[Geoportal Praha]]"
 ---
 
 ## Ambition

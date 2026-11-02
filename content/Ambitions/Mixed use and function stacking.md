@@ -26,6 +26,7 @@ auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_tools: []
 ---
 
 ## Ambition

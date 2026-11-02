@@ -22,6 +22,14 @@ auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"
+auto_tools:
+  - "[[Butterfly]]"
+  - "[[Eddy3D]]"
+  - "[[Geoportal Praha]]"
+  - "[[Honeybee]]"
+  - "[[Jifto]]"
+  - "[[Ladybug]]"
+  - "[[Pollination]]"
 ---
 
 ## Ambition

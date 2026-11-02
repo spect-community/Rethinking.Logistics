@@ -23,6 +23,13 @@ auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"
+auto_tools:
+  - "[[Bombyx]]"
+  - "[[CO2mpare]]"
+  - "[[Donkey]]"
+  - "[[Karamba3D]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
 ---
 
 ## Ambition

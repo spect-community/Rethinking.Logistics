@@ -27,6 +27,13 @@ auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"
+auto_tools:
+  - "[[Bombyx]]"
+  - "[[CO2mpare]]"
+  - "[[Donkey]]"
+  - "[[Karamba3D]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
 ---
 
 ## Ambition

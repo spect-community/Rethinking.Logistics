@@ -25,6 +25,18 @@ auto_references: []
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_tools:
+  - "[[Butterfly]]"
+  - "[[CO2mpare]]"
+  - "[[Cyclops]]"
+  - "[[Dragonfly]]"
+  - "[[Grasshopper]]"
+  - "[[Honeybee]]"
+  - "[[Ladybug]]"
+  - "[[nPro]]"
+  - "[[One Click LCA]]"
+  - "[[Pollination]]"
+  - "[[URBANopt]]"
 ---
 
 ## Ambition

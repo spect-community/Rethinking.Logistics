@@ -19,6 +19,11 @@ auto_metrics:
 auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
+auto_tools:
+  - "[[Eddy3D]]"
+  - "[[Jifto]]"
+  - "[[Ladybug]]"
+  - "[[nPro]]"
 ---
 
 ## Ambition
