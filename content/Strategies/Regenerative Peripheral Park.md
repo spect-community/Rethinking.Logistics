@@ -71,6 +71,7 @@ auto_insights:
   - "[[Client refused to wait 15 years for green]]"
   - "[[Concentration of functions equals freedom elsewhere]]"
   - "[[Contrast, not imitation, next to a heritage building]]"
+  - "[[Czech height limits are quietly repelling investment]]"
   - "[[Daylighting a river that was a technical problem]]"
   - "[[Density is the environmental strategy]]"
   - "[[Designed in a year, permitted for years]]"
@@ -137,6 +138,7 @@ auto_insights:
   - "[[The best-certified warehouse still looks like a box]]"
   - "[[The building as a 3D mountain]]"
   - "[[The default logistics landscape is a lawnmower]]"
+  - "[[The digital Fort Knox]]"
   - "[[The dog-walker on the dyke as a design client]]"
   - "[[The Dutch site was ecologically poor to start with]]"
   - "[[The Dutch state architect said – fewer boxes]]"
@@ -153,6 +155,7 @@ auto_insights:
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[Warehouses aren't sexy — but that's changing]]"
   - "[[White facades, urban heat and the wind that saves them]]"
+  - "[[Zero incentive for greenery in logistics]]"
 ---
 
 ## Principle
@@ -238,6 +241,7 @@ For comparison, the built Bestseller campus in Lelystad measured a biodiversity 
 - [[A green roof without maintenance turns grey again]]
 - [[Site lighting at logistics scale is a biodiversity problem]]
 - [[Green roofs are not a substitute for ground]]
+- [[Zero incentive for greenery in logistics]]
 
 ## Regulatory observations
 
@@ -245,6 +249,7 @@ For comparison, the built Bestseller campus in Lelystad measured a biodiversity 
 - Certification credits can be earned with token measures, such as a pile of stones as lizard habitat in the middle of a parking lot ([[Lizard habitat in a parking lot]]); where current standards count features rather than function, they limit the approach.
 - On food-production sites, hygiene standards ask designers *not* to attract wildlife ([[Biodiversity forbidden by food-hygiene law]]), so the approach needs a different form there.
 - Official carbon calculations do not accept planting as an offset, so the benefits of the landscape — biodiversity, water, corridors — sit outside the carbon metric ([[Planting the felled forest back doesn't offset]]).
+- Architects working for logistics developers see no market incentive to add greenery to logistics parks, unlike offices that compete for staff ([[Zero incentive for greenery in logistics]]); finance may move first, as banks with ESG policies can offer slightly better interest rates ([[The real green lever is 0.1–0.2 points of interest]]).
 
 ## Questions for practice
 

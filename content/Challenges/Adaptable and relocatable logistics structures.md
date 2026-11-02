@@ -24,6 +24,7 @@ auto_insights:
   - "[[Permits are stretched, then sold empty]]"
   - "[[Tailoring is a one-way door]]"
   - "[[The biggest possible hall reflex is a carbon cost]]"
+  - "[[The stranded gas station as a design brief]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
   - "[[You can buy a second-hand warehouse]]"
 auto_metrics:

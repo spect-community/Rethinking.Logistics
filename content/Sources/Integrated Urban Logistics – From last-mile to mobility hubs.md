@@ -18,6 +18,7 @@ auto_insights:
   - "[[Delivery robots have no legal place in the street section]]"
   - "[[Electrification is a system shift, not a vehicle shift]]"
   - "[[Emptying bins that aren't full]]"
+  - "[[Europe is behind the US and China on deployment]]"
   - "[[From static curb allocation to dynamic curb management]]"
   - "[[Going above the traffic, not through it]]"
   - "[[Half of loading zones misused]]"

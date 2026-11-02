@@ -8,12 +8,16 @@ url: ""
 status: published
 aliases: []
 auto_insights:
+  - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[35,000 m² of green façade, possibly the world's largest]]"
+  - "[[350 people vs 6,000 next door]]"
   - "[[58% of the site lost, biodiversity still up 10–11%]]"
   - "[[8–10% of the area, 50% of the people]]"
   - "[[A baseline they never intended to build]]"
   - "[[A bird island as design precedent]]"
+  - "[[A supplier who had never built at this scale]]"
   - "[[A three-dimensional street inside the shed]]"
+  - "[[Adidas return rates close to 100%]]"
   - "[[Against the exportable prototype]]"
   - "[[Ambition upgraded mid-project from do-no-harm to net-gain]]"
   - "[[Architect wrote the client's sustainability brief]]"
@@ -25,6 +29,7 @@ auto_insights:
   - "[[Generic EPDs first, product-specific later, contractually locked]]"
   - "[[How Much Does Your Building Weigh, Mr. Foster]]"
   - "[[Lifts and PVs eat a quarter of the carbon budget]]"
+  - "[[Logistics centres cannot repack — so returns are destroyed]]"
   - "[[Materials that local trades already know how to repair]]"
   - "[[Multimodal siting – sea, rail, road, air]]"
   - "[[Nature designed to exclude people]]"
@@ -43,6 +48,7 @@ auto_insights:
   - "[[The MHE designed the building, not the architect]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
   - "[[Today's waste stream should be tomorrow's solved problem]]"
+  - "[[Two specified layers failed on site]]"
   - "[[Wetlands chosen partly as carbon sinks]]"
 ---
 

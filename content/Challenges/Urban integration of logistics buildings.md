@@ -38,9 +38,11 @@ auto_insights:
   - "[[Six storeys of industry under 3,350 homes]]"
   - "[[Stakeholders don't care what's around the city]]"
   - "[[The developer is not a philanthropist — that's the planner's job]]"
+  - "[[The digital Fort Knox]]"
   - "[[The ecotone is the design brief]]"
   - "[[The employees are trapped outside the real world]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
+  - "[[Utah's random giants are not the model]]"
   - "[[Your site decides a whole credit block]]"
 auto_metrics:
   - "[[Distance to housing]]"

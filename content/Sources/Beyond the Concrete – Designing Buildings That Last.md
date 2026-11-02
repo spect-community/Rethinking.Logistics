@@ -8,7 +8,10 @@ url: ""
 status: published
 aliases: []
 auto_insights:
+  - "[[1,500 assets screened in a week — on five data fields]]"
+  - "[[78 of 87 assets already at high drought risk]]"
   - "[[A company that owns nothing but its people's time]]"
+  - "[[A portfolio's climate exposure priced at ~EUR 30 million]]"
   - "[[A rain garden answers four risks at once]]"
   - "[[Adaptation is a design-phase decision, not a facilities one]]"
   - "[[Adaptation measures come with real cost ranges]]"
@@ -22,13 +25,16 @@ auto_insights:
   - "[[Exposure is easy; vulnerability is the design question]]"
   - "[[For Czechia the risks are drought, floods, precipitation]]"
   - "[[Four coping strategies, including doing nothing]]"
+  - "[[Free tool, 15–30 minutes, no registration for the basics]]"
   - "[[Oversize the wires now]]"
   - "[[Owners don't know where their own buildings are]]"
   - "[[RCP 8.5 called the most reasonably dirty one]]"
   - "[[Risk analysis also finds the upside]]"
   - "[[Risk management is not a risk manager]]"
   - "[[The risk model runs on ordinary architectural parameters]]"
+  - "[[The stranded gas station as a design brief]]"
   - "[[The whole point is being in business in 20 years]]"
+  - "[[They tested it on their own office and found flood risk]]"
   - "[[Two knobs decide everything – scenario and horizon]]"
   - "[[Warming has social consequences that are also risks]]"
 ---

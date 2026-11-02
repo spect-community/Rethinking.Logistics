@@ -10,6 +10,7 @@ aliases: []
 auto_insights:
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[13.5 Gt per yr, and where it actually sits]]"
+  - "[[A greenwash premium of about 10%]]"
   - "[[A low-carbon warehouse can win architecture awards]]"
   - "[[An honest I don't know on bioremediation]]"
   - "[[Basements are bad news, full stop]]"
@@ -32,8 +33,10 @@ auto_insights:
   - "[[Low-carbon concrete has a scaling filter]]"
   - "[[Offsets have no place in building design]]"
   - "[[Per-kilogram intensity is the wrong question]]"
+  - "[[Ramboll's benchmark database, and its warehouse gap]]"
   - "[[Rethink the normalising unit per typology]]"
   - "[[Reuse can lose on whole-life carbon]]"
+  - "[[Same building, five consultants, five answers]]"
   - "[[Ships are cheap, trucks are not]]"
   - "[[Structural stone – a knowledge problem, not a cost problem]]"
   - "[[The best logistics building he knows is a 1970s brick shed]]"

@@ -12,6 +12,7 @@ challenges:
 auto_case_studies:
   - "[[Amy Naprstek]]"
 auto_insights:
+  - "[[Certification as a recycling driver]]"
   - "[[Digging materials up costs more than buying new]]"
   - "[[Lessons-learned list for lowering carbon]]"
   - "[[Long-life loose-fit and design for disassembly]]"

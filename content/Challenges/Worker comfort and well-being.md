@@ -14,6 +14,7 @@ auto_insights:
   - "[[A view raises memory by 10–25%]]"
   - "[[Architecture as a human resource tool]]"
   - "[[Better toilets make politer shop assistants]]"
+  - "[[Compliance passed by deleting a metre of floor]]"
   - "[[Daylight buys 18% productivity, retail 15–40%]]"
   - "[[Glare is judged at the single worst seat]]"
   - "[[LEED supplies the ceiling the code lacks]]"

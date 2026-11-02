@@ -46,6 +46,7 @@ metrics:
 tools:
   - "[[Grasshopper]]"
 auto_insights:
+  - "[[Czech height limits are quietly repelling investment]]"
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
 auto_strategies:

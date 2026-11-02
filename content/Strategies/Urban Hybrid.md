@@ -34,6 +34,7 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Rooftop PV generation]]"
 auto_insights:
+  - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[1,500 lux is where people improvise blinds]]"
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
@@ -73,6 +74,7 @@ auto_insights:
   - "[[Carbon has a horizontal bias]]"
   - "[[Carbon is decided in network design, not in the building]]"
   - "[[Carbon rules are killing basements]]"
+  - "[[Certification as a recycling driver]]"
   - "[[Certification of reused structural elements is the real blocker]]"
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
   - "[[Cloud in the city, not in the middle of nowhere]]"
@@ -87,6 +89,7 @@ auto_insights:
   - "[[Czech benchmarks built from ~117 buildings]]"
   - "[[Czech brownfields are the wrong brownfields]]"
   - "[[Czech fire rules are stricter than the EU's — and these buildings are changing…]]"
+  - "[[Czech height limits are quietly repelling investment]]"
   - "[[Delivery robots have no legal place in the street section]]"
   - "[[Designed in a year, permitted for years]]"
   - "[[Difficult ground can decide your carbon score]]"
@@ -102,6 +105,7 @@ auto_insights:
   - "[[Every surface recruited – wetland, roof meadow, green facade]]"
   - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Fire isn't timber's real problem — acoustics is]]"
+  - "[[First CEE timber warehouse permit — and unsellable]]"
   - "[[Flexibility is time, not just hardware]]"
   - "[[Forklifts, not robots, forced the concrete]]"
   - "[[France already legislates when your yard lights go off]]"
@@ -141,6 +145,7 @@ auto_insights:
   - "[[Nature designed to exclude people]]"
   - "[[Netherlands has had carbon limits since 2018]]"
   - "[[NIMBY survives the open day]]"
+  - "[[Nobody asks about embodied carbon in CEE]]"
   - "[[Noise – the logistics is the problem, not the building]]"
   - "[[Not recyclable, and the clock is always running]]"
   - "[[Old sheds are becoming unlettable]]"
@@ -175,12 +180,14 @@ auto_insights:
   - "[[The best logistics building he knows is a 1970s brick shed]]"
   - "[[The best-certified warehouse still looks like a box]]"
   - "[[The biggest possible hall reflex is a carbon cost]]"
+  - "[[The build more taboo among young architects]]"
   - "[[The carbon cost abatement curve — free interventions first]]"
   - "[[The commonest mistake is saving carbon too late]]"
   - "[[The crinkle-crankle wall saves bricks]]"
   - "[[The cycle store that came up out of the basement]]"
   - "[[The developer is not a philanthropist — that's the planner's job]]"
   - "[[The developer's job is to push the supply chain]]"
+  - "[[The digital Fort Knox]]"
   - "[[The dog-walker on the dyke as a design client]]"
   - "[[The ecotone is the design brief]]"
   - "[[The employees are trapped outside the real world]]"
@@ -199,6 +206,7 @@ auto_insights:
   - "[[Timber, brick and light concrete came out near-identical]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
   - "[[Topology optimisation isn't buildable yet — use waffles meanwhile]]"
+  - "[[Utah's random giants are not the model]]"
   - "[[Vertical zoning is the answer to people-meet-machines]]"
   - "[[Volvo's roof belongs to everyone]]"
   - "[[Warehouses aren't sexy — but that's changing]]"
@@ -281,11 +289,14 @@ For comparison, a built precedent of stacking: SEGRO V-Park Grand Union in Londo
 - [[Concentration of functions equals freedom elsewhere]]
 - [[Don't let every unit be 2,000 m²]]
 - [[Noise – the logistics is the problem, not the building]]
+- [[350 people vs 6,000 next door]]
+- [[Logistics centres cannot repack — so returns are destroyed]]
 
 ## Regulatory observations
 
 - Consumer access is generally not permitted on industrial plots, so retail and logistics meet only in a separate "retail warehousing" subsector at highway junctions ([[Retail warehousing exists because master plans forbid mixing people and trucks]]). Where current zoning keeps people and trucks on separate plots, it limits the hybrid approach; design-based separation — by level, side or time — could offer an alternative route.
-- Above three storeys, fire requirements call for heavy steel or concrete, and rentable efficiency drops to about 75% once ramps and lifts are deducted ([[Stacking is normal — everywhere but here]]); this is one reason stacked logistics remains rare in Europe.
+- Above three storeys, fire requirements call for heavy steel or concrete, and rentable efficiency drops to about 75% once ramps and lifts are deducted ([[Stacking is normal — everywhere but here]]); this is one reason stacked logistics remains rare in Europe. In Czechia, master plans and municipalities rarely approve high-bay buildings of 20–30 m, while Poland has permitted 30 m ([[Czech height limits are quietly repelling investment]]).
+- Residential use is not permitted inside a logistics master plan, which blocked temporary staff housing next to a manual distribution centre with a reported ~6,000 staff ([[350 people vs 6,000 next door]]); where current zoning separates work and housing this strictly, it limits the hybrid approach.
 - Czech municipalities capture little tax or development contribution from industrial buildings, so they have little incentive to approve them ([[Mayors get trucks, not taxes]]); public amenities delivered with the building could become part of that conversation.
 
 ## Questions for practice

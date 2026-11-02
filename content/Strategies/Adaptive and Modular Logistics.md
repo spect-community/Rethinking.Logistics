@@ -35,6 +35,7 @@ metrics:
   - "[[Noise level]]"
   - "[[Impervious surface ratio]]"
 auto_insights:
+  - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[10% GWP cut from six combined measures]]"
   - "[[13.5 Gt per yr, and where it actually sits]]"
@@ -64,6 +65,7 @@ auto_insights:
   - "[[Amazon 2014 vs 2022 – same floorplate, different building]]"
   - "[[Amazon multi-storey – 60–70% self-supplied]]"
   - "[[Basements are bad news, full stop]]"
+  - "[[Big garages flatter your per-m² carbon]]"
   - "[[BIM vs bill-of-quantities differed by only 5%]]"
   - "[[Biogenic carbon is a bonus, not a currency]]"
   - "[[Biogenic carbon nets to zero, not minus]]"
@@ -76,6 +78,7 @@ auto_insights:
   - "[[Carbon has a horizontal bias]]"
   - "[[Carbon price is a design input, not an accounting footnote]]"
   - "[[Carbon rules are killing basements]]"
+  - "[[Certification as a recycling driver]]"
   - "[[Certification of reused structural elements is the real blocker]]"
   - "[[Cloud in the city, not in the middle of nowhere]]"
   - "[[CLT was not the goal, it was the outcome]]"
@@ -106,6 +109,7 @@ auto_insights:
   - "[[Farmland bans are the engine of brownfield revival]]"
   - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Fire isn't timber's real problem — acoustics is]]"
+  - "[[First CEE timber warehouse permit — and unsellable]]"
   - "[[Fit-out can cost more than the building]]"
   - "[[Flexibility is time, not just hardware]]"
   - "[[Floor-area definitions move your number 5–20%]]"
@@ -146,6 +150,7 @@ auto_insights:
   - "[[Mycelium pavilion that returns to the field]]"
   - "[[Nature designed to exclude people]]"
   - "[[Netherlands has had carbon limits since 2018]]"
+  - "[[Nobody asks about embodied carbon in CEE]]"
   - "[[Nobody knows if twice the compute means half the floor area]]"
   - "[[Noise – the logistics is the problem, not the building]]"
   - "[[Norms force oversized heat pumps]]"
@@ -160,12 +165,14 @@ auto_insights:
   - "[[Per-kilogram intensity is the wrong question]]"
   - "[[Permits are stretched, then sold empty]]"
   - "[[Production wants low, distribution wants high — for energy reasons]]"
+  - "[[Ramboll's benchmark database, and its warehouse gap]]"
   - "[[Recycled-PET envelope beats aluminium and concrete]]"
   - "[[Recycling can raise the carbon footprint]]"
   - "[[Renovating an office saved about 80%]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
   - "[[Reuse can lose on whole-life carbon]]"
+  - "[[Same building, five consultants, five answers]]"
   - "[[Same rules for all materials, not subsidies for timber]]"
   - "[[Self-generated power as a development advantage]]"
   - "[[Seven-metre floors flatter the per-m² number]]"
@@ -182,12 +189,14 @@ auto_insights:
   - "[[Tenant demand follows a Gaussian curve]]"
   - "[[The best logistics building he knows is a 1970s brick shed]]"
   - "[[The biggest possible hall reflex is a carbon cost]]"
+  - "[[The build more taboo among young architects]]"
   - "[[The carbon cost abatement curve — free interventions first]]"
   - "[[The commonest mistake is saving carbon too late]]"
   - "[[The crinkle-crankle wall saves bricks]]"
   - "[[The cycle store that came up out of the basement]]"
   - "[[The developer is not a philanthropist — that's the planner's job]]"
   - "[[The developer's job is to push the supply chain]]"
+  - "[[The digital Fort Knox]]"
   - "[[The Dutch state architect said – fewer boxes]]"
   - "[[The ecotone is the design brief]]"
   - "[[The electricity mix dominates everything]]"
@@ -200,6 +209,7 @@ auto_insights:
   - "[[The reduction roadmap led to the activism]]"
   - "[[The right answer is three materials, not one]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
+  - "[[The stranded gas station as a design brief]]"
   - "[[Timber buildings overheat without thermal mass]]"
   - "[[Timber is scarce — spend it displacing steel and concrete]]"
   - "[[Timber sells on schedule, not on carbon]]"
@@ -209,7 +219,9 @@ auto_insights:
   - "[[Topology optimisation isn't buildable yet — use waffles meanwhile]]"
   - "[[Traffic engineers are expert space-consumers]]"
   - "[[Tuning a building takes two years]]"
+  - "[[Two Czech databases disagree by 10%+]]"
   - "[[Two storeys because there was no third site]]"
+  - "[[Utah's random giants are not the model]]"
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[We assign a moral price to materials]]"
   - "[[White facades, urban heat and the wind that saves them]]"
@@ -297,6 +309,8 @@ For comparison, a lecture example of renovating rather than rebuilding an admini
 - [[You can buy a second-hand warehouse]]
 - [[Reuse can lose on whole-life carbon]]
 - [[Phasing over 20–50 years, while operating]]
+- [[Certification as a recycling driver]]
+- [[The stranded gas station as a design brief]]
 
 ## Regulatory observations
 

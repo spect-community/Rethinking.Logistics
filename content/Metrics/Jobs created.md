@@ -13,6 +13,7 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
 auto_insights:
+  - "[[350 people vs 6,000 next door]]"
   - "[[A warehouse job needs six times the floor of an office job]]"
   - "[[Amazon locates by unemployment rate]]"
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"

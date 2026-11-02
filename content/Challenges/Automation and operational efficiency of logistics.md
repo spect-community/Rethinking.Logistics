@@ -4,12 +4,15 @@ status: published
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:
+  - "[[350 people vs 6,000 next door]]"
   - "[[8–10% of the area, 50% of the people]]"
   - "[[A warehouse run by four people]]"
   - "[[Automated trucks will not change the loading dock]]"
   - "[[Automation is a wage-driven substitution, not a technology story]]"
+  - "[[Czech height limits are quietly repelling investment]]"
   - "[[Fit-out can cost more than the building]]"
   - "[[Full automation would need power plants bigger than the logistics]]"
+  - "[[Half a billion euros of technology under one roof]]"
   - "[[Height buys efficiency and buys a fire problem]]"
   - "[[Robots don't need a view — which makes the box more modular]]"
   - "[[The MHE designed the building, not the architect]]"

@@ -31,9 +31,11 @@ auto_insights:
   - "[[Prague's pipes are an asset — sell the heat]]"
   - "[[The bigger the data centre, the bigger the target]]"
   - "[[The campus behind your query]]"
+  - "[[The digital Fort Knox]]"
   - "[[The early-decision curve applies to water and neighbours too]]"
   - "[[The plateau is why siting becomes the design lever]]"
   - "[[The power grievance is half right]]"
+  - "[[Utah's random giants are not the model]]"
   - "[[Waste heat is already an approval condition]]"
 ---
 

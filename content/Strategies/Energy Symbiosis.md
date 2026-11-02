@@ -32,6 +32,7 @@ metrics:
   - "[[Wind conditions]]"
   - "[[Embodied carbon intensity]]"
 auto_insights:
+  - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[10% GWP cut from six combined measures]]"
   - "[[13.5 Gt per yr, and where it actually sits]]"
@@ -61,6 +62,7 @@ auto_insights:
   - "[[Amazon 2014 vs 2022 – same floorplate, different building]]"
   - "[[Amazon multi-storey – 60–70% self-supplied]]"
   - "[[Basements are bad news, full stop]]"
+  - "[[Big garages flatter your per-m² carbon]]"
   - "[[BIM vs bill-of-quantities differed by only 5%]]"
   - "[[Biogenic carbon is a bonus, not a currency]]"
   - "[[Biogenic carbon nets to zero, not minus]]"
@@ -75,6 +77,7 @@ auto_insights:
   - "[[Carbon has a horizontal bias]]"
   - "[[Carbon price is a design input, not an accounting footnote]]"
   - "[[Carbon rules are killing basements]]"
+  - "[[Certification as a recycling driver]]"
   - "[[Certification of reused structural elements is the real blocker]]"
   - "[[Cloud in the city, not in the middle of nowhere]]"
   - "[[CLT was not the goal, it was the outcome]]"
@@ -83,6 +86,7 @@ auto_insights:
   - "[[Converting a concrete frame to timber late is a disaster]]"
   - "[[Czech brownfields are the wrong brownfields]]"
   - "[[Czech fire rules are stricter than the EU's — and these buildings are changing…]]"
+  - "[[Czech height limits are quietly repelling investment]]"
   - "[[Danish pit-storage heat pumps match warehouse scale]]"
   - "[[Data centres are giant heaters]]"
   - "[[Density is the environmental strategy]]"
@@ -102,6 +106,7 @@ auto_insights:
   - "[[False precision is nonsense]]"
   - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Fire isn't timber's real problem — acoustics is]]"
+  - "[[First CEE timber warehouse permit — and unsellable]]"
   - "[[Floor-area definitions move your number 5–20%]]"
   - "[[Forklifts, not robots, forced the concrete]]"
   - "[[France already legislates when your yard lights go off]]"
@@ -140,6 +145,7 @@ auto_insights:
   - "[[Netherlands has had carbon limits since 2018]]"
   - "[[NIMBY survives the open day]]"
   - "[[Nobody agrees how much water they use]]"
+  - "[[Nobody asks about embodied carbon in CEE]]"
   - "[[Noise – the logistics is the problem, not the building]]"
   - "[[Norms force oversized heat pumps]]"
   - "[[Not recyclable, and the clock is always running]]"
@@ -153,12 +159,14 @@ auto_insights:
   - "[[Prague's pipes are an asset — sell the heat]]"
   - "[[Production wants low, distribution wants high — for energy reasons]]"
   - "[[Rainwater is not process water]]"
+  - "[[Ramboll's benchmark database, and its warehouse gap]]"
   - "[[Recycled-PET envelope beats aluminium and concrete]]"
   - "[[Recycling can raise the carbon footprint]]"
   - "[[Renovating an office saved about 80%]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[Roof overhangs as anti-light-pollution device]]"
+  - "[[Same building, five consultants, five answers]]"
   - "[[Same rules for all materials, not subsidies for timber]]"
   - "[[Self-generated power as a development advantage]]"
   - "[[Sell the warehouse as a power station]]"
@@ -174,12 +182,14 @@ auto_insights:
   - "[[The best logistics building he knows is a 1970s brick shed]]"
   - "[[The best-certified warehouse still looks like a box]]"
   - "[[The biggest possible hall reflex is a carbon cost]]"
+  - "[[The build more taboo among young architects]]"
   - "[[The carbon cost abatement curve — free interventions first]]"
   - "[[The commonest mistake is saving carbon too late]]"
   - "[[The crinkle-crankle wall saves bricks]]"
   - "[[The cycle store that came up out of the basement]]"
   - "[[The developer is not a philanthropist — that's the planner's job]]"
   - "[[The developer's job is to push the supply chain]]"
+  - "[[The digital Fort Knox]]"
   - "[[The dog-walker on the dyke as a design client]]"
   - "[[The ecotone is the design brief]]"
   - "[[The electricity mix dominates everything]]"
@@ -203,6 +213,8 @@ auto_insights:
   - "[[Today's sheds are tomorrow's convertible stock]]"
   - "[[Topology optimisation isn't buildable yet — use waffles meanwhile]]"
   - "[[Tuning a building takes two years]]"
+  - "[[Two Czech databases disagree by 10%+]]"
+  - "[[Utah's random giants are not the model]]"
   - "[[Warehouses aren't sexy — but that's changing]]"
   - "[[Waste heat is already an approval condition]]"
   - "[[We assign a moral price to materials]]"
@@ -286,6 +298,8 @@ The heat figures are hand estimates; even the phase 1 data centre in Prague prod
 - [[Liquid cooling may quietly defuse the water fight]]
 - [[Brewing waste heat heats the public building]]
 - [[Micro data centres – who takes the waste]]
+- [[The digital Fort Knox]]
+- [[Utah's random giants are not the model]]
 
 ## Regulatory observations
 

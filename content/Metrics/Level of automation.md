@@ -13,9 +13,11 @@ challenges:
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:
+  - "[[350 people vs 6,000 next door]]"
   - "[[A warehouse run by four people]]"
   - "[[Automation is a wage-driven substitution, not a technology story]]"
   - "[[Full automation would need power plants bigger than the logistics]]"
+  - "[[Half a billion euros of technology under one roof]]"
 auto_strategies: []
 auto_tools: []
 ---

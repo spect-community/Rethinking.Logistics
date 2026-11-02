@@ -13,6 +13,7 @@ auto_insights:
   - "[[Cities grow while their countries shrink]]"
   - "[[Cities outgrow their countries, everywhere]]"
   - "[[Czech grid is the real siting constraint]]"
+  - "[[Data centre sizes are commercially opaque]]"
   - "[[Data centres outgrowing the FLAP cities]]"
   - "[[Data centres will de-urbanise in 10–15 years]]"
   - "[[ESG survived the politics, via the banks]]"

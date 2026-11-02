@@ -15,6 +15,7 @@ auto_insights:
   - "[[Architecture as a human resource tool]]"
   - "[[Better toilets make politer shop assistants]]"
   - "[[Boring numbers buy you the joy of life]]"
+  - "[[Certification as karma and PR]]"
   - "[[CLT was not the goal, it was the outcome]]"
   - "[[Czech fire rules are stricter than the EU's — and these buildings are changing…]]"
   - "[[Czech Republic went first; Germany followed]]"
@@ -37,11 +38,13 @@ auto_insights:
   - "[[The budget is set before the architect arrives]]"
   - "[[The employees are trapped outside the real world]]"
   - "[[The money is in logistics; the architecture isn't — that's the niche]]"
+  - "[[The real green lever is 0.1–0.2 points of interest]]"
   - "[[Timber sells on schedule, not on carbon]]"
   - "[[We killed our own business there]]"
   - "[[What performs is what you can't see]]"
   - "[[What will we do if we replace every job by a robot]]"
   - "[[You can't reinvent the warehouse any more than the container]]"
+  - "[[Zero incentive for greenery in logistics]]"
 ---
 
 Lecture 11 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 17.4.2026.

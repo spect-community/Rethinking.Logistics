@@ -14,7 +14,9 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
 auto_insights:
+  - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
+  - "[[First CEE timber warehouse permit — and unsellable]]"
   - "[[Fit-out can cost more than the building]]"
   - "[[Height buys efficiency and buys a fire problem]]"
   - "[[Timber sells on schedule, not on carbon]]"

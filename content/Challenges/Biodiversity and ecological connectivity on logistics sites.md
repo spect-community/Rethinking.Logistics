@@ -49,6 +49,7 @@ auto_insights:
   - "[[The green wall on printed concrete died]]"
   - "[[The lilac vs the oak]]"
   - "[[Three tiers of ambition on a plot]]"
+  - "[[Zero incentive for greenery in logistics]]"
 auto_metrics:
   - "[[Biodiversity net gain]]"
   - "[[Biodiversity stress from materials]]"

@@ -14,6 +14,7 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Eva Kažukolovaitė]]"
 auto_insights:
+  - "[[Czech mayors have almost no reason to say yes]]"
   - "[[Mayors get trucks, not taxes]]"
   - "[[NIMBY survives the open day]]"
   - "[[The power grievance is half right]]"
