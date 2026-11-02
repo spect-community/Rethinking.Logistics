@@ -18,7 +18,7 @@ source: "[[SEGRO, April 2024]]"
 challenges:
   - "[[Land take of logistics buildings]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics: []
 case_studies: []
 reference_projects:

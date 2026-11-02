@@ -16,7 +16,7 @@ tags:
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies: []
 ---

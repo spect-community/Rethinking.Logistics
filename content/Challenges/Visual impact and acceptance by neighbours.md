@@ -2,7 +2,7 @@
 category: Social
 status: published
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"

@@ -12,7 +12,7 @@ aliases:
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Access without a car]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights:

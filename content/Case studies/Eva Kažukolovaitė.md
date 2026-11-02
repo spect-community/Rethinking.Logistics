@@ -14,7 +14,10 @@ challenges:
   - "[[Worker comfort and well-being]]"
   - "[[Adaptable and relocatable logistics structures]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Healthy workplaces]]"
+  - "[[Adaptable over time]]"
 metrics:
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Social acceptance]]"

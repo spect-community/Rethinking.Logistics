@@ -14,7 +14,11 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Low embodied carbon]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Mixed use and function stacking]]"
+  - "[[Public access and community use]]"
 metrics:
   - "[[Distance to housing]]"
   - "[[Green area ratio]]"

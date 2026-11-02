@@ -14,7 +14,10 @@ challenges:
   - "[[Public access and community use of logistics sites]]"
   - "[[Operational energy and on-site renewables]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Public access and community use]]"
+  - "[[On-site renewable energy]]"
 metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Sun exposure of outdoor space]]"

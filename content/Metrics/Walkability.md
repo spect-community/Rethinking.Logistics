@@ -12,7 +12,7 @@ aliases:
   - Pedestrian accessibility
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Open and connected edges]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Julia Kopác]]"

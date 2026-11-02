@@ -14,7 +14,11 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
   - "[[Adaptable and relocatable logistics structures]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
+  - "[[Compact footprint]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Open and connected edges]]"
 metrics:
   - "[[Green area ratio]]"
   - "[[Noise level]]"

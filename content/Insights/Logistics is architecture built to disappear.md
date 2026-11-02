@@ -15,7 +15,7 @@ tags:
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 metrics: []
 case_studies: []
 ---

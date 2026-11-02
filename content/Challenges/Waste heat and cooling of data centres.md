@@ -2,7 +2,8 @@
 category: Energy
 status: published
 ambitions:
-  - "[[Low-carbon and energy-positive logistics]]"
+  - "[[Shared waste heat]]"
+  - "[[Low energy and water demand]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"

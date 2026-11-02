@@ -18,7 +18,7 @@ tags:
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies:
   - "[[Lindsay Daphne Macuja]]"

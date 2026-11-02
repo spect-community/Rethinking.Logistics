@@ -16,7 +16,7 @@ tags:
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies: []
 ---

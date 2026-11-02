@@ -13,7 +13,7 @@ challenges:
   - "[[Public access and community use of logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"

@@ -13,6 +13,11 @@ challenges:
   - "[[Truck flow and yard efficiency]]"
   - "[[Land take of logistics buildings]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
+ambitions:
+  - "[[Efficient truck flow and compact yards]]"
+  - "[[Compact footprint]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Habitat and ecological connectivity]]"
 metrics:
   - "[[Yard area per dock]]"
   - "[[Impervious surface ratio]]"

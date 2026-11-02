@@ -13,7 +13,9 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Outdoor comfort]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Low embodied carbon]]"
 metrics:
   - "[[Pedestrian-level wind speed]]"
   - "[[Publicly accessible area]]"

@@ -10,7 +10,7 @@ aliases:
 challenges:
   - "[[Visual impact and acceptance by neighbours]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Eva Kažukolovaitė]]"

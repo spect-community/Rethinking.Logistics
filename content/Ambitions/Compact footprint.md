@@ -1,0 +1,48 @@
+---
+category: Land & water
+summary: "Logistics needs less land for the same output, by stacking, compacting or sharing space."
+status: published
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Amy Naprstek]]"
+  - "[[Hynek Hrabík]]"
+  - "[[Johannes Berger]]"
+  - "[[Julia Kopác]]"
+  - "[[Robin Jesenský]]"
+auto_challenges:
+  - "[[Land take of logistics buildings]]"
+auto_insights: []
+auto_metrics:
+  - "[[Function stacking index]]"
+  - "[[Impervious surface ratio]]"
+  - "[[Land take]]"
+  - "[[Number of docks]]"
+  - "[[Parking capacity]]"
+  - "[[Space utilisation]]"
+  - "[[Throughput per site area]]"
+  - "[[Yard area per dock]]"
+auto_references: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
+---
+
+## Ambition
+
+Logistics needs less land for the same output, by stacking, compacting or sharing space.
+
+## How the students framed it
+
+- [[Amy Naprstek]] — “Land take and landscape fragmentation”
+- [[Julia Kopác]] — “Land take and sealed surfaces of warehouses”
+- [[Robin Jesenský]] — “Space efficiency of data centres”
+- [[Johannes Berger]] — “Land take of warehouses”
+- [[Hynek Hrabík]] — “Truck manoeuvring area and paved land take”
+- [[Adam Večeřa]] — “Land take of horizontal retail warehouses”
+
+Quoted lines are the challenges as the students framed them (as reported by the student).
+
+> [!tip] Where are the challenges, case studies and strategies?
+> They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

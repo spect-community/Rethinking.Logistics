@@ -13,6 +13,11 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Land take of logistics buildings]]"
   - "[[Automation and operational efficiency of logistics]]"
+ambitions:
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Compact footprint]]"
+  - "[[Efficient truck flow and compact yards]]"
+  - "[[Logistics as part of the city]]"
 metrics:
   - "[[Road freight impact]]"
   - "[[Energy per package delivered]]"

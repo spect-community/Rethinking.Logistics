@@ -1,0 +1,53 @@
+---
+category: Land & water
+summary: "Rain is retained, reused and soaked into the ground on site instead of running off sealed roofs, yards and parking."
+status: published
+auto_case_studies:
+  - "[[Adam Večeřa]]"
+  - "[[Aycha Chambashala]]"
+  - "[[Ece Yasar]]"
+  - "[[Hynek Hrabík]]"
+  - "[[Ilinca Maria Baciu]]"
+  - "[[Julia Kopác]]"
+  - "[[Marek Nový]]"
+  - "[[Natalie Žižková]]"
+auto_challenges:
+  - "[[Stormwater and sealed surfaces on logistics sites]]"
+auto_insights: []
+auto_metrics:
+  - "[[Biotope area factor]]"
+  - "[[Function stacking index]]"
+  - "[[Green roof coverage]]"
+  - "[[Impervious surface ratio]]"
+  - "[[Parking capacity]]"
+  - "[[Stormwater retention volume]]"
+  - "[[Stormwater runoff reduction]]"
+  - "[[Water reuse share]]"
+  - "[[Yard area per dock]]"
+auto_references: []
+auto_strategies:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
+---
+
+## Ambition
+
+Rain is retained, reused and soaked into the ground on site instead of running off sealed roofs, yards and parking.
+
+## How the students framed it
+
+- [[Julia Kopác]] — “Land take and sealed surfaces of warehouses”
+- [[Hynek Hrabík]] — “Stormwater runoff from sealed logistics sites”
+- [[Ece Yasar]] — “Stormwater runoff from impermeable roofs”
+- [[Adam Večeřa]] — “Sealed surfaces and stormwater on retail sites”
+- [[Natalie Žižková]] — “Stormwater and impervious surfaces on logistics sites”
+- [[Marek Nový]] — “Stormwater runoff on large logistics sites”
+- [[Aycha Chambashala]] — “Stormwater runoff on large logistics sites”
+- [[Ilinca Maria Baciu]] — “Sealed surfaces and stormwater runoff on logistics sites”
+
+Quoted lines are the challenges as the students framed them (as reported by the student).
+
+> [!tip] Where are the challenges, case studies and strategies?
+> They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

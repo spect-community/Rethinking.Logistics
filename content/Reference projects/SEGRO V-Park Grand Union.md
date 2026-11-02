@@ -17,7 +17,7 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
   - "[[Worker comfort and well-being]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Land take]]"
   - "[[Jobs created]]"

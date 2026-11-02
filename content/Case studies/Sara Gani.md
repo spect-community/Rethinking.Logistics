@@ -14,7 +14,11 @@ challenges:
   - "[[Worker comfort and well-being]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Healthy workplaces]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Publicly accessible area]]"
   - "[[Embodied carbon intensity]]"

@@ -13,6 +13,10 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Visual impact and acceptance by neighbours]]"
+ambitions:
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Open and connected edges]]"
 metrics:
   - "[[Green roof coverage]]"
   - "[[Ecological connectivity]]"

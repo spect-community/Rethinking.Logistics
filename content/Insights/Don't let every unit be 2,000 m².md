@@ -16,7 +16,7 @@ tags:
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Mixed-use ratio]]"
 case_studies:

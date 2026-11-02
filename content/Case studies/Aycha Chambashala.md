@@ -14,7 +14,10 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Efficient truck flow and compact yards]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Habitat and ecological connectivity]]"
 metrics:
   - "[[Visual impact on neighbours]]"
   - "[[Truck throughput]]"

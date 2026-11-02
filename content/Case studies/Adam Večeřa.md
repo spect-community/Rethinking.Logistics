@@ -14,7 +14,10 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Compact footprint]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Access without a car]]"
 metrics:
   - "[[Biodiversity net gain]]"
   - "[[Native species richness]]"

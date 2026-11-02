@@ -14,6 +14,11 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
+ambitions:
+  - "[[Shared waste heat]]"
+  - "[[Low energy and water demand]]"
+  - "[[Good neighbour]]"
+  - "[[Reuse of existing buildings]]"
 metrics:
   - "[[Rooftop PV generation]]"
   - "[[Waste heat recovery]]"

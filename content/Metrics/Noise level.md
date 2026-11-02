@@ -13,7 +13,7 @@ challenges:
   - "[[Worker comfort and well-being]]"
   - "[[Outdoor microclimate around logistics buildings]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Julia Kopác]]"

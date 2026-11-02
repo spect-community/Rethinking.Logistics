@@ -17,7 +17,7 @@ source: "[[Sogaris, Chapelle International]]"
 challenges:
   - "[[Public access and community use of logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Mixed-use ratio]]"
 case_studies: []

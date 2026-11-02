@@ -2,7 +2,7 @@
 category: Ecology
 status: published
 ambitions:
-  - "[[Nature-positive logistics sites]]"
+  - "[[Habitat and ecological connectivity]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"

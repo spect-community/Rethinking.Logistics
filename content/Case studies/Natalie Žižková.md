@@ -14,7 +14,10 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Public access and community use of logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Rainwater kept on site]]"
 metrics:
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Parking capacity]]"

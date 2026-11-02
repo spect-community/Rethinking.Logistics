@@ -16,7 +16,7 @@ tags:
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Access without a car]]"
 metrics:
   - "[[Public transport accessibility]]"
 case_studies: []

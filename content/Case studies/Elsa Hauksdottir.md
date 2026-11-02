@@ -15,7 +15,11 @@ challenges:
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Adaptable and relocatable logistics structures]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Low energy and water demand]]"
+  - "[[Good neighbour]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Adaptable over time]]"
+  - "[[Logistics as part of the city]]"
 metrics:
   - "[[Heating energy demand]]"
   - "[[Energy use intensity]]"

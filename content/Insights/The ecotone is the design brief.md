@@ -17,7 +17,7 @@ tags:
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Open and connected edges]]"
 metrics: []
 case_studies: []
 ---

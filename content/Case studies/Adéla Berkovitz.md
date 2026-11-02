@@ -15,7 +15,10 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Truck flow and yard efficiency]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Efficient truck flow and compact yards]]"
 metrics:
   - "[[Energy use intensity]]"
   - "[[Space utilisation]]"

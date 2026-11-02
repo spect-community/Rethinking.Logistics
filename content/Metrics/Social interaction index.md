@@ -12,7 +12,7 @@ aliases:
 challenges:
   - "[[Public access and community use of logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Public access and community use]]"
 auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"

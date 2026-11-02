@@ -12,6 +12,9 @@ aliases: []
 challenges:
   - "[[Waste heat and cooling of data centres]]"
   - "[[Outdoor microclimate around logistics buildings]]"
+ambitions:
+  - "[[Low energy and water demand]]"
+  - "[[Compact footprint]]"
 metrics:
   - "[[Water consumption]]"
   - "[[Power usage effectiveness]]"

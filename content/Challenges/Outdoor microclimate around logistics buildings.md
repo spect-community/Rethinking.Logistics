@@ -2,8 +2,7 @@
 category: Comfort
 status: published
 ambitions:
-  - "[[Nature-positive logistics sites]]"
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Outdoor comfort]]"
 auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"

@@ -12,7 +12,7 @@ challenges:
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Pedestrian–truck safety on logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

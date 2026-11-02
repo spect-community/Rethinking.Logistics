@@ -14,7 +14,11 @@ challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
   - "[[Operational energy and on-site renewables]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[On-site renewable energy]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Rooftop PV generation]]"
   - "[[Land take]]"

@@ -20,8 +20,7 @@ challenges:
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Visual impact and acceptance by neighbours]]"
-ambitions:
-  - "[[Urban integration of logistics buildings]]"
+ambitions: []
 metrics:
   - "[[Publicly accessible area]]"
   - "[[Embodied carbon saved by reuse]]"
@@ -34,6 +33,18 @@ metrics:
   - "[[Daylight autonomy]]"
   - "[[Green roof coverage]]"
   - "[[Rooftop PV generation]]"
+auto_ambitions:
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Good neighbour]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Healthy workplaces]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Mixed use and function stacking]]"
+  - "[[On-site renewable energy]]"
+  - "[[Public access and community use]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Reuse of existing buildings]]"
+  - "[[Safe sites with separated flows]]"
 auto_insights:
   - "[[20,000 factory visitors a year, aiming at 25,000]]"
   - "[[350 people vs 6,000 next door]]"
@@ -105,7 +116,7 @@ A logistics building does not have to be a single-use box behind a fence: it can
 
 ## Why it matters
 
-Logistics tends to form rings of sprawl around cities rather than sitting within them ([[Logistics lives in the sprawl, not the city]]), and where the city grows up to it, the warehouse becomes a barrier: sealed yards, truck roads and blank façades next to housing ([[Urban integration of logistics buildings]], [[Visual impact and acceptance by neighbours]]). Sites stay closed to the public ([[Public access and community use of logistics sites]]), and where people and trucks do meet, safety becomes the first concern ([[Pedestrian–truck safety on logistics sites]]). At the same time, e-commerce pulls distribution closer to consumers, while empty post-industrial buildings in the city are demolished and their embodied carbon is lost ([[Embodied carbon and adaptive reuse of logistics buildings]], [[Last-mile delivery emissions and traffic]]).
+Logistics tends to form rings of sprawl around cities rather than sitting within them ([[Logistics lives in the sprawl, not the city]]), and where the city grows up to it, the warehouse becomes a barrier: sealed yards, truck roads and blank façades next to housing ([[Logistics as part of the city|Urban integration of logistics buildings]], [[Visual impact and acceptance by neighbours]]). Sites stay closed to the public ([[Public access and community use of logistics sites]]), and where people and trucks do meet, safety becomes the first concern ([[Pedestrian–truck safety on logistics sites]]). At the same time, e-commerce pulls distribution closer to consumers, while empty post-industrial buildings in the city are demolished and their embodied carbon is lost ([[Embodied carbon and adaptive reuse of logistics buildings]], [[Last-mile delivery emissions and traffic]]).
 
 The studio's answer is to treat function-mixing, not location, as the design lever — as one expert put it, a facility that must sit outside the city should carry additional functions ([[Single-function land use is the real waste]]).
 

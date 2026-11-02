@@ -20,8 +20,7 @@ challenges:
   - "[[Operational energy and on-site renewables]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Visual impact and acceptance by neighbours]]"
-ambitions:
-  - "[[Urban integration of logistics buildings]]"
+ambitions: []
 metrics:
   - "[[Waste heat recovery]]"
   - "[[Heat recovery radius]]"
@@ -32,6 +31,14 @@ metrics:
   - "[[Land take]]"
   - "[[Wind conditions]]"
   - "[[Embodied carbon intensity]]"
+auto_ambitions:
+  - "[[Compact footprint]]"
+  - "[[Good neighbour]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Low energy and water demand]]"
+  - "[[Mixed use and function stacking]]"
+  - "[[Reuse of existing buildings]]"
+  - "[[Shared waste heat]]"
 auto_insights:
   - "[[177 boreholes, 150 metres deep]]"
   - "[[7,000 m² of farming on a Paris data centre roof]]"
@@ -78,7 +85,7 @@ A data centre is the newest kind of logistics building: it stores data instead o
 
 Data centres are growing faster than the grids and cities around them. In the comparison used in the studio, an average conventional data centre consumes as much energy as roughly 20,000 households and a hyperscale one about 100,000 ([[From 20,000 households to a country]]). Cooling takes energy and, where traditional methods persist, large amounts of water ([[Waste heat and cooling of data centres]], [[Nobody agrees how much water they use]]). In Czechia, power is already the limiting factor for where such facilities can go ([[Hyperscale data centres skip Czechia for lack of power]]), and the energy a building consumes and produces on site is a design question in its own right ([[Operational energy and on-site renewables]]).
 
-Yet most data centres already sit in or near cities ([[Most of them are already urban]]), beside homes that need heat and neighbours who see blank boxes ([[Visual impact and acceptance by neighbours]], [[Urban integration of logistics buildings]]). The studio asked whether this proximity can become an exchange rather than a conflict.
+Yet most data centres already sit in or near cities ([[Most of them are already urban]]), beside homes that need heat and neighbours who see blank boxes ([[Visual impact and acceptance by neighbours]], [[Logistics as part of the city|Urban integration of logistics buildings]]). The studio asked whether this proximity can become an exchange rather than a conflict.
 
 ## Projects
 

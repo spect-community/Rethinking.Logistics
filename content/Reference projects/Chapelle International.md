@@ -18,7 +18,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Waste heat and cooling of data centres]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Mixed-use ratio]]"
   - "[[Jobs created]]"

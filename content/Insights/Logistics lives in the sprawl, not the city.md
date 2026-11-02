@@ -16,7 +16,7 @@ tags:
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies:
   - "[[Ilinca Maria Baciu]]"

@@ -28,6 +28,7 @@ challenges:
   - "[[Outdoor microclimate around logistics buildings]]"
   - "[[Visual impact and acceptance by neighbours]]"
   - "[[Public access and community use of logistics sites]]"
+ambitions: []
 metrics:
   - "[[Biodiversity net gain]]"
   - "[[Ecological connectivity]]"
@@ -38,6 +39,20 @@ metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Publicly accessible area]]"
   - "[[Land take]]"
+auto_ambitions:
+  - "[[Access without a car]]"
+  - "[[Compact footprint]]"
+  - "[[Efficient truck flow and compact yards]]"
+  - "[[Good neighbour]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Low embodied carbon]]"
+  - "[[Mixed use and function stacking]]"
+  - "[[On-site renewable energy]]"
+  - "[[Open and connected edges]]"
+  - "[[Public access and community use]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Safe sites with separated flows]]"
 auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"

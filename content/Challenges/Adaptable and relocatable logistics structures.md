@@ -2,7 +2,8 @@
 category: Flexibility
 status: published
 ambitions:
-  - "[[Buildings that outlive their first use]]"
+  - "[[Design for disassembly and relocation]]"
+  - "[[Adaptable over time]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"

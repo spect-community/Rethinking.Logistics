@@ -25,8 +25,7 @@ challenges:
   - "[[Public access and community use of logistics sites]]"
   - "[[Land take of logistics buildings]]"
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
-ambitions:
-  - "[[Urban integration of logistics buildings]]"
+ambitions: []
 metrics:
   - "[[Last-mile delivery emissions]]"
   - "[[Last-mile delivery cost]]"
@@ -41,6 +40,19 @@ metrics:
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Publicly accessible area]]"
   - "[[Embodied carbon saved by reuse]]"
+auto_ambitions:
+  - "[[Adaptable over time]]"
+  - "[[Compact footprint]]"
+  - "[[Efficient truck flow and compact yards]]"
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Good neighbour]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Healthy workplaces]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Public access and community use]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Reuse of existing buildings]]"
+  - "[[Safe sites with separated flows]]"
 auto_insights:
   - "[[A rule you cannot enforce is not a rule]]"
   - "[[A two-to-three-tier building taxonomy]]"
@@ -86,7 +98,7 @@ Urban freight is treated as a designed network rather than as traffic that simpl
 
 ## Why it matters
 
-The last mile is the most visible and fragmented part of logistics: many small parcels, many stops, and constant pressure on streets and curbs ([[Last-mile delivery emissions and traffic]]). It is often quoted as 40–60% of total delivery cost, although this figure is disputed and the best-sourced value is about 41% ([[Last mile is shortest but costliest]]). Small depots of 5,000 m² or less are already the final building of the e-commerce chain ([[A two-to-three-tier building taxonomy]]), yet they usually arrive as fenced boxes or temporary containers ([[Urban integration of logistics buildings]]), with vans, bikes and pedestrians crossing paths ([[Pedestrian–truck safety on logistics sites]]). On larger hubs, the truck yard itself is the land problem ([[Truck flow and yard efficiency]], [[Land take of logistics buildings]]).
+The last mile is the most visible and fragmented part of logistics: many small parcels, many stops, and constant pressure on streets and curbs ([[Last-mile delivery emissions and traffic]]). It is often quoted as 40–60% of total delivery cost, although this figure is disputed and the best-sourced value is about 41% ([[Last mile is shortest but costliest]]). Small depots of 5,000 m² or less are already the final building of the e-commerce chain ([[A two-to-three-tier building taxonomy]]), yet they usually arrive as fenced boxes or temporary containers ([[Logistics as part of the city|Urban integration of logistics buildings]]), with vans, bikes and pedestrians crossing paths ([[Pedestrian–truck safety on logistics sites]]). On larger hubs, the truck yard itself is the land problem ([[Truck flow and yard efficiency]], [[Land take of logistics buildings]]).
 
 The studio asked Johannes Berger's question in a broader form: *what if there were fewer trucks — and what would the city get back?*
 

@@ -2,8 +2,7 @@
 category: Land use
 status: published
 ambitions:
-  - "[[Compact and clean freight]]"
-  - "[[Nature-positive logistics sites]]"
+  - "[[Compact footprint]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Amy Naprstek]]"

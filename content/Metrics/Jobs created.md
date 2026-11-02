@@ -9,7 +9,7 @@ aliases:
 challenges:
   - "[[Automation and operational efficiency of logistics]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Public access and community use]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"

@@ -2,7 +2,7 @@
 category: Mobility
 status: published
 ambitions:
-  - "[[Compact and clean freight]]"
+  - "[[Fewer and cleaner last-mile trips]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Khrystyna Verbitska]]"

@@ -1,0 +1,43 @@
+---
+category: Energy
+summary: "The large roofs and sites of logistics buildings produce renewable energy for the building, its users and the grid."
+status: published
+auto_case_studies:
+  - "[[Ilinca Maria Baciu]]"
+  - "[[Marek Nový]]"
+  - "[[Thomas Olsen]]"
+auto_challenges:
+  - "[[Operational energy and on-site renewables]]"
+auto_insights: []
+auto_metrics:
+  - "[[CapEx–OpEx ratio]]"
+  - "[[Carbon per pallet handled]]"
+  - "[[Electricity price]]"
+  - "[[Energy use intensity]]"
+  - "[[Green roof coverage]]"
+  - "[[Heating energy demand]]"
+  - "[[Natural ventilation potential]]"
+  - "[[On-site renewable energy share]]"
+  - "[[Operational carbon]]"
+  - "[[Rooftop PV generation]]"
+  - "[[Whole-life carbon]]"
+auto_references: []
+auto_strategies:
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
+---
+
+## Ambition
+
+The large roofs and sites of logistics buildings produce renewable energy for the building, its users and the grid.
+
+## How the students framed it
+
+- [[Marek Nový]] — “On-site renewable energy for logistics”
+- [[Thomas Olsen]] — “Roof use for energy and biodiversity”
+- [[Ilinca Maria Baciu]] — “Rooftop renewable energy on large warehouses”
+
+Quoted lines are the challenges as the students framed them (as reported by the student).
+
+> [!tip] Where are the challenges, case studies and strategies?
+> They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

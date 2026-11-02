@@ -13,7 +13,11 @@ challenges:
   - "[[Adaptable and relocatable logistics structures]]"
   - "[[Land take of logistics buildings]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Adaptable over time]]"
+  - "[[Compact footprint]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Good neighbour]]"
+  - "[[Design for disassembly and relocation]]"
 metrics:
   - "[[Biodiversity net gain]]"
   - "[[Land take]]"

@@ -13,7 +13,10 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
   - "[[Public access and community use of logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Public access and community use]]"
+  - "[[Good neighbour]]"
 metrics:
   - "[[Social interaction index]]"
   - "[[Green area ratio]]"

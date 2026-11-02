@@ -18,7 +18,7 @@ tags:
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Mixed use and function stacking]]"
 metrics: []
 case_studies:
   - "[[Adam Večeřa]]"

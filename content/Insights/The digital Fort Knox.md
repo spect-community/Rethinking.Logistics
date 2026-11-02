@@ -18,7 +18,7 @@ source: "[[Cloud in the city – data centres, urban development and implication
 challenges:
   - "[[Visual impact and acceptance by neighbours]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Good neighbour]]"
 metrics: []
 case_studies: []
 ---

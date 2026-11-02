@@ -2,7 +2,7 @@
 category: Social
 status: published
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Public access and community use]]"
 auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Marek Nový]]"

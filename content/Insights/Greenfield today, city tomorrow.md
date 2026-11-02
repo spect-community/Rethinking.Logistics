@@ -16,7 +16,7 @@ tags:
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies: []
 ---

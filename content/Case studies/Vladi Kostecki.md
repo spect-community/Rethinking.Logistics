@@ -14,7 +14,12 @@ challenges:
   - "[[Pedestrian–truck safety on logistics sites]]"
   - "[[Truck flow and yard efficiency]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Reuse of existing buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Safe sites with separated flows]]"
+  - "[[Public access and community use]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Mixed use and function stacking]]"
 metrics:
   - "[[Whole-life carbon]]"
   - "[[Embodied carbon saved by reuse]]"

@@ -2,7 +2,7 @@
 category: Comfort
 status: published
 ambitions:
-  - "[[Healthy and safe workplaces]]"
+  - "[[Healthy workplaces]]"
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"

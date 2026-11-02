@@ -14,7 +14,10 @@ challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
   - "[[Public access and community use of logistics sites]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Reuse of existing buildings]]"
+  - "[[Public access and community use]]"
 metrics:
   - "[[Green area ratio]]"
   - "[[Embodied carbon saved by reuse]]"

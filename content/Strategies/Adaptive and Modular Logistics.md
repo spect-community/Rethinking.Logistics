@@ -22,8 +22,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
   - "[[Operational energy and on-site renewables]]"
   - "[[Outdoor microclimate around logistics buildings]]"
-ambitions:
-  - "[[Urban integration of logistics buildings]]"
+ambitions: []
 metrics:
   - "[[Adaptability]]"
   - "[[Design for disassembly score]]"
@@ -35,6 +34,19 @@ metrics:
   - "[[Pedestrian-level wind speed]]"
   - "[[Noise level]]"
   - "[[Impervious surface ratio]]"
+auto_ambitions:
+  - "[[Adaptable over time]]"
+  - "[[Compact footprint]]"
+  - "[[Design for disassembly and relocation]]"
+  - "[[Good neighbour]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Logistics as part of the city]]"
+  - "[[Low embodied carbon]]"
+  - "[[Low energy and water demand]]"
+  - "[[Open and connected edges]]"
+  - "[[Outdoor comfort]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Safe sites with separated flows]]"
 auto_insights:
   - "[[2050-proof is not enough; make it 2070-proof]]"
   - "[[80% of the market need, not 100% of one tenant]]"

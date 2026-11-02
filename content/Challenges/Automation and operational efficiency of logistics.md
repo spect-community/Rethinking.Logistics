@@ -2,7 +2,7 @@
 category: Operations
 status: published
 ambitions:
-  - "[[Compact and clean freight]]"
+  - "[[Efficient truck flow and compact yards]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
 auto_insights:

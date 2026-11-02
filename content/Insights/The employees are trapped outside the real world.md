@@ -17,7 +17,8 @@ source: "[[Build Your Own Playground – Architecture where no one looks for it]
 challenges:
   - "[[Worker comfort and well-being]]"
 ambitions:
-  - "[[Urban integration of logistics buildings]]"
+  - "[[Healthy workplaces]]"
+  - "[[Logistics as part of the city]]"
 metrics: []
 case_studies: []
 ---

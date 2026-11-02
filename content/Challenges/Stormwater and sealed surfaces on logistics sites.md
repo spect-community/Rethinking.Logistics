@@ -2,7 +2,7 @@
 category: Water
 status: published
 ambitions:
-  - "[[Nature-positive logistics sites]]"
+  - "[[Rainwater kept on site]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Aycha Chambashala]]"

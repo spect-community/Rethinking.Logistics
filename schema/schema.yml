@@ -16,8 +16,9 @@ types:
     folder: Ambitions
     label: Ambition
     plural: Ambitions
-    description: A broad aim for logistics architecture that several design challenges serve.
-    fields: [summary, status, aliases]
+    description: An aim a design pursues, taken from how the students framed their briefs. Strategies gather them through their projects.
+    # category groups the ambitions on the overview page (e.g. Energy, Carbon & circularity, City & community)
+    fields: [category, summary, status, aliases]
 
   challenge:
     folder: Challenges
@@ -272,18 +273,18 @@ derived:
       type: insight
       prefix: "strategy/{number}-"
     verb: supports
-  # through the challenges that serve the ambition (same label = shown in one list)
-  - on: ambition
-    auto: auto_case_studies
-    label: Case studies
-    path: [auto_challenges, auto_case_studies]
-  # through the challenges that serve the ambition (same label = shown in one list)
+  # strategies gather ambitions through their projects (same label = shown in one list)
   - on: ambition
     auto: auto_strategies
     label: Strategies
-    path: [auto_challenges, auto_strategies]
-  # through the challenges that serve the ambition (same label = shown in one list)
+    path: [auto_case_studies, auto_strategies]
+  # metrics through the challenges that serve the ambition
   - on: ambition
     auto: auto_metrics
     label: Metrics
     path: [auto_challenges, auto_metrics]
+  # the ambitions a strategy gathers through its projects
+  - on: strategy
+    auto: auto_ambitions
+    label: Ambitions (through its projects)
+    path: [case_studies, ambitions]
