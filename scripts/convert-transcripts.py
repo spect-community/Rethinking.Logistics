@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Convert raw MS Teams transcripts (.docx or .vtt) to plain Markdown.
+"""Convert raw MS Teams transcripts (.vtt or .docx) to plain Markdown.
 
-Input:  import/private/transcripts/raw/   (kept unchanged)
-Output: import/private/transcripts/md/    one file per lecture, lines "[hh:mm:ss] Speaker: text"
+Input:  import/private/transcripts/vtt/  (WebVTT export — preferred: a timestamp and speaker per cue)
+        import/private/transcripts/raw/  (.docx export — used only where no .vtt exists)
+        Both are kept unchanged.
+Output: import/private/transcripts/md/   one file per lecture, lines "[hh:mm:ss] Speaker: text"
 
 The output file name is the `transcript_file_name` column of import/lectures.csv,
-matched by the two-digit lecture number at the start of the raw file name.
+matched by the two-digit lecture number at the start of the source file name.
 Only the Python standard library is used. Safe to run again: output is rewritten.
 
 Usage: python scripts/convert-transcripts.py
@@ -19,8 +21,9 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "import" / "private" / "transcripts" / "raw"
-OUT = ROOT / "import" / "private" / "transcripts" / "md"
+BASE = ROOT / "import" / "private" / "transcripts"
+SOURCES = [BASE / "vtt", BASE / "raw"]  # earlier folders win
+OUT = BASE / "md"
 LECTURES = ROOT / "import" / "lectures.csv"
 
 TIME = re.compile(r"^(?:(\d+):)?(\d{1,2}):(\d{2})$")
@@ -39,7 +42,6 @@ def docx_lines(path: Path):
     xml = re.sub(r"<w:drawing>.*?</w:drawing>", "", xml, flags=re.S)
     speaker = "Unknown"
     for para in re.findall(r"<w:p[ >].*?</w:p>", xml, flags=re.S):
-        # split the paragraph into segments at line breaks, keeping text runs
         tokens = re.findall(r"<w:t[^>]*>([^<]*)</w:t>|(<w:br/>)", para)
         segments, cur = [], []
         for text, br in tokens:
@@ -63,19 +65,21 @@ def docx_lines(path: Path):
 
 
 def vtt_lines(path: Path):
-    block = []
-    for line in path.read_text(encoding="utf-8-sig").splitlines() + [""]:
-        if line.strip():
-            block.append(line)
+    """One line per cue; a cue's text may span several lines and carry <v Speaker>…</v>."""
+    speaker = "Unknown"
+    for block in re.split(r"\n\s*\n", path.read_text(encoding="utf-8-sig").replace("\r\n", "\n")):
+        lines = [l for l in block.split("\n") if l.strip()]
+        idx = next((i for i, l in enumerate(lines) if "-->" in l), None)
+        if idx is None:
             continue
-        if block and "-->" in "".join(block):
-            i = next(k for k, l in enumerate(block) if "-->" in l)
-            start = block[i].split("-->")[0].strip().split(".")[0]
-            body = " ".join(block[i + 1 :])
-            m = re.match(r"<v ([^>]+)>(.*?)(?:</v>)?$", body)
-            speaker, text = (m.group(1), m.group(2)) if m else ("Unknown", body)
-            yield hhmmss(start), speaker.strip(), re.sub(r"<[^>]+>", "", text).strip()
-        block = []
+        start = lines[idx].split("-->")[0].strip().split(".")[0]
+        body = " ".join(lines[idx + 1 :])
+        m = re.search(r"<v\s+([^>]+)>", body)
+        if m:
+            speaker = html.unescape(m.group(1)).strip()
+        text = html.unescape(re.sub(r"<[^>]+>", "", body)).strip()
+        if text:
+            yield hhmmss(start), speaker, re.sub(r"\s+", " ", text)
 
 
 def main() -> int:
@@ -84,26 +88,29 @@ def main() -> int:
         for row in csv.DictReader(f):
             names[row["lecture_id"].zfill(2)] = row["transcript_file_name"].strip()
     OUT.mkdir(parents=True, exist_ok=True)
-    done = set()
-    for path in sorted(RAW.iterdir()):
-        if path.suffix.lower() not in (".docx", ".vtt"):
+    chosen = {}
+    for folder in SOURCES:
+        if not folder.exists():
             continue
-        num = re.match(r"\s*(\d{1,2})", path.name)
-        if not num or num.group(1).zfill(2) not in names:
-            print(f"skipped (no lecture number): {path.name}")
-            continue
-        lid = num.group(1).zfill(2)
-        lines = list(docx_lines(path) if path.suffix.lower() == ".docx" else vtt_lines(path))
+        for path in sorted(folder.iterdir()):
+            if path.suffix.lower() not in (".docx", ".vtt"):
+                continue
+            num = re.match(r"\s*(\d{1,2})", path.name)
+            if not num or num.group(1).zfill(2) not in names:
+                print(f"skipped (no lecture number): {path.name}")
+                continue
+            chosen.setdefault(num.group(1).zfill(2), path)
+    for lid, path in sorted(chosen.items()):
+        lines = list(vtt_lines(path) if path.suffix.lower() == ".vtt" else docx_lines(path))
         target = OUT / names[lid]
         target.write_text(
-            f"<!-- converted from {path.name} -->\n\n" + "\n".join(f"[{t}] {s}: {x}" for t, s, x in lines) + "\n",
+            f"<!-- converted from {path.parent.name}/{path.name} -->\n\n" + "\n".join(f"[{t}] {s}: {x}" for t, s, x in lines) + "\n",
             encoding="utf-8",
         )
-        done.add(lid)
-        print(f"{lid}: {len(lines):5d} lines -> {target.name}")
-    missing = sorted(set(names) - done)
+        print(f"{lid}: {len(lines):5d} lines from {path.suffix[1:]} -> {target.name}")
+    missing = sorted(set(names) - set(chosen))
     if missing:
-        print("no raw transcript for lecture(s): " + ", ".join(missing))
+        print("no transcript for lecture(s): " + ", ".join(missing))
     return 0
 
 
