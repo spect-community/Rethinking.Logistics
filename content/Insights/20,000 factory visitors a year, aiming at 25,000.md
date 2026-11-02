@@ -29,7 +29,7 @@ In the Q&A a student asked whether the industry itself wants the public to see i
 
 > It's very common in Czech Republic to do this open houses and people are very fond to go to the industry from the open house. The second one we showed you, The Cake Factory, they have 20,000 […] people each year, tourists going inside the factory. So they have this [glass] panels and also the VIP walkthroughs with the [guides], and in the […] projects we were showing you it could be at least triple. So 6000 people going in. Yeah. And this project, in this project I think they mentioned […] they also want to do like 25,000, 25,000 people per year.
 
-*Automatic transcript, Q&A, around 01:25. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:25:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

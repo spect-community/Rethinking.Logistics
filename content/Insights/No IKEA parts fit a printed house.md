@@ -26,7 +26,7 @@ Vele (CTU Prague / Scoolpt) describes the interior of Prvok, which was shown to 
 
 > The disadvantage of this approach is that when you are printing these shapes, you cannot go to IKEA and buy a shelf or a wardrobe or buy a simple claddings and then hope you're gonna do this fast. So all the finishings like the floor, the ceilings, the shelves, the countertop of the kitchen desk were done on site manually and the people had to like measure the actual curvatures and then design the parts accordingly.
 
-*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:19:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

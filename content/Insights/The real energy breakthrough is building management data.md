@@ -26,4 +26,4 @@ In the Q&A a student asked about coming technological breakthroughs in warehouse
 
 > So first question, breakthrough[:] building management systems […] I'm talking about the building itself, right, not the operation side. A lot of developers and landlords are becoming really good at collecting data, knowing how the[…] building performs and […] that's actually really important. If you can collect the data and understand how your building performs, you can then kind of tune it to kind of certain times of day and kind of certain times of year. This has been a really big change […] [in the] last few years and there's so much more to go on this with AI […] that'll be the future. […] I think the critical and the speech are aware of the people. Because right now we have many information about the warehouse performing, etc. But always the people […]
 
-*Automatic transcript, Q&A, around 01:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:12:56. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

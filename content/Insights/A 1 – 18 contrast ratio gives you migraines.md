@@ -26,4 +26,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, pre
 
 > So the third one is the glare ratio. We're measuring two types of it […] the immediate, very close glare ratio and the far [glare] ratio. For example, we can think of the PC monitor which is set up at 300 [candelas] per meter squared. And if you compare it to the immediate other surfaces, that could be actually over 6000 [candelas] per meter squared, which means ratio of 1 to [… number missing in the transcript], which is a huge difference. Also if we compared that monitor with far distance surfaces, maybe the facade or the window, the ratio is still 1 to 18, which is too high, which could [lead] to migraines and poor concentration and loss of productivity.
 
-*Automatic transcript, presentation, around 01:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:41:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

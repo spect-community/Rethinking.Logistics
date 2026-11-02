@@ -26,7 +26,7 @@ Part of the second of the project's three ambitions, 'a workplace fair for all'.
 
 > Of course it is a highly automated facility. So in terms of area, the MHE takes up a lot of area. The total area in the building is around 155,000 square meters and out of that only approximately 8 to 10% is the administration area. So of course there's a huge imbalance between how big each of those areas are, but in terms of staffing, they're pretty much the same.
 
-*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:26:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

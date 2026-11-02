@@ -26,7 +26,7 @@ In his introduction to what data centres are and where they are, Martins sizes t
 
 > Current estimates is something in the region of like 11, 12,000 data centres globally. […] And it's give or take about [1.5–2, garbled in the transcript as "1.52"]% of the world's electricity and it keeps growing massively. And also in terms of carbon footprint, again, very difficult to provide an estimate, but we're somewhere in a region of 1, 2, 3% of global CO2 emissions. […] Current estimates are essentially saying that between now and the end of the decade in 2030, this is a market that's going to grow at 16% per annum, which is effectively huge.
 
-*Automatic transcript, presentation, around 00:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:17:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

@@ -25,7 +25,7 @@ Signe Kongebro (Ramboll) presents the result of Ramboll's study of how Copenhage
 
 > And what we have seen with Copenhagen is that it showed that it has boosted the Copenhagen GDP with 5 billion euro, compared to 20 non resilient European cities. So something happened in Copenhagen and we also know that the decisions we take today on design and long term planning will determine whether Copenhagen will become resilient in the future [or] a non resilient city.
 
-*Automatic transcript, presentation, around 00:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:49:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

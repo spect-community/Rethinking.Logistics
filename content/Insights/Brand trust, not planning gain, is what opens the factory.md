@@ -28,4 +28,4 @@ In the Q&A students asked whether factory owners want the public inside, and whe
 
 > Because opening the industry, the brand for the public is something they want to do because they want to show the public that the brand is OK-ish. They want […] their public to be friends with the brand. […] So that's something that's supported generally, but there is no legal obligation to actually do it, right? It's incentivized, but not […] prescribed. […] Up today this isn't the driver for the [firms] to do it. Up today they are doing it because of the branding. […] There is a very strong point of a [shop] front of the factory. They are selling the goods and not only from that factory because the brand tends to be bigger.
 
-*Automatic transcript, Q&A, around 01:25, 01:30 and 01:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:25:42, 01:30:57 and 01:35:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

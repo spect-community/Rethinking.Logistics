@@ -25,4 +25,4 @@ Petr Zahradník (EkoWATT) compares the three certification systems: LEED and BRE
 
 > And here you can see the slightly different chapters of [WELL]. The [WELL] is focusing on the operational state of a building, so how the building affects its owner. […] When the building is certified with [LEED] or [BREEAM], it's being done during the design stage and the construction phase. After the building is constructed and some commissioning process comes into place, then we can say the certification finishes. The [WELL] certification is much more about the operative, operational state. So the [WELL] certification, I would say, [is] postponed compared to [LEED] and [BREEAM].
 
-*Automatic transcript, presentation, around 00:22–00:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:22:31–00:22:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

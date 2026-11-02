@@ -25,4 +25,4 @@ Parker (Oxford Economics) shows a chart splitting the GDP growth of European cit
 
 > But as I said, population on its own isn't enough. So if cities just grow in size without becoming more efficient, what do you get? You get an environment of congestion, falling living standards, and that's where productivity matters. […] On the other hand, as I said, productivity growth without any form of population growth also has limits. So if the workforce is shrinking or ageing, cities struggle to expand the scale, there are fewer workers, fewer consumers and ultimately weaker demand. […] When cities [are] missing one, city growth becomes very unbalanced. So it's either crowded and low wage if it was just solely driven by population growth, or very efficient but slow growing and aging if it was relying solely on productivity.
 
-*Automatic transcript, presentation, around 24:31 and 26:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:31 and 00:26:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

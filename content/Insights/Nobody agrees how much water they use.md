@@ -28,4 +28,4 @@ Water is the third technical topic of Martins' (Ramboll) presentation, after ene
 
 > There isn't consensus in the industry as to how much water is used for data centres. It is a growing concern for the industry that a lot of it is being used and a lot of it is being wasted for the operations of data centres. But effectively, it is, to give you a sense of scale, it is the same as we talked about with energy. It's large volumes equivalent to the consumption or the use of cities, essentially. — (Q&A) I would say water is one of the most recent points of contention and discussion around data centers, because you know, for many years it was power.
 
-*Automatic transcript, presentation, around 00:24, and Q&A, 00:58:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:25:13, and Q&A, 00:58:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

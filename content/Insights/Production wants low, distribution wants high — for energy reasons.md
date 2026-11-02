@@ -27,7 +27,7 @@ In the Q&A a student asked whether demand in cities has increased. Before answer
 
 > In the city, in our[…] warehousing, there are different types of warehouse, right? You have a warehouse and a big box warehouse. You then have production warehouses. They're very different. […] usually a standard warehouse is 12 meters high. 12 metre inside, right? Because it's standard, you can fit the rack and everything […] Production wants to be lower and the reason […] they usually only ask to say 6 to 8 metre clear[…]. The reason is because they don't need high racking, right? They only need machining and they also want to be lower because the energy costs are lower. If you need to […] heat and cool the whole warehouse, it's expensive.
 
-*Automatic transcript, Q&A, around 01:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:07:04. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

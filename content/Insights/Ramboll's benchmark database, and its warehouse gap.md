@@ -26,4 +26,4 @@ Paul Astle (Ramboll) introduces Ramboll's internal carbon benchmarking database 
 
 > So in [Ramboll] we have something called our benchmarking database, which is where we collect carbon assessment data from around the world. […] We collect those together in a database which has about 400 to 500 carbon assessments in it today. […] Now we've created a public version of this called Compare, which you can all access. […] And we do have a typology for light industrial and warehouse. Now we don't have that many assessments unfortunately for that. We only have […] because it's not as common that we would do it and I don't have as many carbon assessments that people have done for them, but nevertheless I've got a bit of data […]
 
-*Automatic transcript, presentation, around 00:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

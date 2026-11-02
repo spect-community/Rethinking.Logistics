@@ -28,4 +28,4 @@ A student asked how strong the incentive is for developers to add trees, green s
 
 > […] in the Czech Republic, how big is the incentive to add trees and green spaces to logistics [parks] to make an asset for the workers? […] if I'm a developer and I'm doing logistics stuff right, and I've got a competition, these guys want to have these grass, biodiversity and like sort of give back the [land] to nature. […] is there any incentive for developers to do that? No, in the logistics, absolutely not. Absolutely not. OK, so it's purely logistics of that. What about office space and materials? Yes, that's yes, it's going to be more and more, because we need to find a way to try to pull back people to the office.
 
-*Automatic transcript, Q&A, around 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:54:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

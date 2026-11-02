@@ -27,4 +27,4 @@ Fojtík (Panattoni) opens the water part of the lecture, describing how Panatton
 
 > If you are preparing the water concept of the building, you need to deal with the rainfall and the infiltration of the whole area. You need to calculate it. Also we are not using just the [Czech] standards, we are going beyond them. We are using the standards which are link[ed] in the [BREEAM] certification and we are also using some modeling and different scenario for the water.
 
-*Automatic transcript, presentation, around 00:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

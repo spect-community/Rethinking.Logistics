@@ -26,7 +26,7 @@ During the presentation of the CLT Penny supermarket, a student asked whether Cz
 
 > [Student:] From previous lectures, we heard that the fire regulations are kind of complicated in the Czech Republic. Did you have any problems with that? [Answer:] Yes, of course. The fire regulations are higher than in the European Union. Yeah. So we know something about that. It's about... The room is something is over than 850 square meters. That is different regulation or harder. And but there is the way. And also this building and the Penny [Pavel, garbled] are going to change the regulations. Yeah. because the Penny market is now one of the more active builders of those buildings […]
 
-*Automatic transcript, presentation, around 00:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:13:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

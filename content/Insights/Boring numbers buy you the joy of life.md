@@ -24,4 +24,4 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) describe the star
 
 > They come up, they show up, they say we have 2000 employees. We need place for 2000 employees, but we don't know how to divide them into teams, departments. And this is where our job starts. That might sound a bit boring, which is more numbers and graphs, but it gives us the opportunity later to have room for design and joy of life.
 
-*Automatic transcript, presentation, around 00:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:10:56. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -28,4 +28,4 @@ The third of the three 'North Star' ambitions Henning Larsen set for Bestseller'
 
 > And last but not least, how we were treating the site and how we were affecting nature or the biodiversity of the site was also a very, very important ambition for the project. To start with, I think the ambition was actually formulated a little bit lower than what it says in this headline, because we just had as a target that we shouldn't affect the biodiversity in a negative way. But throughout the project […] we actually reformulated that ambition into one which was about creating a landscape design which would increase the biodiversity of the site.
 
-*Automatic transcript, presentation, around 00:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:07:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

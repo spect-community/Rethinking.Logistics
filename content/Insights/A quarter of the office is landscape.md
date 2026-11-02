@@ -25,4 +25,4 @@ The host, Šimon Prokop, introduces Franziska Meisel as overseeing around 150 la
 
 > (introduction) He's joining us from [Ramboll], where she's currently residing and controlling around 150 different landscape designers […] — (presentation) And in [Henning Larsen], we have a very large landscape team. It's almost 1/4 of our office is landscape architects, so we really bring them in from the start as co-authors in every project.
 
-*Automatic transcript, host's introduction, 00:03:10, and presentation, around 00:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, host's introduction, 00:03:10, and presentation, 00:20:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

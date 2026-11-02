@@ -24,7 +24,7 @@ Cartlich (CBRE) introduces yields, the return on an investment ignoring debt, an
 
 > So we saw yields on logistics come down from very high levels, about 8% back into 2009, 2010, and to lows on average of 3 1/2%; they corrected very sharply during the interest rate rises to about 5% and they've levelled off more or less there, about 5 and a bit, five and a quarter, and sort of levelled off in line with retail there. [Offices] have corrected a little bit. Corrected not quite as sharply, but they've now started to compress again.
 
-*Automatic transcript, presentation, around 32:40. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:32:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Externally checked
 

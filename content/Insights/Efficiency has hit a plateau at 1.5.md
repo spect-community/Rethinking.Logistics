@@ -29,7 +29,7 @@ Martins (Ramboll) introduces PUE (power usage effectiveness), the industry's key
 
 > There's been a massive drop about 15 years ago when things started to get really, really efficient. But since basically the last six, seven years, the average around the world has not decreased massively. […] we're stabilizing around 1.5, which is considered efficient. — (Q&A) Twenty years ago, we had very inefficient data centers. Right now, we have efficient data centers, but we don't have perfect data centers. Perfect would be that, yeah, you achieve something around one, essentially. […] we know we can design data centers [that] are below 1.5, right? This is an average around the world. […] It doesn't mean that we cannot go below 1.5. In fact, we can. But it means that as an industry […] we're struggling to make [them] collectively more efficient.
 
-*Automatic transcript, presentation, around 00:19, and Q&A, 00:47:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:22:29, and Q&A, 00:47:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

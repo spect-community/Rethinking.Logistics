@@ -26,7 +26,7 @@ Looking for a geometry that works in three dimensions, Vele (CTU Prague / Scoolp
 
 > The name of the paper is like Design to fabrication workflow for 3D concrete printed structures with embedded periodic anti plastic surfaces. […] their idea was to like have some kind of span length where they wanted to create a bridge and they modelled some kind of like a load network. […] they first checked like many different variations of these 3D geometries and they find out that the diamond structure performs the best in the way of overhangs. […] in the bridge, there will be different loads and different magnitudes of the load the bridge will have to carry. So they kind of developed a way how to scale down and scale up this structure. So in the final shapes, you can see that the parts where there is a less force flowing through the object, the step size is a bit bigger, and then they can like create more dense structure where the force will go through inside the object.
 
-*Automatic transcript, presentation, around 00:32–00:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:32:36–00:33:51. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

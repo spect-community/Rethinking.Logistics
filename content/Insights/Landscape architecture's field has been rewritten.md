@@ -25,4 +25,4 @@ Meisel describes how her discipline has changed and why multidisciplinary, natur
 
 > What's interesting when you look at the field of landscape architecture, that has had a huge development in the last [10–20] years, designing for and with nature has become such a large topic and it really has opened up the field of landscape architecture, whereas maybe […] for a very long time, landscape architecture was mainly about the design of urban realm, designing parks and playgrounds and so on. […] but then really all the resilience topics have come in: climate adaptation, rain water management, biodiversity strategies, green infrastructure and so on. […] where you see at the moment quite a high demand also due to, for example, European regulation that really puts nature into the spotlight.
 
-*Automatic transcript, presentation, around 00:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:16:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

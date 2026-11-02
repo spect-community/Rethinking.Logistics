@@ -24,4 +24,4 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) open their lectur
 
 > So this brings us to the main topic of our presentation. Most architecture that surrounds us is designed by people nobody knows. This is a personal picture from us. This is when I moved to Prague 10, 11 years ago. This was my very first project in Prague. […] So we design architecture for clients who don't see architecture as a priority. But we are proud of it.
 
-*Automatic transcript, presentation, around 00:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:06:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

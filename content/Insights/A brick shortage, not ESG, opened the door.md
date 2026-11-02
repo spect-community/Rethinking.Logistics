@@ -27,4 +27,4 @@ Continuing the answer on how YUAR convinced Penny to build in timber, Lukáš Ja
 
 > And in 2021, there will be a problem on the market with the bricks. Price, and there was a […] shortage, shortage, so we asked them so we can do a CLT building. But no discussion about the carbon footprint efficiency. No, back then nothing. Now it was every company. They said yes, try it because they have 100 warehouses. So do it.
 
-*Automatic transcript, Q&A, around 00:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:38:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

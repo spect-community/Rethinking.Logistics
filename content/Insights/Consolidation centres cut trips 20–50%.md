@@ -29,4 +29,4 @@ Wiebke Müller (EIT Urban Mobility) introduces urban consolidation centres (UCCs
 
 > Instead of many trucks entering the city, goods are consolidated at the edge of the city or also within the city. […] then they're moved into smaller, cleaner vehicle[s] such as, for example, the […] scooter or an autonomous delivery device or […] an electric [van]. So the objective here is that it reduces congestion, it can reduce emissions and also inefficient trips. It's proven that these kind of urban [consolidation] centers can reduce freight vehicle trips by 20 to 50% in some cases and also significantly reduce inner city congestion. But […] the effectiveness depends on location and also on usage.
 
-*Automatic transcript, presentation, around 01:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:04:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

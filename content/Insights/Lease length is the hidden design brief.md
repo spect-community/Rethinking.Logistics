@@ -29,7 +29,7 @@ Comparing the Czech deal mix with Europe's, James Fitzgerald (IO Partners) expla
 
 > […] usually it means that they stay in these locations for longer periods of time. A logistics company, when they go into a new location, they generally only stay there for five to seven years. And so when we think residential, when you go get a flat in Prague, you might sign a[…] lease for one year, right? […] in logistics, five to seven years, that's the standard[.] [In] manufacturing[,] because the costs are so high and they don't want to relocate, they usually sign deals, lease deals[,] 15 years. I've been doing recently 20 to 25 years. So you think that when you're [signing] a deal, […] in 25 years, like the company will still be there.
 
-*Automatic transcript, presentation, around 00:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:35:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

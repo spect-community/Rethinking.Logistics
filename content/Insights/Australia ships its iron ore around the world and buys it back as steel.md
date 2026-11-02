@@ -26,4 +26,4 @@ Late in the Q&A, after a student asked why a parcel ordered within the Czech Rep
 
 > But in Australia, I can't believe we have all of the mineral wealth in the world. It is incredible. […] We pull the iron ore out of the ground in WA. We ship it to China, Japan and Korea or China. They produce the steel for us and then we ship it back to Australia. It is insane. It is honestly insane. I just don't know. It's because of the cost. Yeah. But then there's no carbon tax on that. There's no carbon pricing embedded into this. So therefore they just[…] companies will optimize price.
 
-*Automatic transcript, Q&A, around 01:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:43:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

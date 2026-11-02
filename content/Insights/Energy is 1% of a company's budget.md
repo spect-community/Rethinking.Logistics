@@ -27,4 +27,4 @@ Petr Zahradník (EkoWATT) explains why companies want certified buildings: after
 
 > So actually, and in a comparison, usual office building or retail and shopping centre, etcetera. We often talk about energy performance, energy efficiency. When we look at the lowering energy consumption, the energy costs for any of these companies are like 1% of the overall budget of the company. So they are not that much interested into energy efficiency measures. But when we look at these data, for example, people are […] more productive.
 
-*Automatic transcript, presentation, around 00:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

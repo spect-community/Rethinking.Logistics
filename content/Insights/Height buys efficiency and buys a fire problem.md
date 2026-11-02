@@ -27,7 +27,7 @@ In the Q&A a student asked whether automation pushes warehouses to be more verti
 
 > I think we call this VNA like a very narrow aisle[…] racking. […] Humans aren't allowed in here. Yeah. And usually they go[…] they can be like 20 meters high. Yeah, you can have[…] you can actually even have them […] like [14–15] meters high, but obviously the higher you go[,] the more complicated and complex, the more efficient. Keep in mind there's another[…] going higher isn't always better because if you go higher, you then have fire safety issues. […] When you go higher, as you go higher, you need to add sprinklers in the racks and need to add in ventilation and different types of exhaust systems and things and it becomes really expensive. Like fire suppression systems and fire safety is super expensive. So there's a trade off.
 
-*Automatic transcript, Q&A, around 01:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:51:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

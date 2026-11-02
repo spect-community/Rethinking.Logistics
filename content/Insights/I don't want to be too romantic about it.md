@@ -26,7 +26,7 @@ Meisel ends her walk through the landscape of Bestseller's logistics campus in L
 
 > I think it's important to say that I don't want to be too romantic about it. It's fantastic how the project has managed to enable nature and to really integrate it into the site and the surroundings. I think it's still very important to say this is a logistics center, this has a purpose, this has a function, this has a program from the client. This really needs to work well, so we also need to make sure that the traffic is enabled and that the flow of the goods is really working well. […] I think that's always good to keep in mind that we do have a program, but really trying to push both the functionality, but then also giving it the functionality for nature, and this is what really makes a project stand out […]
 
-*Automatic transcript, presentation, around 00:51. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:50:45. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

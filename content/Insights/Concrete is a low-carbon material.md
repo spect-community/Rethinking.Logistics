@@ -27,4 +27,4 @@ In a quiz-style slide, Paul Astle (Ramboll) compares five building materials by 
 
 > So the highest carbon material I'm showing on the screen is steel by 1.55 kilograms per kilogram. That varies quite a lot actually. That could be as little as 0.5, could be as high as three, but I'm giving you a medium figure. Then we have rock [wool] or mineral [wool]. […] So a mineral [wool] factory is like a mini volcano where they melt stone and then they spin it […] We then have CLT. […] And we have plasterboard, gypsum plasterboard […] And concrete, believe it or not, is the lowest one here. […] concrete is actually a low carbon material by mass. […] Concrete is a low carbon material by mass, as I've already said. But of course we use crazy amounts of it, unbelievable amounts of it, and that's why it's a large component of carbon overall.
 
-*Automatic transcript, presentation, around 00:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:47:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

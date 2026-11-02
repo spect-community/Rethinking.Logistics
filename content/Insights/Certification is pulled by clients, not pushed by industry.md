@@ -25,4 +25,4 @@ Fojtík (Panattoni) describes BREEAM certification as the market standard in Pan
 
 > [BREEAM] certification is the market standard. […] I think we got it around 40 certification, maybe more […] and certification starting usually at the beginning of the project when we are getting the building permit and go with you for the whole process of the story until when it's using by the clients. […] These days we are moving for the new level of the certification. This [BREEAM] new version is linked more to the EU taxonomy. […] You need to have a detailed energy management. There is also ban for the fossil fuels if you want to go for the highest level of the certification. So I'm not telling you that the certification [is] pushing [the] industry, I think it's more about the client and the market, but it's really part of our business.
 
-*Automatic transcript, presentation, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:36:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

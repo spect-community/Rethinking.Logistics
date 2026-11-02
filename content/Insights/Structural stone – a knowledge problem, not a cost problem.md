@@ -26,7 +26,7 @@ Paul Astle (Ramboll) lists structural stone among alternative materials making a
 
 > […] structural stone is making a comeback. […] it's incredibly low carbon because of course it has almost no processing involved. You cut out the quarry and you put it in your building. — (Q&A) So stone has a perception of being quite expensive. […] in France they do quite a lot of stone buildings. They actually have done some schools, so really cost effective buildings and schools made of limestone in France […] if you make it out of stone, you can often [omit] the finishes because you then get a really attractive finish already. […] for structural stone, you don't need the same quality of stone you would use for a facade. […] They also talk about using what's called [spoiler, which is the Isola stone — garbled in the transcript], which is quarried, which is not quite good enough to be used for facades, but would be totally suitable to be used for structures, and as a result it's very cheap because it's like a waste product almost of quarrying.
 
-*Automatic transcript, presentation, around 00:54, and Q&A, 01:18:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:54:58, and Q&A, 01:18:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

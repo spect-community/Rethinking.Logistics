@@ -29,7 +29,7 @@ Signe Kongebro (Ramboll) on the Copenhagen district 'Making a Pact with Nature',
 
 > […] at a certain point there was a decision taken that let's go for timber. We will make a timber city. […] we looked at this in carbon goggles to see, and all the red is actually […] concrete, but all the green, it's timber in various ways, and what we can see is that we are over performing in terms of carbon. So if you compare with a conventional building technique, it will consist of almost 60,000 ton CO2, but if we do it in timber, which we are, and we don't burn it after 50 years and soon the EU legislation will support this, we have a surplus in carbon sequestration in the district.
 
-*Automatic transcript, presentation, around 00:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:41:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -28,7 +28,7 @@ The last of three closing examples in Martins' (Ramboll) presentation, a proposa
 
 > And the last example, which is again also a proposition from our architecture firm, is thinking about data centres on where they can be. In this case, they've proposed to build something in between motorways in a place I would say is unloved, very difficult to develop for whatever purpose. You don't really have good access, it's [squeezed] between motorways and it's noisy, etc. So why not developing a data center in a place like this? So really thinking about optimizing locations. But also […] why not designing something that looks completely different […]
 
-*Automatic transcript, presentation, around 00:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:40:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

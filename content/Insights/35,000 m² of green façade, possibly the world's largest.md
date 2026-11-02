@@ -28,4 +28,4 @@ Simon Ingvartsen (Henning Larsen) presents the landscape strategy of Bestseller'
 
 > And last but not least, our high bays we have designed with green facades. I think as far as we know they might be some of the largest green facades in the world when they are complete. I think we have a total of nearly 35,000 square meters of green facades. So it's quite a significant size of such a vertical landscape […]
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:17:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

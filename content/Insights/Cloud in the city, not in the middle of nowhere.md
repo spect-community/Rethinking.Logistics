@@ -27,4 +27,4 @@ Jonathan Martins (global lead for buildings and cities in Ramboll's consultancy 
 
 > I have called this session Cloud in the City as a slight play on words from the famous TV show, because one of the things that I believe is important for architects, designers, developers, investors of today is really to consider how data centres can kind of come back into our cities […] — (Q&A) that's why I wanted to make this presentation about […] how we make our data centers more part of our cities and integrated and effectively, part of the way we live, you know, we all go on the internet, we all rely on IT systems, and they should be part of our cities rather than, you know, in the middle of nowhere.
 
-*Automatic transcript, presentation, around 00:09, and Q&A, 01:04:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:09:32, and Q&A, 01:04:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

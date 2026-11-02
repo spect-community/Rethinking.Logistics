@@ -24,4 +24,4 @@ After the three case studies, Lukáš Janáč and Gregory M. Speck (YUAR Archite
 
 > We never had a real strategy. We didn't see who is our focus client. What should we aim for? But it was a mistake. That was the mistake. Yeah. That was a huge mistake. And only today we understand that we know where our strengths and weaknesses are and how to target the right client. […] our aim was not to achieve our style, our design style. But more to find our segment of play, where we […] would act, how would we [deal] with the client.
 
-*Automatic transcript, presentation, around 00:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:20:25. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

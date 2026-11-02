@@ -26,7 +26,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) on their CLT Penn
 
 > And now we have already built three. I think it will be 5, 6. […] all CLT, which is interesting is minus sixty-five percent of carbon footprint on this construction. So. It's faster, and the atmosphere on the interior […] is for free.
 
-*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:12:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

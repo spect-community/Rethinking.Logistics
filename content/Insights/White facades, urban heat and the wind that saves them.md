@@ -29,4 +29,4 @@ Fojtík (Panattoni) describes a microclimate simulation for another greenfield p
 
 > The similar simulation we did for, for example, another park, it's also in the greenfield and [we were] measuring the differences between the color of the warehouse. We decided for the white facade in our portfolio, but we wasn't sure about the reflection of the facade, we wasn't sure about the urban heat and the risk which is linked with it, and other things, but the simulation and the cooperation with the experts show us that because of the wind, because of the orientation, because of the greenery which is around the buildings, you can deal with such a thing like urban heat. You can deal with the risk.
 
-*Automatic transcript, presentation, around 00:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:34:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

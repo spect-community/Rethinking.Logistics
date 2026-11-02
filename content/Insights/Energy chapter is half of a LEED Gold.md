@@ -26,4 +26,4 @@ Petr Zahradník (EkoWATT) goes through the LEED scorecard chapter by chapter: cr
 
 > The credits mean actually the points that you need to collect […] For example, when you want to have [a] building [LEED] gold, you have to reach at least 60 points or credits. […] Energy, the chapter where you can get the biggest volume of credits. The energy chapter is quite time consuming for the consultants because when you want to optimize energy performance and renewables and air quality in a building, you have to do detailed dynamic simulation models of a building. But it's still definitely makes sense because of 33 credits that are in place here are actually half of the gold.
 
-*Automatic transcript, presentation, around 00:16 and 00:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:16:23 and 00:20:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

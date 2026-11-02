@@ -29,7 +29,7 @@ Fojtík (Panattoni) presents a water concept developed with a Swedish company: a
 
 > On the picture up you see the closed water management that we are using the grey water and even the black water with the different setup of the filtration and taking back to the buildings. […] you will be dealing with two main things and one are standards and the time pressure of the changing building permit, etcetera, and another is the clients and the people which are employees in the buildings. […] I will be honest[]: in the first concept the reason why we not decided to go this way is because the people sometimes [flush] the chemicals for the cleaning in the toilet, they are able to [flush] the T-shirt and whatever you want, imagine, in such buildings. And it was too risky for us, for the investor or for a client go with such a solution. I think in the future definitely will be such a solution on the market, but currently you need to deal with the people, which is a bit unpredictable.
 
-*Automatic transcript, presentation, around 00:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:32:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

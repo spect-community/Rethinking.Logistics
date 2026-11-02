@@ -27,4 +27,4 @@ Continuing on how carbon results are normalised, Paul Astle (Ramboll) suggests c
 
 > Now occasionally we often have additional or complementary metrics. So if we're designing a hospital, it might be more interesting to understand the carbon per patient. Now in the logistics space, it might be more interesting to look at carbon per metres squared of storage or per ton of storage material if it was a warehouse approach. If it was a data centre then it might be more like [kilograms] of CO2 per MWh or per MW of data centre capacity.
 
-*Automatic transcript, presentation, around 00:32. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:27:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

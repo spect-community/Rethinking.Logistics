@@ -26,4 +26,4 @@ Petr Zahradník (EkoWATT) explains that every product and parameter of the ČSOB
 
 > […] all the parameters are somehow controlled and regulated by [LEED]. Regarding the energy, [the] energy model of the building — consumption or energy costs, not the consumption [in] technical units, but in cost — is on a level of 1/4 of [LEED] reference. [LEED] reference [is], let's say, common new building that will be built. So it's very nice energy saving.
 
-*Automatic transcript, presentation, around 00:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:52:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -26,7 +26,7 @@ Signe Kongebro (Ramboll) on the North-South Corridor in Singapore, a large proje
 
 > […] and that was sort of a research question we had next to this big project: […] what does a comfortable microclimate mean for the Singaporeans? Micromobility patterns? I mean coming up with a huge master plan, talking about combining a million of dollars being used here. But actually being able to solve this question will be the only way to make this actually a very desirable neighborhood, because the project is: how do you take away that big corridor? It's a transportation corridor, 8 lanes of car trafficking, and stitching together this […] that has been divided in two for so many years.
 
-*Automatic transcript, presentation, around 00:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:44:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -26,7 +26,7 @@ Meisel describes how Henning Larsen increasingly thinks in ecosystems, seeing a 
 
 > So more and more in our work, we see that we build, we think in ecosystems. It's really a different approach where we not only talk about the building as an object, but the building [is] essentially a part of a larger ecosystem and part of the surroundings. […] We also may sometimes think about different users [of a] building, because it sits in nature, it is placed somewhere. It is also a place where animals will live and in our designs we can of course support that. So we're not only supporting how we humans will experience a building, but it's also thinking about, when we design, how other users, animals, plants will use the buildings and its surroundings, and also really going in and supporting these different users.
 
-*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:12:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

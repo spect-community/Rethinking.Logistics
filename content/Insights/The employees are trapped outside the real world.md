@@ -28,7 +28,7 @@ Continuing on out-of-town logistics, Lukáš Janáč and Gregory M. Speck (YUAR 
 
 > And major problem is for the employees, right? They have to live there every day, 8 to 5. They have to go there to the office. And they are basically trapped in an outside place, outside of the real world, what we define here in the city centre in the real world. They just go there to work.
 
-*Automatic transcript, presentation, around 00:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:08:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -26,4 +26,4 @@ To understand why non-planar samples held their shape in his PhD experiments, Ve
 
 > So if you look here on the top part, non-planar sample, you can see that the top layer weight is distributed evenly throughout the shape. However, if you are printing it planarly, these lines, they kind of create clusters, and in these red zones or the very blue zones are very high rates of utilization, which is like how much the tension or pressure can the material use or survive. And in this case, the utilization is like 250%, saying that it's not in the capabilities of the material to withstand such a pressure or tension. So yeah, it kind of showcases how the non-planar distributes the weight better.
 
-*Automatic transcript, presentation, around 00:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:27:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

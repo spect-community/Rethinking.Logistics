@@ -25,4 +25,4 @@ Among the reasons companies choose CEE, James Fitzgerald (IO Partners) names inc
 
 > Incentives. […] if you're a[…] new business that is looking to set up operations in the Czech Republic or Poland or anywhere in our region, you have[…] investment agencies that are there to attract business. In the Czech Republic we have [CzechInvest] and their role is primarily to help secure companies bringing new business to the location and to provide incentives. Tax benefits, whatever. Support with labour, help them do[…] permit[s]. So infrastructure and incentive support is something that the [CEE] I think actually does really well compared to Western Europe because they really want business.
 
-*Automatic transcript, presentation, around 00:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:17:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

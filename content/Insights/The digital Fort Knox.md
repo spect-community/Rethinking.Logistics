@@ -28,4 +28,4 @@ Martins (Ramboll) moves to design and architectural considerations and describes
 
 > But effectively, what it looks like in practice is these sort of very large industrial look […] quite wide, going over, you know, one, two, three floors sometimes, very wide footprint. Architecturally, if you ask me, and that's a personal opinion, usually poor, so not very attractive and not very aesthetically pleasing buildings. […] In practice, it looks like also very sort of gated type of building, you know, high security requirements, gates, fencing, you know, access control and all of that. Some people talk about the sort of the digital Fort Knox type of building. […] you see a lot of these MEP equipment on the roof, on the side, usually, you know, quite prominent as well, cooling towers and piping work.
 
-*Automatic transcript, presentation, around 00:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:29:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

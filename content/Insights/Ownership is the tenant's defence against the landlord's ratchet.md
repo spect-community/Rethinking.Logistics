@@ -26,7 +26,7 @@ In the Q&A, after a question about upgrading old warehouses, James Fitzgerald (I
 
 > […] this is all stock owned by[…] industrial developers for lease. […] It's called BTO built to own and we call them owner occupied warehouses. There's a lot of[…] investors, companies who want to own their own warehouse, and it's not shown on here. We don't have that data […] There would be correlation with manufacturing. […] this manufacturing would go up substantially because what happens is manufacturing users, people who make things, producers usually want to own the warehouse cuz they want to control the real estate. They want to control the location. The problem you have with leasing warehousing is if you […] spent[…] a lot of money to be there and put in all the automation and then in 15 years time the developer comes in and goes, […] that rent[,] it's not six […] anymore, it's nine. You have to pay, you can't do anything otherwise you have to move.
 
-*Automatic transcript, Q&A, around 01:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:47:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

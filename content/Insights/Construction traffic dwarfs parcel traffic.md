@@ -28,7 +28,7 @@ Wiebke Müller (EIT Urban Mobility) walks through six segments of urban logistic
 
 > And here it's also interesting to say that much emphasis is given in recent policy making and also EU funding programs to [parcel] and last [mile] deliveries. But last [mile] delivery actually only accounts for about 3% of the vehicle kilometer[s] driven. But construction [site] logistics accounts for 37%. So it's way bigger, but way less in the attention of policy makers or the general public discussion around urban logistics.
 
-*Automatic transcript, presentation, around 00:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

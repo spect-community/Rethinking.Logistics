@@ -26,7 +26,7 @@ Petr Zahradník (EkoWATT) explains the humidification used in the air handling o
 
 > […] the principle is that when you spray water into the air, the water [evaporates] and temperature goes down and humidity goes up. It's very simple and it's very low energy consuming process compared to the steam […] As I mentioned, steam humidification is very energy consuming; on the other hand [it] has very good hygienic effect because steam kills actually almost all bacteria, so the process actually sterilizes the air. So this is what adiabatic cannot do. On the other hand, the adiabatic needs more space. It's quite big space requirements, but when you have the space, definitely it's a good choice because it's very efficient.
 
-*Automatic transcript, presentation, around 00:48. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:48:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -26,4 +26,4 @@ Petr Zahradník (EkoWATT) briefly shows the building-services scheme of the ČSO
 
 > […] what is important here is that there are as a main source for heating and cooling […] heat pumps with the soil drilled cores. There are 177 drills 150 meters deep. So it's really the dimension is incredible and the system definitely helps not only heat [the] building, but cool as well, because there is the function of regeneration of heat in the soil. The waste heat from cooling is being used for heating the hot water. So again, this kind of recovery of waste heat increases the efficiency of the building.
 
-*Automatic transcript, presentation, around 00:46. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:45:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

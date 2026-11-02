@@ -25,4 +25,4 @@ Opening the part of his lecture on the challenges facing Europe's economy, Parke
 
 > The chart [on] screen shows each region's share of global city GDP and the picture's quite striking. So Europe's economic footprint has been steadily eroding over time. So in 2000, for example, Europe's major cities accounted for just under a third of the world's entire global city output. By 2025, this [figure has fallen to] just above 20%. And […] based on our modelling, we expect it to be closer to around 15% by 2050. So what we're really seeing is a meaningful shift in the geography of global urban economic activity with Europe on the surface becoming a smaller part of the global economy. It's still growing, but it's growing more slowly than elsewhere, particularly when you compare it to markets such as China, India and other parts of Asia Pacific.
 
-*Automatic transcript, presentation, around 31:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:31:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

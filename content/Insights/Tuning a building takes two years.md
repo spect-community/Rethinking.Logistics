@@ -26,4 +26,4 @@ Petr Zahradník (EkoWATT) explains commissioning in the LEED process of the ČSO
 
 > When a building's finished and, let's say, well set, actually the process of really setting a building into really efficiently operating state, it can take two years. It's not a one day issue or one movement, but it's a process to settle the building. Actually it's always affected by people. So it depends how the operation of the company, actually what company is sitting in a building. Here it was clear since the very beginning.
 
-*Automatic transcript, presentation, around 00:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:38:46. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -24,4 +24,4 @@ A student asked why the office Lukáš Janáč and Gregory M. Speck (YUAR Archit
 
 > So, design decision with the bridge in the middle or double height spaces, what's that? […] First thing was budget, so we didn't need a higher surface there. […] So this whole area here in the back doesn't have a floor. So we're saving these floor panels, let's say these slats that support the floor. Because they […] didn't need much. And it was also very, very tight budget. And the design decision was... have it open on two floors? […] And we wanted to keep that connexion with the meeting rooms where the visitors come in and the office spacing on top.
 
-*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:29:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -29,4 +29,4 @@ Fojtík (Panattoni) compares embodied carbon results from Panattoni projects in 
 
 > […] you see the project which is currently finished in Sweden. There is also embodied carbon part of the tender documentation. So if you are dealing with a general contractor, you put there some maximum value of the embodied carbon per square metre. But our colleague in the Sweden was able to reduce during the, let's say, 12 months of the construction to final result 159 kilogram per square meter, which is excellent. And all of it, it was just under 1% of the total cost of the investment. […] one of our latest project is in the [Ostroff], north of the Czech Republic, and we get under 293 kilogram per square meter, which is also some very good number […] But it wasn't part of the tender documentation […]
 
-*Automatic transcript, presentation, around 00:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

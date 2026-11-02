@@ -25,4 +25,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, int
 
 > There's two main criteria. The first one is the spatial daylight glare, meaning which surfaces are producing glare into your eyes, which is [unsufferable] or hard to deal with. And the other one is probability of daylight glare. So how probable it is that it's gonna happen throughout the year, right? So both of these are evaluated annually and only for the hours when the workers are there, obviously. […] One special detail for these things: this type of analysis is done for one critical spot, which is usually chosen to be possibly the worst. So it's on the South facade where the sunlight can be actually really too intensive.
 
-*Automatic transcript, presentation, around 01:38–01:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:37:51–01:39:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -27,4 +27,4 @@ At the end of the presentation of the Frýdek-Místek food factory, Karel Golá�
 
 > If you take a look at the roof plan, we also considered the […], but actually the use of the [roofs] might not only be for solar panels etcetera or green roof, but actually it may become also, you know, the public space or the space for the employees etcetera. So in this instance we actually created a basketball field I believe and also we had a beehive […] on top of it, and you know, what limits you actually to create a […] the roof? In this case we were limited, but maybe not […] in your[s].
 
-*Automatic transcript, presentation, around 00:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:00:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

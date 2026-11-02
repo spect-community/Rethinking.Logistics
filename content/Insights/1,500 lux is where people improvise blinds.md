@@ -27,4 +27,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation in t
 
 > And there's another metric which was created by Ellen, let's say. […] too much of light. […] this one is measured on the floor and we're observing for the max value of 1500 [lux]. That value is not just arbitrary, it comes from studies where office workers were observed when they intuitively start setting up some improvised shading for themselves. So basically we're looking at the floor for this value. That means that people need some shading or would anyway start shading.
 
-*Automatic transcript, presentation, around 01:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:33:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

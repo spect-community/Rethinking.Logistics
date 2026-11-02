@@ -25,4 +25,4 @@ Signe Kongebro (Ramboll) on Copenhagen's recent history, from the Ramboll study 
 
 > So for the last 15 years we have been the leading global benchmark for livable and resilient cities, but not always. So in the 80s it had an unemployment rate of 18%, super polluted, almost bankrupt. And I think with this city as a case example, it's not like […] all needs to be like Copenhagen, but it is a very hopeful story of how systemic urban change is possible within a generation.
 
-*Automatic transcript, presentation, around 00:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:52:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

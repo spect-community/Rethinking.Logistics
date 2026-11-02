@@ -25,4 +25,4 @@ Pavel Fojtík (sustainability manager for Czechia and Slovakia at Panattoni) ope
 
 > So now the game is a bit different, but interesting, much more interesting. The thing is that the time pressure of the construction is still same. When we signed a client, we have ready site, we have ready general contractor, we have ready basic concept, but in the 12 months we need to deliver all the construction. […] What are the question[s] at the beginning are usually clients technology? In the first few months we have to change the concept especially to the client's needs and that's the tricky part because usually client don't know exactly which kind of technology will be in the building.
 
-*Automatic transcript, presentation, around 00:04. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:03:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

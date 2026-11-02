@@ -29,4 +29,4 @@ Wiebke Müller (EIT Urban Mobility) presents LogiHub, a project led by the softw
 
 > So the core problem is that the cities often lack the visibility [and] coordination when it comes to understanding the logistic flows […]. And the decisions about logistic hubs are often made without appropriate data. And [LogiHub] developed this data-driven planning platform, which combines mobility data like traffic and delivery patterns and spatial data such as loading zones, warehouses, infrastructure to help cities identify the best location for the hub and also optimize the last mile delivery system in the end. — (Q&A) So it's not an infrastructure physical element, but a software which is made supporting cities [in] making strategic decisions […] where to put a logistic hub.
 
-*Automatic transcript, presentation, around 01:08, and Q&A, 01:37:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:08:19, and Q&A, 01:37:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

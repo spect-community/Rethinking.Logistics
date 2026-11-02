@@ -31,7 +31,7 @@ From Karel Goláň (CREA-TURA)'s presentation of the brewery the studio redesign
 
 > So what we usually do when we design such a thing, we measure the impact as one of the KPI, what we have actually created. So we from [a] starting point of 1% of being public, we ended up with 30% of public area within the site and we also added like 20 percentage of greenery […]
 
-*Automatic transcript, presentation, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:38:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

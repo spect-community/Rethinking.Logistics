@@ -28,4 +28,4 @@ Ellen Krečková (EkoWATT) opens the second part of the lecture, on daylight and
 
 > So there's an interplay between daylighting and temperature comfort. And there's a myth which could be described as: if you want enough daylight in your interior, you just increase the [glazing] ratio of your facade or windows. But it's [not] true, because this can actually have huge impact on the temperature and comfort. So therefore, this is a myth and we have to work with this. […] the main purpose is to change the window size in order to mitigate the temperature load from [the] sun [and preserve] the daylight quality inside. So there's two criteria and we're searching for optimum for both of those.
 
-*Automatic transcript, presentation, around 01:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:20:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

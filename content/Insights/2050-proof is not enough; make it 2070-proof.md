@@ -26,4 +26,4 @@ From Karel Goláň (CREA-TURA)'s closing of the presentation, after the case stu
 
 > So as such, we must design them as a long term vision. We usually start thinking about like 50 years [ahead] plus because that's usually the [time span] of the project we're working on and from that we actually build the each stages and the principles we're working with. So we're usually saying… we started saying that all the designs should be 2050 proof, I think we're now ready to say it should be more like 2070. But always it's hard to imagine what's gonna happen in those years, right?
 
-*Automatic transcript, presentation, around 01:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:02:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

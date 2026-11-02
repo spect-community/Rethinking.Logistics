@@ -25,4 +25,4 @@ Signe Kongebro (Ramboll) explains that the Downsview masterplan in Toronto, a fo
 
 > The project in itself was built on the thinking of Carlos Moreno on the 15 minute neighborhood. And the idea of that, you might know, of course, that everything should be reachable within 15 minutes walkable distance. And it's not only for the people living there, it's also for the people working there, so the person that serves your coffee also needs to […] afford to live in that neighborhood.
 
-*Automatic transcript, presentation, around 00:22. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

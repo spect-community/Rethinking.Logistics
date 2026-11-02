@@ -29,7 +29,7 @@ One of Karel Goláň (CREA-TURA)'s takeaways from the brewery the studio redesig
 
 > We based our design on concentration of functions for the visitors and meaningful interconnection […] So when people [and] manufacturing collide, try to use vertical logic, that might help. Concentration of functions might actually equal freedom to recreate all the other space for vegetation and maybe also, you know, public function […]
 
-*Automatic transcript, presentation, around 00:28 and 00:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:33 and 00:39:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

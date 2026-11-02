@@ -25,4 +25,4 @@ Petr Zahradník (EkoWATT) walks through the stages of LEED certification on the 
 
 > Commissioning is very important part of the process because what happens quite often is that the building is being constructed and then, let's say, facility or property management comes to place, but they don't get sufficient information or data or design documentation of the real state of the building into their hands. And many information and data actually about the setting, regulations and the measurement systems are lost. So this is as part of the commissioning: setting the building to run as efficiently as possible and moving the informations about the building and all the data and documentation to the new, let's say, operator of a building.
 
-*Automatic transcript, presentation, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

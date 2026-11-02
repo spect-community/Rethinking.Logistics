@@ -24,7 +24,7 @@ In the discussion after the presentation, Lukáš Janáč and Gregory M. Speck (
 
 > And in Prague, there are like 5 big players for office design. Okay, 2012, the office design start to be a traffic. And the big was in 2021 with the companies as startups. There was a lot of money on the market. […] Everybody did it. And now it's closed. The windows is closed. The windows is closed. Yeah. I got no investments. It means to be in the right place at the right time.
 
-*Automatic transcript, Q&A, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:31:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

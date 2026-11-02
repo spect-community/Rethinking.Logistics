@@ -24,4 +24,4 @@ At the end of the Q&A a student asked (the question is barely transcribed) wheth
 
 > Yes, yes, we are, because that's something that's being required usually. We know the KPIs that have to be met […]. I mean everything we talked about is basically in the [BREEAM] or [LEED] criteria incorporated and we do not need certification ourselves. We have a separate body […] we work with and they help us with it, but they're always considered because […] if you're renting this space out, it adds you the value from the tenants […]. And to be honest, in this size, the assessments are really necessary. Yeah, it cannot happen without those. [BREEAM] is one thing. Then you have EIA, which definitely picks the topics the same as […] [LEED] and [BREEAM] […]. So it has to be done. […] It's usually also [a] bank loan and they require that these criteria are met.
 
-*Automatic transcript, Q&A, around 01:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:40:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

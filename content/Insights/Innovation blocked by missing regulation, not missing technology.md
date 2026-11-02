@@ -26,4 +26,4 @@ Wiebke Müller (EIT Urban Mobility) on the Green Dash project, which developed a
 
 > This project was also interesting from a regulation aspect because the regulation for a four wheel electric scooter was not there yet in all countries. So this is of course also something which comes very much hand in hand when you bring new innovations to the market, that the regulatory environment needs to be there. And this is why it's very important to keep the right stakeholders involved from the beginning. So cities, other kind of decision makers on a national level.
 
-*Automatic transcript, presentation, around 00:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:36:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -27,4 +27,4 @@ Karel Goláň (CREA-TURA)'s conclusion of the presentation, after the case studi
 
 > So concluding this lecture or the tiny lesson is that we should not only be housing the machines and goods, but […] actually create an interface between machine, people, city, urban fabric and the site itself. […] We believe that the success is found when it actually becomes the ecosystem like a city, district or neighborhood, rather than considering the building on their own in a virtual space in isolated utility.
 
-*Automatic transcript, presentation, around 01:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:01:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

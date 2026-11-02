@@ -27,4 +27,4 @@ Opening the third part of the lecture, on how geometry itself can make printed o
 
 > The reason why the fence or this wall is designed this way is to save bricks actually. Because if you would design a wall from one line of bricks and designed it straight, it would collapse, it would fall down. […] And for a straight wall, you need to use at least 2 lines of bricks to have it more structural. But you can use one line if you do this zigzag. And by doing this zigzag you save bricks. […] But while printing, you also cannot like add extra or different materials. So this solution is very interesting for 3D printing. And that's why also [Prvok], the top surface was this like undulated wall, because it works very well. But it again works very well only in 2 dimensions. It's just the extrusion up and it's not 3D, it's 2 1/2 D still.
 
-*Automatic transcript, presentation, around 00:29–00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:29:37–00:31:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

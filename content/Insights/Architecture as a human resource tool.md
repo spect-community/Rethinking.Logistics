@@ -28,4 +28,4 @@ Second case study from Lukáš Janáč and Gregory M. Speck (YUAR Architects, Pr
 
 > So second case study, this is inside a logistic warehouse. It's a huge warehouse and they needed office spaces for their employees. And we came in and said, OK, we're not just going to refresh your old little building and put in new carpets, we're going to build you a high-class office inside the warehouse. And that's why it's called architecture as a human resource tool, right? Because this is nowadays becoming more and more important. How do you maintain employees? How do you attract new talents? You want the good people, so you don't just offer a salary, but you also have to offer a nice place to work, a nice environment. And here it was all about costs.
 
-*Automatic transcript, presentation, around 00:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:17:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

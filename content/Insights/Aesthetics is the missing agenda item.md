@@ -30,4 +30,4 @@ Closing his presentation with examples of how data centres can be better integra
 
 > This is an example, I can't remember where it's been proposed by our own architects, but an example to integrate them from an architectural point of view, from a biodiversity point of view, from a beauty point of view. I think we don't talk enough about aesthetics when we talk about data centres. But it's a way to ensure that this facility, this type of building, can be actually a desirable building, can be good to look at, can be effectively nicely integrated in the rest of our urban fabric, and [not] this sort of standalone industrial type looking building that you saw a bit earlier.
 
-*Automatic transcript, presentation, around 00:40. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:38:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

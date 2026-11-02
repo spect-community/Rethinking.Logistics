@@ -28,4 +28,4 @@ Before turning to logistics, Meisel takes a detour to Singapore and the green-in
 
 > You see that for example like in this project that we did, it's quite an old project, about 20 years ago, that rivers are daylighted again, something that 20 years ago was seen as a kind of a technical problem. So you made this technical solution, was a tunnel where the water would be running underneath the park. It's been daylighted and it's out and it supports greatly biodiversity and so [on]. But of course, through climate change, this is also something that is necessary because the river as it is now has a lot more space. […] So people come out and play in the water and it's really supporting life both for the people but also for animals, plants and so on.
 
-*Automatic transcript, presentation, around 00:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:26:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

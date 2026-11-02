@@ -26,7 +26,7 @@ Explaining why investors certify buildings, Petr Zahradník (EkoWATT) shows a ch
 
 > So for example, 2010 [LEED] building was sold for 16% higher price than the average one. In 2011 […] you can see that there's -7.5% for a [NABERS] building. [NABERS] is a certification system in Australia and that year has happened that the rules for the [NABERS] have changed from 5 star to six star […] Here the [NABERS] buildings certified five stars have 3% higher [price], but the [NABERS buildings] with -7.5% have […] less credits, only three to four [stars]. You can see that it's not only about […], it's about what result in the certification did you reach.
 
-*Automatic transcript, presentation, around 00:26–00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:27:03–00:28:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

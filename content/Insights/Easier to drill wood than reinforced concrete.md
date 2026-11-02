@@ -26,7 +26,7 @@ Part of the case for the CLT Penny supermarkets made by Lukáš Janáč and Greg
 
 > […] there is no difficult details [that] have effect for the cost of the building site, and it's quickly adjustable. Yeah, if you make a mistake in doing planning, you have... It's easier to drill a hole through wood than through concrete, right? Reinforced concrete.
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:14:51. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

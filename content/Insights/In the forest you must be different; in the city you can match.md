@@ -27,7 +27,7 @@ In the Q&A, continuing the answer on how new industrial volumes relate to their 
 
 > So we have factories which are [in] the forest. […] Then those factories definitely look different […] by the volume, by the sprawling, by everything. But this one is […] based [in] the city, so it still looks like the buildings which are right here because there is a panel housing going on here, so [it] looks the same. So it doesn't make so very vivid […] attraction; once you are in a different […], for example in the forest, you have to be very different […]
 
-*Automatic transcript, Q&A, around 01:40. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:40:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

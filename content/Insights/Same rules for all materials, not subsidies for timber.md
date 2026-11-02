@@ -27,7 +27,7 @@ After describing Panattoni's first timber-roof warehouse permit in Czechia, Fojt
 
 > We are dealing with the [Czech] agency for the standardization and other experts to switch the game and to be able to [make] such a construction like you see on the picture. These picture are from the Germany and Austria and there is almost no differences in the price and in the standards if you want to make a roof structure from the concrete, steel or the wood. So this is our goal to have the same rules for all materials to be able to do it.
 
-*Automatic transcript, presentation, around 00:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:25:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

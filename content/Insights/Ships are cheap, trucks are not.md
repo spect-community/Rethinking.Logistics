@@ -26,4 +26,4 @@ Listing the carbon data a carbon assessment needs (for materials, grid electrici
 
 > We need to understand how carbon intensive our grid is. […] We need to understand how carbon intensive transport is. So vehicular transport in trucks is extremely carbon intensive, whereas moving things by ship is actually incredibly low carbon. And we also need to understand our construction processes.
 
-*Automatic transcript, presentation, around 00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

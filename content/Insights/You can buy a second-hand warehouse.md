@@ -30,4 +30,4 @@ Discussing reclaimed materials, Paul Astle (Ramboll) shows a UK website that sel
 
 > This is a website in the UK. I tried to find one in the EU, I couldn't find one, but I'm sure one exists and you can buy this building, which I know is not the most attractive building, I recognise, but it is essentially a logistics building and it's not unfeasible to buy one or even more of these second-hand buildings and to put them together with maybe a new facade or something and saving a massive amount of carbon. So really interesting opportunities I think in the logistics sector for these, because many logistics buildings are pretty standardized […] — (Q&A) I was thinking that you could buy like 10 different ones and then you could put them all together in different ways and make some really interesting solutions.
 
-*Automatic transcript, presentation, around 00:56, and Q&A, 01:43:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:56:47, and Q&A, 01:43:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

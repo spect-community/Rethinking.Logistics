@@ -26,7 +26,7 @@ Mark Cartlich (CBRE, London) opens his market overview of European logistics by 
 
 > You probably know this already because you're architects, but warehouses are not particularly sexy or not regarded as sexy, and they can be quite ugly, clearly, […] the smaller ones, the older ones. But actually nowadays people are building pretty impressive warehouses, modest in size. But also multi-storey like this one on the left here in Hamburg and they're also building quite attractive ones […] they blend in with the sky on the right hand side. This is GLP, which is a […] global logistics company […] and they tend to build their warehouses in this style, which I think is actually […] very attractive […] even in a grey sky in the UK, it can work occasionally.
 
-*Automatic transcript, presentation, around 02:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:02:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -24,7 +24,7 @@ Discussing rental costs as a reason to choose CEE, James Fitzgerald (IO Partners
 
 > So if you consider like[…] look at Munich, Munich's like [10. 711, garbled in the transcript] euros a square meter per month. […] But look at […] London, you know, 27 euros per meter per month. […] What this graph here is showing is a year on year rental change of rents from last year[…] 2024 to 2025. […] the rents are kind of dropping a little bit, which is really actually good for our region because it means we're going to have more investors look at our region. When we see increases in rent and increases in labor, it means we're not attractive and we're not going to create these[…] we're not going to create job[s].
 
-*Automatic transcript, presentation, around 00:22 and 00:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:22:18 and 00:33:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -29,7 +29,7 @@ In the Q&A a student asked whether a fully automated warehouse is possible. Jame
 
 > This is a really big challenge for our Central and Eastern Europe and particularly Czech Republic, because when you have fully automated warehouses, you need to be higher. It needs to be higher. And in master plans, like they don't generally, local councils, governments don't really want big warehouses. Like, would you really, as a resident, want a big warehouse next to you? Probably not. It's a really sensitive topic. So I can tell you on […] one hand, how many warehouses are approved in the Czech Republic for over 20 metres […] And so what that means is that we're not attracting[…]. The Germans know this, by the way. […] and the British know this […] They don't even come to you because they know that the Czech Republic doesn't have, we call it high bay warehousing. In Poland, they do. Poland just allowed it in here. And by the way, I'm not saying that's good. […] You can have a 30 metre warehouse here, no problem. We're going to let you get it through. But in Czech Republic, no.
 
-*Automatic transcript, Q&A, around 01:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:16:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Externally checked
 

@@ -24,4 +24,4 @@ Ingvartsen walks through the layers of the timber-and-straw façade of the Bests
 
 > In the beginning it was on a clay board that unfortunately we had to replace, mainly because […] we need to consider humidity during the installation of these wall elements, and the clay boards turned out to be very fragile and not so humidity-resistant during the construction period. So that was actually replaced with a plaster board. […] in the early days it was a wooden fiber board that we used as a wind stopper; that has also been replaced, for a fire consideration. So that is now a weather board that gives us a Class A protection material […]
 
-*Automatic transcript, presentation, around 00:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:45:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

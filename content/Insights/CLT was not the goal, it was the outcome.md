@@ -28,7 +28,7 @@ First case study from Lukáš Janáč and Gregory M. Speck (YUAR Architects, Pra
 
 > It's a Penny market. This is the very first [all-wooden] structure Penny market in the Czech Republic. 2021 or 2022. Also back then, the biggest CLT structure in the Czech Republic. So I added here as the main title, CLT was not the goal, it was the outcome. So Penny didn't ask us, make us a nice wooden building. […] They just wanted something that is cheap, fast to build, and repeatable, right? How many markets? They have 400, 400. But you need something repeatable, a system that works. And that's how [CLT] came into play, mainly because we pushed it. We found it as the most viable solution.
 
-*Automatic transcript, presentation, around 00:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:12:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

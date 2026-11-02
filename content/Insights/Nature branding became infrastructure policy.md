@@ -26,4 +26,4 @@ In her Singapore detour, Meisel describes how the city state, after rapid urbani
 
 > Then something changed in the 90s. The government decided to use nature as a kind of new brand slogan for the city. So they invented this kind of the city and the gardens. They really quite early onwards saw the potential of promoting nature in the city, not only as a kind of nice thing to have for the residents and for the tourists, but also really as an infrastructure theme. […] You, in Singapore, you can also very much see that on the size of a building, that there's a lot of legislation how you have to provide greenery in every build project.
 
-*Automatic transcript, presentation, around 00:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:25:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

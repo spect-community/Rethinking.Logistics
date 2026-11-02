@@ -25,7 +25,7 @@ Cartlich (CBRE) compares logistics vacancy rates across European markets.
 
 > But as you can see here now on average we have about a 5 1/2% vacancy […] So Slovakia at the moment is particularly high as is Poland and Spain. They've both come down a little bit, but they are still a bit high and so is the UK. UK was at 2 1/2%, it's now 7, so significant increase in vacancy there. […] And then we see […] Germany still a very low vacancy market; that's been true for a long time. And some markets within Germany like Munich and Hamburg have literally no vacancy. So very hard for occupiers to find space and that's obviously led to improved rents […]
 
-*Automatic transcript, presentation, around 20:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:20:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Externally checked
 

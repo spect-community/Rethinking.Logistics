@@ -29,7 +29,7 @@ Fojtík (Panattoni) shows a flood risk analysis from an insurance company for th
 
 > But what is important to see is the risk analysis regarding the water. On the right side of the picture is the analysis what we get from the insurance company. […] Here is the Amazon small Amazon park […] the [flood] risk analysis. But the reality looks almost the same like the model before. So this is the [flood] which was in 2024 around the Amazon in the [Kojetín] and see how the routes are under the water, maybe different businesses under the water, but Amazon can still run the business because we calculated with a model before and I don't have the number in my mind, but to stop such a factory for one day, it's a terrible, terrible cost. So you need to be aware of it and you need to calculate such a risk assessment before.
 
-*Automatic transcript, presentation, around 00:32. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -29,4 +29,4 @@ As one way of making data centres part of urban systems, Martins (Ramboll) descr
 
 > These data centers, like your computer, they produce a lot of heat. […] And in a way that's being obviously now rolled out by many in the industry, and particularly in some parts of Europe, is to take that heat and then re-inject it into other systems, so district heating systems, for example, to heat up homes, offices, swimming pools, whatever. […] So that's a way that's happening more and more in Europe. Particularly in the north of Europe, whereby this is basically a design or planning consideration every time a data centre now is being submitted for approval.
 
-*Automatic transcript, presentation, around 00:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -29,4 +29,4 @@ In the Q&A a student suggested that the best thing for the carbon footprint woul
 
 > […] the best thing you can do for carbon footprint is actually have[…] the warehouse as close as possible to where […] you need it to be. Yeah. So if you're really having warehouses in the city […] Yeah, there's a trade off. This is why that network design is so important because then if you've got multiple warehouses, […] impact in terms of carbon and cost that needs to be traded off against having more physical warehouses versus multiple warehouses. There's so many factors that input into that network design. That's why I showed you it takes like two or three years to come up with an optimal supply chain. […] There's a […] huge correlation between […] optimal network design and […] operational carbon.
 
-*Automatic transcript, Q&A, around 01:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:17:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

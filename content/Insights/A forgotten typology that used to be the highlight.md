@@ -26,4 +26,4 @@ Karel Goláň (CREA-TURA) opens the lecture by explaining why the studio, which 
 
 > So why […] logistics and manufacturing is so important in our studio? Well, most architects consider them ugly and just boring […]. That is something that we have to deal with, especially the public, but we see them as incredibly complex types […] One thing to start with, when was actually the last time you actually wanted to visit a factory or manufacturing […]? Never, right? Why is that so? I mean that depicts that it's sort of a forgotten typology, but in the previous era it was actually [the] highlight of architecture and urbanism. It was [a] very inviting open area that also contributed to the city, not only in means of economics, but also in […] interactions as well, right?
 
-*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:12:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

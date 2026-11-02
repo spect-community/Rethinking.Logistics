@@ -29,4 +29,4 @@ Fojtík (Panattoni) refers to the all-timber Bestseller project presented earlie
 
 > Couple of weeks ago you saw project Bestseller […] which is completely from the wooden and the straw like isolation but honestly it's very hard to go through the permission in the Czech Republic and our region [CEE], but we were first who get the permission to do 40,000 square meters warehouse in the wooden structure in the roof. We did it, but the price is so high currently that it's almost impossible to build it and to sell it to the client. So this was the first step what we did and the next step we are part of the, let's say, changing of the standards.
 
-*Automatic transcript, presentation, around 00:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

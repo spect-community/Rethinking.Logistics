@@ -29,4 +29,4 @@ After explaining how the British Biodiversity Net Gain (BNG) method compares a s
 
 > […] we have gained that we can create an increase in the biodiversity of around 10 to 11%, which I think is quite remarkable in the sense that the land grab of the building, yeah, you can of course see it. […] we came from a landscape which was […] nearly 300,000 square meters, but it is actually only 42% of that landscape, when you look at it as a footprint, that remains landscape today. But despite of that, by having a more varied selection of species and so on, we actually managed to create better conditions for insects and birds and so on.
 
-*Automatic transcript, presentation, around 00:17. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:19:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

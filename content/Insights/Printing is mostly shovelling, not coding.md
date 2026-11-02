@@ -26,4 +26,4 @@ Vele (CTU Prague / Scoolpt) tells how his company moved from benches and flower 
 
 > However, when we took like sections of this part or of this building and started to printing it to see if it works, it almost always ended up like this. So very often the concrete 3D printing isn't about coding, but it's about hammering or having a shovel and putting this failed concrete into this box and then delivering somewhere on the [landfill] and […] get[ting] dispose[d] of it. So it's really difficult to come up with a bold structure that actually holds its shape and doesn't collapse.
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:15:48. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -28,4 +28,4 @@ In the Q&A a student asked how to convince people to use reclaimed materials giv
 
 > […] once you actually also use the economical term of reusing material, you come to the problem that actually digging them up from the existing building might be more expensive than using the new one, right? So that's why we actually have to design for [disassembly], so it's not costly and it's not a problem, right?
 
-*Automatic transcript, Q&A, around 01:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:04:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

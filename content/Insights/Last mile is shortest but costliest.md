@@ -28,7 +28,7 @@ Wiebke Müller (EIT Urban Mobility) describes parcel and last-mile delivery, the
 
 > Why this segment matters is because it's the fastest growing logistics segment. It's highly fragmented deliveries. There are many small parcels, many small stops, which of course has a very strong impact on the public space. And also a very interesting aspect of the last mile is that it actually represents the largest share of costs, between 40 and 60% of the total delivery cost, while being the shortest physical segment of the whole logistics chain from the [origin] to the destination.
 
-*Automatic transcript, presentation, around 00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

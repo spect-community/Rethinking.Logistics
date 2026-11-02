@@ -28,4 +28,4 @@ How the life-cycle assessment of the Bestseller building was run alongside its B
 
 > It was agreed early on that we were going for a BREEAM certification for the project. But in order also to take ownership of the low carbon story, it was decided that we would use a life cycle analysis measure throughout all stages of the design process […] based on the Danish LCA method […] launched in 2015 […] in the beginning we were working very much with generic or average data […] And then later on, in later stages of design, we started picking out certain materials that had a big impact on where we would land with our carbon budget, and then transform these generic EPDs into more product-specific ones, which then also became a requirement for the contractor when he was bidding on the project.
 
-*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:42:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

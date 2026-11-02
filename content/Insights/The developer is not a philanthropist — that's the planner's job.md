@@ -26,4 +26,4 @@ In the Q&A a student noted that several different developers' parks sit next to 
 
 > Developers are[…] fierce competitors. The developers talk to each other, but it's like me with agents. […] I think that […] the developers are not[…] they're not philanthropy. They're not. They're gonna make money. […] This is the role of the city architect. This is the role of the urban planner. This is the role of the government to regulate and to maintain design standards and things. […] some developers are better than others of making parks […] But usually developers will just do what they can to maximize profit. That's their job. […] it's master planning that the city architect[,] that urban designers[…] like this is really, really important, really important skill set.
 
-*Automatic transcript, Q&A, around 01:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:38:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

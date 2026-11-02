@@ -26,4 +26,4 @@ Early in the presentation, after comparing warehouse rents across Europe, James 
 
 > When you're[…] when an investor is picking, hey, they're looking at their overall supply chain cost, right. […] I'm talking about just the basic distribution warehouse […] Typically 50% of that cost […] is generally linked to transport, right? Moving the good[s]. […] And then only 20[–]30% is labor and then roughly 5 to 10% of it is rent. […] So I'll reiterate[:] 50%[,] ambient warehouse, standard warehouse distribution and consumer good[s]. 50% of the cost of that supply chain is […] transport. 20 or 30% is labour […] and then 5 to 10% is rent. […] as someone who's in real estate, industrial real estate […] we often get kind of, you know, rent, rent, but really it's not going to be that.
 
-*Automatic transcript, presentation, around 00:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:26:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

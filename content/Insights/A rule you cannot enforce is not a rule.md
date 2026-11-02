@@ -26,4 +26,4 @@ Wiebke Müller (EIT Urban Mobility) zooms in on curbside management as one of th
 
 > […] we need to move from static [curb] allocation to more dynamic [curb] management, which includes, for example, time based use, delivery versus parking versus public space. […] But also digital booking systems, pricing mechanisms. And then of course, enforcement is quite a relevant aspect. So every rule is great, but what [do] you do if you can't actually enforce it and there's no control around.
 
-*Automatic transcript, presentation, around 01:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:01:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -25,7 +25,7 @@ James Fitzgerald (IO Partners) shows how the industry reports industrial stock, 
 
 > So interestingly, the Czech Republic takes up almost 50% of this industrial stock across our entire region. So it's quite big if I put Poland on this map. Czech Republic has roughly 12, yeah, 13 million square meters of floor space. [Poland] has 45. It's huge. So often when we're talking about the Central Eastern Europe[,] we should be putting Poland in there because it's so important, but it just absolutely skews the data and you just can't really focus on these small countries. So actually all the other countries combined, you put them together, it's equal [to] Poland.
 
-*Automatic transcript, presentation, around 00:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:42:46. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

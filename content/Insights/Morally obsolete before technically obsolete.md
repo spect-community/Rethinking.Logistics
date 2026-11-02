@@ -27,4 +27,4 @@ Karel Goláň (CREA-TURA) lists the design challenges of factories and logistics
 
 > […] what we have to deal with is that buildings actually might become obsolete morally before they become obsolete technically, right? Good example might be the office buildings which are being built at the very moment. Probably most of them are [due for] a big refurbishment of their facade in 30–40 years, just because it doesn't meet the moral criteria how it could look to be [a] prime building.
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:15:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

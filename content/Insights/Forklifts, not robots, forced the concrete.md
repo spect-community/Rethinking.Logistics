@@ -29,4 +29,4 @@ Why part of the otherwise timber terminal is built in concrete. The area is rese
 
 > […] that area will from the start be used for manual warehousing, which is basically large racks, and where you move the goods around with forklifts […] that creates a loading requirement on the floor plates, which means that in this area […] it did not make sense to construct this part of the building out of timber […] A forklift is pushing its wheels down into the floor with around 6 tons. So if we did that in timber, we would get marks within our slabs. — (Q&A) It was maybe more the warehousing requirement […] due to the phasing, there is a large part of the terminal where we actually don't have any equipment in phase one.
 
-*Automatic transcript, presentation, around 00:26, and Q&A, 01:38:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:27, and Q&A, 01:38:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

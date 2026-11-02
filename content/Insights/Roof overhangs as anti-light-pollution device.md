@@ -26,7 +26,7 @@ Petr Zahradník (EkoWATT) shows photos of the ČSOB South Headquarters in Prague
 
 > Supportive for nature, when you see the roof overhangs, the light concrete construction. It actually helped, for example, eliminate lighting smog, which means the lighting that comes from the building is not going directly up thanks to these overhangs.
 
-*Automatic transcript, presentation, around 00:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:41:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

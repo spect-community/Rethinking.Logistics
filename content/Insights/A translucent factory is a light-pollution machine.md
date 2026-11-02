@@ -27,4 +27,4 @@ In the Q&A, after a student asked how the translucent panel envelope of the Frý
 
 > […] the only thing when we're actually using the translucent [panel] is that you also have to consider whether it might not create a light pollution in the night, right? Because if you're running a factory 24/7 and you're using a light inside, then it might actually [pollute] the area around it, right? […] You could also solve it by actually not having the light on during the night. Maybe the robot would be OK with it, you know? And then people would not have to do the night shift, but it would be the robot and people would do the day shift.
 
-*Automatic transcript, Q&A, around 01:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:17:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

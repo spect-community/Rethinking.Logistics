@@ -24,4 +24,4 @@ Signe Kongebro (Ramboll) names one of the drivers of Copenhagen's harbour transf
 
 > And I think what drove this was also the investors' ability of moving fast. So within eight years we did sort of the first neighborhood of North Harbour, with a lot of buildings and so on […]
 
-*Automatic transcript, presentation, around 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:52:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

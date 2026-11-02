@@ -27,7 +27,7 @@ Early in the presentation, Cartlich (CBRE) illustrates how technically advanced 
 
 > They also embrace technology. This is a warehouse used by […] Ocado. This one's in the UK, but it employs […] over 1000 robots picking and sorting the deliveries for the consumer. So impressive use of technology. And similarly in […] China, there is a jd.com warehouse which employs apparently four people. Which is the level of automation in that warehouse.
 
-*Automatic transcript, presentation, around 03:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:02:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

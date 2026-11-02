@@ -27,4 +27,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, sum
 
 > So if we summarize this slide, that means this front floor of this particular building would have 21% of the area with too much light, direct light exposure, 25% of too much light, illuminance. […] not only direct light, but […] floor area with something so unpleasant, people need to shade. And that means it's in stark contrast to the fact that this floor plan would actually be allowed by the [Czech] code. So we know that it's bad, but the [Czech] code would be OK with it. And that's not good.
 
-*Automatic transcript, presentation, around 01:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:35:48. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

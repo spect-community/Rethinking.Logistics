@@ -31,4 +31,4 @@ In the Q&A a student suggested combining warehouses with retail for the public. 
 
 > […] there's a subsector called retail warehousing. We already have this. […] those retail warehousing is usually, yeah, they're on[…] highway junctions where the master plan allows that to be, because a lot of when you're looking at land use and master plans, […] what you're talking about is having people, consumers go onto the block. That's not allowed in industrial plots. It's gotta be a specific use, so they have to have a[…] retail element there where they'll allow consumers and […] personal vehicles come on there. The reason for this is obviously[…] traffic, there's one. There's multiple reasons. Traffic's a big one. The second one is obviously[…] safety is a big one. When you're combining personal cars and trucks, it's a big issue.
 
-*Automatic transcript, Q&A, around 01:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:24:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

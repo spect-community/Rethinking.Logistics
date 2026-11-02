@@ -29,7 +29,7 @@ Fojtík (Panattoni) shows a slide comparing the tax revenue a 40,000 m² company
 
 > Imagine the situation when the client, 40,000 square meters company, coming to the Czech Republic, let's say 400 employees and in the 30 years perspective […] the tax revenue from such a company in the Czech Republic is [2070 hundred millions, garbled in the transcript] [Czech crowns] […] but in the Austria it's very similar and the Germany it's much higher, but the important number is here. This is the motivation for the municipalities where the business goes. So the municipalities, the small village will get around 22 million [Czech crowns], but in the Germany the same company will get much more higher for the municipality. So the motivation for the Czech mayors, for the Czech municipalities, it's so lower than compared to Germany. — (Q&A) It's not that easy, to be honest. It's not that easy because [they] see the problems which are around, they see the noise, they see the large big factories […] So it's not easy to motivate them because there is no economic value for them to have such factories.
 
-*Automatic transcript, presentation, around 00:40, and Q&A, 00:44:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:39:59, and Q&A, 00:44:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

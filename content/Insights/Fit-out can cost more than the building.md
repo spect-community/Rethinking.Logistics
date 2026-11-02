@@ -28,4 +28,4 @@ Cartlich (CBRE) concludes his opening examples of highly automated warehouses (O
 
 > So these are very technically advanced buildings nowadays. Often the fit out internally can be at least as much as the cost of building, if not more often significantly more, especially in the [likes] of Amazon and these e-commerce warehouses, they can be as much invested in the building as there is in the actual structure itself.
 
-*Automatic transcript, presentation, around 03:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:03:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

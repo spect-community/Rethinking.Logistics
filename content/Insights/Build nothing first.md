@@ -27,4 +27,4 @@ Paul Astle (Ramboll) sets out his decarbonisation principles: every intervention
 
 > Quite often most of the industry would like us to just go to this part here, which is lower carbon materials, and ideally they'd like us to just have conventional materials that are low carbon because it means they don't have to change anything else, and that's a nice idea. But the reality is that we are not going to achieve our goals if we just decarbonise our existing materials, because there simply is not enough. […] So the first thing we want to do is focus on this demand reduction. So try to build nothing or reassess the need […] really try to make sure we're not over designing, over building, and then we come on to low carbon materials and then we sort of try and use those materials really carefully.
 
-*Automatic transcript, presentation, around 00:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:43:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

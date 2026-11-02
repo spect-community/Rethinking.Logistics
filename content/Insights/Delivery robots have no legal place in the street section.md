@@ -28,4 +28,4 @@ After presenting LogiSmile, an autonomous last-mile delivery system, Wiebke Mül
 
 > So they actually raised some very interesting elements in the video about where should the robots operate. Should they be on the pedestrian side? Should there be dedicated lanes for robots? That is actually nothing which is existing yet in Europe. […] Where are these new innovations actually operating and which space should they take to not take quality of life away from other road users such as pedestrians? — (Q&A) […] we see it emerging, but does it really contribute to the livability of the cities […]? Who does it benefit? Logistic operators, the city and the public. So that's something which needs to be carefully put […] into contrast to each other.
 
-*Automatic transcript, presentation, around 00:49, and Q&A, 01:22:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:49:18, and Q&A, 01:22:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -27,4 +27,4 @@ One of Henning Larsen's 'nature first' principles, presented by Meisel after 'na
 
 > But it's also more than that because I believe very much that we should be designing for living systems. We can really also use nature as a departing point for our design logic. It is very much about designing buildings, landscapes, infrastructures for evolution, that will have an ability to transform, adapt, regenerate over time. And I think this will, if we think about regenerative design, this will support and enable our communities and nature to thrive over time.
 
-*Automatic transcript, presentation, around 00:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:20:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

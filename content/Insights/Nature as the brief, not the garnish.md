@@ -26,7 +26,7 @@ Meisel introduces Henning Larsen's 'nature first' approach and the first of its 
 
 > In [Henning Larsen], we very much believe in this nature first approach. […] It's really about that landscape and bringing in nature can sharpen our design and our strategy for projects. […] It really starts there, that we very much believe that we begin every project with nature as a brief, that will say that we really bring in ecological intelligence about soil, water, climate, biodiversity and so on. We really need to understand the basics of where the building is placed in order to make better designs.
 
-*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:18:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

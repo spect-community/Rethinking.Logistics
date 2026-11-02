@@ -27,4 +27,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, pre
 
 > […] because the [Czech] standards don't allow this, we have UDI, useful daylight [illuminance], which is part of [LEED], which already has this upper limit set up. It's been calculated on a surface of a table, like a workspace, and we're looking for the value of 3000 [lux] on that surface. […] there's another one also used in [LEED], annual sunlight exposure. So it's for full year of sunlight, it's calculated on the floor and the cut off value is 1000 [lux] and also it has to be more than 250 hours per year. […] the metric is calculated in percentage of [area] […] And the percentage is calculate[d] only from the areas which are meant to be administrative work or the office, not for the kitchen and, you know, the hallways.
 
-*Automatic transcript, presentation, around 01:30 and 01:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:30:21 and 01:33:51. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

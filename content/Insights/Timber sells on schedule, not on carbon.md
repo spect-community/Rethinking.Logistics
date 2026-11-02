@@ -27,4 +27,4 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) explain the busin
 
 > The price is almost same sometimes, but this is standard one. Yeah, in the end, because for example, it's faster. You save one month and the income from their main business is coming earlier. And if it's a really simple shape and building […] there is no difficult details [that] have effect for the cost of the building site, and it's quickly adjustable. Yeah, if you make a mistake in doing planning, you have... It's easier to drill a hole through wood than through concrete, right?
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:14:51. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

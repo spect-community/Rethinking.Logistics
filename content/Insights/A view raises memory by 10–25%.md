@@ -28,7 +28,7 @@ Petr Zahradník (EkoWATT) explains why investors certify buildings: the economic
 
 > We talk about [the] indoor environment quality survey, which is quite old, was 2013, but it was a huge survey done by World Green Building Council in many building types, in the residential [buildings], hospitals, schools, office buildings. And here you can see that they found out that when you have good outside view, for example, in the park, greenery, river, mental function and good memory has risen from 10 to 25%. Calls were done much faster, so the people were in much better mood.
 
-*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

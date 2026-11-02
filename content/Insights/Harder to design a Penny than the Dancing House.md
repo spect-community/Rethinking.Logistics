@@ -23,7 +23,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) on being Penny's 
 
 > And they said, this is our way, this is our policy. We need these huge paper roll-ups […]. So... This is probably, it's harder to design a Penny market than design a Dancing House, right? Because the Dancing House, some kind of parametric design, shapeless, okay, it has to fit well […] but you don't have the constraint […]. You can almost, I'm joking here, right, but you can almost invent the story afterwards. But Penny, you have all these constraints of regulations, of their design, marketing.
 
-*Automatic transcript, Q&A, around 00:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:41:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

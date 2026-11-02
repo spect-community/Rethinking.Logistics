@@ -25,4 +25,4 @@ Parker (Oxford Economics) turns to housing affordability, which policymakers, pl
 
 > So what we've done is indexed house prices and household disposable income. […] What you're seeing is quite a clear gap over time. House prices since 2015 are up by around nearly 90% and we expect it to be about 90% higher than 2015 levels by [2030]. While household disposable income over this time period has increased by only around 10%. A similar trend would be evident if we [changed] from house prices to the rental market as well.
 
-*Automatic transcript, presentation, around 37:45. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

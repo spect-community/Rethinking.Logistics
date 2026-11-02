@@ -25,7 +25,7 @@ Wiebke Müller (EIT Urban Mobility) introduces her organisation, an initiative o
 
 > And we also connect, where we bring all the key players [in] urban mobility together and encourage them to co-create. And here we aimed to align solutions with the values and needs of society and to break down the silos between the actors, which is of course one of the most common barriers and problems, not just in urban mobility, but in all different kind of sectors, that everyone tends to work in silos and we need to figure out how to collaborate and share more actively.
 
-*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:15:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -28,4 +28,4 @@ Ingvartsen explains why the landscape around the Bestseller campus was designed 
 
 > And further analysis also showed that these types of landscape, wetlands, for instance, they are the type of landscapes that actually sequester the most carbon from the atmosphere. So that could also be a benefit of thinking about the landscape in this way.
 
-*Automatic transcript, presentation, around 00:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:14:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

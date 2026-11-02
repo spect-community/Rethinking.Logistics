@@ -27,4 +27,4 @@ Ingvartsen introduces the site in Lelystad. The town lies on the Flevopolder, la
 
 > And one of the things that we noticed when we looked at the site was that out here in the sea, there's this small group of islands […] And this is also a reclaimed land project. But what we found was that it was a reclaimed land project which was done entirely for the purpose of attracting migrating birds and creating a nature reserve. So one of the things that inspired us was that, rather than just thinking of the landscape [as] typically around logistics centers […] why wouldn't we think of the landscape areas around the building in a way where they could become nature and where they could benefit also birds and insects?
 
-*Automatic transcript, presentation, around 00:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:13:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

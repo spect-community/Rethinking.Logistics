@@ -24,4 +24,4 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) contrast the popu
 
 > So, the architecture, as you see from […] the majority of societies, it is the form maker, is wearing black t-shirts and like we are depicted in these pictures. […] Logistics, manufacturing halls, so we would define the architecture a bit further, say it's a decision problem solver. […] So what we do basically, we do a lot of calculations, studies, case studies, just to point out what they really need. The client often doesn't know what they really need.
 
-*Automatic transcript, presentation, around 00:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:09:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

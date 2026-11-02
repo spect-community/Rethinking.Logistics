@@ -28,7 +28,7 @@ Closing his talk, Petr Zahradník (EkoWATT) shows the Greenpoint office building
 
 > This is the Greenpoint that I mentioned before, the building that stands in the middle of the huge crossroad. Again, LCA, [life] cycle assessment, has been done for the [BREEAM] certification. What is quite interesting is that the assessment here takes 60 years, which is quite a long [time].
 
-*Automatic transcript, presentation, around 00:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:58:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

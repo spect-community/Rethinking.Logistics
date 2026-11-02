@@ -25,7 +25,7 @@ Cartlich (CBRE) explains the record growth of prime logistics rents during the p
 
 > […] prime rents of over 15% / 16% at one stage and we'd actually never seen double digits before. So this was quite remarkable for logistics and that was because of that strength of demand during the pandemic, the vacancy rates that got down very low, and the inability of developers to keep pace with that demand initially; then we saw they overstepped or they overbuilt and that pushed up vacancy levels. But […] there's obviously a lag for these things and it was perhaps an expectation that the demand will continue for the foreseeable future.
 
-*Automatic transcript, presentation, around 24:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:24:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

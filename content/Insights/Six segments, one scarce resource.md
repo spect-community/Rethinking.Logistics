@@ -26,4 +26,4 @@ Wiebke Müller (EIT Urban Mobility) sums up her overview of the six urban logist
 
 > So when we talk about urban logistics, we're not just talking about 1 system, we're talking about multiple overlapping systems and segments, and all of them compete for the same limited space. And that's why urban planning is fundamental, not just a transport problem, but also a planning, space allocation and governance challenge.
 
-*Automatic transcript, presentation, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:31:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

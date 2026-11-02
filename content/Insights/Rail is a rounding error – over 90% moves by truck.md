@@ -27,7 +27,7 @@ In the Q&A a student asked how much goods transport goes by rail. James Fitzgera
 
 > I can't give you facts. I can just say […] what the industry's doing. […] we call them multimodal terminals. There are some multimodal terminals across the Czech Republic […] It's usually related to big automotive and heavier products. But it's not very common in […] our region. Usually it's truck. I would say I'm […] making this number up, but it'd be more than 90% delivered by truck. We do get requests where companies will say, oh, we need rail[…] and then they quickly […] [can] it because there's not so many rail terminals there with warehousing connected to it. […] it's like heavy, heavy industry, heavy production, not for shipping […] goods like we're talking about here. Not at all. A bit of a shame, actually. Could be much more efficient.
 
-*Automatic transcript, Q&A, around 01:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:21:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

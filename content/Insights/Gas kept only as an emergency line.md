@@ -26,7 +26,7 @@ Near the end of his presentation, Fojtík (Panattoni) shows recent projects: the
 
 > And our last project is a project for the company [ZF] in the north of the Czech Republic. We finished it last year. It's also fully electric, no gas at all, with the heat pumps, with the large PV which will come in the future […] on the roof. And also we compensate the carbon […] with the carbon [credits] and cooperation with the local owner of the [forest, name garbled in the transcript]. […] And this is another project we are currently finishing […] very large building also just on the electricity. The gas is there just for the case, just for the emergency. But there will be large PV on the roof. There are large heat pumps technology.
 
-*Automatic transcript, presentation, around 00:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:41:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

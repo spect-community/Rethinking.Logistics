@@ -26,4 +26,4 @@ Paul Astle (Ramboll) shows a graph from Ramboll's white paper on sustainable dat
 
 > You can see that this will be typical, maybe industrial buildings. So this will be a typical maybe logistics type warehouse. And if you look at a data centre, it's just orders of, well, not quite orders of magnitude, but it's many multiples in terms of the actual carbon, and this is the operational side and this is the upfront side. […] when we look at the data centre, it's hugely driven by the MEP systems. So a data centre is basically a giant plant room that has got a box around it […] — (Q&A) […] there's things that make sense in data centres that wouldn't normally make sense in other buildings. So it's important to recognise that the rules of thumb we use for buildings may not stack up for data centres […]
 
-*Automatic transcript, presentation, around 00:41, and Q&A, 01:45:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:39:46, and Q&A, 01:45:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

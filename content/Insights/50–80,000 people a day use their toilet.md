@@ -24,7 +24,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) illustrate their 
 
 > This was my very first project in Prague. Maybe some of you have seen it. All right. But only the toilet. And one in the last corner in the basement and one on top at the food court. […] Because 80,000 people, between 50 and 80,000 people in the peak per day are visiting [in Polaro — name garbled in the transcript]. It's a horrible number. It's a great number for us. […] So a lot of people use the toilet, but nobody knows who designed it. So maybe we are the most famous, maybe most useful or used. Most used architecture.
 
-*Automatic transcript, presentation, around 00:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:07:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

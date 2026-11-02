@@ -28,4 +28,4 @@ In the Q&A a student asked whether loading docks, laid out around truck turning 
 
 > Provided that the automated trucks keep their like size, width and principle the same way, it's gonna be the [same]. But I understand that if the truck actually looks different when it's automated, yes, then you might […] actually need to consider a special loading bay for these and custom it according to their use, right? If it's like a smaller spot, some kind of a four wheel vehicle that kind of moves automated, then it might be different. Yeah, but if the truck stays the same way and I think there has not been that many change in this area, I think it's gonna be for the next 20 years […] still work. […] Those loading [bays] will be more there because you will need more [bays] in different types […] So even, I think, [it's] gonna be even more [bays].
 
-*Automatic transcript, Q&A, around 01:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:21:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

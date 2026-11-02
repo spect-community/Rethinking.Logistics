@@ -27,4 +27,4 @@ Wiebke Müller (EIT Urban Mobility) discusses urban consolidation centres from a
 
 > Urban [consolidation] centres require physical space in the cities and that's one of the biggest challenges here. So cities need to allocate land for logistics. They need to integrate hubs into zoning plans. They need to ensure accessibility for both large and small vehicles. […] Does the city provide any space? Can we partner up with private actors? So how do we make sure it can be integrated properly? Because if cities don't plan for space for logistics, logistics will just take space and this is just increasing [inefficiency].
 
-*Automatic transcript, presentation, around 01:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:05:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

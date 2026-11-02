@@ -25,7 +25,7 @@ Parker (Oxford Economics) shows which sectors drive Europe's city economies, usi
 
 > So on this chart here a useful guide I've had is something called a location quotient. So it basically compares how concentrated a sector is in a city versus the national average if it's above 1. […] And what the data shows is that across Europe, we tend to see the cities are more heavily specialized in areas like ICT, financial services, professional services, related business services, administrative and support services. And these are often very high productivity sectors. […] However, most cities you can see from the chart […] tend to have a smaller share of manufacturing and slightly smaller share of logistics than the national average. Those activities haven't disappeared. They're still very present within cities, but they often have a lower presence compared to some of the services […] There are some major exceptions to this where you have some of the major German cities, some of the Italian cities in the north that are still very reliant on industrial activity.
 
-*Automatic transcript, presentation, around 27:32. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:27:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

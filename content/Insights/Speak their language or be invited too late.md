@@ -25,4 +25,4 @@ Advice from Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) to th
 
 > So what's important for you later in your job to understand as an [architect] is that these people don't solve architecture. They solve decisions and problem solving. And if you don't start speaking their language, you will not be invited to the conversation. You will be invited too late. And I ask you politely to make a note.
 
-*Automatic transcript, presentation, around 00:10. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:09:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

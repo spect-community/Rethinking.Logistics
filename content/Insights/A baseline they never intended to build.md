@@ -27,7 +27,7 @@ Ingvartsen explains how a life-cycle assessment (LCA) tracked carbon through eve
 
 > So even though we were quite certain that we would not construct the building out of concrete and steel, we did create a measure of what would the structure have cost us in carbon, to have that as a baseline, and then we could score our material choices […] by comparing it to that baseline. So alone on the structural decisions we started with a [30–37, garbled in the transcript] percent reduction, and that process has then carried on into all other areas of the building.
 
-*Automatic transcript, presentation, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:43:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

@@ -28,4 +28,4 @@ Wiebke Müller (EIT Urban Mobility) presents USafe, an EIT Urban Mobility co-fun
 
 > So the core problem it addresses is that urban congestion delays emergency response times and in critical situations can actually cost lives. […] So the idea behind the [USafe] project is quite simple, but powerful. Instead of moving [through] traffic, they go above it. And the project developed a system of hybrid powered drones combining electric and also hydrogen energy to deliver life saving supplies directly to emergency locations. […] And the project was tested in [Zaragoza] in Spain and [Tartu in] Estonia […] And secondly, innovations [in] logistics [are] not just about efficiency, but it's also about urban resilience and safety. So [USafe] introduced a new layer of urban logistics of aerial emergency logistics […]
 
-*Automatic transcript, presentation, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

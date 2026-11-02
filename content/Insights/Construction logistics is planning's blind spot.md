@@ -28,4 +28,4 @@ Wiebke Müller (EIT Urban Mobility) opens her section on construction site logis
 
 > So why this is relevant: it involves heavy vehicles, which have a disproportionately high impact on congestion, on emissions, but also on the road […]. So [construction logistics can] account for 20 to 30% of urban freight traffic and up to 1/3 or 37% actually of vehicle kilometers driven, much higher than the last mile as outlined, which gets far more attention. So this will continue to grow with urbanization and building renovations. And the planning relevance: despite its scale, it's often poorly coordinated and rarely integrated into planning processes. […] And construction logistics is one of the largest but least managed sources of urban traffic. You can summarize [it as] a major blind spot still in urban planning.
 
-*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:50:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

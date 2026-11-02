@@ -26,7 +26,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) describe who deci
 
 > It's about the decision makers and stakeholders, because stakeholders are people around the world, and they are not care what is in the middle or around our city. It's about the profit of the area. So what's important for you later in your job to understand as an [architect] is that these people don't solve architecture. They solve decisions and problem solving.
 
-*Automatic transcript, presentation, around 00:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:08:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

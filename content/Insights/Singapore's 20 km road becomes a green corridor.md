@@ -28,4 +28,4 @@ In her Singapore detour on green infrastructure, Meisel shows a current Henning 
 
 > This is a project that we're working on right now. It's a green corridor, the north-south corridor which runs through almost all of Singapore […] it's this 20 kilometer main road that is changed into a green corridor and it's really quite interesting to see how the government actively also, and because it is a density and because there's not a lot of space, how we can step away from thinking infrastructure as something purely technical, making it into something that also again really supports biodiversity, supports community and so on. […] So you have this like super large [road], a lot of asphalt on the ground. It creates a barrier between the neighborhood because it's super difficult to cross over […]
 
-*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -28,4 +28,4 @@ From Karel Goláň (CREA-TURA)'s presentation of the brewery the studio redesign
 
 > […] when you're brewing a beer, it produces a lot of excess heat, and we have used this excess heat to actually heat up the buildings themselves, right? […] Also the cold storage, you might actually use [a] heat pump to actually use this also in terms of balancing the energy needs as well. — (Q&A) This is the brew house where […] a lot of heat is actually produced, right? And we just use it via ventilation to actually heat up the […] new public open building. […] Once the heat is high enough you can use water and the heat can travel for so far distances; once you are using the heat which is not that hot, […] the distance is very short.
 
-*Automatic transcript, presentation, around 00:30, and Q&A, around 01:04. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:31:11, and Q&A, 01:06:22. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

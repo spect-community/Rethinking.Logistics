@@ -27,4 +27,4 @@ After the Campus Science Park example, where the global warming potential of the
 
 > Global warming potential is [one] that will be most probably used when […] energy performance certification, which is by law given now, […] give[s] an evaluation of energy performance of buildings […] integrally. So the global warming potential should be a part of a new version of these energy performance certificates. So this will be one day calculated for the buildings during the standard building permit process.
 
-*Automatic transcript, presentation, around 00:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:56:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

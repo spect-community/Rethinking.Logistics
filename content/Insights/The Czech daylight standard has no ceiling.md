@@ -26,4 +26,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, sta
 
 > So the daylight factor is a [Czech] standard and there's an issue with it, that there's no maximum value being tracked inside of it. And therefore this sometimes leads to over usage […] So there's too much daylight and it's not efficient or it's not wanted, but the code actually doesn't care. That's the problem. […] we can think of it as this example. Over here in this room, there's two windows being blinded entirely, and that would mean that the seats over there would be actually unusable for working on a computer if the blinds were up. So there's no maximum on this.
 
-*Automatic transcript, presentation, around 01:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:28:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

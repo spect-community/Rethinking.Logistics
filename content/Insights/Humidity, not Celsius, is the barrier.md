@@ -27,4 +27,4 @@ Signe Kongebro (Ramboll) introduces the North-South Corridor in Singapore, where
 
 > […] but growing cities all over the world are developing their own climate with accelerated temperatures and I think that is actually how do you beat the heat in that sense […] This is how it looks. It's quite hot. Nobody walks. It's not only the [temperature], the Celsius that is the problem, it's also the humidity.
 
-*Automatic transcript, presentation, around 00:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:46:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

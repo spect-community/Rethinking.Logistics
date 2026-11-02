@@ -26,7 +26,7 @@ Wiebke Müller (EIT Urban Mobility) introduces waste collection and reverse logi
 
 > Unlike other logistics segments, waste flows are very predictable and also publicly controlled, which makes them a strong entry point, for example, for electrification, for data-driven optimization, but also system wide innovation. And it requires not just [route] optimization, but also, from a planning relevance point of view, integration into urban design, for example, [bin] placement, access, [street] layout. So waste logistics is where urban planning, operations and also environmental systems intersect quite much and where cities have the most direct control to drive change.
 
-*Automatic transcript, presentation, around 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:54:12. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

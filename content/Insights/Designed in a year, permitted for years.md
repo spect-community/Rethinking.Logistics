@@ -26,7 +26,7 @@ Third case study from Lukáš Janáč and Gregory M. Speck (YUAR Architects, Pra
 
 > this is one of our biggest troublemaker project[s]. We started that in 2001, 21? 21. 21. And construction hasn't started yet. […] We didn't have enough space for parking and our success and why we won was so that we came up with this solution. […] we don't have the [building] permit because there is a very difficult […] neighbour. […] and so the design was done in one year. But we are trying to get a [building] permit. I think it's running for years. — […] So the facade is the perforated steel mesh that has the tyre profile of a Continental tire. And then in the back, hidden behind every wall is 6 towers for [cloud marking — garbled in the transcript].
 
-*Automatic transcript, presentation, around 00:20, and around 00:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:19:46, and 00:26:26. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

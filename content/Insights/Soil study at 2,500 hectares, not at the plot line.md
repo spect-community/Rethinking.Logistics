@@ -28,7 +28,7 @@ Fojtík (Panattoni) presents a study made with the Soil Science and Conservation
 
 > This is the example of our collaboration with the Soil Science and Conservation Research Institute in Prague. If you were going to the Kladno, you will see the parks on the right side of the highway. […] And we make a study with this institute and we were calculating all [2.2500, garbled in the transcript] hectares around the area and we were just measuring the different scenario, how the building influence the water, building influence the soil, erosion, etcetera. And here is, for example, mapping of the quality of the soil. […] And it's also quite impressive to see in how poor condition the fields are in the Czech Republic.
 
-*Automatic transcript, presentation, around 00:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:34:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

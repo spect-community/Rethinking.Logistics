@@ -28,4 +28,4 @@ Petr Zahradník (EkoWATT) concludes the business case for certified buildings: a
 
 > But when we look at these data, for example, people are […] more productive. You can see here: workers 18%, […] people are usually two days [less] sick during the year in certified buildings. So these two days of workers' inactivity are definitely costly quite a lot for the owner of a building or owner of the company. So this is why actually the companies are interested in this, because it affects the company's budget much more than the energy efficiency measures.
 
-*Automatic transcript, presentation, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:59. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

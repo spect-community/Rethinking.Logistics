@@ -27,4 +27,4 @@ In the Q&A a student asked about the heat recovery mentioned in the presentation
 
 > For example, here it's much better because those 30 meter freezers and [stores] produce so much excessive heat that you can use it to heat the buildings, at least the part where people are [concentrated] in here. What you need is interconnectivity. So once you do things like this, it's no brainer.
 
-*Automatic transcript, Q&A, around 01:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:07:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

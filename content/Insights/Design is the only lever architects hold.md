@@ -26,4 +26,4 @@ Vele (CTU Prague / Scoolpt) explains why he started his PhD after Prvok. He intr
 
 > And most of them, or these 4 sections, are like a material, printing parameters, hardware and environmental conditions, which are not the exact topics we as architects could focus on. And I think our strongest field which we can like direct our effort or thinking is into the design, which can be split into a geometry and the slicing. And the design has like the highest impact on printability. And it's out of all these one of the easiest to modify. So that's why I started to think about the slicing. And my PhD is about slicing.
 
-*Automatic transcript, presentation, around 00:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:23:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

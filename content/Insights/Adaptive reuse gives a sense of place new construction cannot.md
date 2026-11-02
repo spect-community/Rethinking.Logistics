@@ -29,4 +29,4 @@ From Karel Goláň (CREA-TURA)'s presentation of the brewery the studio redesign
 
 > And then you would arrive to the open heart of the existing malt [house], which is historically preserved. Then we opened it to the public and created a garden in front of that […] So when people [and] manufacturing collide, try to use vertical logic, that might help. Concentration of functions might actually equal freedom to recreate all the other space […] adaptive reuse may provide you with a sense of place that the new construction cannot replicate, right?
 
-*Automatic transcript, presentation, around 00:33 and 00:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:33:55 and 00:39:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

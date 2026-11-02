@@ -26,7 +26,7 @@ A student asked how YUAR convinced Penny to use timber. Lukáš Janáč and Greg
 
 > So, they didn't know architects, so they asked us to help them with a small thing as the entrance, part of the entrance. The next step was the toilets, yeah, that for the employees. For example, it's cheaper because the shop assistant one is quite rude. Because we were famous for [toilets]. And offices. When the shop assistant is rude, it's the worst thing for customers. Say, if you do better space, what we can do is a better space, more efficient, nice for shop assistants. It has a nice impact for customers.
 
-*Automatic transcript, Q&A, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:37:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

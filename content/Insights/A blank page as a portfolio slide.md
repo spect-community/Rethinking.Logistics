@@ -23,4 +23,4 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) show an empty sli
 
 > So this is a blank page. Because no one knew us, yet we were delivering large projects. And still nobody knows us. And we are delivering these large products because we solved the right problems, we point out the right problems.
 
-*Automatic transcript, presentation, around 00:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:22:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -25,4 +25,4 @@ Vele (CTU Prague / Scoolpt) closes the PhD part of the lecture: the non-planar s
 
 > These designs were designed only in 2 dimensions and the question was how to like create more 3D structures. And here you can see that if you combine these, or if you rotate these shapes around its axis and duplicate them like 5 times, you can create like this column to arch to kind of dome-ish structure. So this could be a solution for even some kind of church-like Gothic geometries.
 
-*Automatic transcript, presentation, around 00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:28:25. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

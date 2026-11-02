@@ -25,7 +25,7 @@ Fojtík (Panattoni) explains the shift from gas and oil to full electrification 
 
 > This is the paper from The Economist, the first electric cars, electric factories and this is already happening and the reason is the efficiency in the end. If you look on the complex energy system currently, which is for example in the US or in the Europe, 2/3 of the all energy we are losing in the heat somehow, but if we are moving for the electrification, the efficiency in the end is much higher. So that's the reason why we have heat pumps, PV, et cetera. It's about efficiency.
 
-*Automatic transcript, presentation, around 00:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:15:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

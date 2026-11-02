@@ -30,7 +30,7 @@ Signe Kongebro (Ramboll) on the North-South Corridor in Singapore, almost 25 km 
 
 > So it is almost 25 kilometers of new urban development. And what we saw here is that […] we need to think about how can we create an urban cooling toolbox that is not high tech but very, very low tech in order to create a better microclimate in these new areas. The perceived temperature, as is, sort of business as usual, that is [40, reads "4040" in the transcript] degrees right now […] So can we actually just change 8 degrees, adding some trees, that could be one solution from the toolbox, creating shade and so on. But those 8 degrees, what does that mean? It means that comfortable walking distance becomes five times more when lowering the perceived temperature 8 degrees.
 
-*Automatic transcript, presentation, around 00:48. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:46:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

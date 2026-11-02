@@ -26,4 +26,4 @@ Signe Kongebro (Ramboll) shows before-and-after images of Copenhagen's harbour f
 
 > So the world's most livable city, but not always. This is what it actually looked like. So talking about rethinking logistic, it is not […] It is the logistic of a city that has been changed, not only logistic as a sort of a building type. And this is what the harbour front is today. It has been from a backside into a front stage of recreation.
 
-*Automatic transcript, presentation, around 00:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:51:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

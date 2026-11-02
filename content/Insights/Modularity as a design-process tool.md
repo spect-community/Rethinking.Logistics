@@ -26,7 +26,7 @@ František Novotný (CREA-TURA), presenting the multi-storey food (cake, biscuit
 
 > And right now we know that we can do modular buildings. We can do them very easy. We can order everything. It can be prefab. It helps you with the designing process because once you decide that the building is modular, you can, within the design process, which takes years for a factory of this type, within those years of designing, of making the project, you can very easily react to the let's make it longer or let's make it wider because you know how to do it and what to do. It doesn't make any change in the […] system how that's built.
 
-*Automatic transcript, presentation, around 00:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:57:06. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -25,4 +25,4 @@ Parker (Oxford Economics) shows a map of Europe's key urban economies, including
 
 > The cities like London, Paris, Madrid are the real kind of economic heavyweights within the region. […] But when you look beyond just the GDP size of these major cities, there's a more nuanced picture that starts to emerge. […] So while the largest cities dominate in terms of size, they're not necessarily the fastest growing city economies. In many cases that's because they're already so large and mature, so there's naturally a bit less room for them to rapidly expand. Instead, some of the fastest [growing] cities are concentrated typically in Central and Eastern Europe, [in] places like Warsaw, for example, where the economies are still in the process of catching up with the more mature Western economies.
 
-*Automatic transcript, presentation, around 19:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:19:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

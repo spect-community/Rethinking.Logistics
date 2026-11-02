@@ -25,4 +25,4 @@ Martins (Ramboll) shows what very large data centres look like today: whole camp
 
 > We talk about campuses, you know, several buildings within a purpose developed park, business park type. So this is in Portugal, just south of Lisbon, something called the [Sines] Campus. This is a very large project that's […] in development. I think one or two buildings are already built and the rest will be in the future. […] this is an Amazon Web Services […] which is one of the largest cloud providers in the world, that opened recently in the US. And this is used for Claude. So if any of you has been using Claude […] to do research, this is the kind of stuff that is behind your requests.
 
-*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:30:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

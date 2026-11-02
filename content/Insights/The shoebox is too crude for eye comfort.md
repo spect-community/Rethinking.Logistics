@@ -25,4 +25,4 @@ Ellen Krečková (EkoWATT), speaking in Czech with live English translation, exp
 
 > So in here you see a parametric model. It's just a shoe box model, just a box. […] the main purpose is to change the window size in order to mitigate the temperature load from [the] sun [and preserve] the daylight quality inside. […] So we're back to the shoebox model. And there's an issue that modelling it in proper qualities, which will be required for the eyesight comfort, is too tedious or too complex. […] So you can see that we're missing the window sill, the thickness of a wall, we're missing the frame of the window and these kind of things.
 
-*Automatic transcript, presentation, around 01:22 and 01:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 01:21:55 and 01:24:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

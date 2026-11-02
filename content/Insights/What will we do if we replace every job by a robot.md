@@ -27,7 +27,7 @@ In the Q&A, a student asked about bringing warehouses into cities. Lukáš Janá
 
 > The robotic time will come and nobody's there. […] And a few years ago, the people were packaging […] but now what was the problem? The mistakes and the […] huge money […] the company lost because the mistakes. Now, why is fully automated? Because of this, no people there. — (Q&A) […] we will have power plants and software centres bigger than the logistics just to create computing power. […] What will we do right if we replace every job by a robot?
 
-*Automatic transcript, Q&A, around 00:43, and Q&A, 00:51:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:43:02, and Q&A, 00:51:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

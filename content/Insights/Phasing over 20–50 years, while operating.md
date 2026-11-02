@@ -26,4 +26,4 @@ František Novotný (CREA-TURA) presents the multi-storey food (cake, biscuit an
 
 > Once you are building, for example, this part, this has to work, cannot be interrupted. So the phasing is very, very tricky, not just the design itself. You have to build while operating the rest of the site. […] Those previous pictures has to make the dollar and euros to build the final picture. So you started with the phase one, right? And this phase one is for 10 years, 15 years. Then […] you will do the phase two, then you do the phase three. And while doing this […] there is still redesigning throughout those 50 years or 20 years. That's why […] the phasing has to be done right on the beginning. Because there are no other options how to do it later. […] and also you are working with a temporary usage, but the temporary usage is for like 20 years.
 
-*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:51:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -27,7 +27,7 @@ Near the end of his talk Petr Zahradník (EkoWATT) shows Campus Science Park in 
 
 > This is the first certified building in LEED version four. It was in 2016 or, if I remember well, [20]18 here. In this case there [was a] quite strict push to decrease emissions of materials used. So the global warming potential was calculated and 10% reduction has been reached, that's [a] complex of 6 measures that are being calculated and somehow controlled. […] Well, some numbers, some comparisons: global warming potential, photochemical oxidants or [acidification], non renewable energy. So these are the measures that have been calculated and actually the building succeeded and reduced the global warming, not only the potential but the others as well, by 10%.
 
-*Automatic transcript, presentation, around 00:56. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:56:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

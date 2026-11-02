@@ -26,7 +26,7 @@ František Novotný (CREA-TURA) presents the translucent envelope of the Frýdek
 
 > This material, which is based on recycled PET recycled plastics, is much better than any other aluminum, concrete, whatever, whatever system you choose, and it happens to be [a] better option than any other, any other envelope you can use.
 
-*Automatic transcript, presentation, around 00:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:58:20. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

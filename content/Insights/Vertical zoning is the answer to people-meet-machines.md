@@ -30,4 +30,4 @@ From Karel Goláň (CREA-TURA)'s presentation of the brewery the studio redesign
 
 > What you see red is actually the public highline that goes through the entire [site] and the reasoning behind elevating people above the [site] is actually the conflict of manufacturing logistics itself with people, right? So safety first, you really need to create a public space and public area without compromising on the logistics efficiency and also safety, right? So if you ever encounter such a problem, we suggest you use vertical zoning or vertical staggering of this function […] everything that happens on the 2nd and 3rd and 4th floor because the first ground floor is strictly for logistics and industrial.
 
-*Automatic transcript, presentation, around 00:31. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:32:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

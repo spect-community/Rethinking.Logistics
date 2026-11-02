@@ -27,7 +27,7 @@ At the end of the Q&A, apparently answering whether harvested rainwater could be
 
 > There is a very big amount of debris in the rainwater. You have to purify [it in a] very, very dense process to be very, very purified for all the systems within this water. Also this water is very mineralized. I know the rainwater is not that mineralized, but it has other things […] right now with the technology which is possible to do right now, no; maybe in 20 years if you have like two separate circuits that it might be possible […] But you can also get the heat from the wastewater from the plant if you […] have like excess water from the plant and manufacturing […] the water might be heated up and you can [extract] and relocate it from that before it goes away.
 
-*Automatic transcript, Q&A, around 01:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:44:49. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

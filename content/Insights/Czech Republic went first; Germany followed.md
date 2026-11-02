@@ -24,7 +24,7 @@ Still on the CLT Penny supermarkets, Lukáš Janáč and Gregory M. Speck (YUAR 
 
 > So we did it and after two years, one or two years. Suddenly, the [CEO to Philippines — garbled] […] because guys from Germany, because [Perez — garbled] is part of the group, is a German company. They did the decision then in the German, they will do it […] too by CLT. But in Czech Republic it was done. Started. Yeah. So the Czech Republic was first. And we can say we did it. But nobody knows, yeah, people in the field.
 
-*Automatic transcript, Q&A, around 00:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:39:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

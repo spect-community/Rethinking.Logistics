@@ -27,4 +27,4 @@ Signe Kongebro (Ramboll) on the clean-up of Copenhagen's harbour, in which Rambo
 
 > So actually by cleaning up the harbor, and [Ramboll] was a part of that […] Cleaning up the harbor was not about swimming, but it was also how to use all the existing old harbour fronts for housing purposes. Suddenly this blue nature here became sort of the biggest and largest urban park in Copenhagen.
 
-*Automatic transcript, presentation, around 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:52:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

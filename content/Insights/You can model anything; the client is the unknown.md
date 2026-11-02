@@ -26,4 +26,4 @@ Fojtík (Panattoni) explains that Panattoni now uses energy modelling on almost 
 
 > The energy of the buildings, it's a complex task, but we have a technology for it and there's energy modeling we are using almost for now every complex project, but I think you can model today whatever you want, but the key is understand how the client perform[s] inside of the building. Sometimes we use the information from the different region where for example when a client moving to [Czechia] we use similar building which is for example in the Germany, we use the information how they perform during the day and these data we are using for energy modelling.
 
-*Automatic transcript, presentation, around 00:05. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:03:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

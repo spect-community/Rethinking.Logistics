@@ -25,4 +25,4 @@ Earlier in the Q&A, answering whether developers would really pay for sustainabi
 
 > So sustainability is living thanks to marketing reasons. And not because people are trying to save the planet. — (Q&A) So, for them, it kind of makes sense, and then this is sometimes [a] push for everyone trying to do something, and like this is where the [garbled] kind of can play a role, but as you said, like it's mostly PR of the company, it's like, okay, [check] out what we did. And they want to, like, get some karma for it, basically, yeah, so buying, buying problem […]. Not all of them, but it's one of the incentives.
 
-*Automatic transcript, Q&A, around 00:46, and Q&A, 00:56:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:45:43, and Q&A, 00:56:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

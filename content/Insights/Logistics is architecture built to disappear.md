@@ -26,7 +26,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) link their openin
 
 > If we link this to logistics, it's basically logistics are a place outside the city centre, right? Far, and it has to be connected to a highway so you don't see it. It disappears somehow. People don't take a look at logistics architecture. It has to be cheap, fast, fastly built, and basically operational. So clients in this case don't solve architecture. They're not interested in make it look fancy, make it look nice.
 
-*Automatic transcript, presentation, around 00:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:07:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

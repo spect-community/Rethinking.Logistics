@@ -25,4 +25,4 @@ František Novotný (CREA-TURA) presents the multi-storey food (cake, biscuit an
 
 > […] because the size of the manufacturing plan is limited by the length of the manufacturing line, the robot work that makes the good. It's this long and it cannot be turned or […] it's very complicated to turn it or make it in a different way. So this is given somehow. […] The option A has all the logistic hubs, the goods going in and out on the let's say north side and the option B has those logistic hubs on the east side. Northeast side. […] Also those options have different connections to the […] [skeleton] of the city, to the roads and to in and out. […] So every time it's very tricky to pick the right option. Every option you pick has some downs and ups.
 
-*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:51:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -26,7 +26,7 @@ Fojtík (Panattoni) adds to the Hanon example in Kladno (a fully electrified pla
 
 > So it's a very complex task to finish such a buildings and how I mentioned the beginning they are still in the around 20 or 30% of the production. So the whole technology is already installed, but they are waiting for the [full] scale.
 
-*Automatic transcript, presentation, around 00:13. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:11:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

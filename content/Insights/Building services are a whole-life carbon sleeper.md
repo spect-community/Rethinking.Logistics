@@ -28,4 +28,4 @@ Paul Astle (Ramboll) shows data from Ramboll's carbon benchmarking database for 
 
 > […] we can see that the vast majority sits in the structure, both the sub and super. The building services actually is quite significant in the study we've done here and that's also important to recognise. And then we also have facades and partitions. I should add that this is whole life, right? So the reason this is quite high is because typically you would have to replace your building services once or possibly twice during the life of a building, and that massively increases the embodied carbon associated with them.
 
-*Automatic transcript, presentation, around 00:40. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:37:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

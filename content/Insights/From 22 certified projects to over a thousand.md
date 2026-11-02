@@ -25,4 +25,4 @@ Petr Zahradník (EkoWATT) gives an overview of green building certification in t
 
 > If I know well, there's only one or two DGNB certified buildings in the Czech Republic, if I'm not mistaken. But in total there are nowadays more than 1000 buildings that are certified by the [LEED, BREEAM] and [WELL in the Czech] Republic. […] What is actually crucial was kind of a break in certification and environmental evolution of buildings in the Czech Republic. That was the year 2008 when the [ČSOB] bank has built its own headquarters in Prague, which is known as NHQ […] In 2012 there were only 22 certified projects. So as I mentioned, now we are talking about 1030, something like that, in the beginning of this year.
 
-*Automatic transcript, presentation, around 00:13 and 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:13:16 and 00:15:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

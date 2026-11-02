@@ -29,7 +29,7 @@ Late in the Q&A, after discussing who is responsible for the quality of logistic
 
 > So just to elaborate on what Pablo was saying, if you're the local mayor […] [and you need to] approv[e] a permit[,] the […] problem with it, […] if they're not getting a lot of like development contributions or […] taxes from the[m], they really have little incentive to approve it. […] And this is a really big blocking point of the Czech Republic because a lot of the locals don't really want development because there's no benefit for them. All they get is trucks. I don't want it.
 
-*Automatic transcript, Q&A, around 01:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 01:41:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

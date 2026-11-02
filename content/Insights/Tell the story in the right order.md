@@ -27,4 +27,4 @@ One of Karel Goláň (CREA-TURA)'s takeaways from the brewery the studio redesig
 
 > And try if you're ever inviting people into the area, try to create a story behind it, how you actually do it, what they see […]. And it also was sequence, right? That was very important for us in the designing of the Skywalk that it actually tells the story in the correct order, that you do not start from the finished product, but you actually start from the ingredients like water, malt, etc. And then you go through it along the chronological axis of the manufacturing. [The] key point is that also what we had was the public [route] and also the sort of guided tour […] that guides you through usually a restricted area […]. So these two are also vertically stacked [on] each other.
 
-*Automatic transcript, presentation, around 00:38. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:39:43. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

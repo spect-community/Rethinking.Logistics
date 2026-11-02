@@ -30,7 +30,7 @@ Fojtík (Panattoni) notes that EV charging is already standard in Panattoni buil
 
 > […] it will be much and much common to using the electric cars, not just for the employees but also for the goods, so the large trucks in the parks. The question is the noise. […] Before the lecture we speak with [Lukas] about how the noise can influence the surrounding of the industry parks. So I think it's also could be the task for you to think about it. How do EV cars could influence the noise levels and the permitting in such areas like the cities […]
 
-*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:19:22. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

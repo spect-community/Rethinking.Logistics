@@ -27,4 +27,4 @@ Paul Astle (Ramboll) on low-carbon concrete: by mass it is a low-carbon material
 
 > So that 0.12 figure, best case scenario, you can probably get that down to 0.05 today, I would guess maybe 0.06. But there's lots of different options in it and it really depends on where you are. […] I also have something called a concrete technology tracker which I can share […] we also want to make sure that we advocate for concrete technologies that can be scaled. There's quite a lot of concrete technologies that are out there which are really clever, but you really can't scale them so that['s] a little bit of a waste of time in my opinion […] And it's important also to understand what contractors need. There's some really great innovations out there, but you can't build them.
 
-*Automatic transcript, presentation, around 00:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:50:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

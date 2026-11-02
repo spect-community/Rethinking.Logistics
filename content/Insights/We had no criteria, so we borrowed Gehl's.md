@@ -25,4 +25,4 @@ Signe Kongebro (Ramboll) explains how Ramboll's placemaking study defined good p
 
 > But in order to talk about placemaking, we had to find what are the criterias for good placemaking, and the closest we came to this was introducing [Jan Gehl, "Yankee" in the transcript], you might know. […] He came up with 12 criterias for this on urban planning. He talked about protection, comfort and enjoyment, and we used those because we didn't have any other criterias we could find in academia or anywhere, and we used that as a benchmark for our study.
 
-*Automatic transcript, presentation, around 00:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:55:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

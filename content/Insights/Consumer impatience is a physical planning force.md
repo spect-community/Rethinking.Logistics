@@ -28,7 +28,7 @@ James Fitzgerald (IO Partners) explains why CEE suits warehouses serving Western
 
 > […] most CE[E] locations are really only within one to three days[…] by truck to major European Western markets in Germany, where all the population is[:] Germany, France, Spain, Italy. So if you don't need something shipped within two or three hours, […] something that may not be as urgent can be placed inside Central and Eastern Europe. This is really important. […] And the most important thing here is that consumers, particularly in consumer goods, […] I'm sure you've all ordered things from [Alza] or [Rohlík] or somewhere online. You get really […] when it doesn't come quickly, right? Yeah, everyone does. […] There's an impact on that. If you need to push it quickly, you need to be closer to the source.
 
-*Automatic transcript, presentation, around 00:16 and 00:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:15:55 and 00:53:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

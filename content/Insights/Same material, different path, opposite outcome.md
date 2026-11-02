@@ -27,4 +27,4 @@ The core experiment of Vele's PhD research (CTU Prague): the hypothesis that adj
 
 > So the idea was to print the same samples, or the same geometries, with the same amount of material with the same layer and print time. The only difference is that the top samples are printed non-planarly, so the printer moves in a different way than in the bottom. […] you can see that the planar printing is already failing, but this one still holds the shape. […] So I did do some larger, more concrete experiments and you can see that in the non-planar case it again worked and in a planar case it didn't work. So this kind of tells you that with just changing the print path, you can achieve greater design freedom and more structurally sound elements.
 
-*Automatic transcript, presentation, around 00:25–00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:25:25–00:27:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

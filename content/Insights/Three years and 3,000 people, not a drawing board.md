@@ -26,4 +26,4 @@ Kongebro (Ramboll) describes the process of the Downsview airfield masterplan in
 
 > So what we said from the beginning, and that's also given from working in North America, is all about for community by community. How do we use the people of Toronto as a resource for the design of a master plan? Because normally you would say architects and master plans, they sit here and they do this and then we just put it in action. So for us, working three years with more than 3000 people, actually inspiring and massaging our initial winning proposal into something that is, you can say, a change you can believe in. That was part of the robust scheme of this.
 
-*Automatic transcript, presentation, around 00:22. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:23:40. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

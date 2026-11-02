@@ -25,7 +25,7 @@ Lukáš Janáč and Gregory M. Speck (YUAR Architects, Prague) explain why they 
 
 > But if we are getting involved too late in the decision making, there's no room for us. And there's no room for design, there's no room for architecture, because the budget is set in the first, in the previous phase. And when we come in late and we don't highlight the problems from the beginning, there's no room for us to play anymore.
 
-*Automatic transcript, presentation, around 00:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:10:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

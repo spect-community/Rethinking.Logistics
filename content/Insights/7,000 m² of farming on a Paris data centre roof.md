@@ -32,4 +32,4 @@ The second of three closing examples of better-integrated data centres in Martin
 
 > The next one I'm going to show you is an actual project in the northern part of Paris by a company called Equinix, which is one of those co-location providers. They've built their data centre and on top of it, they use the heat that is being produced by the data centre to heat up an urban farm. So you have effectively a greenhouse on top of the data centre, and it does produce a lot of, you know, vegetables and fruits and stuff like that. […] And they've managed to develop, I think, nearly 7000 square metres of farming on top of the building.
 
-*Automatic transcript, presentation, around 00:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:39:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -25,7 +25,7 @@ Cartlich (CBRE) shows how e-commerce penetration rose and fell back after the pa
 
 > […] from let's say in the UK something like 10 to 12% in 2015 to hitting 35% of retail sales online during the pandemic; that has now come back in most markets. So […] if we look at Netherlands there, it's come back from a peak of say 25% back towards 20 and it's leveled off and it's now growing again, but at a slower rate. […] So back in 2021, about 17% of European take up was from e-commerce and that's pure play. So that is your likes of Zalando, Amazon and the likes of those pure play e-commerce players, ASOS, etcetera. […] We fast forward to 2025 and we see that e-commerce has fallen to about 8%.
 
-*Automatic transcript, presentation, around 12:00 and 14:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:12:21 and 00:13:55. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

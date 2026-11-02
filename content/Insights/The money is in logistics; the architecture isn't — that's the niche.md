@@ -25,4 +25,4 @@ In the discussion, after talking about the constraints of discount-store design,
 
 > So the warehouses, logistic infrastructure, et cetera, is the one of the biggest part on the building market. […] What does it mean? It means that the money are there. So, but the architecture is not there. It's we think it's our your niche.
 
-*Automatic transcript, Q&A, around 00:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, Q&A, 00:42:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

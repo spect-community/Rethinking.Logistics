@@ -25,4 +25,4 @@ In the same summary of the Prvok lessons, Vele (CTU Prague / Scoolpt) describes 
 
 > So the way how we dealt with it is that we like created more convex and concave and structured surface and inner parts were like with these small cavities into which we later on put the steel rebars and they worked as a columns. […] So these layer connections are the weakest spots of the whole printing. And somehow it kind of undermines the idea of having a printed object structural[ly] sound. So you can print like a lost formwork and then pour a concrete inside and have like the load bearing parts as the inner parts and not the outer part. In this way you kind of like remove the need to create formwork.
 
-*Automatic transcript, presentation, around 00:21–00:22. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:21:27–00:22:09. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

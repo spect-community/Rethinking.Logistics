@@ -27,7 +27,7 @@ Opening the final part of his lecture, on urban sustainability, Parker (Oxford E
 
 > So with data centre demand essentially rising almost continuously, it's important to remember that these facilities are extremely energy intensive. And as a result, there's growing demand for local energy systems, supply capacity and even the balance it's having in terms of residential and commercial energy usage within cities and whether this is going to squeeze available energy supplies for these areas. So for planning and local authorities, it becomes a key constraint to manage. It's not just about where data centres and digital infrastructure [are] located, but whether the underlying energy systems can actually support it in a sustainable way.
 
-*Automatic transcript, presentation, around 55:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
+*Automatic transcript, presentation, 00:55:42. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 
