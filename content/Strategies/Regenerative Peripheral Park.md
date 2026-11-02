@@ -248,7 +248,7 @@ For comparison, the built Bestseller campus in Lelystad measured a biodiversity 
 - Czech industrial sites must keep 20–30% of their area green; one developer argues this consumes about 30% more land and often produces greenery of little ecological value ([[Mandatory site greenery as anti-landscape policy]]). A requirement framed by ecological outcome rather than area share would reward the approach described here.
 - Certification credits can be earned with token measures, such as a pile of stones as lizard habitat in the middle of a parking lot ([[Lizard habitat in a parking lot]]); where current standards count features rather than function, they limit the approach.
 - On food-production sites, hygiene standards ask designers *not* to attract wildlife ([[Biodiversity forbidden by food-hygiene law]]), so the approach needs a different form there.
-- Official carbon calculations do not accept planting as an offset, so the benefits of the landscape — biodiversity, water, corridors — sit outside the carbon metric ([[Planting the felled forest back doesn't offset]]).
+- Official carbon calculations do not accept planting as an offset, so benefits such as biodiversity and green corridors sit outside the carbon metric ([[Planting the felled forest back doesn't offset]]).
 - Architects working for logistics developers see no market incentive to add greenery to logistics parks, unlike offices that compete for staff ([[Zero incentive for greenery in logistics]]); finance may move first, as banks with ESG policies can offer slightly better interest rates ([[The real green lever is 0.1–0.2 points of interest]]).
 
 ## Questions for practice

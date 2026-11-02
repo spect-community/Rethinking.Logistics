@@ -15,7 +15,6 @@ tags:
   - "topic/taxonomy"
   - "strategy/2-adaptive-modular"
   - "strategy/3-urban-hybrid"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
@@ -26,8 +25,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) discusses whether today's logistics buildings can be converted to other uses later, referring to Western European experience and to older industrial buildings in Prague.
+From two answers by Pavel Sovička (Panattoni CZ & SK) to the same student: on mixed use, he mentions older industrial buildings in Prague that the city has grown around; on reusing abandoned buildings, he contrasts Czech heavy-industry brownfields with the logistics buildings built today.
 
-## Quote
+## From the transcript
 
-> "they are really changing the use from logistics or light industrial into sporting grounds, retail, retail parks"
+> It's a good combination, for example in US, and also now we see it in Prague. You see a lot of the industrial which was like consumed by the city, the residential just was developing around. Those buildings are turning into, let's say, fitness centers, into basketball courts. They are really changing the use, and they are more changing from, I would say, logistics or light industrial into sporting grounds, retail, retail parks and so on. So there's a future even for those structures without major change. […] But like the buildings that you are building now, in the future can really hold data center, can hold different types of uses. But it's because there are now, I would say, similar structure, like really frame of the buildings like from 80s, nineties in the Western countries. Because the typical structure would be [10–12] meters clear height, really good column grid, flat floors and so on, and that can be turned into other uses pretty quickly […]
+
+*Automatic transcript, Q&A, 00:50:46 and 00:52:56. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

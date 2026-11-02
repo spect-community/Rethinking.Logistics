@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/materials"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -19,8 +18,10 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, on reinforcing printed structures, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) comments on research groups in the Netherlands that lay steel wire into the printed layers.
+A student asked whether Vele (CTU Prague / Scoolpt) had tried composite materials, such as something like rope laid between the printed layers to bind them. He says his team has not, and points to work in the Netherlands.
 
-## Quote
+## From the transcript
 
-> "the concrete and reinforcement, they become like very good friends and stick very well to each other"
+> With concrete, we didn't experiment with like adding some like external materials like rope or something like that, but it's done. For example, in Netherlands, they have this like wire, it's made of steel and they are depositing this steel directly into the layers. […] And that's kind of an issue because when you have like this reinforcement inside the concrete, the most important part is that the concrete and reinforcement, they become like very good friends and stick very well to each other. And in the concrete, when you have like some smooth wire with this like different kind of mixture and it's not like [properly] compressed and connected, it doesn't work as well as with the regular concrete.
+
+*Automatic transcript, Q&A, 01:02:16. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

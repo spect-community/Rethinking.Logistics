@@ -13,7 +13,6 @@ tags:
   - "topic/circularity"
   - "topic/provocation"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) describes the test prints for Prvok, a 3D-printed house, and what happens when a concrete print fails.
+Vele (CTU Prague / Scoolpt) tells how his company moved from benches and flower pots to printing a house, Prvok, designed as a free-form 'living organism'. Sections of the design were test-printed first to see whether they would hold.
 
-## Quote
+## From the transcript
 
-> "concrete 3D printing isn't about coding, but it's about hammering or having a shovel and putting this failed concrete into this box"
+> However, when we took like sections of this part or of this building and started to printing it to see if it works, it almost always ended up like this. So very often the concrete 3D printing isn't about coding, but it's about hammering or having a shovel and putting this failed concrete into this box and then delivering somewhere on the [landfill] and […] get[ting] dispose[d] of it. So it's really difficult to come up with a bold structure that actually holds its shape and doesn't collapse.
+
+*Automatic transcript, presentation, around 00:15. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

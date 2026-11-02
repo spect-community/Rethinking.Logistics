@@ -14,7 +14,6 @@ tags:
   - "topic/synergy"
   - "topic/circularity"
   - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
@@ -23,7 +22,13 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, after describing the failed greenery on the printed house Prvok, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) mentions research at his faculty on letting algae, moss and other organisms grow on printed structures. The researcher's name is uncertain in the claim bank.
+At the end of the same answer about greenery on Prvok, Vele (CTU Prague / Scoolpt) recommends research on bioreceptivity of printed structures. The researcher's name is transcribed as 'Petra Sohrkova' and may be garbled; 'as Lucas said' probably refers to an earlier remark by Lukáš, one of the hosts.
+
+## From the transcript
+
+> So there is amazing research done by Petra Sohrkova with this [bioreceptivity], or how the algae and then moss and then living organisms can actually [thrive] on printed structures. But she does it with clay, as Lucas said. And the clay is much more like nature-friendly material, which makes more sense to put it there.
+
+*Automatic transcript, Q&A, 01:00:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

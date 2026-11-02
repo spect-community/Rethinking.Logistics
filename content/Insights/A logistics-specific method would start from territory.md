@@ -13,8 +13,6 @@ tags:
   - "topic/externality"
   - "topic/landscape"
   - "topic/city"
-  - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -22,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-After listing where certification systems misfire on logistics halls, the UCEEB researchers (CTU Prague) describe what an evaluation method made for logistics buildings would focus on.
+Barbora Hejtmánková (UCEEB, CTU Prague) sums up where certification systems misfire on logistics halls (user comfort, cycling, point-chasing, lighting) and describes what an ideal evaluation method for logistics would look at.
 
-## Quote
+## From the transcript
 
-> "the transport is the biggest problem of this building"
+> It doesn't mean we couldn't build these buildings, but we need to think about it and we need to use the tool as a tool and not just […] for collecting points. So if there will be some ideal methodology for logistic[s], what they will think about: they will reflect the scale, they will focus on the territorial impact because it's really huge. They will evaluate impact on different categories and they will think about transport because the transport is [the] biggest problem of this building.
+
+*Automatic transcript, presentation, 00:43:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

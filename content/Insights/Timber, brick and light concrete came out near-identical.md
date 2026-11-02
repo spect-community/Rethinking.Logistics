@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/carbon"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researchers present a case study of one house designed in three material variants.
+Julie Železná (UCEEB, CTU Prague) presents a case study of one family house designed in three material variants: Porotherm clay block, autoclaved light concrete and timber. Why the foundations weighed so much was explained in the Q&A.
 
-## Quote
+## From the transcript
 
-> "the differences are really, really small in this case"
+> This is a case which is quite specific and special, because we got three designs, like really the building was designed in three material variants: in [Porotherm], [Porobeton] […] it's like light concrete, and as a wooden structure. And you can see that in this case, as the foundations had quite really large impacts, you cannot see a big difference in the total emissions. But you can see that in the wooden building in this case, the structure itself had quite like lower impact. But in the total, if you look at it as totals, you see that the differences are really, really small in this case.
+
+*Automatic transcript, presentation, 01:37:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

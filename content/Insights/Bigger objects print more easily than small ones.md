@@ -13,7 +13,6 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains why the scale of a printed object matters: each layer needs time to gain strength before the next one is laid on it. He returns to the point in the Q&A with the nozzle size and layer height used for the printed house Prvok.
+In the Q&A Vele (CTU Prague / Scoolpt) first notes that lowering the layer height for resolution makes printing much longer. Later, answering a question on layer height and nozzle size that is not captured in the transcript, he gives the settings used for Prvok and explains why small objects are the hardest to print.
 
-## Quote
+## From the transcript
 
-> "the bigger the object you print, the easier it gets printed because you have more time"
+> And the lower layer height is, the longer it takes to print. So just by like lowering down the layer [height], you can like reach up to like three extra hours of printing, or I think like unreasonable. — (Q&A) Most of the times, or the [Prvok], was printed with nozzle diameter of something like 4 centimeters and the layer height was about 12mm. […] The worst object to print actually is very small column, because the print time of one layer is very short and you stick a lot of material on top of each other. So it's kind of contradictory. But the bigger object you print, the [easier it] gets printed, because you have more time to print. And the concrete can gain the strength to survive the next layer and then gain another strength to survive in the next layer.
+
+*Automatic transcript, Q&A, 00:45:51, and Q&A, 01:04:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

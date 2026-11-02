@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/people"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) adds the effect of light on the body clock (circadian rhythm) to her study of visual comfort in a Prague office.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation, presents the fourth visual-comfort metric of her Prague office study: light at eye level and its effect on the body clock (circadian rhythm).
 
-## Quote
+## From the transcript
 
-> "melanopic light which is linked to circadian arrangements, if it's not treated, people get sleepy"
+> And the 4th one, let's call it spectral daylight in the vertical [eye] plane. Basically it's a ratio of two different aspects of light. We can say the first one is the photopic lux value. You can think of that as the direct light which hits your eye, and then [melanopic lux] or [melanopic] light, which is linked to [circadian] arrangements. So that's important when you want the workers to stay alert, focused and then don't become sleepy, especially in the winter months where we are not exposed naturally to too much light. This can be helped by artificial lighting, because if it's not treated, people get sleepy.
+
+*Automatic transcript, presentation, around 01:45. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

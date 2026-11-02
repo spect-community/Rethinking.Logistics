@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/certification"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -19,7 +18,13 @@ case_studies: []
 ---
 ## Context
 
-In the discussion of certification, the UCEEB researchers (CTU Prague) report how different certification systems compare when applied to the same administrative buildings.
+In the Q&A after the certification part, a student asked (the question is garbled in the transcript) how the same building would score in different certification systems. Barbora Hejtmánková (UCEEB, CTU Prague) answers from UCEEB's comparisons on administrative buildings.
+
+## From the transcript
+
+> But when we were taking like some administrative building, the score is not so different, but the certifications are maybe sometimes watching […] other parts differently. Like [LEED] is watching quite a lot on the people, [BREEAM] is watching a lot on sustainability, energy. So there are some differences in these, but the score at the end is similar.
+
+*Automatic transcript, Q&A, 01:05:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

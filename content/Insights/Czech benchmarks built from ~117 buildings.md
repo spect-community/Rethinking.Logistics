@@ -12,7 +12,6 @@ tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/economics"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics:
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researchers explain how they derived preliminary Czech carbon benchmarks for buildings from their own collection of case studies.
+Julie Železná (UCEEB, CTU Prague) opens the case studies with UCEEB's collection of LCA calculations of Czech buildings and the preliminary national benchmarks derived from it. She first says "about 50", then corrects herself to about 117.
 
-## Quote
+## From the transcript
 
-> "the 41, for example, is the 66th percentile of all the values"
+> These are about 50, or this is maybe no, this is about 117, I think, case studies of LCA of carbon footprint of Czech buildings. And we created the preliminary benchmarks for [the] Czech Republic, which you can see there, like the 41, for example, is the 66th percentile of all the values. So that's one way how to use the results. You have a lot of data from buildings, large statistical set. This is not large. This is like something, but [a] starting point. And then you can create benchmarks, you can create limits for your country, for example, or for your […] green public procurement, for example.
+
+*Automatic transcript, presentation, 01:32:35. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

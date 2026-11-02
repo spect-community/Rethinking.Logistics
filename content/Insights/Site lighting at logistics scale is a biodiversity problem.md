@@ -13,7 +13,6 @@ tags:
   - "topic/green-blue"
   - "topic/landscape"
   - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
@@ -22,4 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing the specific impacts of logistics sites that certification misses, the UCEEB researchers (CTU Prague) point to outdoor lighting.
+Continuing her examples of certification measures that miss the realities of logistics, Barbora Hejtmánková (UCEEB, CTU Prague) points to outdoor lighting on large logistics sites.
+
+## From the transcript
+
+> So you need to think about the building, not just taking the points. I have here the light pollution, because these areas are so big. So when you put there the standard, the basic light, street light, they are making such a big light pollution that it's really [a] big problem for biodiversity.
+
+*Automatic transcript, presentation, 00:42:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

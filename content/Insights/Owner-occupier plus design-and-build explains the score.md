@@ -12,7 +12,6 @@ tags:
   - "topic/economics"
   - "topic/certification"
   - "topic/adaptability"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) explains why the ČSOB South Headquarters in Prague, his main case study, scored so high under LEED v3.
+Petr Zahradník (EkoWATT) explains why the ČSOB South Headquarters in Prague, his main case study, reached such a high LEED v3 score, pointing to how the project was procured. The European ranking reads '6:00 to 8:00 position' in the transcript.
 
-## Quote
+## From the transcript
 
-> "the main reason probably is that the investor is owner as well. So it's not a typical development when one entity builds a building and then it sells"
+> So 90 credits in [LEED] version 3 equals to [6th to 8th] position in entire Europe. So there are not many projects that are in similar overall quality than is this one. […] When we look at the process, actually why the [building] is that good: first, and actually the main reason probably, is that the investor is owner as well. So it's not a typical development when 1 entity builds a building and then it sells, then the building is sold to anyone else. […] Another important thing is that the project has been prepared as a design and build project. […] during the whole process, there's one entity that is responsible for the process and for continuous updates and upgrades of the design. And actually it helps identify potential efficient measures, I would say, in time.
+
+*Automatic transcript, presentation, around 00:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

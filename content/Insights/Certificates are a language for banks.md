@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/economics"
   - "topic/certification"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -19,8 +18,10 @@ case_studies: []
 ---
 ## Context
 
-Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) explain what building certification (LEED, BREEAM, DGNB, SBTool CZ) is actually used for in practice.
+Barbora Hejtmánková (UCEEB, CTU Prague), after showing the highest-rated logistics park in Czechia near Pilsen, explains what certificates are used for beyond rating a building.
 
-## Quote
+## From the transcript
 
-> "banks are saying OK if you would like to have this amount of money then we need to reach at least gold certificate"
+> This certification are not good just to evaluate the building. They are a language which connects investors, tenants and banks, because they have something similar and they can [find] the way together. Because banks are saying, OK, if you would like to [have] this amount of money, then we need to reach at least gold certificate. If you will get silver […] you will get a low amount of the money. It's easy for them; for [investors] it's great for some comparability of the portfolio […] And then tenants, they can use it for ESG or for marketing. So it's working for all of them and it's [a] common language for them.
+
+*Automatic transcript, presentation, 00:34:11. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

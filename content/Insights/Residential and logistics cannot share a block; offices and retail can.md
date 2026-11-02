@@ -14,7 +14,6 @@ tags:
   - "topic/trade-off"
   - "topic/taxonomy"
   - "strategy/3-urban-hybrid"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Urban integration of logistics buildings]]"
@@ -25,8 +24,10 @@ case_studies:
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) discusses mixed use: which uses can be combined with logistics and industry, with the example of a Prague business park.
+A student asked Pavel Sovička (Panattoni CZ & SK) whether mixed use is a way forward, for example a warehouse in a shopping centre — 'I wouldn't go as far as residential'. He answers with a Panattoni business park in Prague.
 
-## Quote
+## From the transcript
 
-> "when you combine it with a good sleep it doesn't match"
+> […] you can combine some, and I think already now we are having some business parks in Prague, and it's such a good location, it's very close to the residential, [where] for example 1/3 of the zone we dedicate to retail, yeah, so there's retail showrooms, small supermarket. So it also serves the community, also the business park. But combining residential and industrial is very difficult, because the industrial logistics tend to operate 24/7 or very early hours, and when you combine it with a good sleep it doesn't match. But really, let's say offices, retail and industrial can really co-exist in some locations, especially city locations. But still there will be a limit for industrial inside the cities, because that's the question of the road infrastructure and accessibility of the properties.
+
+*Automatic transcript, Q&A, 00:49:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

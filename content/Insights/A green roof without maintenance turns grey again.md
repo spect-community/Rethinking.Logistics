@@ -13,7 +13,6 @@ tags:
   - "topic/trade-off"
   - "topic/certification"
   - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
@@ -23,8 +22,10 @@ case_studies: []
 ---
 ## Context
 
-Julie Železná and Barbora Hejtmánková (UCEEB, CTU Prague) discuss green measures that score points in certification of warehouses. The green-roof example comes later in the lecture, in the discussion of certification.
+Barbora Hejtmánková (UCEEB, CTU Prague) lists measures that Czech warehouses add to collect certification points without thinking about the building, the green roof among them. She returns to the green roof's maintenance in the Q&A after her part.
 
-## Quote
+## From the transcript
 
-> "if you are making a green roof, you need to think who will take care of it"
+> So you need to think about it, if you will make a green roof on [the] whole warehouse, it's amazing because, you know, it's great, we have heat island, so why not? But if it's unused or without maintenance, it will not work. — (Q&A) Because if you don't think about maintenance of the green roof, then the green roof will die and it will become again [grey]. So you are just putting the money to it, but without […] if you are making [a] green roof, you need to think who will be, if there will be somebody who will take care of it.
+
+*Automatic transcript, presentation, 00:42:10, and Q&A, 01:06:47. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

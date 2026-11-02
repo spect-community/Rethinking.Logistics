@@ -13,7 +13,6 @@ tags:
   - "topic/materials"
   - "topic/circularity"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -23,14 +22,16 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) continues on life-cycle assessment in certification with the Greenpoint office building in Prague, certified under BREEAM.
+Closing his talk, Petr Zahradník (EkoWATT) shows the Greenpoint office building in Prague, set in the middle of a large crossroads, for which a life-cycle assessment was done as part of its BREEAM certification.
+
+## From the transcript
+
+> This is the Greenpoint that I mentioned before, the building that stands in the middle of the huge crossroad. Again, LCA, [life] cycle assessment, has been done for the [BREEAM] certification. What is quite interesting is that the assessment here takes 60 years, which is quite a long [time].
+
+*Automatic transcript, presentation, around 00:58. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 
 a horizon that quietly determines which material choices look good.
 
 *An interpretation added when the claim bank was compiled — not said in the lecture.*
-
-## Quote
-
-> "the assessment here takes 60 years, which is quite a long"

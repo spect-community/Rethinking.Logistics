@@ -12,7 +12,6 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/adaptability"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Automation and operational efficiency of logistics]]"
@@ -22,11 +21,13 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) presents the H&M automated distribution centre, newly handed over in Czechia. The claim bank notes that the figure for the tenant's technology investment was stated quickly.
+Pavel Sovička (Panattoni CZ & SK) presents the automated distribution centre Panattoni built for H&M in Czechia, handed over the week before the lecture. The building belongs to Panattoni and H&M leases it; the technology inside is the tenant's investment.
 
-## Quote
+## From the transcript
 
-> "of 500 million euros just into the technology, sometimes you see even higher investments into the logistics because of the level of automation"
+> And this is the largest building in the Czech Republic. We have handed it over last week. It's 210,000 square metres under one roof. It's automated robotised distribution centre of H&M. […] We have a multi-storey building again, so we are trying to utilize more space on a smaller footprint. […] it's going to be [BREEAM] Outstanding. Again, just for your information, this is the biggest investment just because of the technology. The building is ours, the tenant is in the leasehold. [It is] 500 million euros just into the technology. […] So at the moment when someone looks at the industrial and logistics, sometimes you see even higher investments into the logistics because of the level of automation in the processes. So it's half a billion euros of technology installed in the building.
+
+*Automatic transcript, presentation, 00:39:25. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

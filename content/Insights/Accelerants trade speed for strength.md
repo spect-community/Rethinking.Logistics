@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/carbon"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains the material side of concrete 3D printing: how fast the printed mix sets, and how setting can be sped up with accelerant added at the nozzle.
+In the Q&A (the question before this answer is not captured in the transcript), Vele (CTU Prague / Scoolpt) explains accelerant dosed at the nozzle and its drawbacks.
 
-## Quote
+## From the transcript
 
-> "you are using a very ultra high performance concrete level of materials and then you put accelerants in there and final strength is even worse than the regular concrete sometimes"
+> Sometimes with a concrete there is an additional material mixed directly inside the nozzle, so you have like one more screw inside the nozzle which adds some other accelerants into the mixture. So it gets like solid in 30 seconds after it leaves the nozzle, or 20 seconds. It doesn't actually matter because you can put as much chemicals inside as you want. […] But the issue is that when you print it, you still need several top layers to be wet and to bond well. So if you print something which directly solidifies and you put another layer on top of already solidified layers, they don't bond well […] And also the accelerant amount reduces the final strength of the object. So when you are printing you are using like a very like ultra high performance concrete level of materials and then you put accelerants in there and final strength is even worse than the regular concrete sometimes.
+
+*Automatic transcript, Q&A, 00:47:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

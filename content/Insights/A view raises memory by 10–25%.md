@@ -13,7 +13,6 @@ tags:
   - "topic/green-blue"
   - "topic/data"
   - "topic/synergy"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -23,11 +22,13 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) argues that the business case for green buildings rests on their occupants, citing figures he attributes to a 2013 World Green Building Council survey. The claim bank notes that the WorldGBC report does not publish these headline figures.
+Petr Zahradník (EkoWATT) explains why investors certify buildings: the economic case rests on the occupants. He cites a 2013 indoor-environment survey by the World Green Building Council across many building types; the figures match the transcript, but the claim bank's fact-check notes that the WorldGBC report does not publish these headline figures.
 
-## Quote
+## From the transcript
 
-> "when you have good outside view, for example, in the park, greenery, river, mental function and good memory has risen from 10 to 25%"
+> We talk about [the] indoor environment quality survey, which is quite old, was 2013, but it was a huge survey done by World Green Building Council in many building types, in the residential [buildings], hospitals, schools, office buildings. And here you can see that they found out that when you have good outside view, for example, in the park, greenery, river, mental function and good memory has risen from 10 to 25%. Calls were done much faster, so the people were in much better mood.
+
+*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

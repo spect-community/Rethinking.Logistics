@@ -13,8 +13,6 @@ tags:
   - "topic/carbon"
   - "topic/green-blue"
   - "topic/synergy"
-  - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
@@ -22,11 +20,13 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) presents a net-zero pilot on the former Škoda Transportation brownfield, a site that took ten years to unlock, paired with an investment into Czech forests. The name of the forest partner is garbled in the transcript, according to the claim bank.
+Pavel Sovička (Panattoni CZ & SK) presents a project on the former Škoda Transportation site, a heavy brownfield where trolleybuses were made, which took ten years to get to; he calls it the 'baby' of his colleague Pavel, the co-speaker, and his own 'long-term love'. The name of the forest partner is garbled in the transcript ('Clore Rumsfeld').
 
-## Quote
+## From the transcript
 
-> "investing into the Czech forests and resiliency and better CO2 capture and it's very unique, the first of its kind"
+> This is really, I would say, baby of Pavel in terms of the approach to the sustainability, and my really long-term love. It took us really 10 years to get here. It was a really heavy brownfield after Skoda Transportation. […] we have tested a net zero approach down in the Czech Republic, which was very successful. We have started a cooperation with [a partner, name garbled in the transcript] where we are investing into the Czech forests and resiliency and better CO2 capture, and it's very unique, the first of its kind in the Czech Republic, and we would like to continue and show the way how the forests can be stronger for the future with the use of private money from the development companies […]
+
+*Automatic transcript, presentation, 00:37:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

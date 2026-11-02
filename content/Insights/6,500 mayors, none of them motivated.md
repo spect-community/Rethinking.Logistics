@@ -13,7 +13,6 @@ tags:
   - "topic/city"
   - "topic/people"
   - "topic/externality"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) explains why Czech municipalities rarely welcome industrial development: tax revenue goes to the national level, and each of the small municipalities has its own master plan. He describes what a new development means for a mayor.
+A student asked how Czech zoning plans work and how they determine where development can go. After explaining the master plan, Pavel Sovička (Panattoni CZ & SK) describes why Czech municipalities have no interest in new development of any kind.
 
-## Quote
+## From the transcript
 
-> "you've got six and a half thousand mayors and managers which are not anyhow motivated to think how to support business"
+> […] they are most happy that no business is coming because it brings additional pressure on schools, new citizens and so on. But they don't have the tax income, right? […] We have six and a half thousand municipalities. Each municipality has its master plan, the zoning, which is defining how they want to develop. And most of the municipalities are smaller than 1000 inhabitants. So you've got six and a half thousand mayors and managers which are not anyhow motivated to think how to support business […] They just get the money from the central government. […] for the mayor it's additional work, additional pain, and most of the citizens in the Czech Republic, they are very conservative, so everyone hates change.
+
+*Automatic transcript, Q&A, 00:57:21. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

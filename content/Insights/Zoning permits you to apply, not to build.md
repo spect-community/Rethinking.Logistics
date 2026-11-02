@@ -12,7 +12,6 @@ tags:
   - "topic/city"
   - "topic/economics"
   - "topic/adaptability"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) explains what Czech zoning does and does not give a developer, and how long land has to be held before a building can be offered.
+In the presentation Pavel Sovička (Panattoni CZ & SK) explains why Panattoni prepares and permits sites long before a customer exists; answering a student's question about how Czech zoning plans work, he repeats that a master plan gives no certainty.
 
-## Quote
+## From the transcript
 
-> "when you have it, it doesn't mean you can develop, it just means you are allowed to apply for additional permits"
+> It's not like in Germany, Poland and maybe Nordics. You have to start with the preparation of the site much earlier than the customer comes, because generally the zoning, the master plan in the Czech Republic doesn't guarantee you the timing when you can get the other permits, when you can start and when you can deliver. […] In Prague it might take 10 years, like for some cases we have done recently. In regional towns, it can take from 1 1/2 to five years […] — (Q&A) So really in the Czech Republic the zoning is very tricky in the respect that when you have it, it doesn't mean you can develop, it just means you are allowed to apply for additional permits to potentially get the permit to develop in line with the master plan.
+
+*Automatic transcript, presentation, 00:25:29, and Q&A, 00:56:53. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

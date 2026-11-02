@@ -13,7 +13,6 @@ tags:
   - "topic/energy"
   - "topic/people"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Operational energy and on-site renewables]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) explains why building owners and tenants care about certification for reasons other than energy savings.
+Petr Zahradník (EkoWATT) explains why companies want certified buildings: after citing survey figures on productivity and well-being, he compares them with what energy savings mean for an office, retail or shopping-centre operator.
 
-## Quote
+## From the transcript
 
-> "the energy costs for any of these companies are like 1% of the overall budget of the company. So they are not that much interested into energy efficiency measures."
+> So actually, and in a comparison, usual office building or retail and shopping centre, etcetera. We often talk about energy performance, energy efficiency. When we look at the lowering energy consumption, the energy costs for any of these companies are like 1% of the overall budget of the company. So they are not that much interested into energy efficiency measures. But when we look at these data, for example, people are […] more productive.
+
+*Automatic transcript, presentation, around 00:30. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

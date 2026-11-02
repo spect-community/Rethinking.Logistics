@@ -12,7 +12,6 @@ tags:
   - "topic/people"
   - "topic/data"
   - "topic/synergy"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) presents the visual-comfort part of her study of a Prague office floor: the luminance contrast between a computer screen and the surfaces around it.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation, presents the third visual-comfort metric of her Prague office study: the luminance ratio between a computer screen and nearby and distant surfaces. Asked from the room whether the monitor's 300 cd/m² was varied in the study, she answered that it was a fixed average value. The ratio for the nearby surfaces is missing in the transcript.
 
-## Quote
+## From the transcript
 
-> "the ratio is still 1 to 18 which is too high which could lead to migraines and poor concentration and loss of productivity"
+> So the third one is the glare ratio. We're measuring two types of it […] the immediate, very close glare ratio and the far [glare] ratio. For example, we can think of the PC monitor which is set up at 300 [candelas] per meter squared. And if you compare it to the immediate other surfaces, that could be actually over 6000 [candelas] per meter squared, which means ratio of 1 to [… number missing in the transcript], which is a huge difference. Also if we compared that monitor with far distance surfaces, maybe the facade or the window, the ratio is still 1 to 18, which is too high, which could [lead] to migraines and poor concentration and loss of productivity.
+
+*Automatic transcript, presentation, around 01:41. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

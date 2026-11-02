@@ -13,7 +13,6 @@ tags:
   - "topic/data"
   - "topic/provocation"
   - "topic/certification"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) gives the results of her daylight and glare study of a real Prague office floor plate, measured with LEED-type metrics that have an upper limit, and compares them with the Czech daylight code.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation, sums up the floor-based daylight metrics (annual sunlight exposure and her own 1,500 lux metric) for one floor of an office building in Prague and compares the result with the Czech daylight code.
 
-## Quote
+## From the transcript
 
-> "So we know that it's bad, but the Czech code would be OK with it. And that's not good."
+> So if we summarize this slide, that means this front floor of this particular building would have 21% of the area with too much light, direct light exposure, 25% of too much light, illuminance. […] not only direct light, but […] floor area with something so unpleasant, people need to shade. And that means it's in stark contrast to the fact that this floor plan would actually be allowed by the [Czech] code. So we know that it's bad, but the [Czech] code would be OK with it. And that's not good.
+
+*Automatic transcript, presentation, around 01:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

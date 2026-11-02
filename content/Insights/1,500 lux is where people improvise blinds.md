@@ -12,7 +12,6 @@ tags:
   - "topic/people"
   - "topic/data"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) presents a daylight and glare study of a Prague office floor plate and explains the upper threshold she uses for illuminance measured on the floor.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation in the room, presents the daylight metrics of her study of an office building in Prague. After the Czech daylight factor and LEED's useful daylight illuminance, she introduces a metric of her own for too much light, measured on the floor.
 
-## Quote
+## From the transcript
 
-> "it comes from studies where office workers were observed when they intuitively start setting up some improvised shading for themselves"
+> And there's another metric which was created by Ellen, let's say. […] too much of light. […] this one is measured on the floor and we're observing for the max value of 1500 [lux]. That value is not just arbitrary, it comes from studies where office workers were observed when they intuitively start setting up some improvised shading for themselves. So basically we're looking at the floor for this value. That means that people need some shading or would anyway start shading.
+
+*Automatic transcript, presentation, around 01:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

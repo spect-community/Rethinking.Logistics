@@ -13,7 +13,6 @@ tags:
   - "topic/data"
   - "topic/synergy"
   - "topic/carbon"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,7 +20,13 @@ case_studies: []
 ---
 ## Context
 
-As part of his research on design for concrete 3D printing, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) presents a published study that used minimal-surface infill shaped by the forces in a printed bridge. The paper's title is uncertain in the claim bank (possibly 'anticlastic', transcribed as 'anti plastic').
+Looking for a geometry that works in three dimensions, Vele (CTU Prague / Scoolpt) presents a published study on a 3D-printed concrete bridge using triply periodic minimal surfaces. The authors are transcribed as 'Chai et al.' and the paper title includes 'periodic anti plastic surfaces', which may be garbled.
+
+## From the transcript
+
+> The name of the paper is like Design to fabrication workflow for 3D concrete printed structures with embedded periodic anti plastic surfaces. […] their idea was to like have some kind of span length where they wanted to create a bridge and they modelled some kind of like a load network. […] they first checked like many different variations of these 3D geometries and they find out that the diamond structure performs the best in the way of overhangs. […] in the bridge, there will be different loads and different magnitudes of the load the bridge will have to carry. So they kind of developed a way how to scale down and scale up this structure. So in the final shapes, you can see that the parts where there is a less force flowing through the object, the step size is a bit bigger, and then they can like create more dense structure where the force will go through inside the object.
+
+*Automatic transcript, presentation, around 00:32–00:34. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

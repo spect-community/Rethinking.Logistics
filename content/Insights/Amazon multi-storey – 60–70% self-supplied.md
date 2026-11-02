@@ -4,7 +4,7 @@ source_type: expert
 locator: "early-mid — anchor: \"the first really multi-storey building\""
 quote_type: paraphrase
 evidence_status: open-for-review
-confidence: "check — speaker hedges"
+confidence: "check — he hedges the figure (\"I think 60 or 70%\")"
 reviewed_by: ""
 relevance: 3
 aliases: []
@@ -13,7 +13,6 @@ tags:
   - "topic/carbon"
   - "topic/adaptability"
   - "strategy/5-energy-symbiosis"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Operational energy and on-site renewables]]"
@@ -24,7 +23,13 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) presents the multi-storey Amazon facility on a Czech brownfield, which he calls the first really multi-storey building of its kind. The share of consumption covered by photovoltaics is his own estimate, and he hedges it.
+Pavel Sovička (Panattoni CZ & SK) presents the four-storey Amazon building of close to 200,000 m², one of several locations where Panattoni works with Amazon, built to suit on a brownfield. He hedges the photovoltaic share ('I think 60 or 70%').
+
+## From the transcript
+
+> This is the typical example of — we cooperate with Amazon in several locations. This was really, I would say, market-changing development and approach to it, because it was the first really multi-storey building. It has got a really large installation of the photovoltaics, so I think 60 or 70% of the consumption of the building and needs of the building are covered from the photovoltaics. It's fossil-free and [BREEAM] New Construction Outstanding, and also developed on the brownfield. So it was really something which was changing the standards and understanding what can be achieved in terms of industrial.
+
+*Automatic transcript, presentation, 00:37:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

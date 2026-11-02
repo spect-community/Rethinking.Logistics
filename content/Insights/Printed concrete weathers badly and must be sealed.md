@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/externality"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,7 +19,13 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains how printed concrete copes with weather and how printed elements are protected.
+A student supposed that dirt gets stuck in the gaps between printed layers and asked whether the ageing process is supported or fought, since moss growing on it could be interesting but not on benches. Vele (CTU Prague / Scoolpt) describes how his company protects printed elements.
+
+## From the transcript
+
+> It ages and there are these like cavities where the water likes to stay. And what we often do is that when we have some kind of exposed concrete to outside environment, we have this like paint or layer that we put on top of it. So it's hydrophobic. It repels the water because the issue is that the concrete [that] is printed is quite porous and it really likes to get water in. And during the winter it can freeze inside, crack, and can deteriorate quite fast. So what we do is that when we print it, first we wrap it and wait after the concrete like stiffens […] But then when it's almost ready to be shipped, we paint it to avoid water to get in. […] And yes, the dust and this material can [settle] inside these layers.
+
+*Automatic transcript, Q&A, 00:58:00. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

@@ -13,7 +13,6 @@ tags:
   - "topic/economics"
   - "topic/trade-off"
   - "strategy/2-adaptive-modular"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
@@ -23,8 +22,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) explains how a developer designs for an investor who holds the building longer than any single lease. The point follows his remarks on buildings tailor-made for tenants such as Amazon or H&M.
+A student asked whether one of the typologies he had shown (build-to-suit, build-to-own, build-to-lease, data centres) is more versatile than the others. Continuing his answer, Pavel Sovička (Panattoni CZ & SK) explains why Panattoni keeps certain standards in its buildings: investors hold them longer than any single lease lasts.
 
-## Quote
+## From the transcript
 
-> "it matches like 80% of the market need and then you just replace the tenant, improve the technology"
+> Because when you invest into industrial property, the investors are expecting a return somewhere between, let's say, 15 and 20 years, right? And when you look at that term, a lot of the leases are shorter. There are, for example, between [5 and 10] are the most common; like 10 and more is very limited. And of course ideally the investor is looking at the property as a never-ending income. Of course there's some CapEx to maintain the building, to improve it. But you are trying to create a space which has no boundaries, right? So it matches like 80% of the market need, and then you just replace the tenant, improve the technology, change for example some of the layout, but you are not fundamentally changing the property on its own.
+
+*Automatic transcript, Q&A, 00:48:14. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

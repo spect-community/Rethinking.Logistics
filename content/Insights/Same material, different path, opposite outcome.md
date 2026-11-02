@@ -13,7 +13,6 @@ tags:
   - "topic/materials"
   - "topic/carbon"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics:
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-The core experiment of Jiří Vele's PhD research at the Faculty of Architecture CTU Prague: printed samples where only the toolpath differs, planar (flat layers) versus non-planar (curved layers).
+The core experiment of Vele's PhD research (CTU Prague): the hypothesis that adjusted, non-planar layers could print larger overhangs, for example for window openings, without supports. He tested it first in clay and then in larger concrete samples.
 
-## Quote
+## From the transcript
 
-> "with just changing the print path, you can achieve greater design freedom and more structurally sound elements"
+> So the idea was to print the same samples, or the same geometries, with the same amount of material with the same layer and print time. The only difference is that the top samples are printed non-planarly, so the printer moves in a different way than in the bottom. […] you can see that the planar printing is already failing, but this one still holds the shape. […] So I did do some larger, more concrete experiments and you can see that in the non-planar case it again worked and in a planar case it didn't work. So this kind of tells you that with just changing the print path, you can achieve greater design freedom and more structurally sound elements.
+
+*Automatic transcript, presentation, around 00:25–00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

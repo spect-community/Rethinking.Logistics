@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/synergy"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,4 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Continuing the non-planar printing tests of his PhD research, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) shows how the tested profiles could be turned into a spatial structure.
+Vele (CTU Prague / Scoolpt) closes the PhD part of the lecture: the non-planar samples had been designed only as two-dimensional profiles, and he shows how they could become a spatial structure.
+
+## From the transcript
+
+> These designs were designed only in 2 dimensions and the question was how to like create more 3D structures. And here you can see that if you combine these, or if you rotate these shapes around its axis and duplicate them like 5 times, you can create like this column to arch to kind of dome-ish structure. So this could be a solution for even some kind of church-like Gothic geometries.
+
+*Automatic transcript, presentation, around 00:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/data"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-At the start of the lecture, Petr Zahradník (EkoWATT) explains why buildings need assessment beyond energy, using comparisons to make the scale of material extraction and water use in the Czech Republic and Prague easier to grasp.
+At the start of the lecture, Petr Zahradník (EkoWATT) explains that green building certification covers much more than energy, and uses comparisons to make Czech data on the extraction of building materials and on water use in Prague easier to imagine.
 
-## Quote
+## From the transcript
 
-> "it's like when you dig 5% of Prague to a depth of 1m"
+> So when we look at the material, the most important materials for building, which is [stone], sand and brick, we see that 24,000,000 cubic meters of these materials have been extracted in five years. For comparison […] this is about the amount of material is like when you dig 5% of Prague [to a depth] of 1m. […] Definitely we see that the volume that people in Prague flush in sink basin [and] toilet is like 12 billion litres per year, which equals to [a] small dam or […] it's almost 5000 Olympic pools for swimming.
+
+*Automatic transcript, presentation, around 00:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

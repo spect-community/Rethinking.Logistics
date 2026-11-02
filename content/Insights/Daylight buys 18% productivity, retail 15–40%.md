@@ -13,7 +13,6 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/synergy"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -23,11 +22,13 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) continues the case that green buildings pay off through their occupants, with figures he attributes to the same 2013 World Green Building Council survey. The claim bank notes that the retail figure comes from an earlier study (Heschong Mahone, 1999) and that the 18% and 23% do not appear in the WorldGBC report.
+Continuing the case that green buildings pay off through their occupants, Petr Zahradník (EkoWATT) gives further figures from the same 2013 World Green Building Council survey. They match the transcript; the claim bank's fact-check notes that the retail figure comes from an earlier study (Heschong Mahone, 1999) and that the 18% and 23% do not appear in the WorldGBC report.
 
-## Quote
+## From the transcript
 
-> "the workers are 18% more productive. There are 15 to 40% increases in retail sales."
+> Definitely people stayed short[er] time in hospitals when you had a good daylight available, not only artificial but real daylight, the workers are 18% more productive. There are 15 to 40% increases in retail sales. So people spend more money when they feel better in the shopping centre, etcetera. Technical systems and building productivity increase by 23%. When you have better lighting, when you can set individual temperature in your office, for example, you again you feel better, you work better.
+
+*Automatic transcript, presentation, around 00:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

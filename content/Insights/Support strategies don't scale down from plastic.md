@@ -12,7 +12,6 @@ tags:
   - "topic/materials"
   - "topic/trade-off"
   - "topic/circularity"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,7 +19,13 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains how overhangs could be supported in concrete printing, comparing it with plastic printing, and mentions a project printed in a box of sand whose name is garbled in the transcript.
+A student asked whether Vele (CTU Prague / Scoolpt) had experimented with printing a support first and then printing on top of it. He compares supports in concrete and plastic printing and mentions a structure printed in a box of sand; its name is garbled in the transcript ('Botistavka').
+
+## From the transcript
+
+> The issue with supports in concrete is that concrete is very heavy and very, very difficult to remove the supports afterwards. So it really likes to stick to each other. […] in the plastic you have like these small columns and then you bridge them with the layer which serves as a support. But in concrete, if you would just scale up this idea, it wouldn't work because the thin structures for supports would collapse with concrete as well. So you would need to use some kind of 3D structures which would already consume a lot of concrete. And then you would have to like do a lot of hammering. […] You can see that there are like these small balls. They are quite light. So you can like pour them inside and they can hold the desired shape quite well. Sometimes even sand is used. […] The issue with sand is that it's kind of heavy and if you print like big overhangs, the sand pressures the material and can sometimes [deform it] just by its own weight. So sometimes better to use like these lightweight things. — (Q&A) the top layer sticks to the concrete. It's kind of sticky.
+
+*Automatic transcript, Q&A, 00:40:46. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Transcription
 

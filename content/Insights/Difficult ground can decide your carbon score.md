@@ -14,7 +14,6 @@ tags:
   - "topic/trade-off"
   - "topic/landscape"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -24,8 +23,10 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, the UCEEB researcher returns to the case study of a house designed in three material variants and explains what dominated its carbon footprint.
+In the Q&A after the LCA part, a student asked why the foundations dominated the carbon footprint of the family house designed in three material variants. Julie Železná (UCEEB, CTU Prague) answers.
 
-## Quote
+## From the transcript
 
-> "there is a question if the limits for the carbon footprint of buildings are really usable for every case"
+> The reason was that this building was built in a really hard foundation conditions. […] So even if the building above ground looks like very small, the foundations were very deep. It was like about 1 1/2 meter deep. So then the concrete that was used was the worst material and the main hotspot in the whole LCA. […] So there's the things that are quite strange, that sometimes you really can't influence where your building is. So you have to build the foundations which are deeper, but your carbon footprint is then higher. So there is a question if the limits for the carbon footprint of buildings is really usable for every case.
+
+*Automatic transcript, Q&A, 01:43:28. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

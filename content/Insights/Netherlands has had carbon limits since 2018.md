@@ -12,7 +12,6 @@ tags:
   - "topic/carbon"
   - "topic/data"
   - "topic/economics"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -21,7 +20,13 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researchers show a map of how ready EU countries are for building carbon limits, and where Czechia stands.
+After the EU timeline, Julie Železná (UCEEB, CTU Prague) shows a map of how ready EU member states are for building carbon limits, and where Czechia stands.
+
+## From the transcript
+
+> And it's actually a large problem for most of the EU countries. Some of them are farther, but many of them are not. We are like in the middle here. […] You can see that, for example, the dark blue ones, they are already having the limits for carbon footprint of buildings since 22, in Netherlands already since 2018. So they are really forward. They have the databases, they have the calculation tools, etcetera. We are, as I said, like in the middle […] we now have the legislation for sure, because we have a new database for Czech building practice. We have some tools, but they are still developing.
+
+*Automatic transcript, presentation, 01:14:50. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Externally checked
 

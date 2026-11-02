@@ -12,7 +12,6 @@ tags:
   - "topic/energy"
   - "topic/carbon"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Operational energy and on-site renewables]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researchers explain what has the greatest effect on the carbon footprint of buildings and of products in general.
+Julie Železná (UCEEB, CTU Prague) explains why carbon matters even in Europe, and what drives the carbon footprint of buildings and products.
 
-## Quote
+## From the transcript
 
-> "the nuclear power has one of the main impacts on the electricity mix because it's actually without emissions"
+> I'm sometimes asked why in Europe we are actually caring about it, because we are not the worst producer of emissions. But here you can see that […] EU has about 8% impact in the total global [greenhouse gas] emissions. So it's not negligible. What is very important and what has the main, let's say, main impact on the carbon footprint of everything is the electricity mix. […] We have other fuels which are used in the industry, for sure. And they are used a lot. Still, electricity is something that could have a very, very bad impact. But here you can see that during the years it's getting lower. And the reason is for sure […] the renewables that are used for electricity production, like solar power or wind power, etcetera. But also, let's say, that the nuclear power […] has one of the main impacts on the electricity mix, because it's actually without emissions, or carbon emissions. So it's not only renewables here.
+
+*Automatic transcript, presentation, 01:10:18. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

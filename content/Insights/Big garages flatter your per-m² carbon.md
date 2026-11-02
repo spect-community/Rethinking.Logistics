@@ -14,7 +14,6 @@ tags:
   - "topic/trade-off"
   - "topic/provocation"
   - "topic/certification"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics:
@@ -23,8 +22,10 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researchers present the Skanska Dřevák study (garbled as 'Drewag' in the transcript), which compared a timber residential building with conventional ones in kg CO2 per m² per year.
+Continuing the Skanska Dřevák case study ("Drewag" in the transcript), Julie Železná (UCEEB, CTU Prague) warns against taking final LCA results at face value: the per-m² figure for the conventional buildings O and K was pulled down by their large underground garages.
 
-## Quote
+## From the transcript
 
-> "when you have a lot of garages which don't need a lot of materials, then you get to a lower number of the total building. And this is really strange."
+> And this is one thing that I wanted to show you, that you should take care about the final results you get from the calculation, that you should go deeper into what really happened in the calculation. Here you can see that the building O [and] K got about [22–23] kilograms of CO2, but the garages under the buildings got only 9 kilograms CO2 per square meter and a year, and together, if you calculated it per square meter, because the garages were quite large, finally you get to the number 19. And when we calculated the timber building, we get actually higher number, but this number is not higher [than] this number, but it's only higher [than] the total one, which actually means that when you have a lot of garages which don't need a lot of materials […] because there is only concrete, nothing else, then you get to a lower number of the total building. And this is really strange.
+
+*Automatic transcript, presentation, 01:39:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

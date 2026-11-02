@@ -13,7 +13,6 @@ tags:
   - "topic/people"
   - "topic/trade-off"
   - "topic/taxonomy"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt), who works both as a researcher and with a concrete-printing company, describes the tension between those who print objects and those who design them.
+Continuing the answer about failed prints and time pressure, Vele (CTU Prague / Scoolpt) stresses careful preparation (checking data, robot reach and material) and returns to the question of printability.
 
-## Quote
+## From the transcript
 
-> "every manufacturer will prefer the simplest objects to print. Whilst the designers or architects want to express this design freedom"
+> And that's why the question of printability is like so huge, because every manufacturer will prefer the simplest objects to print because they have a high chance of success of printability. Whilst the designers or architects, you of course want, you know, to express this design freedom, and it doesn't meet at these expectations. So somehow like both need to make some compromises and to find some middle ground. And yeah, this middle ground is then possible, hopefully.
+
+*Automatic transcript, Q&A, 00:52:07. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -13,7 +13,6 @@ tags:
   - "topic/city"
   - "topic/trade-off"
   - "strategy/2-adaptive-modular"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Adaptable and relocatable logistics structures]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) explains that Czech developers must secure land and permits long before they know the customer, and how they plan permits for that uncertainty.
+Pavel Sovička (Panattoni CZ & SK) describes Panattoni's project flow in Czechia: because zoning does not guarantee timing, sites are acquired and permitted long before a customer is known.
 
-## Quote
+## From the transcript
 
-> "we are trying to stretch the permits into the maximum levels of the zoning and of the community acceptance"
+> You have to start with the preparation of the site much earlier than the customer comes, because generally the zoning, the master plan in the Czech Republic doesn't guarantee you the timing […] In that process we are trying to stretch the permits into the maximum levels of the zoning and of the community acceptance. That means the height, the access, traffic and so on. So we […] set as little boundaries as possible, as wide boundaries as possible, so we can attract any business which is welcome to the community and the business has interest to come to the location.
+
+*Automatic transcript, presentation, 00:25:29. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

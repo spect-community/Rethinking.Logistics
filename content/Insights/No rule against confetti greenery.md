@@ -14,7 +14,6 @@ tags:
   - "topic/certification"
   - "topic/externality"
   - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
@@ -24,8 +23,10 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, a student asked whether LEED prevents the required green area from being split into small fragments, such as strips between parking bays, instead of being kept continuous for biodiversity. Petr Zahradník (EkoWATT) answers.
+In the Q&A a student asked whether LEED has clear rules on the continuity or size of green areas around a building, since they are often split into small patches, such as green strips between parking spaces, that make little sense for biodiversity. Petr Zahradník (EkoWATT) answers that he is not sure.
 
-## Quote
+## From the transcript
 
-> "if you have half a square meter of green somewhere in the middle of a concrete square, it will probably not be counted"
+> To be honest, I'm not sure if that's some minimum requirement, but I think there are some minimal areas that can be counted into the, I would say, green ratio or something. So if you have a [patch] of 1/2 square meter of some green somewhere in the middle of [a] concrete square, it will probably not be counted. […] but I don't know what is the limit in detail because there are so many […] that I don't remember these things, sorry.
+
+*Automatic transcript, Q&A, 01:09:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

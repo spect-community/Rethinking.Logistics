@@ -13,7 +13,6 @@ tags:
   - "topic/people"
   - "topic/taxonomy"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Automation and operational efficiency of logistics]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing the limits of certification for logistics halls, the UCEEB researchers (CTU Prague) point out that the tools assume a building with users.
+Barbora Hejtmánková (UCEEB, CTU Prague) asks whether certification systems made for offices, schools or housing work for logistics development: energy, water and location criteria do, user-comfort criteria do not.
 
-## Quote
+## From the transcript
 
-> "they are still thinking about the user and not so much about the location where it is and who is using it"
+> And how is it with the logistic development? Is it working, or where could we [find] some problems and limits? What's work[ing] is the basic one, like energy, water or location. Because when you take this criteria, the building[s] are really so huge. So you need to speak about energy. They have so big parking lot[s]. So you need to speak about water management […] But there are the criterias about user comfort as well. And are they working with these [halls] where we have just some robotic things inside and there are no users? So this is, I think, [a] big limitation of these tools, because they are still thinking about the user and not so much about the location where is it and who is using it.
+
+*Automatic transcript, presentation, 00:38:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -12,7 +12,6 @@ tags:
   - "topic/provocation"
   - "topic/materials"
   - "topic/taxonomy"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Introducing his research, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) compares the promise of concrete 3D printing with what is typically built.
+A second reason Vele (CTU Prague / Scoolpt) gives for focusing his PhD on design and slicing: the gap between what concrete 3D printing promises and what is usually built with it.
 
-## Quote
+## From the transcript
 
-> "that's rather called a 2 1/2 D printing because you're just stacking the same layers on top of each other"
+> And from another aspect of looking on these issues, the 3D printing is often seen as the solution that can allow you to create anything basically. But this expectation is not met with a reality where in reality, most often you just draw something in the layout and extrude it upwards so you don't have any overhangs, openings and other interesting features. And that's rather called like a 2 1/2 D printing because you're just stacking the same layers on top of each other. And that's why I started to focus on like this design part and the slicing and how to create more design freedom and to achieve like a greater structural soundness of the object.
+
+*Automatic transcript, presentation, around 00:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

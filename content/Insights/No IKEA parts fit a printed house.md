@@ -13,7 +13,6 @@ tags:
   - "topic/people"
   - "topic/trade-off"
   - "topic/materials"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,14 +20,16 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) describes finishing the interior of Prvok, the printed house whose walls are curved and slightly deformed from printing.
+Vele (CTU Prague / Scoolpt) describes the interior of Prvok, which was shown to the public with the printed layers left visible as part of the design, and the downside of that approach when fitting it out.
+
+## From the transcript
+
+> The disadvantage of this approach is that when you are printing these shapes, you cannot go to IKEA and buy a shelf or a wardrobe or buy a simple claddings and then hope you're gonna do this fast. So all the finishings like the floor, the ceilings, the shelves, the countertop of the kitchen desk were done on site manually and the people had to like measure the actual curvatures and then design the parts accordingly.
+
+*Automatic transcript, presentation, around 00:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 
 shifting cost from the machine back to hand labour.
 
 *An interpretation added when the claim bank was compiled — not said in the lecture.*
-
-## Quote
-
-> "you cannot go to IKEA and buy a shelf or a wardrobe or buy simple cladding"

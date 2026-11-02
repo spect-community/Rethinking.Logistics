@@ -12,7 +12,6 @@ tags:
   - "topic/carbon"
   - "topic/certification"
   - "topic/materials"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing life-cycle assessment and embodied carbon, Petr Zahradník (EkoWATT) comments on where Czech legislation is heading.
+After the Campus Science Park example, where the global warming potential of the materials was calculated for LEED, Petr Zahradník (EkoWATT) comments on where the Czech statutory energy performance certificate is heading.
 
-## Quote
+## From the transcript
 
-> "the global warming potential should be a part of a new version of these energy performance certificates"
+> Global warming potential is [one] that will be most probably used when […] energy performance certification, which is by law given now, […] give[s] an evaluation of energy performance of buildings […] integrally. So the global warming potential should be a part of a new version of these energy performance certificates. So this will be one day calculated for the buildings during the standard building permit process.
+
+*Automatic transcript, presentation, around 00:57. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -13,7 +13,6 @@ tags:
   - "topic/energy"
   - "topic/provocation"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics:
@@ -22,8 +21,10 @@ case_studies: []
 ---
 ## Context
 
-In the LCA part of the lecture, the UCEEB researcher discusses a case study recalculated with a greener, Norwegian-style electricity mix, and comments on the emission factor set in Czech legislation.
+Julie Železná (UCEEB, CTU Prague) shows case studies in which UCEEB lowered a building's carbon footprint by changing material producers or the energy mix; one was recalculated with a green electricity mix like Norway's.
 
-## Quote
+## From the transcript
 
-> "in legislation, the carbon emission factor is like twice as big as it really is. So this is one strange thing."
+> […] here it's another case where we worked with the energy mix. So you can see that if we used green electricity mix like they have in Norway, we got about half of the carbon footprint we have in [the] Czech Republic, if we use the carbon emission factor which is in the legislation. On the other hand, in legislation, the carbon emission factor is like twice as big as it really is. So this is [one] strange thing. So actually we don't have so big impacts.
+
+*Automatic transcript, presentation, 01:36:02. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

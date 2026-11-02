@@ -12,7 +12,6 @@ tags:
   - "topic/data"
   - "topic/energy"
   - "topic/externality"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) explains commissioning, the hand-over and tuning of a building's technical systems after construction, which LEED requires.
+Petr Zahradník (EkoWATT) walks through the stages of LEED certification on the ČSOB South Headquarters in Prague and stops at commissioning, the setting-up of the building's systems after construction and their hand-over to the operator.
 
-## Quote
+## From the transcript
 
-> "much information and data about the setting, regulations and the measurement systems are lost"
+> Commissioning is very important part of the process because what happens quite often is that the building is being constructed and then, let's say, facility or property management comes to place, but they don't get sufficient information or data or design documentation of the real state of the building into their hands. And many information and data actually about the setting, regulations and the measurement systems are lost. So this is as part of the commissioning: setting the building to run as efficiently as possible and moving the informations about the building and all the data and documentation to the new, let's say, operator of a building.
+
+*Automatic transcript, presentation, around 00:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

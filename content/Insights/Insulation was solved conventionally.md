@@ -12,7 +12,6 @@ tags:
   - "topic/energy"
   - "topic/materials"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -20,7 +19,13 @@ case_studies: []
 ---
 ## Context
 
-In the Q&A, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains how the walls of the printed house Prvok were insulated and how they perform thermally.
+A student asked whether insulation could be added to a printed building. Vele (CTU Prague / Scoolpt) answers with the walls of Prvok.
+
+## From the transcript
+
+> We did an insulation maybe in here. We printed inner and outer layer and inside we sprayed [foam] insulation. So yeah, it's insulated. It has similar characteristics as, you know, the regular house currently built in Czech Republic.
+
+*Automatic transcript, Q&A, 00:52:54. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## Editorial note
 

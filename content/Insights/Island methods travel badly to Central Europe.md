@@ -12,7 +12,6 @@ tags:
   - "topic/landscape"
   - "topic/certification"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Comparing certification systems, the UCEEB researchers (CTU Prague) explain how the country of origin shapes each system's view of landscape.
+In the Q&A after the certification part, a student asked about the difference between BREEAM and the German DGNB. Barbora Hejtmánková (UCEEB, CTU Prague) explains that DGNB drew on LEED and BREEAM and relies more on weighting, and that the systems' origins shape their view of landscape.
 
-## Quote
+## From the transcript
 
-> "England is so small and it's an island, they don't have such big nature"
+> But in [DGNB], I think that for our location it's great that they are from […] central Europe, not from islands like [BREEAM] is, because there is differences in the approach to the landscape. Because England is so small and it's [an] island, they don't have such a big nature. So […] they are thinking about it a different way than the German ones, because the conditions are different. I think this is the biggest difference between these two.
+
+*Automatic transcript, Q&A, 00:53:27. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

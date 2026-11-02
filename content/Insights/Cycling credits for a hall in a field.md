@@ -13,7 +13,6 @@ tags:
   - "topic/city"
   - "topic/provocation"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing the limits of certification for logistics halls, the UCEEB researchers (CTU Prague) give the example of points for cycling infrastructure.
+Explaining why certification tools are not ready for logistics halls, Barbora Hejtmánková (UCEEB, CTU Prague) takes cycling infrastructure as her second example after user comfort.
 
-## Quote
+## From the transcript
 
-> "if I have some warehouse in the middle of nowhere, who is coming on the bike? Nobody."
+> […] because of the cycling infrastructure, which is giving quite a lot of points. But if I have some warehouse in the middle of nowhere, who is coming on the bike? Nobody. So these are a little bit like target criterias which I think will be better if it's possible to put them away and not to evaluate [them], because then you are getting something like minus points because you are not giving accessories to cyclists. But if nobody is coming on bike, why should I speak about cyclists?
+
+*Automatic transcript, presentation, 00:40:08. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

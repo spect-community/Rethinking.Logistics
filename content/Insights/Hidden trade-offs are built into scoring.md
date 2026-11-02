@@ -12,7 +12,6 @@ tags:
   - "topic/trade-off"
   - "topic/certification"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing the limits of certification, the UCEEB researchers (CTU Prague) warn about measures added to a building only to collect points.
+Barbora Hejtmánková (UCEEB, CTU Prague) discusses the clash between universal certification criteria and the realities of logistics, and the habit of chasing points.
 
-## Quote
+## From the transcript
 
-> "at the end it means that I can have nonsense on the building just because I will get a lot of points"
+> But then the chasing of the points, what I was saying, like, OK, I will look where I can get most of them and I will do this criteria because I will get the points. But at the end it means that I can have nonsense on the building just because I will get a lot of points. And then there are some hidden trade-offs, that if I will do something, it will help me on one side, but it will do something bad on the other side. So here we should be a little bit like worried and think about the building more than about the points.
+
+*Automatic transcript, presentation, 00:41:03. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/data"
   - "topic/people"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) explains the glare metrics in her study of a Prague office floor plate and how the point of assessment is chosen.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation, introduces the two glare metrics of her study of an office building in Prague: spatial daylight glare and daylight glare probability.
 
-## Quote
+## From the transcript
 
-> "this type of analysis is done for one critical spot, which is usually chosen to be possibly the worst"
+> There's two main criteria. The first one is the spatial daylight glare, meaning which surfaces are producing glare into your eyes, which is [unsufferable] or hard to deal with. And the other one is probability of daylight glare. So how probable it is that it's gonna happen throughout the year, right? So both of these are evaluated annually and only for the hours when the workers are there, obviously. […] One special detail for these things: this type of analysis is done for one critical spot, which is usually chosen to be possibly the worst. So it's on the South facade where the sunlight can be actually really too intensive.
+
+*Automatic transcript, presentation, around 01:38–01:39. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/data"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Worker comfort and well-being]]"
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Ellen Krečková (EkoWATT) explains the simulation models used to optimise a façade, and why the simple parametric room model is not enough for visual comfort.
+Ellen Krečková (EkoWATT), speaking in Czech with live English translation, explains the parametric 'shoebox' room model used to optimise window size against heat gain and daylight in her Prague office study, and its limits for visual comfort.
 
-## Quote
+## From the transcript
 
-> "we're missing the window sill, the thickness of a wall, we're missing the frame of the window"
+> So in here you see a parametric model. It's just a shoe box model, just a box. […] the main purpose is to change the window size in order to mitigate the temperature load from [the] sun [and preserve] the daylight quality inside. […] So we're back to the shoebox model. And there's an issue that modelling it in proper qualities, which will be required for the eyesight comfort, is too tedious or too complex. […] So you can see that we're missing the window sill, the thickness of a wall, we're missing the frame of the window and these kind of things.
+
+*Automatic transcript, presentation, around 01:22 and 01:24. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

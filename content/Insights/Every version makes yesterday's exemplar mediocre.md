@@ -12,7 +12,6 @@ tags:
   - "topic/certification"
   - "topic/adaptability"
   - "topic/provocation"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) introduces his main case study, the ČSOB South Headquarters in Prague, certified under LEED v3, and puts its score in the context of later LEED versions.
+Petr Zahradník (EkoWATT) introduces his main case study, the ČSOB South Headquarters in Prague, an office building of the bank across the street from its 2008 North Headquarters, completed in 2018 and certified under LEED v3.
 
-## Quote
+## From the transcript
 
-> "nowadays this building would get definitely much less credits"
+> This is [a LEED] certified building. It's already [LEED] version 3. Nowadays we use [LEED] version 4 or 4.1, and in the middle of this year, [LEED] version 5 should be presented. This building has been finished in 2018, so that's why we are talking about [LEED] version three. Definitely the newer versions of certification are usually more strict in many credits. So nowadays this building would get definitely much less credits, but it's logical and, as I mentioned, it's already 8 years old building, but still it's top property in the country.
+
+*Automatic transcript, presentation, around 00:33. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

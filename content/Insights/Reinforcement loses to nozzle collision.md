@@ -11,7 +11,6 @@ aliases: []
 tags:
   - "topic/materials"
   - "topic/trade-off"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -19,8 +18,10 @@ case_studies: []
 ---
 ## Context
 
-Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) explains why steel reinforcement is hard to combine with concrete 3D printing.
+Vele (CTU Prague / Scoolpt) notes at the end of the presentation that the printed bridge he showed was post-tensioned. In the Q&A, answering a question (not captured in the transcript) about how the steel was placed in Prvok, he explains why rebars had to go in through the layers.
 
-## Quote
+## From the transcript
 
-> "the robot would be bumping into these objects. So when you are printing you always need ideally levelled surfaces"
+> So again, the concrete is good for pressure, not good for tension. So the tension needs to be taken care by steel. And when you are printing, you can print most of the time only concrete. […] So very often most of the projects have like a post-[tensioning phase] after the printing, which happened here as well. — (Q&A) We had to put it through the layers […] if we would put this whole piece inside the structure, we would risk […] in next layers or during the other movements, the nozzle would bump into this object. So that's also the reason why you cannot properly reinforce the structure, because of course the ideal solution would be that robot prints a layer or several layers and then you put like a steel rebar in it which looks up and it has some like height, but then like the robot would be bumping into these objects. So you have to have, when you are printing, always or ideally leveled surfaces […]
+
+*Automatic transcript, presentation, around 00:36, and Q&A, 00:39:19. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

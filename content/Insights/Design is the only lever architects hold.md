@@ -13,7 +13,6 @@ tags:
   - "topic/materials"
   - "topic/provocation"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges: []
 metrics: []
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Having described the problems of the printed house Prvok, Jiří Vele (Faculty of Architecture CTU Prague / Scoolpt) introduces his PhD research by listing the factors that decide whether an object can be printed, and which of them an architect can influence.
+Vele (CTU Prague / Scoolpt) explains why he started his PhD after Prvok. He introduces 'printability', the chance that an object will print successfully, and the groups of factors it depends on.
 
-## Quote
+## From the transcript
 
-> "the design has the highest impact on printability. And it's out of all these one of the easiest to modify"
+> And most of them, or these 4 sections, are like a material, printing parameters, hardware and environmental conditions, which are not the exact topics we as architects could focus on. And I think our strongest field which we can like direct our effort or thinking is into the design, which can be split into a geometry and the slicing. And the design has like the highest impact on printability. And it's out of all these one of the easiest to modify. So that's why I started to think about the slicing. And my PhD is about slicing.
+
+*Automatic transcript, presentation, around 00:23. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

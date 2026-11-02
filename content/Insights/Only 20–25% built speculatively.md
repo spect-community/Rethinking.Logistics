@@ -12,7 +12,6 @@ tags:
   - "topic/economics"
   - "topic/data"
   - "topic/taxonomy"
-  - "todo/transcript"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []
@@ -20,8 +19,10 @@ case_studies: []
 ---
 ## Context
 
-Pavel Sovička (Panattoni CZ & SK) describes Panattoni's approach to risk: most of what it builds in Czechia is built for a known occupier rather than speculatively.
+Pavel Sovička (Panattoni CZ & SK) says Panattoni welcomes any tenant doing legal business, and that most of its Czech projects are turnkey developments already tied to an occupier.
 
-## Quote
+## From the transcript
 
-> "out of 2,000,000 meters which we have developed in Czech, 20 percent, 25% was on speculative basis"
+> And so far we were very lucky. We are doing most of our developments as turnkey developments. So it is already linked with the occupier. So we are not looking to fill up much space on speculative basis. Out of 2,000,000 [square metres] which we have developed in [Czech], I would say 20 percent, 25% was on speculative basis. The rest is always having a customer before we start digging the ground […]
+
+*Automatic transcript, presentation, 00:35:37. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

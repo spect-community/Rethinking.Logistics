@@ -12,7 +12,6 @@ tags:
   - "topic/energy"
   - "topic/data"
   - "topic/certification"
-  - "todo/transcript"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Operational energy and on-site renewables]]"
@@ -21,8 +20,10 @@ case_studies: []
 ---
 ## Context
 
-Petr Zahradník (EkoWATT) gives the result of the energy model of the ČSOB South Headquarters in Prague, his main LEED case study.
+Petr Zahradník (EkoWATT) explains that every product and parameter of the ČSOB South Headquarters in Prague, his main LEED case study, had to be documented and proven, and gives the result of its energy model against the LEED reference building, which he describes as a common new building.
 
-## Quote
+## From the transcript
 
-> "not the consumption in technical units, but in cost it is on a level of 1/4 of LEED reference"
+> […] all the parameters are somehow controlled and regulated by [LEED]. Regarding the energy, [the] energy model of the building — consumption or energy costs, not the consumption [in] technical units, but in cost — is on a level of 1/4 of [LEED] reference. [LEED] reference [is], let's say, common new building that will be built. So it's very nice energy saving.
+
+*Automatic transcript, presentation, around 00:52. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

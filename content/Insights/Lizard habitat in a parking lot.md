@@ -13,7 +13,6 @@ tags:
   - "topic/certification"
   - "topic/provocation"
   - "strategy/1-regenerative-park"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"
@@ -23,8 +22,10 @@ case_studies: []
 ---
 ## Context
 
-Discussing the limits of certification for logistics, the UCEEB researchers (CTU Prague) give the example of biodiversity points that Czech warehouses commonly collect.
+Barbora Hejtmánková (UCEEB, CTU Prague) gives examples of measures that Czech warehouses add to collect certification points without thinking about whether they work.
 
-## Quote
+## From the transcript
 
-> "if you will put it in the middle of the parking lot, will it really help lizards or not?"
+> Here you can see, like, quite a lot of buildings, warehouse buildings in [the] Czech Republic [have a] lizard habitat. It's great because you don't need nothing, it's just a big amount of stones and you can put it everywhere, why not? But if you will put it in the middle of the parking lot, will it really help [the] lizards or not?
+
+*Automatic transcript, presentation, 00:41:44. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*

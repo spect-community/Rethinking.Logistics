@@ -4,7 +4,7 @@ source_type: expert
 locator: "1:13:25–1:14:56 — anchor: \"all new buildings will have to prove\""
 quote_type: paraphrase
 evidence_status: disputed
-confidence: "high — but see Part 6 for the exact wording of the 2028 threshold"
+confidence: "check — the transcript reads \"starting January 28\" for the public-buildings date"
 reviewed_by: ""
 relevance: 2
 aliases: []
@@ -13,7 +13,6 @@ tags:
   - "topic/certification"
   - "topic/economics"
   - "topic/data"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -23,11 +22,13 @@ case_studies: []
 ---
 ## Context
 
-In the life-cycle assessment (LCA) part of the lecture, the UCEEB researchers (CTU Prague) outline the EU legislative timeline for building carbon under the recast Energy Performance of Buildings Directive (EPBD).
+Julie Železná (UCEEB, CTU Prague) opens the life-cycle assessment (LCA) part of the lecture with the two EU instruments that now address building carbon: the EU taxonomy and the recast Energy Performance of Buildings Directive (EPBD). She then gives the EPBD timeline. The 2028 date reads as "January 28" in the transcript.
 
-## Quote
+## From the transcript
 
-> "starting January 28, actually the public buildings will have to prove the GWP already. So it's very close."
+> So nowadays there are, let's say, 2 most important legislation tools: the EU taxonomy that gives you some important requirements on […] how you should work with carbon footprint of your buildings. And there is [the] Energy Performance of Buildings Directive. […] in the last version, which is already in [force], they are focusing also on the global warming potential of the whole life cycle of the buildings. So […] starting January 2030, all new buildings will have to prove whole life carbon assessment and the numbers. And also […] the member states of EU will have to set limits for global warming potential, which is […] already in 2027. […] But starting January 28, actually the public buildings will have to prove the GWP already. So it's very close. And it's actually a large problem for most of the EU countries.
+
+*Automatic transcript, presentation, 01:13:01. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
 
 ## What needs checking
 

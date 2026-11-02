@@ -15,7 +15,6 @@ tags:
   - "topic/adaptability"
   - "topic/energy"
   - "strategy/2-adaptive-modular"
-  - "todo/transcript"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"
@@ -26,8 +25,10 @@ case_studies: []
 ---
 ## Context
 
-The UCEEB researchers close the LCA case studies with a list of lessons on what designers should do to lower a building's carbon footprint.
+Julie Železná (UCEEB, CTU Prague) closes the LCA part with an overview of lessons learned on what designers should do to lower a building's carbon footprint.
 
-## Quote
+## From the transcript
 
-> "not always, you cannot say that if you build only from wood, it's the best way"
+> […] lessons learned, what you should do to lower the carbon footprint, like overview: you should always prefer renovations before new buildings and demolition. You should optimize usable area because when you are, I don't know, four people living in a flat, you can have 150 square meters or you can have 100, or you can have 50. […] You should design the buildings with regard to resilience, as Bara was talking about, adaptability and flexibility, which actually makes the life longer. […] you should focus on the possible [disassembly] of the building, because then you can reuse the materials that are in the building when the life ends. You should use renewable energy for operation. […] And you should minimize energy consumption, use building materials which have the EPDs, because then you can prove how bad or good the material is. […] you should overall use natural and local building materials, because it will always [have] lower impact than the others. And you should try to ensure the longest possible service life. This is mainly focused on timber buildings. It's about structural protection and suitable applications. So not always, you cannot say that if you build only from wood, it's the best way, because sometimes it's not [a] good idea to use wood.
+
+*Automatic transcript, presentation, 01:40:36. Lightly cleaned: repeated words and fillers removed, omissions marked […], editorial insertions in [brackets].*
