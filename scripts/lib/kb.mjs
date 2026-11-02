@@ -121,6 +121,15 @@ export function computeAuto(kb) {
   // (computed above) or a field people type (resolved links).
   const stepNames = (c, step) => (step.startsWith("auto_") ? auto.get(c)?.[step] ?? [] : (c.links[step] ?? []).map((l) => l.note?.name).filter(Boolean))
   for (const d of schema.derived ?? []) {
+    // `tagged`: collect notes of one type whose tags start with a prefix built from this note's fields
+    if (d.tagged) {
+      for (const n of notes.filter((x) => x.type === d.on)) {
+        const prefix = d.tagged.prefix.replace(/\{(\w+)\}/g, (_, k) => String(n.data[k] ?? ""))
+        for (const t of notes.filter((x) => x.type === d.tagged.type))
+          if ((t.data.tags ?? []).some((tag) => String(tag).startsWith(prefix))) add(n, d.auto, t.name)
+      }
+      continue
+    }
     const paths = d.paths ?? [d.path]
     for (const n of notes.filter((x) => x.type === d.on)) {
       for (const p of paths) {

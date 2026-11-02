@@ -13,6 +13,7 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "strategy/3-urban-hybrid"
+  - "strategy/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Visual impact and acceptance by neighbours]]"

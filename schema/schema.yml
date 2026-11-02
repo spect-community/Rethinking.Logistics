@@ -144,7 +144,8 @@ relations:
 
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
-# (e.g. case_studies). `paths` lists several chains whose results are combined.
+# (e.g. case_studies). `paths` lists several chains whose results are combined;
+# `tagged` instead collects notes of one type by a tag prefix.
 derived:
   - on: challenge
     auto: auto_tools
@@ -152,8 +153,8 @@ derived:
     path: [auto_metrics, auto_tools]
   - on: strategy
     auto: auto_insights
-    label: Insights (via case studies, challenges and metrics)
-    paths:
-      - [case_studies, auto_insights]
-      - [challenges, auto_insights]
-      - [metrics, auto_insights]
+    label: Insights (tagged with the strategy)
+    # insights carrying the tag strategy/<number>-…, set from the context round
+    tagged:
+      type: insight
+      prefix: "strategy/{number}-"

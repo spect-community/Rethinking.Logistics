@@ -13,6 +13,7 @@ tags:
   - "topic/provocation"
   - "topic/trade-off"
   - "topic/landscape"
+  - "strategy/1-regenerative-park"
 source: "[[Knapp, Schmauck & Zehnsdorf, Sustainability 11(20) – 5846, 2019]]"
 challenges:
   - "[[Biodiversity and ecological connectivity on logistics sites]]"

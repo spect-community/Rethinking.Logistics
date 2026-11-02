@@ -13,6 +13,7 @@ tags:
   - "topic/city"
   - "topic/people"
   - "topic/adaptability"
+  - "strategy/3-urban-hybrid"
 source: "[[SEGRO, April 2024]]"
 challenges:
   - "[[Land take of logistics buildings]]"

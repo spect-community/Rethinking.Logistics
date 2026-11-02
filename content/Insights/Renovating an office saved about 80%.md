@@ -14,6 +14,7 @@ tags:
   - "topic/materials"
   - "topic/adaptability"
   - "strategy/2-adaptive-modular"
+  - "strategy/3-urban-hybrid"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon and adaptive reuse of logistics buildings]]"

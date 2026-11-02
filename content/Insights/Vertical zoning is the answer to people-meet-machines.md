@@ -14,6 +14,7 @@ tags:
   - "topic/taxonomy"
   - "topic/synergy"
   - "strategy/3-urban-hybrid"
+  - "strategy/4-mobility-last-mile"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Pedestrian–truck safety on logistics sites]]"
