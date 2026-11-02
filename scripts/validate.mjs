@@ -37,7 +37,7 @@ const draftsByFolder = Object.groupBy(kb.drafts, (n) => n.rel.split("/")[0])
 const held = Object.entries(draftsByFolder).map(([folder, ns]) => `${ns.length} in ${folder}/`).join(", ")
 
 const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes.filter((n) => n.type === t).length]))
-console.log(`Rethinking Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
+console.log(`Rethinking.Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
 if (held) console.log(`Not published (draft: true): ${held}`)
 // Numbers on strategy pages must trace to a linked note (warning only)
 if (notes.some((n) => n.type === "strategy")) {

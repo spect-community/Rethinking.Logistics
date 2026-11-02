@@ -109,7 +109,7 @@ for (const n of kb.notes) {
       merged.set(m[1], [...new Set([...(merged.get(m[1]) ?? []), ...m[2].split(", ")])])
     }
     const connections = merged.size ? `\n\n## Connections\n\n${[...merged].map(([k, v]) => `- **${k}:** ${v.join(", ")}`).join("\n")}\n` : ""
-    const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${mailto("Rethinking Logistics – correction: " + n.name)})*\n`
+    const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${mailto("Rethinking.Logistics – correction: " + n.name)})*\n`
     // Strategy pages: list items that are just an insight link get its badges and source
     if (n.type === "strategy") {
       body = body.replace(/^- \[\[([^\]|#]+)\]\]\s*$/gm, (m, name) => {
@@ -151,7 +151,7 @@ for (const n of kb.notes) for (const r of schema.relations.filter((r) => r.from 
     fs.mkdirSync(path.join(BUILD, def.folder), { recursive: true })
     fs.writeFileSync(
       path.join(BUILD, def.folder, `${safe}.md`),
-      `---\ntitle: ${JSON.stringify(l.name)}\ntags: [placeholder, type/${r.to}]\n---\n\n> [!todo] Not documented yet\n> This ${def.label.toLowerCase()} is mentioned in the knowledge base, but nobody has written its page yet. [Suggest it](${mailto("Rethinking Logistics – new page: " + l.name)}).\n\n**Mentioned in:** ${mentions.map((m) => wl(m.name)).join(", ")}\n`,
+      `---\ntitle: ${JSON.stringify(l.name)}\ntags: [placeholder, type/${r.to}]\n---\n\n> [!todo] Not documented yet\n> This ${def.label.toLowerCase()} is mentioned in the knowledge base, but nobody has written its page yet. [Suggest it](${mailto("Rethinking.Logistics – new page: " + l.name)}).\n\n**Mentioned in:** ${mentions.map((m) => wl(m.name)).join(", ")}\n`,
     )
     stubs++
   }

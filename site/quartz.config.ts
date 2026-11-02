@@ -5,8 +5,8 @@ import * as Plugin from "./quartz/plugins"
 // Values come from atlas.config.json via environment variables set by scripts/build-site.mjs.
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: process.env.SITE_TITLE ?? "Rethinking Logistics",
-    pageTitleSuffix: " · Rethinking Logistics",
+    pageTitle: process.env.SITE_TITLE ?? "Rethinking.Logistics",
+    pageTitleSuffix: " · Rethinking.Logistics",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

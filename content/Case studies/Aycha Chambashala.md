@@ -3,7 +3,7 @@ student: Aycha Chambashala
 project: Community Integrated Logistics – Redefining Logistics Architecture as Urban and Ecological Infrastructure
 portfolio: https://heyzine.com/flip-book/22c36093a3.html
 portfolio_pdf: "https://github.com/spect-community/Rethinking.Logistics/blob/main/portfolios/Aycha%20Chambashala.pdf"
-studio: AD2 (Rethinking Logistics)
+studio: AD2 (Rethinking.Logistics)
 year: 2026
 location: Yunuseli, Osmangazi, Bursa, Türkiye (next to the former Yunuseli Airport, bordering a residential area)
 typology: urban logistics centre with storage/cross-dock and offices/control points, replacing an unstructured fabrication and open-storage site
