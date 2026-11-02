@@ -8,7 +8,9 @@ description: "Design challenges → metrics → tools → case studies."
 
 From each design challenge to the metrics that inform the decision, the tools that can calculate them, and the student projects that did it.
 
-## [[Buildings that change slower than logistics|Adaptable and relocatable logistics structures]]
+## [[Buildings that change slower than logistics]]
+
+*Serves the ambition:* [[Design for disassembly and relocation]], [[Adaptable over time]], [[Modular and prefabricated architecture]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -19,22 +21,60 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Julia Kopác]]
 
-## [[Space, energy and labour needs changing with automation|Automation and operational efficiency of logistics]]
+## [[Closed sites that give little back to the city]]
+
+*Serves the ambition:* [[Public access and community use]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
-| [[Carbon per pallet handled]] | Annual (operational or whole-life) carbon ÷ pallets handled per year. | — | 1 |
-| [[Delivery time]] | Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain. | — | 2 |
-| [[Dock turnaround time]] | Time from a truck's arrival at the gate until departure (or until goods enter processing). | — | 2 |
-| [[Energy per package delivered]] | Energy used by the delivery mode over a route ÷ number of packages delivered. | — | 1 |
-| [[Jobs created]] | Number of jobs (FTE) created on site, by function. | — | 2 |
-| [[Level of automation]] | Share of handling tasks done by machines, or number of employees needed per facility at a given throughput. | — | 1 |
-| [[Space utilisation]] | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 |
-| [[Throughput per site area]] | Goods handled (parcels, pallets, tonnes) per day ÷ site area. | — | 3 |
+| [[Green area ratio]] | Vegetated area ÷ total site area × 100. | [[Grasshopper]], [[Lands Design]] | 11 |
+| [[Green space per visitor]] | Accessible green space ÷ expected daily users or visitors. | — | 1 |
+| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 7 |
+| [[Mixed-use ratio]] | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 |
+| [[Publicly accessible area]] | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 |
+| [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
 
-**Case studies:** [[Johannes Berger]]
+**Case studies:** [[Khrystyna Verbitska]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Thomas Olsen]]
 
-## [[Habitat loss and cut ecological corridors|Biodiversity and ecological connectivity on logistics sites]]
+## [[Deep, dark and noisy workplaces]]
+
+*Serves the ambition:* [[Healthy workplaces]]
+
+| Metric | How it is calculated | Tools | Case studies |
+| --- | --- | --- | --- |
+| [[Daylight autonomy]] | Share of occupied hours in which a point reaches a target illuminance (e.g. 300 lux) from daylight alone, simulated with Radiance-based tools. | [[Honeybee]], [[Pollination]] | 2 |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 5 |
+| [[Indoor air quality]] | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 |
+| [[Natural ventilation potential]] | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 |
+| [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
+| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
+| [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
+| [[Worker well-being]] | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 |
+
+**Case studies:** [[Eva Kažukolovaitė]], [[Sara Gani]]
+
+## [[Embodied carbon of new and demolished warehouses]]
+
+*Serves the ambition:* [[Low embodied carbon]], [[Reuse of existing buildings]], [[Lightweight structures]]
+
+| Metric | How it is calculated | Tools | Case studies |
+| --- | --- | --- | --- |
+| [[Biodiversity stress from materials]] | Life-cycle impact on species loss caused by material extraction and production (potentially disappeared fraction of species), calculated in LCA software. | [[One Click LCA]] | 1 |
+| [[CapEx–OpEx ratio]] | Investment cost vs. sum of operating costs over a 30-year life (undiscounted or as net present value). | [[One Click LCA]] | 3 |
+| [[Design for disassembly score]] | Checklist score: dry/reversible connections, standard modules, material passports, separable layers. | — | 1 |
+| [[Embodied carbon intensity]] | Material quantities × emission factors from EPDs/databases, summed over life-cycle modules (A1–A3 or A1–C4) ÷ gross floor area. Calculated with LCA tools such as One Click LCA or Bombyx. | [[Bombyx]], [[CO2mpare]], [[LearnCarbon]], [[One Click LCA]] | 9 |
+| [[Embodied carbon saved by reuse]] | Embodied carbon of an equivalent new building − embodied carbon of the retrofit (reused structure counted as zero or reduced). | [[One Click LCA]] | 3 |
+| [[Life-cycle impact by stage]] | LCA result split by EN 15978 modules (A1–A3, A4, A5, B, C) for each impact indicator. | [[One Click LCA]] | 1 |
+| [[Material reuse share]] | Reused or recycled material (by mass, volume or number of elements) ÷ total material × 100. | — | 2 |
+| [[Social cost of carbon]] | Total emissions (tCO2e) × a carbon price per tonne. | [[One Click LCA]] | 1 |
+| [[Structural utilisation]] | Loads (dead, live, snow per Eurocode) and the resulting utilisation of structural members, from hand calculation or finite-element analysis. | [[Donkey]], [[Karamba3D]] | 1 |
+| [[Whole-life carbon]] | (Embodied carbon + operational carbon over the reference period) ÷ number of years. | [[CO2mpare]], [[One Click LCA]] | 1 |
+
+**Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Sara Sulollari]], [[Thomas Olsen]], [[Vladi Kostecki]]
+
+## [[Habitat loss and cut ecological corridors]]
+
+*Serves the ambition:* [[Habitat and ecological connectivity]], [[Green and productive roofs]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -53,53 +93,9 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Ece Yasar]], [[Ilinca Maria Baciu]], [[Lindsay Daphne Macuja]], [[Sara Gani]]
 
-## [[Embodied carbon of new and demolished warehouses|Embodied carbon and adaptive reuse of logistics buildings]]
+## [[High operational energy demand]]
 
-| Metric | How it is calculated | Tools | Case studies |
-| --- | --- | --- | --- |
-| [[Biodiversity stress from materials]] | Life-cycle impact on species loss caused by material extraction and production (potentially disappeared fraction of species), calculated in LCA software. | [[One Click LCA]] | 1 |
-| [[CapEx–OpEx ratio]] | Investment cost vs. sum of operating costs over a 30-year life (undiscounted or as net present value). | [[One Click LCA]] | 3 |
-| [[Design for disassembly score]] | Checklist score: dry/reversible connections, standard modules, material passports, separable layers. | — | 1 |
-| [[Embodied carbon intensity]] | Material quantities × emission factors from EPDs/databases, summed over life-cycle modules (A1–A3 or A1–C4) ÷ gross floor area. Calculated with LCA tools such as One Click LCA or Bombyx. | [[Bombyx]], [[CO2mpare]], [[LearnCarbon]], [[One Click LCA]] | 9 |
-| [[Embodied carbon saved by reuse]] | Embodied carbon of an equivalent new building − embodied carbon of the retrofit (reused structure counted as zero or reduced). | [[One Click LCA]] | 3 |
-| [[Life-cycle impact by stage]] | LCA result split by EN 15978 modules (A1–A3, A4, A5, B, C) for each impact indicator. | [[One Click LCA]] | 1 |
-| [[Material reuse share]] | Reused or recycled material (by mass, volume or number of elements) ÷ total material × 100. | — | 2 |
-| [[Social cost of carbon]] | Total emissions (tCO2e) × a carbon price per tonne. | [[One Click LCA]] | 1 |
-| [[Structural utilisation]] | Loads (dead, live, snow per Eurocode) and the resulting utilisation of structural members, from hand calculation or finite-element analysis. | [[Donkey]], [[Karamba3D]] | 1 |
-| [[Whole-life carbon]] | (Embodied carbon + operational carbon over the reference period) ÷ number of years. | [[CO2mpare]], [[One Click LCA]] | 1 |
-
-**Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Sara Sulollari]], [[Thomas Olsen]], [[Vladi Kostecki]]
-
-## [[Land take of logistics buildings]]
-
-| Metric | How it is calculated | Tools | Case studies |
-| --- | --- | --- | --- |
-| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 5 |
-| [[Impervious surface ratio]] | Sealed (paved, built, roofed without retention) area ÷ total site area × 100. The permeable ratio is the complement. | [[Grasshopper]] | 5 |
-| [[Land take]] | Building footprint (plus paved operational area) ÷ site area; compared before and after. | [[Grasshopper]] | 6 |
-| [[Number of docks]] | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 |
-| [[Parking capacity]] | Number of car/truck parking spaces (or parking area) provided, and their utilisation. | — | 4 |
-| [[Space utilisation]] | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 |
-| [[Throughput per site area]] | Goods handled (parcels, pallets, tonnes) per day ÷ site area. | — | 3 |
-| [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
-
-**Case studies:** [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopác]]
-
-## [[Last-mile delivery emissions and traffic]]
-
-| Metric | How it is calculated | Tools | Case studies |
-| --- | --- | --- | --- |
-| [[Delivery catchment]] | Radius (distance or travel time) a hub can serve with a given vehicle; number of hubs needed to cover a city. | — | 2 |
-| [[Delivery time]] | Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain. | — | 2 |
-| [[Energy per package delivered]] | Energy used by the delivery mode over a route ÷ number of packages delivered. | — | 1 |
-| [[Last-mile delivery cost]] | Total cost of the final delivery step ÷ number of deliveries. | — | 2 |
-| [[Last-mile delivery emissions]] | Vehicle-km per year for each delivery mode × emission factor of that mode (kgCO2/km). | — | 3 |
-| [[Public transport accessibility]] | Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car). | [[Geoportal Praha]] | 1 |
-| [[Road freight impact]] | Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law). | — | 1 |
-
-**Case studies:** [[Johannes Berger]], [[Khrystyna Verbitska]], [[Roshni Basu]], [[Thomas Olsen]]
-
-## [[High operational energy demand|Operational energy and on-site renewables]]
+*Serves the ambition:* [[On-site renewable energy]], [[Low energy and water demand]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -117,21 +113,55 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Elsa Hauksdottir]], [[Ilinca Maria Baciu]], [[Katrin Rybinskiy]], [[Marek Nový]]
 
-## [[Wind, heat and missing shade around large buildings|Outdoor microclimate around logistics buildings]]
+## [[Land take of logistics buildings]]
+
+*Serves the ambition:* [[Compact footprint]], [[Multi-storey logistics]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
-| [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
-| [[Pedestrian-level wind speed]] | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]], [[Jifto]] | 1 |
-| [[Sun exposure of outdoor space]] | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Jifto]], [[Ladybug]] | 2 |
-| [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
-| [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
-| [[Urban heat island effect]] | Surface or air temperature difference to a rural reference, simulated or from satellite maps. | [[Dragonfly]] | 2 |
-| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Jifto]], [[Ladybug]] | 2 |
+| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 5 |
+| [[Impervious surface ratio]] | Sealed (paved, built, roofed without retention) area ÷ total site area × 100. The permeable ratio is the complement. | [[Grasshopper]] | 5 |
+| [[Land take]] | Building footprint (plus paved operational area) ÷ site area; compared before and after. | [[Grasshopper]] | 6 |
+| [[Number of docks]] | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 |
+| [[Parking capacity]] | Number of car/truck parking spaces (or parking area) provided, and their utilisation. | — | 4 |
+| [[Space utilisation]] | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 |
+| [[Throughput per site area]] | Goods handled (parcels, pallets, tonnes) per day ÷ site area. | — | 3 |
+| [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
 
-**Case studies:** [[Julia Kopác]], [[Robin Jesenský]], [[Sara Sulollari]]
+**Case studies:** [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopác]]
 
-## [[Pedestrian–truck conflicts on logistics sites|Pedestrian–truck safety on logistics sites]]
+## [[Large paved truck yards and waiting times]]
+
+*Serves the ambition:* [[Efficient truck flow and compact yards]]
+
+| Metric | How it is calculated | Tools | Case studies |
+| --- | --- | --- | --- |
+| [[Dock turnaround time]] | Time from a truck's arrival at the gate until departure (or until goods enter processing). | — | 2 |
+| [[Number of docks]] | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 |
+| [[Truck throughput]] | Trucks handled per hour (or day), counted in a simulation or from operational data. | — | 2 |
+| [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
+
+**Case studies:** [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vladi Kostecki]]
+
+## [[Last-mile delivery emissions and traffic]]
+
+*Serves the ambition:* [[Fewer and cleaner last-mile trips]], [[Micro-hub networks]], [[Cargo bikes and light electric vehicles]], [[Freight consolidation]], [[Drone and autonomous delivery]]
+
+| Metric | How it is calculated | Tools | Case studies |
+| --- | --- | --- | --- |
+| [[Delivery catchment]] | Radius (distance or travel time) a hub can serve with a given vehicle; number of hubs needed to cover a city. | — | 2 |
+| [[Delivery time]] | Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain. | — | 2 |
+| [[Energy per package delivered]] | Energy used by the delivery mode over a route ÷ number of packages delivered. | — | 1 |
+| [[Last-mile delivery cost]] | Total cost of the final delivery step ÷ number of deliveries. | — | 2 |
+| [[Last-mile delivery emissions]] | Vehicle-km per year for each delivery mode × emission factor of that mode (kgCO2/km). | — | 3 |
+| [[Public transport accessibility]] | Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car). | [[Geoportal Praha]] | 1 |
+| [[Road freight impact]] | Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law). | — | 1 |
+
+**Case studies:** [[Johannes Berger]], [[Khrystyna Verbitska]], [[Roshni Basu]], [[Thomas Olsen]]
+
+## [[Pedestrian–truck conflicts on logistics sites]]
+
+*Serves the ambition:* [[Safe sites with separated flows]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -141,20 +171,26 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adéla Berkovitz]], [[Eva Kažukolovaitė]], [[Lindsay Daphne Macuja]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]]
 
-## [[Closed sites that give little back to the city|Public access and community use of logistics sites]]
+## [[Space, energy and labour needs changing with automation]]
+
+*Serves the ambition:* [[Efficient automated operations]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
-| [[Green area ratio]] | Vegetated area ÷ total site area × 100. | [[Grasshopper]], [[Lands Design]] | 11 |
-| [[Green space per visitor]] | Accessible green space ÷ expected daily users or visitors. | — | 1 |
-| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 7 |
-| [[Mixed-use ratio]] | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 |
-| [[Publicly accessible area]] | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 |
-| [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
+| [[Carbon per pallet handled]] | Annual (operational or whole-life) carbon ÷ pallets handled per year. | — | 1 |
+| [[Delivery time]] | Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain. | — | 2 |
+| [[Dock turnaround time]] | Time from a truck's arrival at the gate until departure (or until goods enter processing). | — | 2 |
+| [[Energy per package delivered]] | Energy used by the delivery mode over a route ÷ number of packages delivered. | — | 1 |
+| [[Jobs created]] | Number of jobs (FTE) created on site, by function. | — | 2 |
+| [[Level of automation]] | Share of handling tasks done by machines, or number of employees needed per facility at a given throughput. | — | 1 |
+| [[Space utilisation]] | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 |
+| [[Throughput per site area]] | Goods handled (parcels, pallets, tonnes) per day ÷ site area. | — | 3 |
 
-**Case studies:** [[Khrystyna Verbitska]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Thomas Olsen]]
+**Case studies:** [[Johannes Berger]]
 
 ## [[Stormwater and sealed surfaces on logistics sites]]
+
+*Serves the ambition:* [[Rainwater kept on site]], [[Green and productive roofs]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -170,35 +206,9 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Adam Večeřa]], [[Aycha Chambashala]], [[Ece Yasar]], [[Hynek Hrabík]], [[Ilinca Maria Baciu]], [[Marek Nový]], [[Natalie Žižková]]
 
-## [[Large paved truck yards and waiting times|Truck flow and yard efficiency]]
+## [[Visual impact of logistics on neighbours]]
 
-| Metric | How it is calculated | Tools | Case studies |
-| --- | --- | --- | --- |
-| [[Dock turnaround time]] | Time from a truck's arrival at the gate until departure (or until goods enter processing). | — | 2 |
-| [[Number of docks]] | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 |
-| [[Truck throughput]] | Trucks handled per hour (or day), counted in a simulation or from operational data. | — | 2 |
-| [[Yard area per dock]] | Paved manoeuvring and apron area ÷ number of docks; apron depth checked with vehicle swept-path analysis. | [[AutoTURN]] | 1 |
-
-**Case studies:** [[Adéla Berkovitz]], [[Aycha Chambashala]], [[Hynek Hrabík]], [[Vladi Kostecki]]
-
-## [[Urban integration of logistics buildings]]
-
-| Metric | How it is calculated | Tools | Case studies |
-| --- | --- | --- | --- |
-| [[Distance to housing]] | Distance from noisy or hazardous logistics functions to the nearest residential building; or share of such functions outside a buffer zone. | [[Geoportal Praha]], [[Grasshopper]] | 3 |
-| [[Green-core anchoring of mixed uses]] | Building entrances (or ground-floor frontage length) of all uses within a set walking distance (e.g. 100 m) of a shared green spine ÷ total entrances (or frontage length). | — | 7 |
-| [[Jobs created]] | Number of jobs (FTE) created on site, by function. | — | 2 |
-| [[Mixed-use ratio]] | Floor area of non-logistics uses (retail, workshops, community, offices) ÷ total floor area. | — | 5 |
-| [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
-| [[Public transport accessibility]] | Walking distance from the entrance to the nearest stops, or a score by transport mode (walk, bike, tram, bus, car). | [[Geoportal Praha]] | 1 |
-| [[Publicly accessible area]] | Area freely open to the public (plazas, parks, roofs, ground-floor uses) ÷ site area. | [[Grasshopper]] | 8 |
-| [[Social acceptance]] | Resident and user survey, or qualitative assessment, of whether the logistics activity is perceived as a benefit rather than a nuisance. | — | 2 |
-| [[Social interaction index]] | Observed or estimated number of people using the public spaces of the project per day. | — | 3 |
-| [[Walkability]] | Walk Score-type index, or a custom score of route continuity, crossings and destinations within walking distance. | — | 3 |
-
-**Case studies:** [[Adam Večeřa]], [[Adéla Berkovitz]], [[Amy Naprstek]], [[Aycha Chambashala]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]], [[Ilinca Maria Baciu]], [[Julia Godard Lombard]], [[Julia Kopác]], [[Khrystyna Verbitska]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Natalie Žižková]], [[Roshni Basu]], [[Sara Gani]], [[Sara Sulollari]], [[Vladi Kostecki]]
-
-## [[Visual impact of logistics on neighbours|Visual impact and acceptance by neighbours]]
+*Serves the ambition:* [[Good neighbour]], [[Screening with greenery and façades]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -209,6 +219,8 @@ From each design challenge to the metrics that inform the decision, the tools th
 **Case studies:** [[Ece Yasar]], [[Elsa Hauksdottir]], [[Katrin Rybinskiy]]
 
 ## [[Waste heat and cooling of data centres]]
+
+*Serves the ambition:* [[Shared waste heat]], [[Low energy and water demand]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
@@ -221,17 +233,18 @@ From each design challenge to the metrics that inform the decision, the tools th
 
 **Case studies:** [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Robin Jesenský]]
 
-## [[Deep, dark and noisy workplaces|Worker comfort and well-being]]
+## [[Wind, heat and missing shade around large buildings]]
+
+*Serves the ambition:* [[Outdoor comfort]]
 
 | Metric | How it is calculated | Tools | Case studies |
 | --- | --- | --- | --- |
-| [[Daylight autonomy]] | Share of occupied hours in which a point reaches a target illuminance (e.g. 300 lux) from daylight alone, simulated with Radiance-based tools. | [[Honeybee]], [[Pollination]] | 2 |
-| [[Function stacking index]] | Σ(area of each surface × number of functions it serves) ÷ total surface area (ground + roof + facade). Functions: logistics operation, stormwater handling, habitat, human amenity, energy. | — | 5 |
-| [[Indoor air quality]] | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 |
-| [[Natural ventilation potential]] | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
+| [[Pedestrian-level wind speed]] | CFD simulation of wind around the buildings at about 1.5 m height for prevailing wind directions; compared with comfort criteria (e.g. Lawson). | [[Butterfly]], [[Eddy3D]], [[Jifto]] | 1 |
+| [[Sun exposure of outdoor space]] | Sunlight-hours analysis on the ground plane for key days (e.g. equinox, summer solstice). | [[Cyclops]], [[Jifto]], [[Ladybug]] | 2 |
 | [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
-| [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
-| [[Worker well-being]] | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 |
+| [[Tree count and canopy cover]] | Number of trees (or crown area) on site ÷ site area; compared before and after the design. | [[Lands Design]] | 3 |
+| [[Urban heat island effect]] | Surface or air temperature difference to a rural reference, simulated or from satellite maps. | [[Dragonfly]] | 2 |
+| [[Wind conditions]] | Wind rose from a weather file (EPW) or wind atlas: frequency of wind speeds per direction. | [[Eddy3D]], [[Jifto]], [[Ladybug]] | 2 |
 
-**Case studies:** [[Eva Kažukolovaitė]], [[Sara Gani]]
+**Case studies:** [[Julia Kopác]], [[Robin Jesenský]], [[Sara Sulollari]]
