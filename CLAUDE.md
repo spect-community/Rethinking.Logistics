@@ -8,7 +8,7 @@ Knowledge base (Obsidian vault in `content/`, Quartz site at logistics.spect.cz)
 - After a phase is approved, mark it `done` in the PLAN.md table and add one line to its log.
 
 ## Git
-- Work only on branch `edition-1.0`. Never commit to or push `main`; never run the *Deploy website* workflow.
+- Work on branch `edition-1.0`; never commit directly to `main`. When Lukáš asks to deploy, fast-forward `main` to `edition-1.0` and push it (the push runs the *Deploy website* workflow).
 - Small, descriptive commits; one phase = one PR into `edition-1.0`.
 
 ## Knowledge base rules (from README)
