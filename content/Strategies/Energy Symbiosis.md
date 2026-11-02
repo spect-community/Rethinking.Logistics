@@ -95,6 +95,8 @@ The exhibition also showed *Cloud in the City – Understanding Data Centers*, a
 
 ![[Flow-through Logistics (group).jpg]]
 
+*Group sheet, top to bottom: [[Hynek Hrabík]] (flow-through logistics), [[Adéla Berkovitz]] (battery recycling, Česká Lípa), [[Robin Jesenský]] (hybrid cooling data centre).*
+
 ![[Cloud in the City – Understanding Data Centers.jpg]]
 
 ## Key metrics

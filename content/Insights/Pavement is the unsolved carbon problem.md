@@ -19,7 +19,9 @@ challenges:
   - "[[Truck flow and yard efficiency]]"
 metrics:
   - "[[Embodied carbon intensity]]"
-case_studies: []
+  - "[[Yard area per dock]]"
+case_studies:
+  - "[[Hynek Hrabík]]"
 ---
 ## Context
 

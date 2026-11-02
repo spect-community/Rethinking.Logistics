@@ -31,7 +31,9 @@ tools:
   - "[[AutoTURN]]"
   - "[[Kangaroo]]"
   - "[[Grasshopper]]"
-auto_insights: []
+auto_insights:
+  - "[[Automated trucks will not change the loading dock]]"
+  - "[[Pavement is the unsolved carbon problem]]"
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
 ---

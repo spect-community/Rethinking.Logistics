@@ -109,6 +109,8 @@ Five student projects work with this approach, from one pavilion under a bridge 
 
 ![[Flow-through Logistics (group).jpg]]
 
+*Group sheet, top to bottom: [[Hynek Hrabík]] (flow-through logistics), [[Adéla Berkovitz]] (battery recycling, Česká Lípa), [[Robin Jesenský]] (hybrid cooling data centre).*
+
 ## Key metrics
 
 All values are as reported by the student; several are literature values cited for the hub model, not calculated for the site, and are marked as such.
@@ -122,8 +124,8 @@ All values are as reported by the student; several are literature values cited f
 | [[Delivery catchment]] | 12 micro-hubs, 2.5 km radius each | [[Roshni Basu]] |
 | [[Publicly accessible area]] | 0 → about 210 m² | [[Khrystyna Verbitska]] |
 | [[Embodied carbon saved by reuse]] | about 210,000 kgCO2e (estimate, 70% saving assumed) | [[Khrystyna Verbitska]] |
-| [[Last-mile delivery emissions]] | −40% (literature value, source not stated) | [[Khrystyna Verbitska]] |
-| [[Last-mile delivery cost]] | −34% (literature value, source not stated) | [[Khrystyna Verbitska]] |
+| [[Last-mile delivery emissions]] | −40% (general figure for the micro-hub model; no source given, none found) | [[Khrystyna Verbitska]] |
+| [[Last-mile delivery cost]] | −34% supply-chain cost (general figure for the micro-hub model; no source given, none found) | [[Khrystyna Verbitska]] |
 | [[Energy per package delivered]] | up to 94% lower for drones (literature value) | [[Johannes Berger]] |
 
 For comparison, experts report that urban consolidation centres can cut freight vehicle trips by 20–50% in some cases, depending on location and use ([[Consolidation centres cut trips 20–50%]]), and that a redesigned compact electric cargo scooter gave a 30% efficiency gain over vans ([[Rethinking the vehicle beats electrifying it]]).
@@ -138,7 +140,7 @@ For comparison, experts report that urban consolidation centres can cut freight 
 
 ## Evidence gaps
 
-- Most delivery figures are literature values, not modelled for the project's own catchment; no project calculates vehicle-km or emissions for its own delivery model ([[Khrystyna Verbitska]], [[Johannes Berger]], [[Eva Kažukolovaitė]]).
+- Most delivery figures are literature values, not modelled for the project's own catchment; no project calculates vehicle-km or emissions for its own delivery model ([[Khrystyna Verbitska]], [[Johannes Berger]], [[Eva Kažukolovaitė]]). The −34% and −40% micro-hub figures could not be traced to a published study and need a source before they are quoted.
 - [[Last-mile delivery emissions]], [[Delivery time]], [[Delivery catchment]], [[Truck throughput]] and [[Pedestrian–vehicle conflict points]] are used without any calculation tool, and no tool in the knowledge base yet covers them ([[Evidence gaps]]).
 - KPI charts are shown without numbers: unlabelled before/after bars in [[Roshni Basu]], and environmental and turnaround indicators in [[Hynek Hrabík]].
 - Hub locations are chosen from density maps or site availability, not from freight-flow data, which experts name as the general weakness of hub siting ([[Hub placement decided without data]]).

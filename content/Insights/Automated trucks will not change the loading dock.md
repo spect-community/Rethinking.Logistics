@@ -18,7 +18,8 @@ challenges:
   - "[[Automation and operational efficiency of logistics]]"
 metrics:
   - "[[Number of docks]]"
-case_studies: []
+case_studies:
+  - "[[Hynek Hrabík]]"
 ---
 ## Context
 

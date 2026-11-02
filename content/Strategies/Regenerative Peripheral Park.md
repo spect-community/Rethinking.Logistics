@@ -147,6 +147,8 @@ The exhibition also showed *Too Green To Be True!*, a contribution by landscape 
 
 ![[Humanizing Logistics (group).jpg]]
 
+*Group sheet, top to bottom: [[Lindsay Daphne Macuja]], [[Marek Nový]] (Visible Industry, Otovice — on the sheet this project carries another student’s name), [[Aycha Chambashala]].*
+
 ![[Too Green To Be True!.jpg]]
 
 ## Key metrics
