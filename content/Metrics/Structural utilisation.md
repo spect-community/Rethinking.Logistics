@@ -24,6 +24,7 @@ auto_insights:
   - "[[Same material, different path, opposite outcome]]"
   - "[[Solar is now a building code, not a choice]]"
   - "[[Tested to 50 tons without failing]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Donkey]]"

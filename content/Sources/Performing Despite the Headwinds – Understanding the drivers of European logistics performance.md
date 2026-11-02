@@ -38,6 +38,7 @@ auto_insights:
   - "[[Vacancy – 5.5% average, but zero in Munich and Hamburg]]"
   - "[[Warehouses aren't sexy — but that's changing]]"
   - "[[Yields – 8% then 3.5% then 5%, now flat]]"
+auto_references: []
 ---
 
 Lecture 5 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.2.2026.

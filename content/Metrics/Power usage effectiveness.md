@@ -17,6 +17,7 @@ auto_case_studies:
 auto_insights:
   - "[[Each IT generation makes the building hotter]]"
   - "[[Efficiency has hit a plateau at 1.5]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
 auto_tools: []

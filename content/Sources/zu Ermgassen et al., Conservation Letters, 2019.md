@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Not one forest offset achieved no net loss]]"
+auto_references: []
 ---
 
 ## About this source

@@ -37,9 +37,17 @@ types:
     folder: Case studies
     label: Case study
     plural: Case studies
-    description: A student project from the Rethinking.Logistics studio, or an industry reference project, showing how tools deliver metrics for decisions.
-    # kind: studio | industry (empty = studio). Industry reference projects use `url` instead of `portfolio`.
-    fields: [kind, student, project, portfolio, portfolio_pdf, url, studio, year, location, typology, status, aliases]
+    description: A student project from the Rethinking.Logistics studio showing how tools deliver metrics for decisions.
+    fields: [student, project, portfolio, portfolio_pdf, studio, year, location, typology, status, aliases]
+
+  reference:
+    folder: Reference projects
+    label: Reference project
+    plural: Reference projects
+    description: A built or planned logistics project from practice, outside the studio. Figures are as published by the developer, the architect or a cited source.
+    # stage: planned | under construction | built
+    # site_area, floor_area: free text with the unit as published (e.g. "182 acres", "134,500 sq ft")
+    fields: [developer, architect, location, year, stage, typology, site_area, floor_area, certifications, url, status, aliases]
 
   strategy:
     folder: Strategies
@@ -141,6 +149,42 @@ relations:
     to: metric
     auto: auto_strategies
     label: Metrics
+    auto_label: Strategies
+  - from: reference
+    field: challenges
+    to: challenge
+    auto: auto_references
+    label: Challenges addressed
+    auto_label: Reference projects
+  - from: reference
+    field: metrics
+    to: metric
+    auto: auto_references
+    label: Metrics reported
+    auto_label: Reported in reference projects
+  - from: reference
+    field: tools
+    to: tool
+    auto: auto_references
+    label: Tools used
+    auto_label: Used in reference projects
+  - from: reference
+    field: sources
+    to: source
+    auto: auto_references
+    label: Sources
+    auto_label: Reference projects
+  - from: insight
+    field: reference_projects
+    to: reference
+    auto: auto_insights
+    label: Reference projects
+    auto_label: Insights
+  - from: strategy
+    field: reference_projects
+    to: reference
+    auto: auto_strategies
+    label: Reference projects
     auto_label: Strategies
 
 # Derived relations, also written by the sync script.

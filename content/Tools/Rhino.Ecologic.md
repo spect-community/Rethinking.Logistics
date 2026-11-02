@@ -13,6 +13,7 @@ metrics:
   - "[[Native species richness]]"
   - "[[Biodiversity net gain]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

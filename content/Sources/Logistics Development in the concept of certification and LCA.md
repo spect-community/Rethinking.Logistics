@@ -50,6 +50,7 @@ auto_insights:
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[Warehouses break the user-comfort premise]]"
   - "[[Weights should change with typology]]"
+auto_references: []
 ---
 
 Lecture 14 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 28.4.2026.

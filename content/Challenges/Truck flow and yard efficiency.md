@@ -13,6 +13,8 @@ auto_metrics:
   - "[[Number of docks]]"
   - "[[Truck throughput]]"
   - "[[Yard area per dock]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools:

@@ -11,6 +11,7 @@ aliases:
 metrics:
   - "[[Structural utilisation]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

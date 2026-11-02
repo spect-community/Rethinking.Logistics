@@ -14,6 +14,7 @@ auto_insights:
   - "[[Houses lose kilowatts, warehouses lose megawatts]]"
   - "[[Norms force oversized heat pumps]]"
   - "[[Production wants low, distribution wants high — for energy reasons]]"
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools:

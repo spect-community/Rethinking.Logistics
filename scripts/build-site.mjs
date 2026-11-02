@@ -52,7 +52,7 @@ const fmt = (v) =>
     .map((x) => (typeof x === "string" && /^https?:\/\//.test(x) ? `[${x.replace(/^https?:\/\//, "").replace(/\/$/, "").slice(0, 60)}](${x})` : String(x)))
     .join(", ")
     .replace(/\|/g, "\\|")
-const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status", number: "Number", group: "Group", summary: "Summary", hero_image: "Image", posters: "Posters", kind: "Kind", speaker: "Speaker", affiliation: "Affiliation", date: "Date", locator: "Where in the source", confidence: "Confidence", reviewed_by: "Reviewed by" }
+const LABEL = { student: "Student", project: "Project", portfolio: "Portfolio", studio: "Studio", year: "Year", location: "Location", typology: "Typology", category: "Category", unit: "Unit", calculation: "How it is calculated", origin: "Origin", standard: "Standard", platform: "Platform", developer: "Developer", url: "Website", license: "Licence", status: "Status", number: "Number", group: "Group", summary: "Summary", hero_image: "Image", posters: "Posters", kind: "Kind", speaker: "Speaker", affiliation: "Affiliation", date: "Date", locator: "Where in the source", confidence: "Confidence", reviewed_by: "Reviewed by", architect: "Architect", stage: "Stage", site_area: "Site area", floor_area: "Floor area", certifications: "Certifications" }
 // Fields shown elsewhere on the page (not in the property table)
 const HIDDEN = new Set(["aliases", "portfolio_pdf", "statement", "source_type", "evidence_status", "quote_type", "relevance", "posters", "hero_image"])
 // How the statement was recorded, in the wording of Edition 1.0
@@ -84,10 +84,7 @@ for (const n of kb.notes) {
     if (rows.length) top += `| | |\n| --- | --- |\n${rows.join("\n")}\n\n`
     if (aliases.length) top += `*Also known as:* ${aliases.join(" · ")}\n\n`
     if (n.type === "case-study" && d.portfolio) top += `**[📖 Open the portfolio](${d.portfolio})**\n\n`
-    if (n.type === "case-study" && d.kind === "industry") {
-      top += `> [!note] Industry reference project\n> Figures as published by the developer.\n\n`
-      if (d.url) top += `**[🌐 Open the project website](${d.url})**\n\n`
-    }
+    if (n.type === "reference" && d.url) top += `**[🌐 Open the project website](${d.url})**\n\n`
 
     // connections, both directions
     const lines = []

@@ -11,6 +11,7 @@ aliases:
 metrics:
   - "[[Embodied carbon intensity]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

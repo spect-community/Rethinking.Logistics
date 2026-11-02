@@ -46,6 +46,8 @@ auto_insights:
   - "[[Forklifts, not robots, forced the concrete]]"
   - "[[From ~12 to 6.6 kg CO2e per m² per yr]]"
   - "[[Generic EPDs first, product-specific later, contractually locked]]"
+  - "[[Glulam on every unit, a first for Irish logistics parks]]"
+  - "[[Glulam spans like steel, as the developer puts it]]"
   - "[[Green roofs vs LCA — an admitted conflict]]"
   - "[[GWP is heading into the statutory energy certificate]]"
   - "[[In a data centre the embodied carbon is in the pipes]]"
@@ -103,6 +105,8 @@ auto_metrics:
   - "[[Social cost of carbon]]"
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

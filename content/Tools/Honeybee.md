@@ -18,6 +18,7 @@ metrics:
   - "[[Rooftop PV generation]]"
   - "[[Operational carbon]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

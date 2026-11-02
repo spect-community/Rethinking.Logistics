@@ -15,6 +15,7 @@ auto_metrics:
   - "[[Distance to housing]]"
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Worker safety incidents]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"

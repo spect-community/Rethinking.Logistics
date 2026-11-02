@@ -32,6 +32,7 @@ auto_metrics:
   - "[[Distance to housing]]"
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"

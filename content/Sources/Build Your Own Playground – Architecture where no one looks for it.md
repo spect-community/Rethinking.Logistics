@@ -45,6 +45,7 @@ auto_insights:
   - "[[What will we do if we replace every job by a robot]]"
   - "[[You can't reinvent the warehouse any more than the container]]"
   - "[[Zero incentive for greenery in logistics]]"
+auto_references: []
 ---
 
 Lecture 11 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 17.4.2026.

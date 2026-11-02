@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[A warehouse job needs six times the floor of an office job]]"
+auto_references: []
 ---
 
 ## About this source

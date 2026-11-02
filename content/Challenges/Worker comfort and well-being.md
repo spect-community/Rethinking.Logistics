@@ -38,6 +38,8 @@ auto_metrics:
   - "[[Thermal comfort]]"
   - "[[Worker safety incidents]]"
   - "[[Worker well-being]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"

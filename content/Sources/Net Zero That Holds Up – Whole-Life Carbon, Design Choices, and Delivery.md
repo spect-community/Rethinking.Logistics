@@ -49,6 +49,7 @@ auto_insights:
   - "[[Whole-life carbon usually isn't whole]]"
   - "[[You can buy a second-hand warehouse]]"
   - "[[Your professional emissions dwarf your personal ones]]"
+auto_references: []
 ---
 
 Lecture 4 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.2.2026.

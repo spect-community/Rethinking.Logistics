@@ -29,6 +29,7 @@ auto_metrics:
   - "[[Mixed-use ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"

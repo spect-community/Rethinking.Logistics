@@ -11,6 +11,7 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_insights: []
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

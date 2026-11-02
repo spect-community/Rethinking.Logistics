@@ -21,6 +21,7 @@ auto_insights:
   - "[[Humidity, not Celsius, is the barrier]]"
   - "[[More glass does not mean more daylight]]"
   - "[[Timber buildings overheat without thermal mass]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"

@@ -15,6 +15,7 @@ metrics:
   - "[[Daylight autonomy]]"
   - "[[Thermal comfort]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

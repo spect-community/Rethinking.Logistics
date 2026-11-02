@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[85 GW blocked by roofs that can't take the weight]]"
+auto_references: []
 ---
 
 ## About this source

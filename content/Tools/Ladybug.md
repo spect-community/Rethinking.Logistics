@@ -19,6 +19,7 @@ metrics:
 auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
+auto_references: []
 ---
 
 ## What it does

@@ -19,6 +19,8 @@ auto_insights:
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
   - "[[Eight degrees quintuples walking distance]]"
   - "[[Restoration became law, and cities must not lose a tree]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
 auto_tools:

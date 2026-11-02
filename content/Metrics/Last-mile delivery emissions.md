@@ -16,6 +16,7 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
 auto_insights:
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"

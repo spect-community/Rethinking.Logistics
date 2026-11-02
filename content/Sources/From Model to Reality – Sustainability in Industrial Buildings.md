@@ -43,6 +43,7 @@ auto_insights:
   - "[[White facades, urban heat and the wind that saves them]]"
   - "[[Wind in Czechia is a mentality problem]]"
   - "[[You can model anything; the client is the unknown]]"
+auto_references: []
 ---
 
 Lecture 10 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 10.4.2026.

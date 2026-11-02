@@ -19,6 +19,7 @@ metrics:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_references: []
 ---
 
 ## What it does

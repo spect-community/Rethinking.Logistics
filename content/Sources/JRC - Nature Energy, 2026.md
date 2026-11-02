@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[355 GW sits on Europe's big roofs]]"
+auto_references: []
 ---
 
 ## About this source

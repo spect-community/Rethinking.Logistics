@@ -19,6 +19,7 @@ auto_case_studies:
 auto_insights:
   - "[[California wrote the warehouse design code]]"
   - "[[Noise – the logistics is the problem, not the building]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Fewer than 5% of UK industrial roofs have panels]]"
+auto_references: []
 ---
 
 ## About this source

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Six storeys of industry under 3,350 homes]]"
+auto_references: []
 ---
 
 ## About this source

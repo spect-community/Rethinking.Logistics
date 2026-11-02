@@ -21,6 +21,7 @@ auto_insights:
   - "[[Lessons-learned list for lowering carbon]]"
   - "[[Shared warehouses could cut construction by 60–70%]]"
   - "[[Stacking is normal — everywhere but here]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

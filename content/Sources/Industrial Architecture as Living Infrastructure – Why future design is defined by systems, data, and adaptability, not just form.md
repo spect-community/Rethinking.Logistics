@@ -42,6 +42,7 @@ auto_insights:
   - "[[The UK model – pay, and they must deliver]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
   - "[[Zoning permits you to apply, not to build]]"
+auto_references: []
 ---
 
 Lecture 2 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 13.2.2026.

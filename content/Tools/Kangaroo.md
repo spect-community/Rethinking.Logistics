@@ -9,6 +9,7 @@ aliases: []
 metrics: []
 auto_case_studies:
   - "[[Hynek Hrabík]]"
+auto_references: []
 ---
 
 ## What it does

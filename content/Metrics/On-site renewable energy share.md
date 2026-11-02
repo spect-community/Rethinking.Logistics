@@ -17,6 +17,7 @@ auto_case_studies:
   - "[[Roshni Basu]]"
 auto_insights:
   - "[[Amazon multi-storey – 60–70% self-supplied]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[A reflective roof is a public health measure]]"
+auto_references: []
 ---
 
 ## About this source

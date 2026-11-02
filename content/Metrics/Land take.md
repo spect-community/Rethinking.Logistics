@@ -29,6 +29,7 @@ auto_insights:
   - "[[Italy's warehouses eat 432 hectares a year]]"
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"

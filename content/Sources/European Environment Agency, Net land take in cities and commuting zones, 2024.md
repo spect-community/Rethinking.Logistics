@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Europe seals 1.5 km² of land every day]]"
+auto_references: []
 ---
 
 ## About this source

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Switzerland is digging a 500 km freight tunnel]]"
+auto_references: []
 ---
 
 ## About this source

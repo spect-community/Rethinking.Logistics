@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[A logistics hotel with football pitches on top]]"
+auto_references: []
 ---
 
 ## About this source

@@ -55,6 +55,7 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Social interaction index]]"
   - "[[Walkability]]"
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

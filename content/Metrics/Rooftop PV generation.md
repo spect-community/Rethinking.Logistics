@@ -23,6 +23,8 @@ auto_insights:
   - "[[Fewer than 5% of UK industrial roofs have panels]]"
   - "[[Sell the warehouse as a power station]]"
   - "[[Solar is now a building code, not a choice]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Urban Hybrid]]"

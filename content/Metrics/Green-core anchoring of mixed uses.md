@@ -23,6 +23,7 @@ auto_case_studies:
   - "[[Sara Gani]]"
 auto_insights:
   - "[[Car-free core written into the competition entry]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

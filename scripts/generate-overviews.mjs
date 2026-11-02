@@ -17,6 +17,7 @@ const challenges = ofType(kb, "challenge")
 const metrics = ofType(kb, "metric")
 const tools = ofType(kb, "tool")
 const cases = ofType(kb, "case-study")
+const refs = ofType(kb, "reference")
 
 const esc = (s) => String(s ?? "").replace(/\|/g, "\\|").replace(/\r?\n/g, " ").trim() || "—"
 const links = (names) => (names.length ? names.map(wl).join(", ") : "—")
@@ -89,33 +90,29 @@ const pages = {}
 
 // ── Case studies ─────────────────────────────────────────────────────────────
 {
-  const isIndustry = (c) => c.data.kind === "industry"
-  const studio = cases.filter((c) => !isIndustry(c))
-  const industry = cases.filter(isIndustry)
-  const studioNames = new Set(studio.map((c) => c.name))
-  const head = ["Case study", "Project", "Location", "Typology", "Tools used", "# metrics"]
-  const row = (c) => [wl(c.name), esc(c.data.project), esc(c.data.location), esc(c.data.typology), links(linked(c, "tools")), String(linked(c, "metrics").length)]
-  const usage = tools.map((t) => [t, A(t, "auto_case_studies").filter((x) => studioNames.has(x)).length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1])
-  const industryBlock = industry.length
-    ? `
-## Industry reference projects
+  const rows = cases.map((c) => [wl(c.name), esc(c.data.project), esc(c.data.location), esc(c.data.typology), links(linked(c, "tools")), String(linked(c, "metrics").length)])
+  const usage = tools.map((t) => [t, A(t, "auto_case_studies").length]).filter(([, n]) => n).sort((a, b) => b[1] - a[1])
+  const body = `${table(["Case study", "Project", "Location", "Typology", "Tools used", "# metrics"], rows)}
 
-Built or planned projects outside the studio, with figures as published by the developer.
-
-${table(head, industry.map(row))}
-`
-    : ""
-  const body = `## Student projects
-
-${table(head, studio.map(row))}
-${industryBlock}
 ## Tool use across the studio
 
 ${usage.length ? table(["Tool", "Case studies"], usage.map(([t, n]) => [wl(t.name), String(n)])) : "*No tools linked yet.*"}
 
-Student projects without any linked tool: **${studio.filter((c) => !linked(c, "tools").length).length} of ${studio.length}** — their metrics were estimated by hand, taken from literature, or not quantified.
+Case studies without any linked tool: **${cases.filter((c) => !linked(c, "tools").length).length} of ${cases.length}** — their metrics were estimated by hand, taken from literature, or not quantified.
 `
-  pages["Case studies overview"] = page("Case studies overview", "All student projects and industry reference projects at a glance, and which tools they used.", body)
+  pages["Case studies overview"] = page("Case studies overview", "All student projects at a glance, and which tools they used.", body)
+}
+
+// ── Reference projects ─────────────────────────────────────────────────────
+{
+  const rows = refs.map((r) => [wl(r.name), esc(r.data.developer), esc(r.data.location), esc(r.data.year), esc(r.data.stage), esc(r.data.typology), String(linked(r, "metrics").length)])
+  const body = refs.length
+    ? `Built or planned logistics projects from practice, outside the studio. Figures are as published by the developer, the architect or a cited source.
+
+${table(["Reference project", "Developer", "Location", "Year", "Stage", "Typology", "# metrics"], rows)}
+`
+    : "*No reference projects yet.*"
+  pages["Reference projects overview"] = page("Reference projects overview", "Logistics projects from practice at a glance.", body)
 }
 
 // ── Trade-offs ───────────────────────────────────────────────────────────────
@@ -192,7 +189,7 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
 }
 
 // ── Index ────────────────────────────────────────────────────────────────────
-pages["index"] = page("Overviews", "Views computed from all notes.", `**At a glance:** ${challenges.length} challenges · ${metrics.length} metrics · ${tools.length} tools · ${cases.length} case studies
+pages["index"] = page("Overviews", "Views computed from all notes.", `**At a glance:** ${challenges.length} challenges · ${metrics.length} metrics · ${tools.length} tools · ${cases.length} case studies · ${refs.length} reference projects
 
 | Page | Answers |
 | --- | --- |
@@ -200,6 +197,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Metric catalogue]] | *How is a metric calculated, and who used it?* |
 | [[Tool directory]] | *What can a tool calculate, and in which projects was it used?* |
 | [[Case studies overview]] | *What did the students design, and which tools did they use?* |
+| [[Reference projects overview]] | *Which projects from practice show these approaches built?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
 | [[Strategies]] | *Which integration approaches does the studio propose, and what is the evidence?* |

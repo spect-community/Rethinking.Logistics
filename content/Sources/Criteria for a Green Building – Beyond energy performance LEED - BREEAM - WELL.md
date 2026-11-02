@@ -47,6 +47,7 @@ auto_insights:
   - "[[Two fewer sick days pays for the building]]"
   - "[[WELL is the one that waits]]"
   - "[[Your site decides a whole credit block]]"
+auto_references: []
 ---
 
 Lecture 16 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 05.5.2026.

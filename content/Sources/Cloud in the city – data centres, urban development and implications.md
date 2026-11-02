@@ -37,6 +37,7 @@ auto_insights:
   - "[[The power grievance is half right]]"
   - "[[Utah's random giants are not the model]]"
   - "[[Waste heat is already an approval condition]]"
+auto_references: []
 ---
 
 Lecture 18 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 15.5.2026.

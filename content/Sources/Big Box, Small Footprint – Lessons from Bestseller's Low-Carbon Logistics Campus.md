@@ -50,6 +50,7 @@ auto_insights:
   - "[[Today's waste stream should be tomorrow's solved problem]]"
   - "[[Two specified layers failed on site]]"
   - "[[Wetlands chosen partly as carbon sinks]]"
+auto_references: []
 ---
 
 Lecture 1 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 06.2.2026.

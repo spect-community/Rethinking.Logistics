@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"
+auto_references: []
 ---
 
 ## About this source

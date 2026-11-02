@@ -27,6 +27,7 @@ auto_insights:
   - "[[Nobody knows if twice the compute means half the floor area]]"
   - "[[Over-build the height, don't charge for it]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools: []

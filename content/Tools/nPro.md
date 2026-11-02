@@ -14,6 +14,7 @@ metrics:
   - "[[Operational carbon]]"
   - "[[On-site renewable energy share]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

@@ -18,6 +18,7 @@ auto_insights:
   - "[[A dump site that forbade digging became islands]]"
   - "[[Keep every drop on site]]"
   - "[[Retention ponds redesigned as habitat]]"
+auto_references: []
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
 auto_tools: []

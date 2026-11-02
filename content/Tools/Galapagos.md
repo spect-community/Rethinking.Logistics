@@ -10,6 +10,7 @@ metrics:
   - "[[Construction cost]]"
 auto_case_studies:
   - "[[Natalie Žižková]]"
+auto_references: []
 ---
 
 ## What it does

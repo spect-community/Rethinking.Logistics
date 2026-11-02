@@ -13,6 +13,7 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
 auto_insights:
   - "[[Last mile is shortest but costliest]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []

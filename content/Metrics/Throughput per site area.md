@@ -17,6 +17,7 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_insights:
   - "[[Single-picking is why e-commerce eats space]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

@@ -18,6 +18,7 @@ auto_insights:
   - "[[Mayors get trucks, not taxes]]"
   - "[[NIMBY survives the open day]]"
   - "[[The power grievance is half right]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

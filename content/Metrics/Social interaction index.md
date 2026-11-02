@@ -21,6 +21,7 @@ auto_insights:
   - "[[27 neighbourhoods, 15,000 datasets, 1,200 answers]]"
   - "[[Circulation spaces defended with sensor data]]"
   - "[[Two twin harbours, opposite performance]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

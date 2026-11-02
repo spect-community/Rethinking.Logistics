@@ -47,6 +47,7 @@ auto_insights:
   - "[[The region is treated as one product, not fifteen countries]]"
   - "[[Transport is half the supply-chain cost, rent a tenth]]"
   - "[[Why CEE – demand, workers, cost — in that order]]"
+auto_references: []
 ---
 
 Lecture 9 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 27.3.2026.

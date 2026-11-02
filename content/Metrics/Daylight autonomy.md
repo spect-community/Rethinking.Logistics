@@ -21,6 +21,7 @@ auto_insights:
   - "[[Skylights as a legislative contradiction]]"
   - "[[Skylights as wayfinding in a 565 m building]]"
   - "[[Ten thousand options instead of one]]"
+auto_references: []
 auto_strategies:
   - "[[Urban Hybrid]]"
 auto_tools:

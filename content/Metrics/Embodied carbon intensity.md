@@ -41,6 +41,8 @@ auto_insights:
   - "[[From ~12 to 6.6 kg CO2e per m² per yr]]"
   - "[[Generic data early, EPDs late]]"
   - "[[Generic EPDs first, product-specific later, contractually locked]]"
+  - "[[Glulam on every unit, a first for Irish logistics parks]]"
+  - "[[Glulam spans like steel, as the developer puts it]]"
   - "[[GWP is heading into the statutory energy certificate]]"
   - "[[In a data centre the embodied carbon is in the pipes]]"
   - "[[Low-carbon concrete has a scaling filter]]"
@@ -54,6 +56,8 @@ auto_insights:
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Timber, brick and light concrete came out near-identical]]"
   - "[[Two Czech databases disagree by 10%+]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

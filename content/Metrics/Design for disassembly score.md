@@ -19,6 +19,7 @@ auto_insights:
   - "[[Mycelium pavilion that returns to the field]]"
   - "[[Tailoring is a one-way door]]"
   - "[[The material bank argument to the client]]"
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools: []

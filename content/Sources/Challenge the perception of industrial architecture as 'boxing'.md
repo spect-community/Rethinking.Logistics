@@ -46,6 +46,7 @@ auto_insights:
   - "[[Thirty-metre freezers are a heat source]]"
   - "[[Vertical zoning is the answer to people-meet-machines]]"
   - "[[We assign a moral price to materials]]"
+auto_references: []
 ---
 
 Lecture 7 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 10.3.2026.

@@ -32,6 +32,7 @@ auto_metrics:
   - "[[Construction cost]]"
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools:

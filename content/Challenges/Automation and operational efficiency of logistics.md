@@ -27,6 +27,7 @@ auto_metrics:
   - "[[Level of automation]]"
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
+auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"

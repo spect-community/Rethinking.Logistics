@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Rail freight has been stuck at 16.8% for years]]"
+auto_references: []
 ---
 
 ## About this source

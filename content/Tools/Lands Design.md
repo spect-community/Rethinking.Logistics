@@ -13,6 +13,7 @@ metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Green area ratio]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

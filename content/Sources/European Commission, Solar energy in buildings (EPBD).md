@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Solar is now a building code, not a choice]]"
+auto_references: []
 ---
 
 ## About this source

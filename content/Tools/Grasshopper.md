@@ -23,6 +23,7 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
+auto_references: []
 ---
 
 ## What it does

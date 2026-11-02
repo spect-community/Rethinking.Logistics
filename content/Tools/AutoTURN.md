@@ -10,6 +10,7 @@ metrics:
   - "[[Yard area per dock]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
+auto_references: []
 ---
 
 ## What it does

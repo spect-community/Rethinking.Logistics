@@ -15,6 +15,7 @@ auto_case_studies:
 auto_insights:
   - "[[Planting the felled forest back doesn't offset]]"
   - "[[Wetlands chosen partly as carbon sinks]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

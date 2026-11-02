@@ -38,6 +38,7 @@ auto_insights:
   - "[[They don't forecast AI at all]]"
   - "[[Two engines, or growth goes wrong]]"
   - "[[Warehouse demand weak; data centres and defence carry it]]"
+auto_references: []
 ---
 
 Lecture 13 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 24.4.2026.

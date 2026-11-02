@@ -16,6 +16,7 @@ auto_case_studies:
 auto_insights:
   - "[[Liquid cooling may quietly defuse the water fight]]"
   - "[[Nobody agrees how much water they use]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
 auto_tools: []

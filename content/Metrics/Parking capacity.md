@@ -17,6 +17,8 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
 auto_insights: []
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies: []
 auto_tools: []
 ---

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Old sheds are becoming unlettable]]"
+auto_references: []
 ---
 
 ## About this source

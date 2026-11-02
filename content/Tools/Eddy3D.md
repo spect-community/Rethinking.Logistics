@@ -12,6 +12,7 @@ metrics:
   - "[[Wind conditions]]"
 auto_case_studies:
   - "[[Sara Sulollari]]"
+auto_references: []
 ---
 
 ## What it does

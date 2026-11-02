@@ -63,6 +63,8 @@ auto_metrics:
   - "[[Green-core anchoring of mixed uses]]"
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
 auto_tools:

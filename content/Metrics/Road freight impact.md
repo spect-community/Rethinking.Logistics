@@ -18,6 +18,7 @@ auto_insights:
   - "[[Rail is a rounding error – over 90% moves by truck]]"
   - "[[Ships are cheap, trucks are not]]"
   - "[[Switzerland is digging a 500 km freight tunnel]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []

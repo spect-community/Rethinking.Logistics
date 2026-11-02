@@ -49,6 +49,8 @@ auto_metrics:
   - "[[Operational carbon]]"
   - "[[Rooftop PV generation]]"
   - "[[Whole-life carbon]]"
+auto_references:
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"

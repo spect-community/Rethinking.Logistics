@@ -11,6 +11,7 @@ metrics:
   - "[[Sun exposure of outdoor space]]"
   - "[[Rooftop PV generation]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

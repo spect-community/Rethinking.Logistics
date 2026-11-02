@@ -18,6 +18,7 @@ auto_insights:
   - "[[Automation is a wage-driven substitution, not a technology story]]"
   - "[[Full automation would need power plants bigger than the logistics]]"
   - "[[Half a billion euros of technology under one roof]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

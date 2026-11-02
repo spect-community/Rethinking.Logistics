@@ -36,6 +36,7 @@ auto_insights:
   - "[[Two pilots contradict each other on batteries]]"
   - "[[Waste is the segment cities actually control]]"
   - "[[We planned people for decades; goods got none of it]]"
+auto_references: []
 ---
 
 Lecture 12 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 21.4.2026.

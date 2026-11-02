@@ -27,6 +27,7 @@ auto_metrics:
   - "[[Waste heat recovery]]"
   - "[[Water consumption]]"
   - "[[Wind conditions]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
 auto_tools:

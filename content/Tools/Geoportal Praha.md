@@ -12,6 +12,7 @@ metrics:
   - "[[Public transport accessibility]]"
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
+auto_references: []
 ---
 
 ## What it does

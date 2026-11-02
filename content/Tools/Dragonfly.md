@@ -16,6 +16,7 @@ metrics:
   - "[[Urban heat island effect]]"
   - "[[Operational carbon]]"
 auto_case_studies: []
+auto_references: []
 ---
 
 ## What it does

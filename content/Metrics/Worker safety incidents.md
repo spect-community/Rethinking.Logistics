@@ -16,6 +16,7 @@ auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Sara Gani]]"
 auto_insights: []
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

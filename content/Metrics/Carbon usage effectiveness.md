@@ -13,6 +13,7 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
 auto_insights:
   - "[[Rethink the normalising unit per typology]]"
+auto_references: []
 auto_strategies: []
 auto_tools: []
 ---

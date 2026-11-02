@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Europe finally has a soil law]]"
+auto_references: []
 ---
 
 ## About this source

@@ -19,6 +19,7 @@ auto_insights:
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[The reduction roadmap led to the activism]]"
   - "[[You can buy a second-hand warehouse]]"
+auto_references: []
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"

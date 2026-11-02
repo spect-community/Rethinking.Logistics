@@ -37,6 +37,7 @@ auto_insights:
   - "[[They tested it on their own office and found flood risk]]"
   - "[[Two knobs decide everything – scenario and horizon]]"
   - "[[Warming has social consequences that are also risks]]"
+auto_references: []
 ---
 
 Lecture 17 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 05.5.2026.

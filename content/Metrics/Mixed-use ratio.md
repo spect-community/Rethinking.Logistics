@@ -23,6 +23,7 @@ auto_insights:
   - "[[Don't let every unit be 2,000 m²]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
   - "[[Single-function land use is the real waste]]"
+auto_references: []
 auto_strategies:
   - "[[Energy Symbiosis]]"
   - "[[Urban Hybrid]]"

@@ -43,6 +43,7 @@ auto_insights:
   - "[[Toolchain as hiring criterion]]"
   - "[[Volvo's roof belongs to everyone]]"
   - "[[You can have a dog, but not a cat]]"
+auto_references: []
 ---
 
 Lecture 8 of the *Rethinking.Logistics* expert lecture series at ARCHIP, 13.3.2026.

@@ -13,6 +13,7 @@ challenges:
 auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_insights: []
+auto_references: []
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
 auto_tools:

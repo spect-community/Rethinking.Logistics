@@ -24,6 +24,7 @@ auto_insights:
   - "[[Operational carbon collapses, embodied carbon takes over]]"
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[Whole-life carbon usually isn't whole]]"
+auto_references: []
 auto_strategies:
   - "[[Urban Hybrid]]"
 auto_tools:
