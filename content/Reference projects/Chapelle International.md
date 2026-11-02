@@ -19,6 +19,11 @@ challenges:
   - "[[Waste heat and cooling of data centres]]"
 ambitions:
   - "[[Mixed use and function stacking]]"
+  - "[[Public access and community use]]"
+  - "[[Green and productive roofs]]"
+  - "[[Shared waste heat]]"
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Logistics as part of the city]]"
 metrics:
   - "[[Mixed-use ratio]]"
   - "[[Jobs created]]"

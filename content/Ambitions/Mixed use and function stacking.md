@@ -44,5 +44,12 @@ Logistics shares its building or site with other uses: offices, retail, producti
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
+## In practice
+
+- [[Chapelle International]] — as described by the developer: “60% urban logistics, 20% offices, 20% other”
+- [[SEGRO V-Park Grand Union]] — as described by the developer: “a mixed-use neighbourhood of 3,350 homes, 35% of them affordable”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
+
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

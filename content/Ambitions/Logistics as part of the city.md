@@ -34,7 +34,9 @@ auto_insights:
   - "[[The employees are trapped outside the real world]]"
   - "[[Utah's random giants are not the model]]"
 auto_metrics: []
-auto_references: []
+auto_references:
+  - "[[Chapelle International]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
@@ -65,6 +67,13 @@ Logistics is planned and designed as part of the city, rather than exiled to its
 - [[Vladi Kostecki]] — “Urban integration of logistics buildings”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Chapelle International]] — as described by the developer: “a logistics hotel ("hôtel logistique") in the new Chapelle International eco-district in Paris 18e”
+- [[SEGRO V-Park Grand Union]] — as described by the developer: “The building sits within the 22-acre Grand Union regeneration”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

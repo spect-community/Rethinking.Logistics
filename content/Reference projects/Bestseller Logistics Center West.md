@@ -22,6 +22,16 @@ challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
   - "[[Deep, dark and noisy workplaces]]"
   - "[[Space, energy and labour needs changing with automation]]"
+ambitions:
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Low embodied carbon]]"
+  - "[[Green and productive roofs]]"
+  - "[[Screening with greenery and façades]]"
+  - "[[Good neighbour]]"
+  - "[[Healthy workplaces]]"
+  - "[[Outdoor comfort]]"
+  - "[[Efficient automated operations]]"
 metrics:
   - "[[Biodiversity net gain]]"
   - "[[Land take]]"

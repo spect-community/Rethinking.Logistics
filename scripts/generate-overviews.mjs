@@ -52,18 +52,18 @@ const pages = {}
 {
   const strategies = ofType(kb, "strategy").sort((a, b) => (a.data.number ?? 0) - (b.data.number ?? 0))
   let body = `**${ambitions.length} ambitions**, taken from how the students framed their briefs. Each strategy gathers several of them through its projects; some belong mostly to one strategy, others, such as safety or habitat, run across most of them.\n\n`
-  body += "## Ambitions by strategy\n\nNumber of student projects in each strategy that pursue the ambition.\n\n"
+  body += "## Ambitions by strategy\n\nNumber of student projects in each strategy that pursue the ambition; *In practice* counts the reference projects that pursue it.\n\n"
   body += table(
-    ["Category", "Ambition", ...strategies.map((s) => `${s.data.number ?? ""}. ${wl(s.name)}`), "All"],
+    ["Category", "Ambition", ...strategies.map((s) => `${s.data.number ?? ""}. ${wl(s.name)}`), "All", "In practice"],
     groupBy(ambitions, "category").flatMap(([, list]) => list).map((a) => {
       const cs = A(a, "auto_case_studies")
-      return [esc(a.data.category), wl(a.name), ...strategies.map((s) => String(linked(s, "case_studies").filter((c) => cs.includes(c)).length || "·")), String(cs.length)]
+      return [esc(a.data.category), wl(a.name), ...strategies.map((s) => String(linked(s, "case_studies").filter((c) => cs.includes(c)).length || "·")), String(cs.length), String(A(a, "auto_references").length || "·")]
     }),
   ) + "\n\n"
   for (const [cat, list] of groupBy(ambitions, "category")) {
     body += `## ${cat}\n\n` + table(
-      ["Ambition", "In short", "Challenges", "Case studies"],
-      list.map((a) => [wl(a.name), esc(a.data.summary), links(A(a, "auto_challenges")), links(A(a, "auto_case_studies"))]),
+      ["Ambition", "In short", "Challenges", "Case studies", "Reference projects"],
+      list.map((a) => [wl(a.name), esc(a.data.summary), links(A(a, "auto_challenges")), links(A(a, "auto_case_studies")), links(A(a, "auto_references"))]),
     ) + "\n\n"
   }
   pages["Ambitions overview"] = page("Ambitions overview", "Ambitions, the strategies and projects that pursue them, and the challenges that stand in their way.", body)

@@ -32,7 +32,9 @@ auto_metrics:
   - "[[Green-core anchoring of mixed uses]]"
   - "[[Native species richness]]"
   - "[[Tree count and canopy cover]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
+  - "[[Nexus Logistics Park]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Micro-Hubs and Urban Mobility]]"
@@ -67,6 +69,13 @@ Logistics sites add habitat and reconnect ecological corridors instead of cuttin
 - [[Ilinca Maria Baciu]] — “Interrupted green-blue ecological corridors”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Bestseller Logistics Center West]] — as described by the architect: “the landscape design aims to increase the site's biodiversity by 10%”
+- [[Nexus Logistics Park]] — as described by the developer: “planted with 40,000 native trees and shrubs”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

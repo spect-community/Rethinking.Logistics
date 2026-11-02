@@ -21,7 +21,10 @@ auto_metrics:
   - "[[Operational carbon]]"
   - "[[Rooftop PV generation]]"
   - "[[Whole-life carbon]]"
-auto_references: []
+auto_references:
+  - "[[Nexus Logistics Park]]"
+  - "[[Ricola Kräuterzentrum]]"
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
@@ -50,6 +53,14 @@ The large roofs and sites of logistics buildings produce renewable energy for th
 - [[Ilinca Maria Baciu]] — “Rooftop renewable energy on large warehouses”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Nexus Logistics Park]] — as described by the developer: “roof-mounted photovoltaic panels”
+- [[Ricola Kräuterzentrum]] — as described by the architects: “photovoltaic modules on the roof”
+- [[SEGRO V-Park Grand Union]] — as described by the developer: “photovoltaic cells”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

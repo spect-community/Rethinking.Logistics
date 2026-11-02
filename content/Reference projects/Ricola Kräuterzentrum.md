@@ -15,6 +15,12 @@ aliases:
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
   - "[[High operational energy demand]]"
+ambitions:
+  - "[[Low embodied carbon]]"
+  - "[[Modular and prefabricated architecture]]"
+  - "[[Low energy and water demand]]"
+  - "[[On-site renewable energy]]"
+  - "[[Shared waste heat]]"
 metrics:
   - "[[Land take]]"
   - "[[Rooftop PV generation]]"

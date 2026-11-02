@@ -19,6 +19,11 @@ challenges:
 ambitions:
   - "[[Mixed use and function stacking]]"
   - "[[Multi-storey logistics]]"
+  - "[[Compact footprint]]"
+  - "[[Logistics as part of the city]]"
+  - "[[On-site renewable energy]]"
+  - "[[Fewer and cleaner last-mile trips]]"
+  - "[[Healthy workplaces]]"
 metrics:
   - "[[Land take]]"
   - "[[Jobs created]]"

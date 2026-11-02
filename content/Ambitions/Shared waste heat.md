@@ -16,7 +16,9 @@ auto_metrics:
   - "[[Waste heat recovery]]"
   - "[[Water consumption]]"
   - "[[Wind conditions]]"
-auto_references: []
+auto_references:
+  - "[[Chapelle International]]"
+  - "[[Ricola Kräuterzentrum]]"
 auto_strategies:
   - "[[Energy Symbiosis]]"
 auto_tools:
@@ -36,6 +38,13 @@ Heat from data centres and logistics processes warms neighbours, greenhouses and
 - [[Julia Godard Lombard]] — “Heat waste from data centres”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Chapelle International]] — as described by the developer: “A district heating plant fed by the energy of a data centre heats the logistics hotel and buildings of the neighbourhood”
+- [[Ricola Kräuterzentrum]] — as described by the architects: “waste heat from the nearby production centre”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

@@ -21,7 +21,8 @@ auto_metrics:
   - "[[Mixed-use ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Social interaction index]]"
-auto_references: []
+auto_references:
+  - "[[Chapelle International]]"
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
@@ -45,6 +46,12 @@ Parts of the site, such as roofs, edges and leftover land, are open to the publi
 - [[Vladi Kostecki]] — “Brownfield conversion into public green space”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Chapelle International]] — as described by the developer: “The other activities on the site serve the neighbourhood: sports pitches, an urban farm, a restaurant and a fitness club”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

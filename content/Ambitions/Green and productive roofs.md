@@ -35,7 +35,9 @@ auto_metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Water reuse share]]"
   - "[[Yard area per dock]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
+  - "[[Chapelle International]]"
 auto_strategies:
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
@@ -65,6 +67,13 @@ The large roofs of logistics buildings carry vegetation, solar power, water rete
 - [[Ilinca Maria Baciu]] — project description: “raised, tree-like green platforms … carrying public routes, green roofs, photovoltaics and rainwater retention”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Bestseller Logistics Center West]] — as described by the architect: “a cultivated meadow covers the 30,000 m² roof”
+- [[Chapelle International]] — paraphrased from the lecture ([[A logistics hotel with football pitches on top]]): “a roof carrying sports pitches, an urban farm, a restaurant and a fitness club”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

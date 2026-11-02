@@ -21,7 +21,8 @@ auto_metrics:
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
   - "[[Yard area per dock]]"
-auto_references: []
+auto_references:
+  - "[[SEGRO V-Park Grand Union]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
@@ -46,6 +47,12 @@ Logistics needs less land for the same output, by stacking, compacting or sharin
 - [[Adam Večeřa]] — “Land take of horizontal retail warehouses”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[SEGRO V-Park Grand Union]] — as described by the developer: “floor area about 1.8 × site area”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

@@ -19,6 +19,13 @@ challenges:
   - "[[Deep, dark and noisy workplaces]]"
   - "[[Stormwater and sealed surfaces on logistics sites]]"
   - "[[Large paved truck yards and waiting times]]"
+ambitions:
+  - "[[Low embodied carbon]]"
+  - "[[On-site renewable energy]]"
+  - "[[Low energy and water demand]]"
+  - "[[Rainwater kept on site]]"
+  - "[[Habitat and ecological connectivity]]"
+  - "[[Healthy workplaces]]"
 metrics:
   - "[[Tree count and canopy cover]]"
   - "[[Parking capacity]]"

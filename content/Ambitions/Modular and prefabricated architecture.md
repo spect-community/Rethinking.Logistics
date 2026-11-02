@@ -17,7 +17,8 @@ auto_metrics:
   - "[[Construction cost]]"
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
-auto_references: []
+auto_references:
+  - "[[Ricola Kräuterzentrum]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
@@ -42,6 +43,12 @@ Buildings are assembled from modules and prefabricated parts that can be added, 
 - [[Roshni Basu]] — project description: “a modular Urban Logistic PlugIn unit … stackable and joinable”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Ricola Kräuterzentrum]] — as described by the architects: “The prefabricated rammed earth elements are made in a nearby factory”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

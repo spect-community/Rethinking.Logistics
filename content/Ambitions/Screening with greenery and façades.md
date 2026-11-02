@@ -13,7 +13,8 @@ auto_metrics:
   - "[[Distance to housing]]"
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
@@ -35,6 +36,12 @@ Landscape, planting and façade design soften the scale of logistics buildings a
 - [[Adéla Berkovitz]] — project description: “a climbing-plant trellis façade … a 50 cm earth berm with shrubs facing roads and housing”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Bestseller Logistics Center West]] — as described by the architect: “green façade: close to 35,000 m²”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

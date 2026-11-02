@@ -21,7 +21,8 @@ auto_metrics:
   - "[[Noise level]]"
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
-auto_references: []
+auto_references:
+  - "[[Bestseller Logistics Center West]]"
 auto_strategies:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
@@ -51,6 +52,12 @@ Logistics buildings look good and stay quiet for the people who live around them
 - [[Ilinca Maria Baciu]] — “Urban integration of logistics next to housing”
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
+
+## In practice
+
+- [[Bestseller Logistics Center West]] — paraphrased from the lecture ([[The dog-walker on the dyke as a design client]]): “The woman in Lelystad walking her dog should look at the building and read a generous gesture”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

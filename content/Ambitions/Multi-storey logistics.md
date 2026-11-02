@@ -44,5 +44,11 @@ Logistics is stacked on several floors, so it takes less land.
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
+## In practice
+
+- [[SEGRO V-Park Grand Union]] — as described by the developer: “134,500 sq ft over six storeys on a 1.7-acre site”
+
+Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
+
 > [!tip] Where are the challenges, case studies and strategies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.
