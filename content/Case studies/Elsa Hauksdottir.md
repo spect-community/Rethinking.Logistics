@@ -37,6 +37,8 @@ auto_domains:
 auto_insights:
   - "[[Flexibility is time, not just hardware]]"
   - "[[Grey space – buildings sized for Black Friday]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
 ---
 ![[Pasted image 20261031080333.png]]
 ## Project

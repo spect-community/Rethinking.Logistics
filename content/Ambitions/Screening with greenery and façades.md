@@ -18,6 +18,9 @@ auto_metrics:
   - "[[Visual impact on neighbours]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

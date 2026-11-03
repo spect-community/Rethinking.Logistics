@@ -17,6 +17,8 @@ auto_insights:
   - "[[Norms force oversized heat pumps]]"
   - "[[Production wants low, distribution wants high — for energy reasons]]"
 auto_references: []
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
 auto_tools:
   - "[[Honeybee]]"
   - "[[nPro]]"

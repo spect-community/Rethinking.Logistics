@@ -21,6 +21,7 @@ auto_insights:
   - "[[NIMBY survives the open day]]"
   - "[[The power grievance is half right]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -26,6 +26,7 @@ auto_insights:
   - "[[Solar is now a building code, not a choice]]"
   - "[[Tested to 50 tons without failing]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Donkey]]"
   - "[[Karamba3D]]"

@@ -23,6 +23,8 @@ auto_insights:
   - "[[The reduction roadmap led to the activism]]"
   - "[[You can buy a second-hand warehouse]]"
 auto_references: []
+auto_strategies:
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[One Click LCA]]"
 ---

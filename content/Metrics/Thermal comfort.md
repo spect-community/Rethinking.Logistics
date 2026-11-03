@@ -24,6 +24,7 @@ auto_insights:
   - "[[Timber buildings overheat without thermal mass]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Honeybee]]"

@@ -197,6 +197,19 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
   pages["Domains"] = page("Domains", "The five thematic domains and the student projects behind them.", body)
 }
 
+// ── Strategies (evidence workflows) ──────────────────────────────────────────
+{
+  const strategies = ofType(kb, "strategy").sort((a, b) => linked(b, "case_studies").length - linked(a, "case_studies").length || a.name.localeCompare(b.name))
+  const intro = `**${strategies.length} strategies**: repeatable evidence workflows found in the student projects. Each one says which metrics to calculate, with which tool or method, and which design decision it led to. Every value on a strategy page is quoted from a linked case study (as reported by the student).
+
+Many projects calculate by hand: where no software is named, the method is given as *manual / formula*.
+`
+  const body = strategies.length
+    ? intro + "\n" + table(["Strategy", "In short", "Tool or method", "Metrics", "Projects"], strategies.map((x) => [wl(x.name), esc(x.data.summary), esc(x.data.method), links(linked(x, "metrics")), links(linked(x, "case_studies"))]))
+    : intro + "\n*No strategies yet.*"
+  pages["Strategies"] = page("Strategies", "Evidence workflows: which metrics the projects calculated, with which tool or method, and what they decided.", body)
+}
+
 // ── Insights ─────────────────────────────────────────────────────────────────
 {
   const insights = ofType(kb, "insight")
@@ -225,6 +238,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
 | [[Domains]] | *Which thematic domains did the studio work in, and what is the evidence?* |
+| [[Strategies]] | *How did the projects get from a metric to a decision, and with which tool or method?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |
 `)
 

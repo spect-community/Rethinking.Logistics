@@ -33,7 +33,7 @@ const noteText = (name) => {
 }
 
 let problems = 0
-for (const s of kb.notes.filter((n) => n.type === "domain")) {
+for (const s of kb.notes.filter((n) => n.type === "domain" || n.type === "strategy")) {
   const lines = s.body.split(/\r?\n/)
   lines.forEach((line, i) => {
     if (/^#|^!\[\[|^\s*$/.test(line)) return
@@ -49,5 +49,5 @@ for (const s of kb.notes.filter((n) => n.type === "domain")) {
     }
   })
 }
-console.log(problems ? `\n⚠️  ${problems} number(s) on domain pages not traced to a linked note` : "✅ Every number on domain pages traces to a linked note")
+console.log(problems ? `\n⚠️  ${problems} number(s) on domain and strategy pages not traced to a linked note` : "✅ Every number on domain and strategy pages traces to a linked note")
 process.exit(problems ? 1 : 0)

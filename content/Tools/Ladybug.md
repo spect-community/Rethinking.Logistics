@@ -20,6 +20,8 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
 auto_references: []
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 ---
 
 ## What it does

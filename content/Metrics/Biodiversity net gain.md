@@ -35,6 +35,7 @@ auto_insights:
   - "[[Three tiers of ambition on a plot]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies: []
 auto_tools:
   - "[[Rhino.Ecologic]]"
 ---

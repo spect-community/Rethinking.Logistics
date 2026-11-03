@@ -13,6 +13,8 @@ auto_domains: []
 auto_insights:
   - "[[We can price carbon, not nature]]"
 auto_references: []
+auto_strategies:
+  - "[[LCA comparison of material and structural options]]"
 auto_tools:
   - "[[One Click LCA]]"
 ---

@@ -14,6 +14,7 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights: []
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -36,6 +36,8 @@ auto_domains:
 auto_insights:
   - "[[Don't let every unit be 2,000 m²]]"
   - "[[Location is king, and it moves with the market]]"
+auto_strategies:
+  - "[[KPI matrix comparison of design variants]]"
 ---
 ![[Pasted image 20261031083733.png]]
 ## Project

@@ -29,6 +29,7 @@ auto_insights:
   - "[[Single-function land use is the real waste]]"
 auto_references:
   - "[[Chapelle International]]"
+auto_strategies: []
 auto_tools: []
 ---
 

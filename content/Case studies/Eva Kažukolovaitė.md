@@ -35,6 +35,8 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Consolidation centres cut trips 20–50%]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
 ---
 ![[Pasted image 20261009100946.png]]
 ## Project

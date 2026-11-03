@@ -64,6 +64,14 @@ types:
     description: One of five thematic domains the studio worked in, synthesised from its student projects.
     fields: [number, group, summary, hero_image, posters, status, aliases]
 
+  strategy:
+    folder: Strategies
+    label: Strategy
+    plural: Strategies
+    description: A repeatable evidence workflow from the student projects — which metrics to calculate, with which tool or method, and the decision it led to.
+    # method: the tool or the manual method, as reported by the students
+    fields: [summary, method, status, aliases]
+
   source:
     folder: Sources
     label: Source
@@ -256,6 +264,27 @@ relations:
     label: Informs decisions on
     auto_label: Metrics
     verb: informs decisions on
+  - from: strategy
+    field: case_studies
+    to: case-study
+    auto: auto_strategies
+    label: Case studies
+    auto_label: Strategies (evidence workflows)
+    verb: is synthesised from
+  - from: strategy
+    field: metrics
+    to: metric
+    auto: auto_strategies
+    label: Metrics it calculates
+    auto_label: Strategies (evidence workflows)
+    verb: calculates
+  - from: strategy
+    field: tools
+    to: tool
+    auto: auto_strategies
+    label: Tools
+    auto_label: Strategies (evidence workflows)
+    verb: uses
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
 # (e.g. case_studies). `paths` lists several chains whose results are combined;
@@ -293,3 +322,13 @@ derived:
     auto: auto_tools
     label: Tools (via metrics)
     path: [auto_metrics, auto_tools]
+  # the ambitions a strategy serves through its projects
+  - on: strategy
+    auto: auto_ambitions
+    label: Ambitions (through its projects)
+    path: [case_studies, ambitions]
+  # strategies used by the projects that pursue an ambition
+  - on: ambition
+    auto: auto_strategies
+    label: Strategies (through its projects)
+    path: [auto_case_studies, auto_strategies]

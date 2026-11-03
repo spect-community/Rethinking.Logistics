@@ -12,6 +12,7 @@ metrics:
   - "[[Rooftop PV generation]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

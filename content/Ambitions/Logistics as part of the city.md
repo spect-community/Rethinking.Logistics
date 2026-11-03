@@ -43,6 +43,17 @@ auto_metrics: []
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Reuse versus new-build carbon comparison]]"
+  - "[[Service-radius analysis for hub networks]]"
+  - "[[Waste-heat balance to match programmes]]"
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools: []
 ---
 

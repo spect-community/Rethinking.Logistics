@@ -27,6 +27,8 @@ auto_insights:
   - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

@@ -25,6 +25,8 @@ auto_insights:
   - "[[Operational carbon collapses, embodied carbon takes over]]"
   - "[[The electricity mix dominates everything]]"
 auto_references: []
+auto_strategies:
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

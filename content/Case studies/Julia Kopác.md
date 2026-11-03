@@ -33,6 +33,9 @@ auto_domains:
   - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
 ---
 ![[Pasted image 20261009101237.png]]
 ## Project

@@ -16,6 +16,8 @@ auto_domains:
   - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
 auto_references: []
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

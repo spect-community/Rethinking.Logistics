@@ -12,6 +12,9 @@ auto_insights:
 auto_metrics:
   - "[[Public transport accessibility]]"
 auto_references: []
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

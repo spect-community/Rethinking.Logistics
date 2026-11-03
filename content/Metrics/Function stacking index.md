@@ -26,6 +26,7 @@ auto_insights:
   - "[[Every surface recruited – wetland, roof meadow, green facade]]"
   - "[[Four habitat types as design vocabulary]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

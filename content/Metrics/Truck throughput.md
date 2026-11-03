@@ -17,6 +17,8 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights: []
 auto_references: []
+auto_strategies:
+  - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools: []
 ---
 

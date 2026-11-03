@@ -21,6 +21,7 @@ auto_metrics:
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

@@ -29,6 +29,8 @@ auto_domains:
   - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[Liquid cooling may quietly defuse the water fight]]"
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 ---
 ![[Pasted image 20261031090511.png]]
 ## Project

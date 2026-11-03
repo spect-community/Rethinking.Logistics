@@ -33,6 +33,11 @@ tools: []
 auto_domains:
   - "[[Urban Hybrid]]"
 auto_insights: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 ---
 ![[Pasted image 20261031091124.png]]
 ## Project

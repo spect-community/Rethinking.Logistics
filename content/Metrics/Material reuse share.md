@@ -23,6 +23,7 @@ auto_insights:
   - "[[Certification of reused structural elements is the real blocker]]"
   - "[[Recycling can raise the carbon footprint]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

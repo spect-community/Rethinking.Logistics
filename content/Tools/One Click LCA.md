@@ -20,6 +20,8 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Lindsay Daphne Macuja]]"
 auto_references: []
+auto_strategies:
+  - "[[LCA comparison of material and structural options]]"
 ---
 
 ## What it does

@@ -26,6 +26,11 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[LCA comparison of material and structural options]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

@@ -16,6 +16,7 @@ auto_domains:
 auto_insights:
   - "[[Last mile is shortest but costliest]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

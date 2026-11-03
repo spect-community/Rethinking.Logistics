@@ -33,6 +33,7 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Going above the traffic, not through it]]"
+auto_strategies: []
 ---
 ![[Pasted image 20261009102848.png]]
 ## Project

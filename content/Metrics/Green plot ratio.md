@@ -17,6 +17,7 @@ auto_insights:
   - "[[The green wall on printed concrete died]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies: []
 auto_tools: []
 ---
 

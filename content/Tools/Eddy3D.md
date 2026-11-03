@@ -13,6 +13,8 @@ metrics:
 auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_references: []
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 ---
 
 ## What it does

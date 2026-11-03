@@ -25,6 +25,7 @@ auto_domains: []
 auto_insights:
   - "[[California wrote the warehouse design code]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Jifto]]"
   - "[[Ladybug]]"

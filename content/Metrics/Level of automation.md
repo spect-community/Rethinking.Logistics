@@ -21,6 +21,7 @@ auto_insights:
   - "[[Half a billion euros of technology under one roof]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies: []
 auto_tools: []
 ---
 

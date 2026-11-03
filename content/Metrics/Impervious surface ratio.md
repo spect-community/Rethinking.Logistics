@@ -28,6 +28,8 @@ auto_insights:
   - "[[Don't dig down vs biodiversity]]"
   - "[[Traffic engineers are expert space-consumers]]"
 auto_references: []
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

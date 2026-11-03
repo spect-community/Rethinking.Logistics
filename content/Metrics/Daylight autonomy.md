@@ -24,6 +24,7 @@ auto_insights:
   - "[[Skylights as wayfinding in a 565 m building]]"
   - "[[Ten thousand options instead of one]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Honeybee]]"
   - "[[Pollination]]"

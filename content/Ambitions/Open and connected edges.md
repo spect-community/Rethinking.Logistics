@@ -15,6 +15,10 @@ auto_insights:
 auto_metrics:
   - "[[Walkability]]"
 auto_references: []
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
 auto_tools: []
 ---
 

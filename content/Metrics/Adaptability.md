@@ -30,6 +30,7 @@ auto_insights:
   - "[[Over-build the height, don't charge for it]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

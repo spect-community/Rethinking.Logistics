@@ -23,6 +23,7 @@ auto_insights:
   - "[[Shared warehouses could cut construction by 60–70%]]"
   - "[[Stacking is normal — everywhere but here]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

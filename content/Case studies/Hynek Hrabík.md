@@ -41,6 +41,8 @@ auto_domains:
 auto_insights:
   - "[[Automated trucks will not change the loading dock]]"
   - "[[Pavement is the unsolved carbon problem]]"
+auto_strategies:
+  - "[[Truck flow simulation and swept-path sizing]]"
 ---
 ![[Pasted image 20261009102125.png]]
 ## Project

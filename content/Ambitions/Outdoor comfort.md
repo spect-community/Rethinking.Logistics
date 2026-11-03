@@ -19,6 +19,8 @@ auto_metrics:
   - "[[Wind conditions]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Cyclops]]"

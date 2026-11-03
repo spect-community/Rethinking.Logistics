@@ -30,6 +30,7 @@ auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies: []
 auto_tools:
   - "[[Cyclops]]"
   - "[[Dragonfly]]"

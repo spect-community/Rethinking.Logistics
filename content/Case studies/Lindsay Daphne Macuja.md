@@ -39,6 +39,10 @@ auto_domains:
 auto_insights:
   - "[[In-city logistics is a separate typology with separate rules]]"
   - "[[Residential and logistics cannot share a block; offices and retail can]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[LCA comparison of material and structural options]]"
+  - "[[Parametric massing optimisation]]"
 ---
 ![[Pasted image 20261031083257.png]]
 ## Project

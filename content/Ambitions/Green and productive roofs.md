@@ -41,6 +41,14 @@ auto_metrics:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Chapelle International]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

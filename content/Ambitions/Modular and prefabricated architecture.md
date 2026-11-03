@@ -23,6 +23,12 @@ auto_metrics:
   - "[[Structural utilisation]]"
 auto_references:
   - "[[Ricola Kräuterzentrum]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[Service-radius analysis for hub networks]]"
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

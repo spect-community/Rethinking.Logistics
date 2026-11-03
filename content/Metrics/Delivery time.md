@@ -18,6 +18,7 @@ auto_domains:
 auto_insights:
   - "[[Consumer impatience is a physical planning force]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -11,6 +11,8 @@ metrics:
 auto_case_studies:
   - "[[Natalie Žižková]]"
 auto_references: []
+auto_strategies:
+  - "[[Parametric massing optimisation]]"
 ---
 
 ## What it does

@@ -23,6 +23,7 @@ auto_insights:
   - "[[Restoration became law, and cities must not lose a tree]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
+auto_strategies: []
 auto_tools:
   - "[[Lands Design]]"
 ---

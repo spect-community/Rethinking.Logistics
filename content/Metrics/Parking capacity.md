@@ -21,6 +21,7 @@ auto_insights: []
 auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies: []
 auto_tools: []
 ---
 

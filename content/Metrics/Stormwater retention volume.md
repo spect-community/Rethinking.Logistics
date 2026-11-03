@@ -22,6 +22,8 @@ auto_insights:
   - "[[Retention ponds redesigned as habitat]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
 auto_tools: []
 ---
 

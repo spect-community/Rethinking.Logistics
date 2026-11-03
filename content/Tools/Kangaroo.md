@@ -10,6 +10,7 @@ metrics: []
 auto_case_studies:
   - "[[Hynek Hrabík]]"
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

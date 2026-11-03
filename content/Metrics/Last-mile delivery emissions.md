@@ -20,6 +20,7 @@ auto_domains:
 auto_insights:
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

@@ -30,6 +30,8 @@ auto_insights:
   - "[[Energy performance is a financing instrument]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

@@ -14,6 +14,7 @@ metrics:
   - "[[Green area ratio]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

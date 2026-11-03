@@ -27,6 +27,8 @@ auto_insights:
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[Whole-life carbon usually isn't whole]]"
 auto_references: []
+auto_strategies:
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[CO2mpare]]"
   - "[[One Click LCA]]"

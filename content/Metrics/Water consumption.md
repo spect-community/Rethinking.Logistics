@@ -19,6 +19,7 @@ auto_insights:
   - "[[Liquid cooling may quietly defuse the water fight]]"
   - "[[Nobody agrees how much water they use]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

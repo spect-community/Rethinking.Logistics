@@ -38,6 +38,9 @@ tools:
 auto_domains:
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Parametric massing optimisation]]"
 ---
 ![[Pasted image 20261031084932.png]]
 ![[Pasted image 20261031085016.png]]

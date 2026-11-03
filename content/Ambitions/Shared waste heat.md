@@ -21,6 +21,8 @@ auto_metrics:
 auto_references:
   - "[[Chapelle International]]"
   - "[[Ricola Kräuterzentrum]]"
+auto_strategies:
+  - "[[Waste-heat balance to match programmes]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

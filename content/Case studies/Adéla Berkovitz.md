@@ -35,6 +35,7 @@ tools: []
 auto_domains:
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
+auto_strategies: []
 ---
 ![[Pasted image 20261031081120.png]]
 ![[Pasted image 20261031071906.png]]

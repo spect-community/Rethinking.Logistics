@@ -26,6 +26,10 @@ auto_metrics:
   - "[[Yard area per dock]]"
 auto_references:
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

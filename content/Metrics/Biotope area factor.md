@@ -15,6 +15,7 @@ auto_case_studies:
 auto_domains: []
 auto_insights: []
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

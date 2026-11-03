@@ -22,6 +22,7 @@ auto_insights:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
+auto_strategies: []
 auto_tools: []
 ---
 

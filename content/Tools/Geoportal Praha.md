@@ -13,6 +13,7 @@ metrics:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

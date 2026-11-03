@@ -21,6 +21,10 @@ auto_metrics:
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
 auto_references: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

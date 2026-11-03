@@ -15,6 +15,7 @@ auto_metrics:
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

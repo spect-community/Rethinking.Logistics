@@ -18,6 +18,9 @@ auto_metrics:
   - "[[Truck throughput]]"
   - "[[Yard area per dock]]"
 auto_references: []
+auto_strategies:
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools:
   - "[[AutoTURN]]"
 ---

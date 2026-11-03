@@ -19,6 +19,8 @@ metrics:
   - "[[Operational carbon]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
 ---
 
 ## What it does

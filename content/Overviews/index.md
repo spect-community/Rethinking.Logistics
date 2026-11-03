@@ -19,4 +19,5 @@ description: "Views computed from all notes."
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
 | [[Domains]] | *Which thematic domains did the studio work in, and what is the evidence?* |
+| [[Strategies]] | *How did the projects get from a metric to a decision, and with which tool or method?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |

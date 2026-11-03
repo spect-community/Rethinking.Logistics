@@ -35,6 +35,10 @@ auto_metrics:
 auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Waste-heat balance to match programmes]]"
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[CO2mpare]]"

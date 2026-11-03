@@ -26,6 +26,7 @@ auto_insights:
   - "[[Noise – the logistics is the problem, not the building]]"
   - "[[The literal glass wall between collars]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

@@ -22,6 +22,8 @@ auto_insights:
   - "[[California wrote the warehouse design code]]"
   - "[[Noise – the logistics is the problem, not the building]]"
 auto_references: []
+auto_strategies:
+  - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

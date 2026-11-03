@@ -17,6 +17,7 @@ auto_insights:
   - "[[The energy price forecast is always wrong]]"
   - "[[Three price scenarios, not one number]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

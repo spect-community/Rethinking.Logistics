@@ -18,6 +18,9 @@ auto_metrics:
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
 auto_references: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

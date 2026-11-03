@@ -32,6 +32,8 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Hub placement decided without data]]"
+auto_strategies:
+  - "[[Service-radius analysis for hub networks]]"
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

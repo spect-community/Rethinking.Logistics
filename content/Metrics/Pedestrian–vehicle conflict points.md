@@ -22,6 +22,8 @@ auto_domains:
 auto_insights:
   - "[[Vertical zoning is the answer to people-meet-machines]]"
 auto_references: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
 auto_tools: []
 ---
 

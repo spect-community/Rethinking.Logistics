@@ -27,6 +27,12 @@ auto_metrics:
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[Reuse versus new-build carbon comparison]]"
+  - "[[Waste-heat balance to match programmes]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

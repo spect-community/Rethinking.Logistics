@@ -40,6 +40,11 @@ tools: []
 auto_domains:
   - "[[Urban Hybrid]]"
 auto_insights: []
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
 ---
 ![[Pasted image 20261031084803.png]]
 ## Project

@@ -28,6 +28,9 @@ auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[CO2mpare]]"

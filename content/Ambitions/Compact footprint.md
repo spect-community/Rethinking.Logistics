@@ -28,6 +28,12 @@ auto_metrics:
   - "[[Yard area per dock]]"
 auto_references:
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Truck flow simulation and swept-path sizing]]"
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

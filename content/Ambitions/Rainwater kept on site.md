@@ -32,6 +32,13 @@ auto_metrics:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
+  - "[[Parametric massing optimisation]]"
+  - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

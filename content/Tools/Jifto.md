@@ -14,6 +14,7 @@ metrics:
   - "[[Visual impact on neighbours]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

@@ -21,6 +21,7 @@ auto_insights:
   - "[[Ships are cheap, trucks are not]]"
   - "[[Switzerland is digging a 500 km freight tunnel]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

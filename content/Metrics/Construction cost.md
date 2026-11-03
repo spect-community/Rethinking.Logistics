@@ -24,6 +24,8 @@ auto_insights:
   - "[[Timber sells on schedule, not on carbon]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Galapagos]]"
 ---

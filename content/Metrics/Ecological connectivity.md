@@ -25,6 +25,7 @@ auto_insights:
   - "[[Singapore's 20 km road becomes a green corridor]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies: []
 auto_tools: []
 ---
 

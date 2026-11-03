@@ -30,6 +30,8 @@ tools: []
 auto_domains:
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
+auto_strategies:
+  - "[[KPI matrix comparison of design variants]]"
 ---
 ![[Pasted image 20261031080030.png]]
 ## Project

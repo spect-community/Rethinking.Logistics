@@ -42,6 +42,10 @@ auto_domains:
 auto_insights:
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
   - "[[No islands — connectivity is the metric]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
 ---
 ![[Pasted image 20261031081315.png]]
 ## Project

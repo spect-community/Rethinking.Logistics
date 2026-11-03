@@ -44,6 +44,8 @@ auto_insights:
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"
+auto_strategies:
+  - "[[Waste-heat balance to match programmes]]"
 ---
 ![[Pasted image 20261031081842.png]]
 ## Project

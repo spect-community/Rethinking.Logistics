@@ -24,6 +24,10 @@ auto_metrics:
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[Reuse versus new-build carbon comparison]]"
+  - "[[Service-radius analysis for hub networks]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

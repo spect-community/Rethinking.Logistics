@@ -24,6 +24,9 @@ auto_case_studies:
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
 auto_references: []
+auto_strategies:
+  - "[[Parametric massing optimisation]]"
+  - "[[Wind simulation for sheltered layouts]]"
 ---
 
 ## What it does

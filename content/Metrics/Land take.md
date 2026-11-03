@@ -36,6 +36,8 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

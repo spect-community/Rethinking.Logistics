@@ -12,6 +12,7 @@ metrics:
   - "[[Embodied carbon intensity]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

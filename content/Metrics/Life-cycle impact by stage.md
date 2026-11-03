@@ -17,6 +17,8 @@ auto_insights:
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Whole-life carbon usually isn't whole]]"
 auto_references: []
+auto_strategies:
+  - "[[LCA comparison of material and structural options]]"
 auto_tools:
   - "[[One Click LCA]]"
 ---

@@ -25,6 +25,11 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
   - "[[SEGRO V-Park Grand Union]]"
+auto_strategies:
+  - "[[Conflict-point mapping for separated flows]]"
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[LCA comparison of material and structural options]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

@@ -18,6 +18,7 @@ auto_insights:
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[White facades, urban heat and the wind that saves them]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"
 ---

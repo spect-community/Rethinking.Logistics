@@ -18,6 +18,7 @@ auto_metrics:
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

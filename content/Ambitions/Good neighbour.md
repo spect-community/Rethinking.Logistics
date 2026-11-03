@@ -29,6 +29,12 @@ auto_metrics:
   - "[[Visual impact on neighbours]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
+auto_strategies:
+  - "[[Energy estimate for zoning and envelope]]"
+  - "[[Green and blue surface accounting]]"
+  - "[[KPI matrix comparison of design variants]]"
+  - "[[Service-radius analysis for hub networks]]"
+  - "[[Waste-heat balance to match programmes]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

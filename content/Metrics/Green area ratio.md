@@ -36,6 +36,8 @@ auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_references: []
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

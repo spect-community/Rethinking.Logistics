@@ -19,6 +19,8 @@ auto_domains:
   - "[[Energy Symbiosis]]"
 auto_insights: []
 auto_references: []
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

@@ -21,6 +21,8 @@ auto_domains:
 auto_insights:
   - "[[Pavement is the unsolved carbon problem]]"
 auto_references: []
+auto_strategies:
+  - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools:
   - "[[AutoTURN]]"
 ---

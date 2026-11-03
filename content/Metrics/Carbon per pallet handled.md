@@ -16,6 +16,8 @@ auto_domains: []
 auto_insights:
   - "[[Rethink the normalising unit per typology]]"
 auto_references: []
+auto_strategies:
+  - "[[Reuse versus new-build carbon comparison]]"
 auto_tools: []
 ---
 

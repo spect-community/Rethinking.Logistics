@@ -15,6 +15,7 @@ metrics:
   - "[[On-site renewable energy share]]"
 auto_case_studies: []
 auto_references: []
+auto_strategies: []
 ---
 
 ## What it does

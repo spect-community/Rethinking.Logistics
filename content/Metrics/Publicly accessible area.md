@@ -37,6 +37,7 @@ auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Nature designed to exclude people]]"
 auto_references: []
+auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

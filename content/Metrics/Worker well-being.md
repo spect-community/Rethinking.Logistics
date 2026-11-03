@@ -23,6 +23,7 @@ auto_insights:
   - "[[Daylight buys 18% productivity, retail 15–40%]]"
   - "[[Two fewer sick days pays for the building]]"
 auto_references: []
+auto_strategies: []
 auto_tools: []
 ---
 

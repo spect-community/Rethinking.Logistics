@@ -11,6 +11,8 @@ metrics:
 auto_case_studies:
   - "[[Hynek Hrabík]]"
 auto_references: []
+auto_strategies:
+  - "[[Truck flow simulation and swept-path sizing]]"
 ---
 
 ## What it does

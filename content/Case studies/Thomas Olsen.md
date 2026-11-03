@@ -36,6 +36,8 @@ auto_domains:
 auto_insights:
   - "[[Consolidation centres cut trips 20–50%]]"
   - "[[Renovating an office saved about 80%]]"
+auto_strategies:
+  - "[[Reuse versus new-build carbon comparison]]"
 ---
 ![[Pasted image 20261031091033.png]]
 ## Project

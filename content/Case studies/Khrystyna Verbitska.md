@@ -33,6 +33,9 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Vertical zoning is the answer to people-meet-machines]]"
+auto_strategies:
+  - "[[Green and blue surface accounting]]"
+  - "[[Reuse versus new-build carbon comparison]]"
 ---
 ![[Pasted image 20261031083126.png]]
 ## Project

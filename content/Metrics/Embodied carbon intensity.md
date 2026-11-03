@@ -62,6 +62,8 @@ auto_insights:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
+auto_strategies:
+  - "[[LCA comparison of material and structural options]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

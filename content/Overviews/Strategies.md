@@ -1,0 +1,25 @@
+---
+title: Strategies
+description: "Evidence workflows: which metrics the projects calculated, with which tool or method, and what they decided."
+---
+
+> [!abstract] Generated page
+> Evidence workflows: which metrics the projects calculated, with which tool or method, and what they decided. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
+
+**11 strategies**: repeatable evidence workflows found in the student projects. Each one says which metrics to calculate, with which tool or method, and which design decision it led to. Every value on a strategy page is quoted from a linked case study (as reported by the student).
+
+Many projects calculate by hand: where no software is named, the method is given as *manual / formula*.
+
+| Strategy | In short | Tool or method | Metrics | Projects |
+| --- | --- | --- | --- | --- |
+| [[Green and blue surface accounting]] | Measuring the green, permeable and water-retaining surfaces of the site before and after the design makes the landscape gain explicit. | manual / formula (areas measured on the site plan) | [[Green area ratio]], [[Impervious surface ratio]], [[Stormwater retention volume]], [[Green roof coverage]] | [[Adam Večeřa]], [[Julia Kopác]], [[Ece Yasar]], [[Vladi Kostecki]], [[Khrystyna Verbitska]] |
+| [[KPI matrix comparison of design variants]] | Two or more design variants are scored side by side on a set of KPIs, and the variant that scores best overall is developed. | manual / formula (scores or values per KPI in a comparison matrix) | — | [[Sara Gani]], [[Julia Kopác]], [[Aycha Chambashala]], [[Ece Yasar]], [[Marek Nový]] |
+| [[Conflict-point mapping for separated flows]] | Mapping where pedestrian routes cross truck routes, and counting the crossings, drives a site layout with separated flows. | manual / formula (crossings counted on the site flow plan) | [[Pedestrian–vehicle conflict points]] | [[Natalie Žižková]], [[Vladi Kostecki]], [[Sara Gani]], [[Eva Kažukolovaitė]] |
+| [[Energy estimate for zoning and envelope]] | An energy estimate or simulation of the building, before and after a design move, shows how much heated area or envelope changes save. | manual / formula (benchmark × heated area) or a building energy simulation (Honeybee or a tool that is not named) | [[Heating energy demand]], [[Energy use intensity]] | [[Elsa Hauksdottir]], [[Vladi Kostecki]], [[Sara Gani]], [[Lindsay Daphne Macuja]] |
+| [[LCA comparison of material and structural options]] | A life-cycle assessment compares material or structural options for the same building, so the lower-carbon option can be chosen with numbers. | One Click LCA (life-cycle assessment software) | [[Embodied carbon intensity]], [[Social cost of carbon]], [[Biodiversity stress from materials]], [[Life-cycle impact by stage]] | [[Lindsay Daphne Macuja]], [[Ece Yasar]], [[Sara Gani]] |
+| [[Parametric massing optimisation]] | A parametric model generates many variants of the building mass and lets a solver or score pick the one that best meets a target. | Grasshopper parametric model, with the Galapagos evolutionary solver | [[Construction cost]], [[Distance to housing]], [[Land take]] | [[Natalie Žižková]], [[Lindsay Daphne Macuja]], [[Adam Večeřa]] |
+| [[Reuse versus new-build carbon comparison]] | A simple benchmark calculation compares the carbon of keeping and renovating an existing building with demolishing it and building new. | manual / formula (floor area × benchmark carbon intensity) | [[Embodied carbon saved by reuse]], [[Whole-life carbon]], [[Operational carbon]], [[Carbon per pallet handled]] | [[Thomas Olsen]], [[Vladi Kostecki]], [[Khrystyna Verbitska]] |
+| [[Waste-heat balance to match programmes]] | A heat balance compares the waste heat of a data centre with the heat demand of possible neighbours, to choose programmes and plan heat export. | manual / formula (heat output per server or rack against per-programme heat demand) | [[Waste heat recovery]], [[Heat recovery radius]] | [[Julia Godard Lombard]], [[Katrin Rybinskiy]] |
+| [[Wind simulation for sheltered layouts]] | Wind data and simulation test how the arrangement and orientation of volumes shelter outdoor space or channel wind for cooling. | Ladybug wind rose and Eddy3D CFD simulation in Grasshopper | [[Pedestrian-level wind speed]], [[Wind conditions]] | [[Sara Sulollari]], [[Robin Jesenský]] |
+| [[Service-radius analysis for hub networks]] | Service circles drawn over a population-density map show how many small hubs are needed to cover a city within a delivery time. | manual / formula (service radius drawn as a map overlay) | [[Delivery catchment]] | [[Roshni Basu]] |
+| [[Truck flow simulation and swept-path sizing]] | A simulation of truck arrivals tests how many docks keep the same throughput, and swept paths of real trucks fix the size of the bays. | Discrete-event simulation (custom; software not named) and AutoTURN swept-path analysis | [[Number of docks]], [[Truck throughput]], [[Yard area per dock]] | [[Hynek Hrabík]] |

@@ -31,6 +31,8 @@ tools:
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
+auto_strategies:
+  - "[[Wind simulation for sheltered layouts]]"
 ---
 ![[Pasted image 20261009101110.png]]
 ## Project
