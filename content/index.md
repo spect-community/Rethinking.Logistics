@@ -12,7 +12,7 @@ description: An interactive knowledge base that links the spatial challenges of 
 The knowledge base is a network: one strategy addresses several challenges, one tool calculates many metrics, and one challenge involves trade-offs across strategies. To find your way through it, follow the **Extended Double Diamond** — from the problem, through a measurable goal, to a solution.
 
 ![[Extended Double Diamond.png]]
-*Extended Double Diamond · Diagram: Lukáš Kurilla*
+*Extended Double Diamond Diagram: Lukáš Kurilla*
 
 | Phase | The question | In the knowledge base |
 | --- | --- | --- |

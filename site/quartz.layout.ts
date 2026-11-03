@@ -26,6 +26,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "SPECT Community": project,
       "Contact": contact,
+      "Funded by Rambøll Fonden (Ramboll Foundation)": "https://www.rambollfonden.com/",
     },
   }),
 }
