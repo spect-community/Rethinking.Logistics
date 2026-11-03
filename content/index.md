@@ -45,6 +45,10 @@ Every type of note and every link between them, drawn from the structure of the 
 
 ## Support and partners
 
-Rethinking.Logistics is funded by **Rambøll Fonden (Ramboll Foundation)**. The studio was led by Lukáš Kurilla and Šimon Prokop at ARCHIP – Architectural Institute in Prague, in collaboration with:
+Rethinking.Logistics is funded by **Rambøll Fonden (Ramboll Foundation)**.
+
+<ul class="rl-logos"><li><a href="https://www.rambollfonden.com/" rel="noopener"><img class="rl-logo" src="img/partners/ramboll-fonden.svg" alt="Rambøll Fonden (Ramboll Foundation)" style="height:64px"></a></li></ul>
+
+The studio was led by Lukáš Kurilla and Šimon Prokop at ARCHIP – Architectural Institute in Prague, in collaboration with:
 
 <ul class="rl-logos"><li><a href="https://uli.org" rel="noopener"><img class="rl-logo" src="img/partners/uli.png" alt="Urban Land Institute" style="height:40px"></a></li><li><a href="https://www.panattoni.com" rel="noopener"><img class="rl-logo rl-logo-invert" src="img/partners/panattoni.png" alt="Panattoni" style="height:60px"></a></li><li><a href="https://www.archip.eu" rel="noopener"><img class="rl-logo" src="img/partners/archip.svg" alt="ARCHIP – Architectural Institute in Prague" style="height:40px"></a></li><li><a href="https://www.ramboll.com" rel="noopener"><img class="rl-logo" src="img/partners/ramboll.png" alt="Ramboll" style="height:34px"></a></li><li><a href="https://henninglarsen.com" rel="noopener"><img class="rl-logo rl-logo-invert" src="img/partners/henning-larsen.png" alt="Henning Larsen" style="height:52px"></a></li></ul>
