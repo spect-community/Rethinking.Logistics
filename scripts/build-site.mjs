@@ -171,6 +171,7 @@ if (!fs.existsSync(marker) || fs.readFileSync(marker, "utf8").trim() !== cfg.qua
 fs.copyFileSync(path.join(ROOT, "site", "quartz.config.ts"), path.join(QUARTZ, "quartz.config.ts"))
 fs.copyFileSync(path.join(ROOT, "site", "quartz.layout.ts"), path.join(QUARTZ, "quartz.layout.ts"))
 fs.copyFileSync(path.join(ROOT, "site", "custom.scss"), path.join(QUARTZ, "quartz", "styles", "custom.scss"))
+fs.copyFileSync(path.join(ROOT, "site", "SiteFooter.tsx"), path.join(QUARTZ, "quartz", "components", "SiteFooter.tsx"))
 
 // Fuzzy search: accent-insensitive, sound-alike matching (small typos), substring matching in titles,
 // and partial matches when not every word is found.
