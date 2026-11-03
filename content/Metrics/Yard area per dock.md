@@ -16,11 +16,11 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Pavement is the unsolved carbon problem]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools:
   - "[[AutoTURN]]"
 ---

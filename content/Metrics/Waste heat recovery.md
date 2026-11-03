@@ -15,6 +15,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[7,000 m² of farming on a Paris data centre roof]]"
   - "[[Brewing waste heat heats the public building]]"
@@ -28,8 +30,6 @@ auto_insights:
 auto_references:
   - "[[Chapelle International]]"
   - "[[Ricola Kräuterzentrum]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[nPro]]"
 ---

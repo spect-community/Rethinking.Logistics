@@ -36,14 +36,14 @@ metrics:
   - "[[Function stacking index]]"
 tools:
   - "[[Geoportal Praha]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[A swimming pool heated by servers in Milan]]"
   - "[[Data centres are giant heaters]]"
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 ---
 ![[Pasted image 20261031081842.png]]
 ## Project

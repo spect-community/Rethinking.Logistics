@@ -13,7 +13,7 @@ tags:
   - "topic/taxonomy"
   - "topic/landscape"
   - "topic/provocation"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 ambitions:

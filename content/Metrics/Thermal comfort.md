@@ -14,6 +14,7 @@ challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_domains: []
 auto_insights:
   - "[[1,900 heat inspections, zero citations]]"
   - "[[A reflective roof is a public health measure]]"
@@ -23,7 +24,6 @@ auto_insights:
   - "[[Timber buildings overheat without thermal mass]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies: []
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Honeybee]]"

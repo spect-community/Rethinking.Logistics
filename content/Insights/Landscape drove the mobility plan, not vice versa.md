@@ -13,7 +13,7 @@ tags:
   - "topic/green-blue"
   - "topic/synergy"
   - "topic/city"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics: []

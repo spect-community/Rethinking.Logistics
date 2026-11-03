@@ -1,12 +1,12 @@
 ---
-title: Strategies
-description: "The five strategies and the student projects behind them."
+title: Domains
+description: "The five thematic domains and the student projects behind them."
 ---
 
 > [!abstract] Generated page
-> The five strategies and the student projects behind them. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
+> The five thematic domains and the student projects behind them. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-Five integration approaches synthesised from the student projects of the *Rethinking.Logistics* studio and the expert lectures. Each strategy page links its projects, metrics, trade-offs, evidence gaps and expert insights; every number traces to a linked note.
+Five thematic domains the *Rethinking.Logistics* studio worked in, synthesised from its student projects and the expert lectures. Each domain page links its projects, metrics, trade-offs, evidence gaps and expert insights; every number traces to a linked note.
 
 ![[Rethinking.Logistics – Bridging Academia and Industry.jpg]]
 
@@ -14,9 +14,9 @@ Five integration approaches synthesised from the student projects of the *Rethin
 
 ![[Typologies.jpg]]
 
-## The five strategies
+## The five domains
 
-| # | Strategy | In short | Projects |
+| # | Domain | In short | Projects |
 | --- | --- | --- | --- |
 | 1 | [[Regenerative Peripheral Park]] | A logistics site on the urban edge is designed as landscape infrastructure: it restores habitat, connectivity and water on the land it occupies and gives part of it back to its neighbours. | [[Ece Yasar]], [[Adam Večeřa]], [[Natalie Žižková]], [[Lindsay Daphne Macuja]], [[Marek Nový]], [[Aycha Chambashala]], [[Adéla Berkovitz]] |
 | 2 | [[Adaptive and Modular Logistics]] | A logistics building is designed for change rather than for one tenant and one moment: it can shrink, grow, move, be taken apart and be used for something else, so its structure outlives the lease it was built for. | [[Elsa Hauksdottir]], [[Amy Naprstek]], [[Julia Kopác]], [[Sara Sulollari]] |

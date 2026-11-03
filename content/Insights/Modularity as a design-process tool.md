@@ -12,7 +12,7 @@ tags:
   - "topic/adaptability"
   - "topic/materials"
   - "topic/economics"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []

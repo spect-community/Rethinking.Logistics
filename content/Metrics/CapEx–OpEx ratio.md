@@ -16,10 +16,10 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_domains: []
 auto_insights:
   - "[[Carbon price is a design input, not an accounting footnote]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

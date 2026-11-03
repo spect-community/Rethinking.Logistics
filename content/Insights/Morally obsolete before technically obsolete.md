@@ -12,7 +12,7 @@ tags:
   - "topic/adaptability"
   - "topic/provocation"
   - "topic/circularity"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

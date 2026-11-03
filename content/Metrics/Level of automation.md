@@ -12,6 +12,7 @@ challenges:
   - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_domains: []
 auto_insights:
   - "[[350 people vs 6,000 next door]]"
   - "[[A warehouse run by four people]]"
@@ -20,7 +21,6 @@ auto_insights:
   - "[[Half a billion euros of technology under one roof]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies: []
 auto_tools: []
 ---
 

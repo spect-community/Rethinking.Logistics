@@ -16,13 +16,13 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Sulollari]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Brownfield rules block on-site recycling]]"
   - "[[Certification of reused structural elements is the real blocker]]"
   - "[[Recycling can raise the carbon footprint]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools: []
 ---
 

@@ -8,6 +8,7 @@ ambitions:
 auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Sara Gani]]"
+auto_domains: []
 auto_insights:
   - "[[1,500 lux is where people improvise blinds]]"
   - "[[1,900 heat inspections, zero citations]]"
@@ -46,7 +47,6 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

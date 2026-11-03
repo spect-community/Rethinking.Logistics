@@ -13,6 +13,7 @@ ambitions:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
+auto_domains: []
 auto_insights:
   - "[[350 people vs 6,000 next door]]"
   - "[[A warehouse job needs six times the floor of an office job]]"
@@ -23,7 +24,6 @@ auto_insights:
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies: []
 auto_tools: []
 ---
 

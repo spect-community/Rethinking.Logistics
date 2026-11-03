@@ -12,8 +12,8 @@ tags:
   - "topic/energy"
   - "topic/adaptability"
   - "topic/economics"
-  - "strategy/2-adaptive-modular"
-  - "strategy/5-energy-symbiosis"
+  - "domain/2-adaptive-modular"
+  - "domain/5-energy-symbiosis"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

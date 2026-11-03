@@ -12,6 +12,8 @@ challenges:
   - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
+auto_domains:
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[10% GWP cut from six combined measures]]"
   - "[[2027–2030 – whole-life carbon becomes mandatory]]"
@@ -25,8 +27,6 @@ auto_insights:
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[Whole-life carbon usually isn't whole]]"
 auto_references: []
-auto_strategies:
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[CO2mpare]]"
   - "[[One Click LCA]]"

@@ -11,17 +11,17 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_challenges:
   - "[[Pedestrian–truck conflicts on logistics sites]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights: []
 auto_metrics:
   - "[[Distance to housing]]"
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Worker safety incidents]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"
@@ -42,5 +42,5 @@ Trucks, vans, workers and the public move on separated, safe routes, and hazardo
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

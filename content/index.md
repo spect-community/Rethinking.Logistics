@@ -1,15 +1,15 @@
 ---
 title: "Rethinking.Logistics: an evidence-based design ontology"
-description: An interactive knowledge base that links the spatial challenges of logistics architecture to measurable goals, strategies and computational tools — from the Rethinking.Logistics studio at ARCHIP.
+description: An interactive knowledge base that links the spatial challenges of logistics architecture to measurable goals, thematic domains and computational tools — from the Rethinking.Logistics studio at ARCHIP.
 ---
 
-**An interactive knowledge base that links the spatial challenges of logistics architecture to measurable goals, design strategies and computational tools.** It is built from the student projects of the *Rethinking.Logistics* studio at ARCHIP Prague (2026), from expert lectures and from projects in practice.
+**An interactive knowledge base that links the spatial challenges of logistics architecture to measurable goals, thematic domains and computational tools.** It is built from the student projects of the *Rethinking.Logistics* studio at ARCHIP Prague (2026), from expert lectures and from projects in practice.
 
-*Edition 1.0* · {{count:ambition}} ambitions · {{count:challenge}} challenges · {{count:metric}} metrics · {{count:tool}} tools · {{count:case-study}} case studies · {{count:reference}} reference projects · {{count:strategy}} strategies · {{count:insight}} insights, each with its [[Evidence status|evidence status]]
+*Edition 1.0* · {{count:ambition}} ambitions · {{count:challenge}} challenges · {{count:metric}} metrics · {{count:tool}} tools · {{count:case-study}} case studies · {{count:reference}} reference projects · {{count:domain}} domains · {{count:insight}} insights, each with its [[Evidence status|evidence status]]
 
 ## From problem to solution
 
-The knowledge base is a network: one strategy addresses several challenges, one tool calculates many metrics, and one challenge involves trade-offs across strategies. To find your way through it, follow the **Extended Double Diamond** — from the problem, through a measurable goal, to a solution.
+The knowledge base is a network: one domain addresses several challenges, one tool calculates many metrics, and one challenge involves trade-offs across domains. To find your way through it, follow the **Extended Double Diamond** — from the problem, through a measurable goal, to a solution.
 
 ![[Extended Double Diamond.png]]
 *Extended Double Diamond Diagram: Lukáš Kurilla*
@@ -19,17 +19,17 @@ The knowledge base is a network: one strategy addresses several challenges, one 
 | **Discover · Gather** → *ideas and insights* | What do experts, students and publications tell us about the problem? | **Insights** — {{count:insight}} single statements, each with its source and evidence status, from {{count:source}} lectures, questionnaires and publications. See [[Insights overview]]. |
 | **Define · Analyse** → *from ambitions to the goal: challenges and evidence (KPI)* | What should the project achieve, which spatial problem stands in its way, and how will we know the design is better? | **Ambitions** — {{count:ambition}} aims the student projects pursue, taken from how the students framed their briefs, e.g. [[Mixed use and function stacking]] or [[Shared waste heat]]. **Challenges** — the specific architectural and urban problems of logistics sites, e.g. [[Waste heat and cooling of data centres]] or [[Stormwater and sealed surfaces on logistics sites]]. **Metrics** — measurable indicators (students often call them KPIs), each with a unit and a calculation method, e.g. [[Biotope area factor]] or [[Embodied carbon intensity]]. See [[Ambitions overview]], [[Challenge map]] and [[Metric catalogue]]. |
 | **Develop · Evaluate** → *concepts and performance* | How was it designed, and how was its performance calculated? | **Case studies** — student projects with their metrics, values, trade-offs and decisions. **Tools** — the software that calculates the metrics, e.g. [[Ladybug]], [[Karamba3D]] or [[One Click LCA]]. See [[Case studies overview]] and [[Tool directory]]. |
-| **Deliver · Optimise** → *strategy and impact* | Which approach works, and where is it already built? | **Strategies** — five integration approaches synthesised from the case studies, with their trade-offs and evidence gaps, e.g. [[Regenerative Peripheral Park]] or [[Energy Symbiosis]]. **Reference projects** — logistics projects from practice, e.g. [[Nexus Logistics Park]]. See [[Strategies]] and [[Reference projects overview]]. |
+| **Deliver · Optimise** → *strategy and impact* | Which approach works, and where is it already built? | **Domains** — five thematic domains the studio worked in, synthesised from the case studies, with their trade-offs and evidence gaps, e.g. [[Regenerative Peripheral Park]] or [[Energy Symbiosis]]. **Reference projects** — logistics projects from practice, e.g. [[Nexus Logistics Park]]. See [[Domains]] and [[Reference projects overview]]. |
 
 ## Start here
 
 Different readers enter the network through different doors.
 
-**Through ambitions** — *for cities and clients.* You know what you want to achieve, such as mixed use or rainwater kept on site, and want to see which challenges, projects and strategies serve that aim. → **[[Ambitions overview]]**
+**Through ambitions** — *for cities and clients.* You know what you want to achieve, such as mixed use or rainwater kept on site, and want to see which challenges, projects and domains serve that aim. → **[[Ambitions overview]]**
 
 **Through challenges** — *for developers and planners.* You have a concrete problem, such as waste heat from a data centre, and want to know what to measure and which approaches address it. → **[[Challenge map]]**
 
-**Through strategies** — *for architects.* You are looking for a tested approach, its trade-offs and the evidence behind it. → **[[Strategies]]**
+**Through domains** — *for architects.* You are looking for a theme the studio explored, the approaches tested in it, their trade-offs and the evidence behind them. → **[[Domains]]**
 
 **Through metrics and tools** — *for computational designers.* You want to know which metrics a piece of software can calculate, for example life-cycle assessment inside Grasshopper with [[Bombyx]]. → **[[Metric catalogue]]** and **[[Tool directory]]**
 

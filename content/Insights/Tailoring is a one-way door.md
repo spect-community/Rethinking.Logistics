@@ -13,7 +13,7 @@ tags:
   - "topic/circularity"
   - "topic/trade-off"
   - "topic/materials"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

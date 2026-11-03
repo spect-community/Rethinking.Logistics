@@ -12,7 +12,7 @@ tags:
   - "topic/people"
   - "topic/synergy"
   - "topic/economics"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Deep, dark and noisy workplaces]]"

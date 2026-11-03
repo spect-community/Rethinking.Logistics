@@ -13,7 +13,7 @@ tags:
   - "topic/people"
   - "topic/city"
   - "topic/certification"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Closed sites that give little back to the city]]"

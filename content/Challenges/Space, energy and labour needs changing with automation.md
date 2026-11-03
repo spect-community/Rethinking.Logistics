@@ -7,6 +7,7 @@ ambitions:
   - "[[Efficient automated operations]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_domains: []
 auto_insights:
   - "[[350 people vs 6,000 next door]]"
   - "[[8–10% of the area, 50% of the people]]"
@@ -33,7 +34,6 @@ auto_metrics:
   - "[[Throughput per site area]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
 ---

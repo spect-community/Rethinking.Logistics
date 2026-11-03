@@ -29,10 +29,10 @@ metrics:
   - "[[Delivery time]]"
   - "[[Level of automation]]"
 tools: []
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Going above the traffic, not through it]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009102848.png]]
 ## Project

@@ -13,7 +13,7 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/energy"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Space, energy and labour needs changing with automation]]"

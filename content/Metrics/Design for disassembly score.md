@@ -11,6 +11,8 @@ challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Amy Naprstek]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Certification as a recycling driver]]"
   - "[[Digging materials up costs more than buying new]]"
@@ -20,8 +22,6 @@ auto_insights:
   - "[[Tailoring is a one-way door]]"
   - "[[The material bank argument to the client]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools: []
 ---
 

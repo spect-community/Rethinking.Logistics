@@ -14,7 +14,7 @@ tags:
   - "topic/taxonomy"
   - "topic/provocation"
   - "topic/landscape"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

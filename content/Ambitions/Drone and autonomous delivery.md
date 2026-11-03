@@ -6,6 +6,8 @@ auto_case_studies:
   - "[[Johannes Berger]]"
 auto_challenges:
   - "[[Last-mile delivery emissions and traffic]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Europe is behind the US and China on deployment]]"
   - "[[Going above the traffic, not through it]]"
@@ -18,8 +20,6 @@ auto_metrics:
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---
@@ -34,5 +34,5 @@ Drones and autonomous vehicles take deliveries off congested roads.
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

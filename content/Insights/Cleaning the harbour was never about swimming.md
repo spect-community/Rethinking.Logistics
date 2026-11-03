@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/city"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics: []

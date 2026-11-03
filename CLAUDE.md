@@ -16,7 +16,7 @@ Knowledge base (Obsidian vault in `content/`, Quartz site at logistics.spect.cz)
 - Never edit `auto_` fields by hand. After changes run `npm run sync && npm run validate`; preview with `npm run preview`.
 - Never invent note names when linking — link only to notes that exist.
 - Never change the meaning of a statement; edits are limited to spelling and splitting compound claims.
-- Every number on a strategy page must trace to a case study, metric or insight note.
+- Every number on a domain page must trace to a case study, metric or insight note.
 
 ## Inputs
 - Inputs are in `import/` (see `plans/inputs.md`). `import/private/` is never committed or published.

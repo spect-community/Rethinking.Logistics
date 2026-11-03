@@ -12,7 +12,7 @@ tags:
   - "topic/externality"
   - "topic/landscape"
   - "topic/green-blue"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Wind, heat and missing shade around large buildings]]"

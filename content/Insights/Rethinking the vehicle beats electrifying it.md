@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/carbon"
   - "topic/data"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

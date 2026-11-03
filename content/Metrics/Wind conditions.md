@@ -15,10 +15,10 @@ challenges:
 auto_case_studies:
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights: []
 auto_references: []
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

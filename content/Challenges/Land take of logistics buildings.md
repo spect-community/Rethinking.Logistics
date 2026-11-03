@@ -10,6 +10,10 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
   - "[[Johannes Berger]]"
   - "[[Julia Kopác]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[297 hectares of green belt for one rail interchange]]"
   - "[[4.7% vs 8–9% vs 14–15%]]"
@@ -43,10 +47,6 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

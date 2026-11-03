@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/synergy"
   - "topic/landscape"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Closed sites that give little back to the city]]"

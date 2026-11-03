@@ -19,13 +19,13 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Electric trucks as a noise-permitting instrument]]"
   - "[[Noise – the logistics is the problem, not the building]]"
   - "[[The literal glass wall between collars]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

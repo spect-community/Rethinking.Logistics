@@ -14,12 +14,12 @@ auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
   - "[[Khrystyna Verbitska]]"
   - "[[Thomas Olsen]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools: []
 ---
 

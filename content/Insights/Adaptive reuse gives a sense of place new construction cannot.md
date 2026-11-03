@@ -12,8 +12,8 @@ tags:
   - "topic/circularity"
   - "topic/city"
   - "topic/people"
-  - "strategy/3-urban-hybrid"
-  - "strategy/2-adaptive-modular"
+  - "domain/3-urban-hybrid"
+  - "domain/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

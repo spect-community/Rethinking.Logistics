@@ -13,8 +13,8 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
-  - "strategy/3-urban-hybrid"
+  - "domain/1-regenerative-park"
+  - "domain/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
   - "[[Closed sites that give little back to the city]]"

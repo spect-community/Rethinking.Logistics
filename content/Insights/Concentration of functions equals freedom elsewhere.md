@@ -12,8 +12,8 @@ tags:
   - "topic/city"
   - "topic/landscape"
   - "topic/synergy"
-  - "strategy/3-urban-hybrid"
-  - "strategy/1-regenerative-park"
+  - "domain/3-urban-hybrid"
+  - "domain/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Closed sites that give little back to the city]]"

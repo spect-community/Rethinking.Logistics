@@ -9,6 +9,9 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Sulollari]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[A rain garden answers four risks at once]]"
   - "[[Eight degrees quintuples walking distance]]"
@@ -26,9 +29,6 @@ auto_metrics:
   - "[[Wind conditions]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Cyclops]]"

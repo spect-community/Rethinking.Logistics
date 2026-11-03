@@ -15,11 +15,11 @@ ambitions:
   - "[[Access without a car]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_domains: []
 auto_insights:
   - "[[Four pillars, with location as the fourth]]"
   - "[[Your site decides a whole credit block]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

@@ -1,16 +1,16 @@
 ---
 title: Ambitions overview
-description: "Ambitions, the strategies and projects that pursue them, and the challenges that stand in their way."
+description: "Ambitions, the domains and projects that pursue them, and the challenges that stand in their way."
 ---
 
 > [!abstract] Generated page
-> Ambitions, the strategies and projects that pursue them, and the challenges that stand in their way. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
+> Ambitions, the domains and projects that pursue them, and the challenges that stand in their way. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**31 ambitions**, taken from how the students framed their briefs. Each strategy gathers several of them through its projects; some belong mostly to one strategy, others, such as safety or habitat, run across most of them.
+**31 ambitions**, taken from how the students framed their briefs. Each domain gathers several of them through its projects; some belong mostly to one domain, others, such as safety or habitat, run across most of them.
 
-## Ambitions by strategy
+## Ambitions by domain
 
-Number of student projects in each strategy that pursue the ambition; *In practice* counts the reference projects that pursue it.
+Number of student projects in each domain that pursue the ambition; *In practice* counts the reference projects that pursue it.
 
 | Category | Ambition | 1. [[Regenerative Peripheral Park]] | 2. [[Adaptive and Modular Logistics]] | 3. [[Urban Hybrid]] | 4. [[Micro-Hubs and Urban Mobility]] | 5. [[Energy Symbiosis]] | All | In practice |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

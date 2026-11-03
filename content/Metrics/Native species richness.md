@@ -17,12 +17,12 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
+auto_domains: []
 auto_insights:
   - "[[Green roofs are not a substitute for ground]]"
   - "[[Habitats copied from the surrounding landscape, not invented]]"
   - "[[The lilac vs the oak]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Rhino.Ecologic]]"
 ---

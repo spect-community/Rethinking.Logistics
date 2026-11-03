@@ -15,6 +15,9 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Ilinca Maria Baciu]]"
   - "[[Thomas Olsen]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
   - "[[A green roof without maintenance turns grey again]]"
@@ -24,9 +27,6 @@ auto_insights:
   - "[[Green roofs vs LCA — an admitted conflict]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

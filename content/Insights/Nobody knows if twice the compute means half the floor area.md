@@ -13,7 +13,7 @@ tags:
   - "topic/trade-off"
   - "topic/provocation"
   - "topic/economics"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

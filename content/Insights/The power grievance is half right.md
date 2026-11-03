@@ -13,7 +13,7 @@ tags:
   - "topic/energy"
   - "topic/externality"
   - "topic/trade-off"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Visual impact of logistics on neighbours]]"

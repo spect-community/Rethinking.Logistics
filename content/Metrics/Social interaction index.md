@@ -17,13 +17,13 @@ auto_case_studies:
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
   - "[[Sara Sulollari]]"
+auto_domains: []
 auto_insights:
   - "[[20,000 factory visitors a year, aiming at 25,000]]"
   - "[[27 neighbourhoods, 15,000 datasets, 1,200 answers]]"
   - "[[Circulation spaces defended with sensor data]]"
   - "[[Two twin harbours, opposite performance]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

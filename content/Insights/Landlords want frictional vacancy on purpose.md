@@ -12,7 +12,7 @@ tags:
   - "topic/economics"
   - "topic/adaptability"
   - "topic/trade-off"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges: []
 metrics: []

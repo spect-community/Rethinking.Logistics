@@ -13,7 +13,7 @@ tags:
   - "topic/data"
   - "topic/trade-off"
   - "topic/certification"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"

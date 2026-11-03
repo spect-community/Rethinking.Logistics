@@ -32,9 +32,9 @@ metrics:
   - "[[Throughput per site area]]"
   - "[[Function stacking index]]"
 tools: []
-auto_insights: []
-auto_strategies:
+auto_domains:
   - "[[Regenerative Peripheral Park]]"
+auto_insights: []
 ---
 ![[Pasted image 20261031081120.png]]
 ![[Pasted image 20261031071906.png]]

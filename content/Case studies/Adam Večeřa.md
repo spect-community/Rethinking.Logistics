@@ -51,12 +51,12 @@ metrics:
   - "[[Green-core anchoring of mixed uses]]"
 tools:
   - "[[Grasshopper]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[Czech height limits are quietly repelling investment]]"
   - "[[Retail warehousing exists because master plans forbid mixing people and trucks]]"
   - "[[The shop becomes a warehouse, the warehouse becomes a shop]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 ---
 ![[Pasted image 20261009101951.png]]
 ## Project

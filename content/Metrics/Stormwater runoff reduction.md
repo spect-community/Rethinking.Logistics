@@ -16,11 +16,11 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Ece Yasar]]"
   - "[[Hynek Hrabík]]"
+auto_domains: []
 auto_insights:
   - "[[Keep every drop on site]]"
   - "[[Rain harvested to grow the walls]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Rainflow-Sim]]"
 ---

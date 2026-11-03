@@ -35,11 +35,11 @@ metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Operational carbon]]"
 tools: []
+auto_domains:
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[A High Line for a whole industrial estate]]"
   - "[[Logistics lives in the sprawl, not the city]]"
-auto_strategies:
-  - "[[Urban Hybrid]]"
 ---
 ![[Pasted image 20261031081638.png]]
 ## Project

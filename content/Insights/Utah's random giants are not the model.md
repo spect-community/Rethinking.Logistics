@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/city"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges: []
 ambitions:

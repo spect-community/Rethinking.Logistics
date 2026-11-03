@@ -13,7 +13,7 @@ tags:
   - "topic/economics"
   - "topic/landscape"
   - "topic/synergy"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics:

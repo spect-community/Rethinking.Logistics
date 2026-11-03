@@ -12,7 +12,7 @@ tags:
   - "topic/city"
   - "topic/landscape"
   - "topic/taxonomy"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
 challenges: []
 ambitions:

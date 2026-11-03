@@ -13,7 +13,7 @@ tags:
   - "topic/taxonomy"
   - "topic/economics"
   - "topic/people"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

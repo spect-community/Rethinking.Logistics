@@ -11,12 +11,12 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Sara Sulollari]]"
+auto_domains: []
 auto_insights:
   - "[[Renewables as price insulation, not just carbon]]"
   - "[[The energy price forecast is always wrong]]"
   - "[[Three price scenarios, not one number]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

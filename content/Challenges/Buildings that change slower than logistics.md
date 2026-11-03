@@ -12,6 +12,8 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Kopác]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[2050-proof is not enough; make it 2070-proof]]"
   - "[[80% of the market need, not 100% of one tenant]]"
@@ -39,8 +41,6 @@ auto_metrics:
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"

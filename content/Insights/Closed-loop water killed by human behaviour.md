@@ -14,7 +14,7 @@ tags:
   - "topic/trade-off"
   - "topic/provocation"
   - "topic/green-blue"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
 metrics:

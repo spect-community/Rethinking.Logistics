@@ -12,7 +12,7 @@ tags:
   - "topic/people"
   - "topic/synergy"
   - "topic/city"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
   - "[[Deep, dark and noisy workplaces]]"

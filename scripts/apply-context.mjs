@@ -15,7 +15,7 @@
 //
 // For each entry the note (in content/Insights/ or import/private/held-insights/) gets
 // "## Context" and "## From the transcript" at the top of its body, replacing the short
-// claim-bank "## Quote", and provisional strategy/… tags. `statement` changes only when the
+// claim-bank "## Quote", and provisional domain/… tags. `statement` changes only when the
 // entry gives one (to separate the speaker's point from the claim bank's interpretation).
 // Safe to run again: the sections and tags are replaced, not duplicated.
 //
@@ -28,11 +28,11 @@ import { ROOT, CONTENT } from "./lib/kb.mjs"
 const DIR = path.join(ROOT, "import", "private", "context")
 const FOLDERS = [path.join(CONTENT, "Insights"), path.join(ROOT, "import", "private", "held-insights")]
 export const STRATEGY_TAGS = {
-  1: "strategy/1-regenerative-park",
-  2: "strategy/2-adaptive-modular",
-  3: "strategy/3-urban-hybrid",
-  4: "strategy/4-mobility-last-mile",
-  5: "strategy/5-energy-symbiosis",
+  1: "domain/1-regenerative-park",
+  2: "domain/2-adaptive-modular",
+  3: "domain/3-urban-hybrid",
+  4: "domain/4-mobility-last-mile",
+  5: "domain/5-energy-symbiosis",
 }
 const OWN = ["Context", "From the transcript", "Editorial note"]
 
@@ -51,10 +51,10 @@ for (const file of files) {
     let fm = m[1]
     let body = raw.slice(m[0].length)
 
-    // tags: drop old strategy/… tags, add the new ones
+    // tags: drop old domain/… (formerly strategy/…) tags, add the new ones
     const tm = fm.match(/^tags:(?: \[\])?\n?((?:  - .*\n?)*)/m)
     const noTranscript = data.transcript === false || !e.excerpt
-    const tags = tm ? [...tm[1].matchAll(/^  - "?([^"\n]+)"?$/gm)].map((x) => x[1]).filter((t) => !t.startsWith("strategy/") && t !== "todo/transcript") : []
+    const tags = tm ? [...tm[1].matchAll(/^  - "?([^"\n]+)"?$/gm)].map((x) => x[1]).filter((t) => !t.startsWith("strategy/") && !t.startsWith("domain/") && t !== "todo/transcript") : []
     for (const s of e.strategies ?? []) if (STRATEGY_TAGS[s]) tags.push(STRATEGY_TAGS[s])
     if (noTranscript) tags.push("todo/transcript")
     const block = tags.length ? `tags:\n${tags.map((t) => `  - "${t}"`).join("\n")}\n` : "tags: []\n"

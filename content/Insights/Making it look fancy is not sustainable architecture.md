@@ -12,7 +12,7 @@ tags:
   - "topic/circularity"
   - "topic/people"
   - "topic/provocation"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges: []
 metrics: []

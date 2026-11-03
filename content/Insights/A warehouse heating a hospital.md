@@ -13,7 +13,7 @@ tags:
   - "topic/energy"
   - "topic/synergy"
   - "topic/externality"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
   - "[[High operational energy demand]]"

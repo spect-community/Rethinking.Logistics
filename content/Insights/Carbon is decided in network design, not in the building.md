@@ -13,7 +13,7 @@ tags:
   - "topic/trade-off"
   - "topic/synergy"
   - "topic/landscape"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

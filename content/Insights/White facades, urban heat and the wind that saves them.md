@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/city"
   - "topic/data"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
   - "[[Wind, heat and missing shade around large buildings]]"

@@ -6,6 +6,8 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
 auto_challenges:
   - "[[Buildings that change slower than logistics]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
 auto_metrics:
   - "[[Adaptability]]"
@@ -13,8 +15,6 @@ auto_metrics:
   - "[[Design for disassembly score]]"
   - "[[Structural utilisation]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Donkey]]"
   - "[[Galapagos]]"
@@ -31,5 +31,5 @@ Buildings can be taken apart and rebuilt elsewhere, so their components keep the
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

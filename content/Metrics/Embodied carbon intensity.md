@@ -25,6 +25,9 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Robin Jesenský]]"
   - "[[Sara Gani]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[159 kg per m² for under 1% of investment cost]]"
   - "[[50 hours, 20 hours, 30 minutes]]"
@@ -59,9 +62,6 @@ auto_insights:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

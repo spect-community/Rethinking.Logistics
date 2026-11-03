@@ -13,8 +13,8 @@ tags:
   - "topic/city"
   - "topic/externality"
   - "topic/provocation"
-  - "strategy/4-mobility-last-mile"
-  - "strategy/3-urban-hybrid"
+  - "domain/4-mobility-last-mile"
+  - "domain/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
   - "[[Visual impact of logistics on neighbours]]"

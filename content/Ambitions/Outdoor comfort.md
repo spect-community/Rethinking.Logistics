@@ -6,6 +6,8 @@ auto_case_studies:
   - "[[Sara Sulollari]]"
 auto_challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
 auto_metrics:
   - "[[Noise level]]"
@@ -17,8 +19,6 @@ auto_metrics:
   - "[[Wind conditions]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Cyclops]]"
@@ -48,5 +48,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

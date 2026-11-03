@@ -50,9 +50,9 @@ const pages = {}
 
 // ── Ambitions ────────────────────────────────────────────────────────────────
 {
-  const strategies = ofType(kb, "strategy").sort((a, b) => (a.data.number ?? 0) - (b.data.number ?? 0))
-  let body = `**${ambitions.length} ambitions**, taken from how the students framed their briefs. Each strategy gathers several of them through its projects; some belong mostly to one strategy, others, such as safety or habitat, run across most of them.\n\n`
-  body += "## Ambitions by strategy\n\nNumber of student projects in each strategy that pursue the ambition; *In practice* counts the reference projects that pursue it.\n\n"
+  const strategies = ofType(kb, "domain").sort((a, b) => (a.data.number ?? 0) - (b.data.number ?? 0))
+  let body = `**${ambitions.length} ambitions**, taken from how the students framed their briefs. Each domain gathers several of them through its projects; some belong mostly to one domain, others, such as safety or habitat, run across most of them.\n\n`
+  body += "## Ambitions by domain\n\nNumber of student projects in each domain that pursue the ambition; *In practice* counts the reference projects that pursue it.\n\n"
   body += table(
     ["Category", "Ambition", ...strategies.map((s) => `${s.data.number ?? ""}. ${wl(s.name)}`), "All", "In practice"],
     groupBy(ambitions, "category").flatMap(([, list]) => list).map((a) => {
@@ -66,7 +66,7 @@ const pages = {}
       list.map((a) => [wl(a.name), esc(a.data.summary), links(A(a, "auto_challenges")), links(A(a, "auto_case_studies")), links(A(a, "auto_references"))]),
     ) + "\n\n"
   }
-  pages["Ambitions overview"] = page("Ambitions overview", "Ambitions, the strategies and projects that pursue them, and the challenges that stand in their way.", body)
+  pages["Ambitions overview"] = page("Ambitions overview", "Ambitions, the domains and projects that pursue them, and the challenges that stand in their way.", body)
 }
 
 // ── Challenge map ────────────────────────────────────────────────────────────
@@ -180,10 +180,10 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
   pages["Evidence gaps"] = page("Evidence gaps", "Where the chain from tool to metric to decision is incomplete.", body)
 }
 
-// ── Strategies ───────────────────────────────────────────────────────────────
+// ── Domains ──────────────────────────────────────────────────────────────────
 {
-  const strategies = ofType(kb, "strategy").sort((a, b) => (a.data.number ?? 99) - (b.data.number ?? 99))
-  const intro = `Five integration approaches synthesised from the student projects of the *Rethinking.Logistics* studio and the expert lectures. Each strategy page links its projects, metrics, trade-offs, evidence gaps and expert insights; every number traces to a linked note.
+  const strategies = ofType(kb, "domain").sort((a, b) => (a.data.number ?? 99) - (b.data.number ?? 99))
+  const intro = `Five thematic domains the *Rethinking.Logistics* studio worked in, synthesised from its student projects and the expert lectures. Each domain page links its projects, metrics, trade-offs, evidence gaps and expert insights; every number traces to a linked note.
 
 ![[Rethinking.Logistics – Bridging Academia and Industry.jpg]]
 
@@ -192,9 +192,9 @@ ${list([...missing.entries()], ([name, from]) => `- ${wl(name)} — mentioned in
 ![[Typologies.jpg]]
 `
   const body = strategies.length
-    ? intro + "\n## The five strategies\n\n" + table(["#", "Strategy", "In short", "Projects"], strategies.map((x) => [String(x.data.number ?? ""), wl(x.name), esc(x.data.summary), links(linked(x, "case_studies"))]))
-    : intro + "\n*No strategies yet.*"
-  pages["Strategies"] = page("Strategies", "The five strategies and the student projects behind them.", body)
+    ? intro + "\n## The five domains\n\n" + table(["#", "Domain", "In short", "Projects"], strategies.map((x) => [String(x.data.number ?? ""), wl(x.name), esc(x.data.summary), links(linked(x, "case_studies"))]))
+    : intro + "\n*No domains yet.*"
+  pages["Domains"] = page("Domains", "The five thematic domains and the student projects behind them.", body)
 }
 
 // ── Insights ─────────────────────────────────────────────────────────────────
@@ -216,7 +216,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 
 | Page | Answers |
 | --- | --- |
-| [[Ambitions overview]] | *What do the projects aim for, and which strategies pursue each aim?* |
+| [[Ambitions overview]] | *What do the projects aim for, and which domains pursue each aim?* |
 | [[Challenge map]] | *For my design challenge — what should I measure, and with which tool?* |
 | [[Metric catalogue]] | *How is a metric calculated, and who used it?* |
 | [[Tool directory]] | *What can a tool calculate, and in which projects was it used?* |
@@ -224,7 +224,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Reference projects overview]] | *Which projects from practice show these approaches built?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
-| [[Strategies]] | *Which integration approaches does the studio propose, and what is the evidence?* |
+| [[Domains]] | *Which thematic domains did the studio work in, and what is the evidence?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |
 `)
 

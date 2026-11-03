@@ -11,6 +11,10 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[20,000 factory visitors a year, aiming at 25,000]]"
   - "[[A High Line for a whole industrial estate]]"
@@ -35,10 +39,6 @@ auto_metrics:
   - "[[Social interaction index]]"
 auto_references:
   - "[[Chapelle International]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

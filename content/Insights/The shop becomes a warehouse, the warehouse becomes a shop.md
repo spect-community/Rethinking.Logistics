@@ -13,8 +13,8 @@ tags:
   - "topic/synergy"
   - "topic/provocation"
   - "topic/taxonomy"
-  - "strategy/3-urban-hybrid"
-  - "strategy/4-mobility-last-mile"
+  - "domain/3-urban-hybrid"
+  - "domain/4-mobility-last-mile"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 ambitions:

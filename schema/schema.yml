@@ -16,7 +16,7 @@ types:
     folder: Ambitions
     label: Ambition
     plural: Ambitions
-    description: An aim a design pursues, taken from how the students framed their briefs. Strategies gather them through their projects.
+    description: An aim a design pursues, taken from how the students framed their briefs. Domains gather them through their projects.
     # category groups the ambitions on the overview page (e.g. Energy, Carbon & circularity, City & community)
     fields: [category, summary, status, aliases]
 
@@ -57,11 +57,11 @@ types:
     # site_area, floor_area: free text with the unit as published (e.g. "182 acres", "134,500 sq ft")
     fields: [developer, architect, location, year, stage, typology, site_area, floor_area, certifications, url, status, aliases]
 
-  strategy:
-    folder: Strategies
-    label: Strategy
-    plural: Strategies
-    description: One of five integration approaches synthesised from the studio's student projects.
+  domain:
+    folder: Domains
+    label: Domain
+    plural: Domains
+    description: One of five thematic domains the studio worked in, synthesised from its student projects.
     fields: [number, group, summary, hero_image, posters, status, aliases]
 
   source:
@@ -81,7 +81,7 @@ types:
     # locator: timestamp or transcript line / PDF page
     # quote_type: paraphrase | verbatim
     # evidence_status: open-for-review | expert-reviewed | disputed
-    # relevance: 1–3 (3 = directly informs a metric or decision; 1 = kept, not used on strategy pages)
+    # relevance: 1–3 (3 = directly informs a metric or decision; 1 = kept, not used on domain pages)
     fields: [statement, source_type, locator, quote_type, evidence_status, confidence, reviewed_by, relevance, aliases]
 
 # Relations: `field` on `from` is typed by people; `auto` on `to` is written by the sync script.
@@ -150,26 +150,26 @@ relations:
     label: Case studies
     auto_label: Insights
     verb: is about
-  - from: strategy
+  - from: domain
     field: case_studies
     to: case-study
-    auto: auto_strategies
+    auto: auto_domains
     label: Case studies
-    auto_label: Strategies
+    auto_label: Domains
     verb: is synthesised from
-  - from: strategy
+  - from: domain
     field: challenges
     to: challenge
-    auto: auto_strategies
+    auto: auto_domains
     label: Challenges addressed
-    auto_label: Strategies
+    auto_label: Domains
     verb: addresses
-  - from: strategy
+  - from: domain
     field: metrics
     to: metric
-    auto: auto_strategies
+    auto: auto_domains
     label: Metrics
-    auto_label: Strategies
+    auto_label: Domains
     verb: is measured by
   - from: reference
     field: challenges
@@ -206,12 +206,12 @@ relations:
     label: Reference projects
     auto_label: Insights
     verb: is about
-  - from: strategy
+  - from: domain
     field: reference_projects
     to: reference
-    auto: auto_strategies
+    auto: auto_domains
     label: Reference projects
-    auto_label: Strategies
+    auto_label: Domains
     verb: is shown in
 
   - from: challenge
@@ -228,12 +228,12 @@ relations:
     label: Ambitions
     auto_label: Case studies
     verb: pursues
-  - from: strategy
+  - from: domain
     field: ambitions
     to: ambition
-    auto: auto_strategies
+    auto: auto_domains
     label: Ambitions
-    auto_label: Strategies
+    auto_label: Domains
     verb: pursues
   - from: reference
     field: ambitions
@@ -265,26 +265,26 @@ derived:
     auto: auto_tools
     label: Tools (via metrics)
     path: [auto_metrics, auto_tools]
-  - on: strategy
+  - on: domain
     auto: auto_insights
-    label: Insights (tagged with the strategy)
-    # insights carrying the tag strategy/<number>-…, set from the context round
+    label: Insights (tagged with the domain)
+    # insights carrying the tag domain/<number>-…, set from the context round
     tagged:
       type: insight
-      prefix: "strategy/{number}-"
+      prefix: "domain/{number}-"
     verb: supports
-  # strategies gather ambitions through their projects (same label = shown in one list)
+  # domains gather ambitions through their projects (same label = shown in one list)
   - on: ambition
-    auto: auto_strategies
-    label: Strategies
-    path: [auto_case_studies, auto_strategies]
+    auto: auto_domains
+    label: Domains
+    path: [auto_case_studies, auto_domains]
   # metrics through the challenges that serve the ambition
   - on: ambition
     auto: auto_metrics
     label: Metrics
     path: [auto_challenges, auto_metrics]
-  # the ambitions a strategy gathers through its projects
-  - on: strategy
+  # the ambitions a domain gathers through its projects
+  - on: domain
     auto: auto_ambitions
     label: Ambitions (through its projects)
     path: [case_studies, ambitions]

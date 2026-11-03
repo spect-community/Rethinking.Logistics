@@ -8,6 +8,8 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Robin Jesenský]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[7,000 m² of farming on a Paris data centre roof]]"
   - "[[A swimming pool heated by servers in Milan]]"
@@ -32,8 +34,6 @@ auto_metrics:
   - "[[Wind conditions]]"
 auto_references:
   - "[[Chapelle International]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"

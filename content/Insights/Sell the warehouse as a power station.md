@@ -14,8 +14,8 @@ tags:
   - "topic/synergy"
   - "topic/economics"
   - "topic/provocation"
-  - "strategy/5-energy-symbiosis"
-  - "strategy/3-urban-hybrid"
+  - "domain/5-energy-symbiosis"
+  - "domain/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"

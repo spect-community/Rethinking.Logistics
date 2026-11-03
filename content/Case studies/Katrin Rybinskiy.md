@@ -28,13 +28,13 @@ metrics:
   - "[[CapEx–OpEx ratio]]"
   - "[[Electricity price]]"
 tools: []
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[7,000 m² of farming on a Paris data centre roof]]"
   - "[[Don't force the wrong second life on a building]]"
   - "[[Hyperscale data centres skip Czechia for lack of power]]"
   - "[[Reuse can lose on whole-life carbon]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 ---
 ![[Pasted image 20261031082008.png]]
 ## Project

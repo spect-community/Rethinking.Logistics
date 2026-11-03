@@ -38,10 +38,10 @@ metrics:
 tools: []
 sources:
   - "[[IPUT, Nexus Logistics Park website]]"
+auto_domains: []
 auto_insights:
   - "[[Glulam on every unit, a first for Irish logistics parks]]"
   - "[[Glulam spans like steel, as the developer puts it]]"
-auto_strategies: []
 ---
 ![[Nexus Logistics Park.jpg]]
 *Visualisation of Nexus Logistics Park, with the greenway, sports pitches and Nexus Twelve. Image: IPUT Real Estate Dublin, [nexuslogisticspark.com](https://www.nexuslogisticspark.com/).*

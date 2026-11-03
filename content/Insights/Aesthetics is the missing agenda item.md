@@ -13,8 +13,8 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/landscape"
-  - "strategy/3-urban-hybrid"
-  - "strategy/1-regenerative-park"
+  - "domain/3-urban-hybrid"
+  - "domain/1-regenerative-park"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Visual impact of logistics on neighbours]]"

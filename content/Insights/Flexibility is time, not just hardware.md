@@ -12,8 +12,8 @@ tags:
   - "topic/adaptability"
   - "topic/circularity"
   - "topic/people"
-  - "strategy/2-adaptive-modular"
-  - "strategy/3-urban-hybrid"
+  - "domain/2-adaptive-modular"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

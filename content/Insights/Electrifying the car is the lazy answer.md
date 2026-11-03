@@ -12,7 +12,7 @@ tags:
   - "topic/provocation"
   - "topic/adaptability"
   - "topic/energy"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics:

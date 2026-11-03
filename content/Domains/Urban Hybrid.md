@@ -8,6 +8,7 @@ posters:
   - "img/posters/Logistics at the Urban Edge.jpg"
 status: published
 aliases:
+  - Domain 3
   - Strategy 3
 case_studies:
   - "[[Sara Gani]]"

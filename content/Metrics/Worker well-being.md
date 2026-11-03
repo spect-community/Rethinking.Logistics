@@ -16,13 +16,13 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"
+auto_domains: []
 auto_insights:
   - "[[A view raises memory by 10–25%]]"
   - "[[Architecture as a human resource tool]]"
   - "[[Daylight buys 18% productivity, retail 15–40%]]"
   - "[[Two fewer sick days pays for the building]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

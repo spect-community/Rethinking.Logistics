@@ -29,10 +29,10 @@ metrics:
   - "[[Last-mile delivery cost]]"
   - "[[Last-mile delivery emissions]]"
 tools: []
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Vertical zoning is the answer to people-meet-machines]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261031083126.png]]
 ## Project

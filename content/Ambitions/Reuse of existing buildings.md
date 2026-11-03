@@ -10,6 +10,10 @@ auto_case_studies:
   - "[[Vladi Kostecki]]"
 auto_challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights: []
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
@@ -23,10 +27,6 @@ auto_metrics:
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references: []
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"
@@ -50,5 +50,5 @@ Existing industrial and urban buildings are converted for logistics instead of b
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

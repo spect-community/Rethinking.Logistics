@@ -11,6 +11,7 @@ posters:
   - "img/posters/Flow-through Logistics (group).jpg"
 status: published
 aliases:
+  - Domain 4
   - Strategy 4
 case_studies:
   - "[[Eva Kažukolovaitė]]"

@@ -12,7 +12,7 @@ tags:
   - "topic/energy"
   - "topic/carbon"
   - "topic/adaptability"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[High operational energy demand]]"

@@ -13,7 +13,7 @@ tags:
   - "topic/synergy"
   - "topic/city"
   - "topic/provocation"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"

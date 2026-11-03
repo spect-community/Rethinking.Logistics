@@ -10,6 +10,10 @@ auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Katrin Rybinskiy]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[A translucent factory is a light-pollution machine]]"
   - "[[Aesthetics is the missing agenda item]]"
@@ -38,10 +42,6 @@ auto_metrics:
   - "[[Social acceptance]]"
   - "[[Visual impact on neighbours]]"
 auto_references: []
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

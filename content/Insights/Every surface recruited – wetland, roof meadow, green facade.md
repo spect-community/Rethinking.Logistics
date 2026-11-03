@@ -13,7 +13,7 @@ tags:
   - "topic/people"
   - "topic/landscape"
   - "topic/synergy"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

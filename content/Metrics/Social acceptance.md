@@ -14,13 +14,13 @@ ambitions:
 auto_case_studies:
   - "[[Ece Yasar]]"
   - "[[Eva Kažukolovaitė]]"
+auto_domains: []
 auto_insights:
   - "[[Czech mayors have almost no reason to say yes]]"
   - "[[Mayors get trucks, not taxes]]"
   - "[[NIMBY survives the open day]]"
   - "[[The power grievance is half right]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

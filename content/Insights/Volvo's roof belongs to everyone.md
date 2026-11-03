@@ -12,7 +12,7 @@ tags:
   - "topic/landscape"
   - "topic/people"
   - "topic/city"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
   - "[[Closed sites that give little back to the city]]"

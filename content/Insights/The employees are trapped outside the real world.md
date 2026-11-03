@@ -12,7 +12,7 @@ tags:
   - "topic/externality"
   - "topic/people"
   - "topic/city"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Deep, dark and noisy workplaces]]"

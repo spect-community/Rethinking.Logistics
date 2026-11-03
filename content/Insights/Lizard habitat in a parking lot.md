@@ -12,7 +12,7 @@ tags:
   - "topic/green-blue"
   - "topic/certification"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

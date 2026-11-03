@@ -14,12 +14,12 @@ challenges:
 auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Roshni Basu]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Carbon is decided in network design, not in the building]]"
   - "[[Hub placement decided without data]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

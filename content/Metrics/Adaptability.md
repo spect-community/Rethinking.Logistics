@@ -19,6 +19,8 @@ auto_case_studies:
   - "[[Elsa Hauksdottir]]"
   - "[[Eva Kažukolovaitė]]"
   - "[[Julia Godard Lombard]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[80% of the market need, not 100% of one tenant]]"
   - "[[Adaptability saves carbon but can't be counted]]"
@@ -28,8 +30,6 @@ auto_insights:
   - "[[Over-build the height, don't charge for it]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools: []
 ---
 

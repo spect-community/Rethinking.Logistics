@@ -12,7 +12,7 @@ tags:
   - "topic/green-blue"
   - "topic/landscape"
   - "topic/trade-off"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"

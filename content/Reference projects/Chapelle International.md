@@ -31,9 +31,9 @@ metrics:
 tools: []
 sources:
   - "[[Sogaris, Chapelle International]]"
+auto_domains: []
 auto_insights:
   - "[[A logistics hotel with football pitches on top]]"
-auto_strategies: []
 ---
 ![[Chapelle International.jpg]]
 *Chapelle International beside the rail lines of Paris 18e, with greenhouses and sports pitches visible on the roof. Photo: © Dubreuil, Sogaris, [sogaris.fr](https://www.sogaris.fr/fiche/chapelle-international/).*

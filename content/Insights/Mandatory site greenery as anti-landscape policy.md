@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/trade-off"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Land take of logistics buildings]]"

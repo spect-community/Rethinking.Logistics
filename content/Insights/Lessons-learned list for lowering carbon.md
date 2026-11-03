@@ -14,7 +14,7 @@ tags:
   - "topic/circularity"
   - "topic/adaptability"
   - "topic/energy"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

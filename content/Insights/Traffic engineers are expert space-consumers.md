@@ -13,8 +13,8 @@ tags:
   - "topic/green-blue"
   - "topic/provocation"
   - "topic/synergy"
-  - "strategy/1-regenerative-park"
-  - "strategy/4-mobility-last-mile"
+  - "domain/1-regenerative-park"
+  - "domain/4-mobility-last-mile"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"

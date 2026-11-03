@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/provocation"
   - "topic/trade-off"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Land take of logistics buildings]]"

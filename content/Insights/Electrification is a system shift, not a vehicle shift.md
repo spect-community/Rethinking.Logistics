@@ -13,8 +13,8 @@ tags:
   - "topic/synergy"
   - "topic/city"
   - "topic/carbon"
-  - "strategy/4-mobility-last-mile"
-  - "strategy/5-energy-symbiosis"
+  - "domain/4-mobility-last-mile"
+  - "domain/5-energy-symbiosis"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges:
   - "[[Last-mile delivery emissions and traffic]]"

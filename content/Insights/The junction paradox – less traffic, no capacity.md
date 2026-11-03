@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/trade-off"
   - "topic/data"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 metrics: []

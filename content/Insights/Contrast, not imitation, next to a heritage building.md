@@ -11,7 +11,7 @@ aliases: []
 tags:
   - "topic/city"
   - "topic/provocation"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Visual impact of logistics on neighbours]]"

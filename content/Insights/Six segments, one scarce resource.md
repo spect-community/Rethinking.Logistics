@@ -12,7 +12,7 @@ tags:
   - "topic/taxonomy"
   - "topic/city"
   - "topic/synergy"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []

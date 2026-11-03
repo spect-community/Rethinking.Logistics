@@ -13,7 +13,7 @@ tags:
   - "topic/people"
   - "topic/trade-off"
   - "topic/taxonomy"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges: []
 ambitions:

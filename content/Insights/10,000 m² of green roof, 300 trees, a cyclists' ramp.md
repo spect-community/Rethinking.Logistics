@@ -12,7 +12,7 @@ tags:
   - "topic/green-blue"
   - "topic/city"
   - "topic/data"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"

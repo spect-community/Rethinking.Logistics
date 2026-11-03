@@ -14,7 +14,7 @@ tags:
   - "topic/economics"
   - "topic/externality"
   - "topic/taxonomy"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges: []
 metrics: []

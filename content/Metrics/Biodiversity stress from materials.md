@@ -12,11 +12,11 @@ challenges:
   - "[[Habitat loss and cut ecological corridors]]"
 auto_case_studies:
   - "[[Ece Yasar]]"
+auto_domains: []
 auto_insights:
   - "[[Distant material extraction damages distant biotopes]]"
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

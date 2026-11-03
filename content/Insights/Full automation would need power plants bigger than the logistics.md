@@ -13,7 +13,7 @@ tags:
   - "topic/externality"
   - "topic/data"
   - "topic/trade-off"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Space, energy and labour needs changing with automation]]"

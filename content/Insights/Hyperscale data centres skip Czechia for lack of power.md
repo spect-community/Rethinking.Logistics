@@ -13,7 +13,7 @@ tags:
   - "topic/data"
   - "topic/taxonomy"
   - "topic/externality"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges: []
 metrics: []

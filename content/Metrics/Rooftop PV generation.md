@@ -16,6 +16,9 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
   - "[[Roshni Basu]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[355 GW sits on Europe's big roofs]]"
   - "[[85 GW blocked by roofs that can't take the weight]]"
@@ -27,9 +30,6 @@ auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Cyclops]]"
   - "[[Dragonfly]]"

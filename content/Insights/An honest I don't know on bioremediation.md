@@ -12,7 +12,7 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/green-blue"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges: []
 metrics: []

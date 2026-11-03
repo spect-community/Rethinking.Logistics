@@ -13,8 +13,8 @@ tags:
   - "topic/city"
   - "topic/synergy"
   - "topic/landscape"
-  - "strategy/1-regenerative-park"
-  - "strategy/3-urban-hybrid"
+  - "domain/1-regenerative-park"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics: []

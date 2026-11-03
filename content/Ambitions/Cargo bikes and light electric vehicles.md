@@ -8,6 +8,9 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
 auto_challenges:
   - "[[Last-mile delivery emissions and traffic]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights: []
 auto_metrics:
   - "[[Delivery catchment]]"
@@ -18,9 +21,6 @@ auto_metrics:
   - "[[Public transport accessibility]]"
   - "[[Road freight impact]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---
@@ -37,5 +37,5 @@ Last-mile deliveries move to cargo bikes, electric vans and other light vehicles
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

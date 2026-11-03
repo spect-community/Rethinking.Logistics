@@ -13,7 +13,7 @@ tags:
   - "topic/synergy"
   - "topic/provocation"
   - "topic/externality"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"

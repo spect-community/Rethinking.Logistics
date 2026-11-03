@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
@@ -22,8 +24,6 @@ auto_insights:
   - "[[Timber sells on schedule, not on carbon]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Galapagos]]"
 ---

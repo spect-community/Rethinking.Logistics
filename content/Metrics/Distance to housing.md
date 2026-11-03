@@ -17,11 +17,11 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
   - "[[Elsa Hauksdottir]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_domains: []
 auto_insights:
   - "[[California wrote the warehouse design code]]"
   - "[[Noise – the logistics is the problem, not the building]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"

@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/people"
   - "topic/data"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Wind, heat and missing shade around large buildings]]"

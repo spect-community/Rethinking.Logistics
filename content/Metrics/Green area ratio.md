@@ -29,13 +29,13 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Roshni Basu]]"
   - "[[Vladi Kostecki]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
 auto_references: []
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

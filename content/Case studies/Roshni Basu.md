@@ -28,10 +28,10 @@ metrics:
   - "[[Jobs created]]"
 tools:
   - "[[Grasshopper]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Hub placement decided without data]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

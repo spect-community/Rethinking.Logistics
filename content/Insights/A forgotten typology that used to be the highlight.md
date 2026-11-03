@@ -12,7 +12,7 @@ tags:
   - "topic/provocation"
   - "topic/city"
   - "topic/people"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []

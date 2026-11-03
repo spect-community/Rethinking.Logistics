@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/externality"
   - "topic/provocation"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
   - "[[Space, energy and labour needs changing with automation]]"

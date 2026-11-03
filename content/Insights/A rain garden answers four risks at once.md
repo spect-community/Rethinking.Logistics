@@ -13,7 +13,7 @@ tags:
   - "topic/green-blue"
   - "topic/landscape"
   - "topic/people"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"

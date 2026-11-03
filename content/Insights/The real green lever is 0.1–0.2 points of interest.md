@@ -12,7 +12,7 @@ tags:
   - "topic/economics"
   - "topic/certification"
   - "topic/synergy"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges: []
 metrics: []

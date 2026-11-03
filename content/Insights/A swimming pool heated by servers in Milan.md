@@ -13,8 +13,8 @@ tags:
   - "topic/energy"
   - "topic/people"
   - "topic/city"
-  - "strategy/5-energy-symbiosis"
-  - "strategy/3-urban-hybrid"
+  - "domain/5-energy-symbiosis"
+  - "domain/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges:
   - "[[Waste heat and cooling of data centres]]"

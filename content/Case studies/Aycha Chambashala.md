@@ -27,9 +27,9 @@ metrics:
   - "[[Green area ratio]]"
   - "[[Function stacking index]]"
 tools: []
-auto_insights: []
-auto_strategies:
+auto_domains:
   - "[[Regenerative Peripheral Park]]"
+auto_insights: []
 ---
 ![[Pasted image 20261031080030.png]]
 ## Project

@@ -13,7 +13,7 @@ tags:
   - "topic/circularity"
   - "topic/energy"
   - "topic/carbon"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Delivery]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

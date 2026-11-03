@@ -10,9 +10,9 @@ challenges:
   - "[[Closed sites that give little back to the city]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
+auto_domains: []
 auto_insights: []
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

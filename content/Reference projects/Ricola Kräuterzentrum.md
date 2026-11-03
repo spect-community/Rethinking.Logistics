@@ -28,9 +28,9 @@ metrics:
 tools: []
 sources:
   - "[[Herzog & de Meuron, project 369]]"
+auto_domains: []
 auto_insights:
   - "[[The largest rammed earth building in Europe is a warehouse]]"
-auto_strategies: []
 ---
 ![[Ricola Kräuterzentrum.jpg]]
 *Ricola Kräuterzentrum in Laufen. Photo: Keimzelle, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kraeuterzentrum_Ricola_2.jpg).*

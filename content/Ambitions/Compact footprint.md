@@ -11,6 +11,11 @@ auto_case_studies:
   - "[[Robin Jesenský]]"
 auto_challenges:
   - "[[Land take of logistics buildings]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights: []
 auto_metrics:
   - "[[Function stacking index]]"
@@ -23,11 +28,6 @@ auto_metrics:
   - "[[Yard area per dock]]"
 auto_references:
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Energy Symbiosis]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"
@@ -54,5 +54,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

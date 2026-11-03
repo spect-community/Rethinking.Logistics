@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/externality"
   - "topic/economics"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

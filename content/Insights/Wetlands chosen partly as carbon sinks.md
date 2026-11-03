@@ -13,7 +13,7 @@ tags:
   - "topic/carbon"
   - "topic/synergy"
   - "topic/green-blue"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics:

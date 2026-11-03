@@ -13,7 +13,7 @@ tags:
   - "topic/economics"
   - "topic/externality"
   - "topic/people"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
 metrics: []

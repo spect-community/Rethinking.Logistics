@@ -31,10 +31,10 @@ metrics:
   - "[[Mixed-use ratio]]"
   - "[[Worker well-being]]"
 tools: []
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Consolidation centres cut trips 20–50%]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009100946.png]]
 ## Project

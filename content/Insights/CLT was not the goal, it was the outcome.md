@@ -13,7 +13,7 @@ tags:
   - "topic/carbon"
   - "topic/trade-off"
   - "topic/provocation"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

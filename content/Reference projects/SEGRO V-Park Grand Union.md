@@ -32,9 +32,9 @@ metrics:
 tools: []
 sources:
   - "[[SEGRO, April 2024]]"
+auto_domains: []
 auto_insights:
   - "[[Six storeys of industry under 3,350 homes]]"
-auto_strategies: []
 ---
 ## Project
 

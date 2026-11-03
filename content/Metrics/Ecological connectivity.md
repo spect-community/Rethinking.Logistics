@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[Biodiversity net gain, step by step]]"
   - "[[France maps its ecology before it maps its plots]]"
@@ -23,8 +25,6 @@ auto_insights:
   - "[[Singapore's 20 km road becomes a green corridor]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 auto_tools: []
 ---
 

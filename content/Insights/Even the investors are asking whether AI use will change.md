@@ -13,7 +13,7 @@ tags:
   - "topic/adaptability"
   - "topic/data"
   - "topic/provocation"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges: []
 metrics: []

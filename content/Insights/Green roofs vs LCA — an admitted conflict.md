@@ -13,7 +13,7 @@ tags:
   - "topic/carbon"
   - "topic/materials"
   - "topic/green-blue"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

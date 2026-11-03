@@ -15,6 +15,11 @@ auto_case_studies:
   - "[[Sara Sulollari]]"
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[~20% cost premium, disclosed up front, not negotiated later]]"
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
@@ -115,11 +120,6 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Energy Symbiosis]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"

@@ -12,7 +12,7 @@ tags:
   - "topic/circularity"
   - "topic/economics"
   - "topic/materials"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

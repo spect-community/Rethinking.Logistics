@@ -12,7 +12,7 @@ tags:
   - "topic/energy"
   - "topic/synergy"
   - "topic/trade-off"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics:

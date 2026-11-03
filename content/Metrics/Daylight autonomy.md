@@ -13,6 +13,8 @@ challenges:
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Sara Gani]]"
+auto_domains:
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[1,500 lux is where people improvise blinds]]"
   - "[[LEED supplies the ceiling the code lacks]]"
@@ -22,8 +24,6 @@ auto_insights:
   - "[[Skylights as wayfinding in a 565 m building]]"
   - "[[Ten thousand options instead of one]]"
 auto_references: []
-auto_strategies:
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Honeybee]]"
   - "[[Pollination]]"

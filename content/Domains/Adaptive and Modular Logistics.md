@@ -10,6 +10,7 @@ posters:
   - "img/posters/Wind Rós.jpg"
 status: published
 aliases:
+  - Domain 2
   - Strategy 2
 case_studies:
   - "[[Elsa Hauksdottir]]"
@@ -159,7 +160,7 @@ For comparison, a lecture example of renovating rather than rebuilding an admini
 
 ## Evidence gaps
 
-- [[Adaptability]] is the most used metric of this strategy, yet it is estimated by hand in every project; [[Design for disassembly score]] is a qualitative rating without a stated method ([[Evidence gaps]]).
+- [[Adaptability]] is the most used metric of this domain, yet it is estimated by hand in every project; [[Design for disassembly score]] is a qualitative rating without a stated method ([[Evidence gaps]]).
 - The embodied carbon and cost values for the bridging structure have no stated calculation, and tools that could compute [[Embodied carbon intensity]] and [[Whole-life carbon]] were not yet used in any project ([[Evidence gaps]]).
 - No project quantifies the carbon saved by avoiding demolition or by relocation ([[Embodied carbon saved by reuse]]), nor the transport emissions of moving modules ([[Amy Naprstek]]).
 - The heating reduction rests on a benchmark intensity whose source is not cited, and the visual-impact and well-being percentages have no method ([[Elsa Hauksdottir]]).

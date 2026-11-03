@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/circularity"
   - "topic/green-blue"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics and industrial Development]]"
 challenges:
   - "[[Land take of logistics buildings]]"

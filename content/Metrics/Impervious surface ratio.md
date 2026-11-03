@@ -20,14 +20,14 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Kopác]]"
   - "[[Natalie Žižková]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[Don't dig down vs biodiversity]]"
   - "[[Traffic engineers are expert space-consumers]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

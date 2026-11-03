@@ -14,7 +14,7 @@ tags:
   - "topic/carbon"
   - "topic/provocation"
   - "topic/trade-off"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

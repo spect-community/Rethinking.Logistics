@@ -12,7 +12,7 @@ tags:
   - "topic/people"
   - "topic/green-blue"
   - "topic/adaptability"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Deep, dark and noisy workplaces]]"

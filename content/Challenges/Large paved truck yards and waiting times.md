@@ -10,6 +10,8 @@ auto_case_studies:
   - "[[Aycha Chambashala]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Pavement is the unsolved carbon problem]]"
 auto_metrics:
@@ -19,8 +21,6 @@ auto_metrics:
   - "[[Yard area per dock]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools:
   - "[[AutoTURN]]"
 ---

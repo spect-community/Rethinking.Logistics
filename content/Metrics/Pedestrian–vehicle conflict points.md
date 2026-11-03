@@ -16,12 +16,12 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[Vertical zoning is the answer to people-meet-machines]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools: []
 ---
 

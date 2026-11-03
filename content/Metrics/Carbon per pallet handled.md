@@ -12,10 +12,10 @@ challenges:
   - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Vladi Kostecki]]"
+auto_domains: []
 auto_insights:
   - "[[Rethink the normalising unit per typology]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

@@ -7,6 +7,8 @@ auto_case_studies:
   - "[[Katrin Rybinskiy]]"
 auto_challenges:
   - "[[Waste heat and cooling of data centres]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[A system with a data centre at its heart, not a standalone asset]]"
 auto_metrics:
@@ -19,8 +21,6 @@ auto_metrics:
 auto_references:
   - "[[Chapelle International]]"
   - "[[Ricola Kräuterzentrum]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"
@@ -46,5 +46,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

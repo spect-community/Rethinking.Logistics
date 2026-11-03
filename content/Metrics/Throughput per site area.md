@@ -15,10 +15,10 @@ auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Hynek Hrabík]]"
   - "[[Vladi Kostecki]]"
+auto_domains: []
 auto_insights:
   - "[[Single-picking is why e-commerce eats space]]"
 auto_references: []
-auto_strategies: []
 auto_tools: []
 ---
 

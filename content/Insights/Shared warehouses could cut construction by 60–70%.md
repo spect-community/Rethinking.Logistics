@@ -13,7 +13,7 @@ tags:
   - "topic/data"
   - "topic/synergy"
   - "topic/adaptability"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Land take of logistics buildings]]"

@@ -18,13 +18,13 @@ auto_case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Sara Gani]]"
   - "[[Vladi Kostecki]]"
+auto_domains: []
 auto_insights:
   - "[[Czech legal emission factor is double reality]]"
   - "[[Data centre carbon is many multiples of a warehouse]]"
   - "[[Operational carbon collapses, embodied carbon takes over]]"
   - "[[The electricity mix dominates everything]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Dragonfly]]"
   - "[[Honeybee]]"

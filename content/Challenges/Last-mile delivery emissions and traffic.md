@@ -12,6 +12,9 @@ auto_case_studies:
   - "[[Khrystyna Verbitska]]"
   - "[[Roshni Basu]]"
   - "[[Thomas Olsen]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[36,000 lorry trips removed by barge]]"
   - "[[Access regulation is the strongest design lever]]"
@@ -41,9 +44,6 @@ auto_metrics:
   - "[[Road freight impact]]"
 auto_references:
   - "[[Chapelle International]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---

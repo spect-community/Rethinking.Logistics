@@ -13,6 +13,7 @@ challenges:
   - "[[Buildings that change slower than logistics]]"
 auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
+auto_domains: []
 auto_insights:
   - "[[0.5 kN per m² off the brief, and everything gets cheaper]]"
   - "[[85 GW blocked by roofs that can't take the weight]]"
@@ -25,7 +26,6 @@ auto_insights:
   - "[[Solar is now a building code, not a choice]]"
   - "[[Tested to 50 tons without failing]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Donkey]]"
   - "[[Karamba3D]]"

@@ -30,9 +30,9 @@ metrics:
   - "[[Pedestrian–vehicle conflict points]]"
   - "[[Green area ratio]]"
 tools: []
-auto_insights: []
-auto_strategies:
+auto_domains:
   - "[[Urban Hybrid]]"
+auto_insights: []
 ---
 ![[Pasted image 20261031091124.png]]
 ## Project

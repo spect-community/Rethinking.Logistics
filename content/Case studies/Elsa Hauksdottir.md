@@ -32,11 +32,11 @@ metrics:
   - "[[Adaptability]]"
   - "[[Distance to housing]]"
 tools: []
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Flexibility is time, not just hardware]]"
   - "[[Grey space – buildings sized for Black Friday]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 ---
 ![[Pasted image 20261031080333.png]]
 ## Project

@@ -11,6 +11,9 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Katrin Rybinskiy]]"
   - "[[Marek Nový]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Energy Symbiosis]]"
 auto_insights:
   - "[[177 boreholes, 150 metres deep]]"
   - "[[355 GW sits on Europe's big roofs]]"
@@ -58,9 +61,6 @@ auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Energy Symbiosis]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[CO2mpare]]"

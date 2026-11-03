@@ -110,8 +110,8 @@ for (const n of kb.notes) {
     }
     const connections = merged.size ? `\n\n## Connections\n\n${[...merged].map(([k, v]) => `- **${k}:** ${v.join(", ")}`).join("\n")}\n` : ""
     const edit = `\n\n---\n*Something wrong or missing? [Suggest a correction](${mailto("Rethinking.Logistics – correction: " + n.name)})*\n`
-    // Strategy pages: list items that are just an insight link get its badges and source
-    if (n.type === "strategy") {
+    // Domain pages: list items that are just an insight link get its badges and source
+    if (n.type === "domain") {
       body = body.replace(/^- \[\[([^\]|#]+)\]\]\s*$/gm, (m, name) => {
         const t = kb.find(name)
         if (t?.type !== "insight") return m

@@ -12,7 +12,7 @@ tags:
   - "topic/taxonomy"
   - "topic/city"
   - "topic/adaptability"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges: []
 metrics: []

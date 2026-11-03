@@ -12,6 +12,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Marek Nový]]"
   - "[[Natalie Žižková]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[10,000 m² of green roof, 300 trees, a cyclists' ramp]]"
   - "[[A dump site that forbade digging became islands]]"
@@ -40,8 +42,6 @@ auto_metrics:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"

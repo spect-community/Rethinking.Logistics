@@ -10,11 +10,11 @@ challenges:
   - "[[High operational energy demand]]"
 auto_case_studies:
   - "[[Sara Gani]]"
+auto_domains: []
 auto_insights:
   - "[[Free night cooling is still the cheapest move]]"
   - "[[Old sheds knew things the new ones forgot]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
 ---

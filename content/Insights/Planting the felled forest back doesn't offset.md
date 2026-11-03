@@ -14,7 +14,7 @@ tags:
   - "topic/carbon"
   - "topic/externality"
   - "topic/trade-off"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

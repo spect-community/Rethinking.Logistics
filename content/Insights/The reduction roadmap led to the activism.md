@@ -12,7 +12,7 @@ tags:
   - "topic/carbon"
   - "topic/circularity"
   - "topic/data"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

@@ -6,6 +6,8 @@ auto_case_studies:
   - "[[Amy Naprstek]]"
 auto_challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
 auto_metrics:
   - "[[Biodiversity stress from materials]]"
@@ -19,8 +21,6 @@ auto_metrics:
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"
@@ -40,5 +40,5 @@ Lighter structures use less material and carry less embodied carbon for the same
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

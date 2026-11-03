@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Lindsay Daphne Macuja]]"
   - "[[Sara Gani]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[35,000 m² of green façade, possibly the world's largest]]"
@@ -71,8 +73,6 @@ auto_metrics:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"

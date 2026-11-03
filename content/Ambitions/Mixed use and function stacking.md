@@ -10,6 +10,10 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
   - "[[Vladi Kostecki]]"
 auto_challenges: []
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[A logistics hotel with football pitches on top]]"
   - "[[Don't let every unit be 2,000 m²]]"
@@ -22,10 +26,6 @@ auto_metrics:
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools: []
 ---
 
@@ -37,10 +37,10 @@ Logistics shares its building or site with other uses: offices, retail, producti
 
 - [[Julia Godard Lombard]] — project description: a storage data centre paired with sauna and wellness, dry-food production and a café
 - [[Lindsay Daphne Macuja]] — “Mixed-use / social value of logistics hubs”
-- [[Sara Gani]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
-- [[Thomas Olsen]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
-- [[Vladi Kostecki]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
-- [[Ilinca Maria Baciu]] — through the strategy [[Urban Hybrid]] (logistics combined or stacked with other uses)
+- [[Sara Gani]] — through the domain [[Urban Hybrid]] (logistics combined or stacked with other uses)
+- [[Thomas Olsen]] — through the domain [[Urban Hybrid]] (logistics combined or stacked with other uses)
+- [[Vladi Kostecki]] — through the domain [[Urban Hybrid]] (logistics combined or stacked with other uses)
+- [[Ilinca Maria Baciu]] — through the domain [[Urban Hybrid]] (logistics combined or stacked with other uses)
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
@@ -51,5 +51,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

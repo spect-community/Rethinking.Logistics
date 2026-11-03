@@ -13,8 +13,8 @@ tags:
   - "topic/carbon"
   - "topic/materials"
   - "topic/adaptability"
-  - "strategy/2-adaptive-modular"
-  - "strategy/3-urban-hybrid"
+  - "domain/2-adaptive-modular"
+  - "domain/3-urban-hybrid"
 source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

@@ -12,7 +12,7 @@ tags:
   - "topic/city"
   - "topic/data"
   - "topic/taxonomy"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Cloud in the city – data centres, urban development and implications]]"
 challenges: []
 ambitions:

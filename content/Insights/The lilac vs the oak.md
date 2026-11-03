@@ -13,7 +13,7 @@ tags:
   - "topic/green-blue"
   - "topic/externality"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

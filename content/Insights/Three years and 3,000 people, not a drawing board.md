@@ -12,7 +12,7 @@ tags:
   - "topic/people"
   - "topic/city"
   - "topic/provocation"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges: []
 metrics: []

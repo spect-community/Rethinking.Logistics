@@ -14,7 +14,7 @@ tags:
   - "topic/people"
   - "topic/provocation"
   - "topic/trade-off"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

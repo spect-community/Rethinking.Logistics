@@ -13,8 +13,8 @@ tags:
   - "topic/circularity"
   - "topic/city"
   - "topic/taxonomy"
-  - "strategy/2-adaptive-modular"
-  - "strategy/3-urban-hybrid"
+  - "domain/2-adaptive-modular"
+  - "domain/3-urban-hybrid"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

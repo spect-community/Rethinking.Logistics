@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/trade-off"
   - "topic/externality"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
 challenges: []
 metrics: []

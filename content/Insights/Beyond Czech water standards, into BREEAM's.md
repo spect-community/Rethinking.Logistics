@@ -12,7 +12,7 @@ tags:
   - "topic/green-blue"
   - "topic/certification"
   - "topic/data"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"

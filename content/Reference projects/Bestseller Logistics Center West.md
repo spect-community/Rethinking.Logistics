@@ -49,6 +49,7 @@ sources:
   - "[[Henning Larsen, BESTSELLER Logistics Center West]]"
   - "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
   - "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
+auto_domains: []
 auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[~20% cost premium, disclosed up front, not negotiated later]]"
@@ -89,7 +90,6 @@ auto_insights:
   - "[[The MHE designed the building, not the architect]]"
   - "[[Two specified layers failed on site]]"
   - "[[Wetlands chosen partly as carbon sinks]]"
-auto_strategies: []
 ---
 ![[Bestseller Logistics Center West.jpg]]
 *Visualisation of BESTSELLER Logistics Center West with the surrounding wetland. Render: Aesthetica Studio and Henning Larsen, [henninglarsen.com](https://www.henninglarsen.com/projects/bestseller-logistics-center-west).*

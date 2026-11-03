@@ -9,6 +9,9 @@ auto_case_studies:
   - "[[Thomas Olsen]]"
 auto_challenges:
   - "[[Last-mile delivery emissions and traffic]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Urban Hybrid]]"
 auto_insights: []
 auto_metrics:
   - "[[Delivery catchment]]"
@@ -21,9 +24,6 @@ auto_metrics:
 auto_references:
   - "[[Chapelle International]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[Geoportal Praha]]"
 ---
@@ -48,5 +48,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

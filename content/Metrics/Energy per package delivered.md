@@ -10,10 +10,10 @@ challenges:
   - "[[Space, energy and labour needs changing with automation]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights: []
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

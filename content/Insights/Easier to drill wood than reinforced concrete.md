@@ -11,7 +11,7 @@ aliases: []
 tags:
   - "topic/adaptability"
   - "topic/materials"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Build Your Own Playground – Architecture where no one looks for it]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

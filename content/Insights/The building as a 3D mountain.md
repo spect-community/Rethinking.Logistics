@@ -12,7 +12,7 @@ tags:
   - "topic/green-blue"
   - "topic/landscape"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

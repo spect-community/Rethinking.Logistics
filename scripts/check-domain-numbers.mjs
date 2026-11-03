@@ -1,13 +1,13 @@
 #!/usr/bin/env node
-// Checks that every number on a strategy page traces to a linked note.
+// Checks that every number on a domain page traces to a linked note.
 //
-// For each line of a strategy note's body (a paragraph, list item or table row), every
+// For each line of a domain note's body (a paragraph, list item or table row), every
 // number must appear in at least one note linked from that same line ([[…]]): a case
 // study, metric, insight, challenge or overview page. Numbers 0–3, ordinals in lists
 // and numbers inside the link targets themselves are ignored.
 //
 // It only reports (exit code 1 when something is untraced); it never edits notes.
-// Usage: node scripts/check-strategy-numbers.mjs
+// Usage: node scripts/check-domain-numbers.mjs
 
 import fs from "node:fs"
 import path from "node:path"
@@ -33,7 +33,7 @@ const noteText = (name) => {
 }
 
 let problems = 0
-for (const s of kb.notes.filter((n) => n.type === "strategy")) {
+for (const s of kb.notes.filter((n) => n.type === "domain")) {
   const lines = s.body.split(/\r?\n/)
   lines.forEach((line, i) => {
     if (/^#|^!\[\[|^\s*$/.test(line)) return
@@ -49,5 +49,5 @@ for (const s of kb.notes.filter((n) => n.type === "strategy")) {
     }
   })
 }
-console.log(problems ? `\n⚠️  ${problems} number(s) on strategy pages not traced to a linked note` : "✅ Every number on strategy pages traces to a linked note")
+console.log(problems ? `\n⚠️  ${problems} number(s) on domain pages not traced to a linked note` : "✅ Every number on domain pages traces to a linked note")
 process.exit(problems ? 1 : 0)

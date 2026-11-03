@@ -19,6 +19,9 @@ auto_case_studies:
   - "[[Ilinca Maria Baciu]]"
   - "[[Julia Godard Lombard]]"
   - "[[Lindsay Daphne Macuja]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Urban Hybrid]]"
 auto_insights:
   - "[[A logistics hotel with football pitches on top]]"
   - "[[Don't let every unit be 2,000 m²]]"
@@ -26,9 +29,6 @@ auto_insights:
   - "[[Single-function land use is the real waste]]"
 auto_references:
   - "[[Chapelle International]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Urban Hybrid]]"
 auto_tools: []
 ---
 

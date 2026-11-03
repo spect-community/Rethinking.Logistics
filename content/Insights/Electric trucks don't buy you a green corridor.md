@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/green-blue"
   - "topic/trade-off"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics: []

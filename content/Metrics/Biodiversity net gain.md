@@ -20,6 +20,8 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[58% of the site lost, biodiversity still up 10–11%]]"
@@ -33,8 +35,6 @@ auto_insights:
   - "[[Three tiers of ambition on a plot]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Rhino.Ecologic]]"
 ---

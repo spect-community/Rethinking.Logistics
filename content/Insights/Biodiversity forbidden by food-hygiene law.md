@@ -13,7 +13,7 @@ tags:
   - "topic/trade-off"
   - "topic/certification"
   - "topic/provocation"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

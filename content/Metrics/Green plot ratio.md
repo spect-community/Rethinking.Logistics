@@ -10,13 +10,13 @@ challenges:
   - "[[Habitat loss and cut ecological corridors]]"
 auto_case_studies:
   - "[[Hynek Hrabík]]"
+auto_domains: []
 auto_insights:
   - "[[35,000 m² of green façade, possibly the world's largest]]"
   - "[[Client refused to wait 15 years for green]]"
   - "[[The green wall on printed concrete died]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies: []
 auto_tools: []
 ---
 

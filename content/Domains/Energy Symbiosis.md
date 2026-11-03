@@ -10,6 +10,7 @@ posters:
   - "img/posters/Cloud in the City – Understanding Data Centers.jpg"
 status: published
 aliases:
+  - Domain 5
   - Strategy 5
 case_studies:
   - "[[Katrin Rybinskiy]]"
@@ -80,7 +81,7 @@ auto_insights:
 
 ## Principle
 
-A data centre is the newest kind of logistics building: it stores data instead of goods and turns almost all of its electricity into heat. Instead of exiling it to cheap land and cooling that heat away, the strategy plugs it into its surroundings — waste heat goes to heat networks, greenhouses and neighbours, the roof produces power for the site and the grid, and the location is chosen where that exchange is possible.
+A data centre is the newest kind of logistics building: it stores data instead of goods and turns almost all of its electricity into heat. Instead of exiling it to cheap land and cooling that heat away, the approach plugs it into its surroundings — waste heat goes to heat networks, greenhouses and neighbours, the roof produces power for the site and the grid, and the location is chosen where that exchange is possible.
 
 ## Why it matters
 
@@ -96,7 +97,7 @@ Three student projects treat the data centre as part of a local energy system, a
 - [[Julia Godard Lombard]] inserts a storage data centre into the listed, long-neglected Desfourský Palace near Masarykovo station in Prague and pairs it with heat-hungry programmes — sauna and wellness, dry-food production, a café — in three phases with a growing data-centre share of 20%, 50% and 80%, exporting surplus heat to neighbours in later phases.
 - [[Robin Jesenský]] designs HALECS, a row of modular server halls on the windy coast near Grindavík, Iceland, whose copper shells and cooling fins channel ground wind through the servers, with a closed water loop that could supply heat for residential hot water. The group sheet below also shows two projects of other strategies.
 
-The exhibition also showed *Cloud in the City – Understanding Data Centers*, an explanatory poster without a student author. It presents the counter-scenario this strategy responds to: data centres as energy-, water- and land-hungry neighbours that strain the grid, pump water, create heat islands and noise, and sit next to housing while offering few local jobs — what happens when they are not integrated.
+The exhibition also showed *Cloud in the City – Understanding Data Centers*, an explanatory poster without a student author. It presents the counter-scenario this domain responds to: data centres as energy-, water- and land-hungry neighbours that strain the grid, pump water, create heat islands and noise, and sit next to housing while offering few local jobs — what happens when they are not integrated.
 
 ![[Data Center – Reintroducing Data Centers.jpg]]
 

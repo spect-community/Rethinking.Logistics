@@ -12,10 +12,10 @@ challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
 auto_case_studies:
   - "[[Sara Sulollari]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights: []
 auto_references: []
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 auto_tools:
   - "[[Butterfly]]"
   - "[[Eddy3D]]"

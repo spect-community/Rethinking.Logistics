@@ -13,7 +13,7 @@ tags:
   - "topic/economics"
   - "topic/people"
   - "topic/provocation"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges:
   - "[[Buildings that change slower than logistics]]"

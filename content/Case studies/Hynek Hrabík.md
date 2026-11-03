@@ -36,11 +36,11 @@ tools:
   - "[[AutoTURN]]"
   - "[[Kangaroo]]"
   - "[[Grasshopper]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Automated trucks will not change the loading dock]]"
   - "[[Pavement is the unsolved carbon problem]]"
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 ---
 ![[Pasted image 20261009102125.png]]
 ## Project

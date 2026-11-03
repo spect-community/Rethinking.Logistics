@@ -11,7 +11,7 @@ aliases: []
 tags:
   - "topic/energy"
   - "topic/data"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[High operational energy demand]]"

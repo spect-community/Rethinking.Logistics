@@ -13,7 +13,7 @@ tags:
   - "topic/people"
   - "topic/city"
   - "topic/provocation"
-  - "strategy/5-energy-symbiosis"
+  - "domain/5-energy-symbiosis"
 source: "[[Performing Despite the Headwinds – Understanding the drivers of European logistics performance]]"
 challenges: []
 metrics: []

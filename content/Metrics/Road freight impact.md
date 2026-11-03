@@ -11,6 +11,8 @@ challenges:
   - "[[Last-mile delivery emissions and traffic]]"
 auto_case_studies:
   - "[[Johannes Berger]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[36,000 lorry trips removed by barge]]"
   - "[[Construction logistics is planning's blind spot]]"
@@ -19,8 +21,6 @@ auto_insights:
   - "[[Ships are cheap, trucks are not]]"
   - "[[Switzerland is digging a 500 km freight tunnel]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
 auto_tools: []
 ---
 

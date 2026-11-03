@@ -14,14 +14,14 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Ece Yasar]]"
   - "[[Marek Nový]]"
+auto_domains:
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[A dump site that forbade digging became islands]]"
   - "[[Keep every drop on site]]"
   - "[[Retention ponds redesigned as habitat]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
-auto_strategies:
-  - "[[Regenerative Peripheral Park]]"
 auto_tools: []
 ---
 

@@ -13,6 +13,11 @@ auto_case_studies:
   - "[[Natalie Žižková]]"
 auto_challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
+  - "[[Urban Hybrid]]"
 auto_insights: []
 auto_metrics:
   - "[[Biotope area factor]]"
@@ -27,11 +32,6 @@ auto_metrics:
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
-  - "[[Urban Hybrid]]"
 auto_tools:
   - "[[AutoTURN]]"
   - "[[Grasshopper]]"
@@ -62,5 +62,5 @@ Unlabelled quotes are the challenges as the students framed them; lines marked *
 
 Lines in *In practice* quote the reference project notes, which report what the developer or architect published, or paraphrase a studio lecture.
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

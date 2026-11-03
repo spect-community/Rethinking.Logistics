@@ -8,6 +8,9 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
 auto_challenges:
   - "[[Large paved truck yards and waiting times]]"
+auto_domains:
+  - "[[Micro-Hubs and Urban Mobility]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights: []
 auto_metrics:
   - "[[Dock turnaround time]]"
@@ -15,9 +18,6 @@ auto_metrics:
   - "[[Truck throughput]]"
   - "[[Yard area per dock]]"
 auto_references: []
-auto_strategies:
-  - "[[Micro-Hubs and Urban Mobility]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[AutoTURN]]"
 ---
@@ -35,5 +35,5 @@ Trucks and goods move through the site with less waiting, fewer docks and less p
 
 Unlabelled quotes are the challenges as the students framed them; lines marked *project description* or *trade-offs* quote those sections of the case study (as reported by the student).
 
-> [!tip] Where are the challenges, case studies and strategies?
+> [!tip] Where are the challenges, case studies and domains?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.

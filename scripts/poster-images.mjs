@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Web images of the exhibition posters for the strategy pages.
+// Web images of the exhibition posters for the domain pages.
 //
 // Reads import/posters.csv (poster_title, file, …) and writes one JPG per poster to
 // content/img/posters/<poster title>.jpg — at most 1600 px wide and 400 kB.

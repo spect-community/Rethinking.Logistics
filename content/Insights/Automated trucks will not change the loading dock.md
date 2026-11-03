@@ -12,7 +12,7 @@ tags:
   - "topic/adaptability"
   - "topic/taxonomy"
   - "topic/trade-off"
-  - "strategy/4-mobility-last-mile"
+  - "domain/4-mobility-last-mile"
 source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges:
   - "[[Space, energy and labour needs changing with automation]]"

@@ -13,7 +13,7 @@ tags:
   - "topic/landscape"
   - "topic/certification"
   - "topic/externality"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Criteria for a Green Building – Beyond energy performance LEED - BREEAM - WELL]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

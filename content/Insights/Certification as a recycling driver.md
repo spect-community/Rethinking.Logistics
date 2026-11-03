@@ -12,7 +12,7 @@ tags:
   - "topic/certification"
   - "topic/circularity"
   - "topic/materials"
-  - "strategy/2-adaptive-modular"
+  - "domain/2-adaptive-modular"
 source: "[[Industrial Architecture as Living Infrastructure – Why future design is defined by systems, data, and adaptability, not just form]]"
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"

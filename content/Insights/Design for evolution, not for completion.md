@@ -12,8 +12,8 @@ tags:
   - "topic/adaptability"
   - "topic/landscape"
   - "topic/circularity"
-  - "strategy/1-regenerative-park"
-  - "strategy/2-adaptive-modular"
+  - "domain/1-regenerative-park"
+  - "domain/2-adaptive-modular"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics: []

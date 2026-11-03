@@ -10,13 +10,13 @@ challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
 auto_case_studies:
   - "[[Sara Gani]]"
+auto_domains: []
 auto_insights:
   - "[[Biogenic carbon nets to zero, not minus]]"
   - "[[Building services are a whole-life carbon sleeper]]"
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Whole-life carbon usually isn't whole]]"
 auto_references: []
-auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
 ---

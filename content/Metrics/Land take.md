@@ -21,6 +21,9 @@ auto_case_studies:
   - "[[Johannes Berger]]"
   - "[[Julia Godard Lombard]]"
   - "[[Robin Jesenský]]"
+auto_domains:
+  - "[[Energy Symbiosis]]"
+  - "[[Regenerative Peripheral Park]]"
 auto_insights:
   - "[[297 hectares of green belt for one rail interchange]]"
   - "[[58% of the site lost, biodiversity still up 10–11%]]"
@@ -33,9 +36,6 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Ricola Kräuterzentrum]]"
   - "[[SEGRO V-Park Grand Union]]"
-auto_strategies:
-  - "[[Energy Symbiosis]]"
-  - "[[Regenerative Peripheral Park]]"
 auto_tools:
   - "[[Grasshopper]]"
 ---

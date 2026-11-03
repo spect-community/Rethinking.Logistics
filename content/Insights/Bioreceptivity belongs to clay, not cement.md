@@ -13,7 +13,7 @@ tags:
   - "topic/materials"
   - "topic/synergy"
   - "topic/circularity"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Printing Against Gravity – From the construction site to the research lab]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"

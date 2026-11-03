@@ -27,12 +27,12 @@ metrics:
   - "[[Adaptability]]"
   - "[[Distance to housing]]"
 tools: []
+auto_domains:
+  - "[[Adaptive and Modular Logistics]]"
 auto_insights:
   - "[[Expandable units are wanted but planning kills them]]"
   - "[[Lease length is the hidden design brief]]"
   - "[[Long-life loose-fit and design for disassembly]]"
-auto_strategies:
-  - "[[Adaptive and Modular Logistics]]"
 ---
 ![[Pasted image 20261031072137.png]]
 ## Project

@@ -13,7 +13,7 @@ tags:
   - "topic/economics"
   - "topic/provocation"
   - "topic/data"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges: []
 metrics: []

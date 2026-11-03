@@ -12,7 +12,7 @@ tags:
   - "topic/provocation"
   - "topic/data"
   - "topic/certification"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Nature positive by design – Creating lasting impact by designing for and with nature]]"
 challenges: []
 metrics:

@@ -13,7 +13,7 @@ tags:
   - "topic/city"
   - "topic/externality"
   - "topic/synergy"
-  - "strategy/3-urban-hybrid"
+  - "domain/3-urban-hybrid"
 source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
 metrics: []

@@ -12,7 +12,7 @@ tags:
   - "topic/landscape"
   - "topic/data"
   - "topic/trade-off"
-  - "strategy/1-regenerative-park"
+  - "domain/1-regenerative-park"
 source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Logistics Campus]]"
 challenges:
   - "[[Habitat loss and cut ecological corridors]]"
