@@ -12,7 +12,7 @@ description: An interactive knowledge base that links the spatial challenges of 
 The knowledge base is a network: one strategy addresses several challenges, one tool calculates many metrics, and one challenge involves trade-offs across strategies. To find your way through it, follow the **Extended Double Diamond** — from the problem, through a measurable goal, to a solution.
 
 ![[Extended Double Diamond.png]]
-*Extended Double Diamond. Diagram: Lukáš Kurilla.*
+*Extended Double Diamond · Diagram: Lukáš Kurilla*
 
 | Phase | The question | In the knowledge base |
 | --- | --- | --- |
@@ -42,3 +42,9 @@ Also useful: which metrics pull against each other in [[Trade-offs]], and where 
 Every type of note and every link between them, drawn from the structure of the knowledge base. The numbers are the notes published today.
 
 {{schema-diagram}}
+
+## Support and partners
+
+Rethinking.Logistics is funded by **Rambøll Fonden (Ramboll Foundation)**. The studio was led by Lukáš Kurilla and Šimon Prokop at ARCHIP – Architectural Institute in Prague, in collaboration with:
+
+<ul class="rl-logos"><li><a href="https://uli.org" rel="noopener"><img class="rl-logo" src="img/partners/uli.png" alt="Urban Land Institute" style="height:40px"></a></li><li><a href="https://www.panattoni.com" rel="noopener"><img class="rl-logo rl-logo-invert" src="img/partners/panattoni.png" alt="Panattoni" style="height:60px"></a></li><li><a href="https://www.archip.eu" rel="noopener"><img class="rl-logo" src="img/partners/archip.svg" alt="ARCHIP – Architectural Institute in Prague" style="height:40px"></a></li><li><a href="https://www.ramboll.com" rel="noopener"><img class="rl-logo" src="img/partners/ramboll.png" alt="Ramboll" style="height:34px"></a></li><li><a href="https://henninglarsen.com" rel="noopener"><img class="rl-logo rl-logo-invert" src="img/partners/henning-larsen.png" alt="Henning Larsen" style="height:52px"></a></li></ul>

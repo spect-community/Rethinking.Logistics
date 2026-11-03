@@ -164,3 +164,45 @@ a.tag-link {
   .rl-badge--evidence-expert-reviewed { --rl-badge-fg: #9fdcab; --rl-badge-bg: rgba(110, 200, 130, 0.12); --rl-badge-border: rgba(110, 200, 130, 0.4); }
   .rl-badge--evidence-disputed { --rl-badge-fg: #f0a5a5; --rl-badge-bg: rgba(230, 110, 110, 0.12); --rl-badge-border: rgba(230, 110, 110, 0.4); }
 }
+
+// Partner logos at the end of the home page (same set as spect.cz/projects/rethinking-logistics)
+ul.rl-logos {
+  list-style: none;
+  margin: 1rem 0 2rem;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem 2rem;
+  & > li {
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    background: none;
+  }
+  .external-icon {
+    display: none;
+  }
+  img.rl-logo {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    margin: 0;
+    border-radius: 0;
+  }
+  // white source files: paint them black like the others
+  img.rl-logo-invert {
+    filter: brightness(0);
+  }
+}
+// dark theme: invert the dark logos (keeps the white letters inside solid shapes); white source files stay as they are
+:root[saved-theme="dark"] ul.rl-logos img.rl-logo {
+  filter: invert(1) hue-rotate(180deg);
+}
+:root[saved-theme="dark"] ul.rl-logos img.rl-logo-invert {
+  filter: none;
+}
