@@ -1,5 +1,5 @@
 // Footer of the Rethinking.Logistics site. Like Quartz's Footer, but each item can have plain text
-// before its link (e.g. "developed by SPECT Community"). Copied into Quartz by scripts/build-site.mjs.
+// before its link, and an optional credit line goes under the links (e.g. "developed by SPECT Community"). Copied into Quartz by scripts/build-site.mjs.
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
@@ -12,7 +12,7 @@ export interface FooterItem {
   href: string
 }
 
-export default ((opts: { items: FooterItem[] }) => {
+export default ((opts: { items: FooterItem[]; credit?: FooterItem }) => {
   const SiteFooter: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     return (
@@ -29,6 +29,12 @@ export default ((opts: { items: FooterItem[] }) => {
             </li>
           ))}
         </ul>
+        {opts.credit && (
+          <p class="footer-credit">
+            {opts.credit.before ? `${opts.credit.before} ` : ""}
+            <a href={opts.credit.href}>{opts.credit.text}</a>
+          </p>
+        )}
       </footer>
     )
   }

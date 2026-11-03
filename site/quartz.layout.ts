@@ -25,9 +25,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: SiteFooter({
     items: [
       { text: "Rethinking.Logistics", href: project },
-      { text: "Funded by Rambøll Fonden (Ramboll Foundation)", href: "https://www.rambollfonden.com/" },
-      { before: "developed by", text: "SPECT Community", href: "https://spect.cz/en/" },
+      { text: "Funded by Rambøll Fonden", href: "https://www.rambollfonden.com/" },
     ],
+    credit: { before: "developed by", text: "SPECT Community", href: "https://spect.cz/en/" },
   }),
 }
 

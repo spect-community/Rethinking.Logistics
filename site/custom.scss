@@ -206,3 +206,8 @@ ul.rl-logos {
 :root[saved-theme="dark"] ul.rl-logos img.rl-logo-invert {
   filter: none;
 }
+
+// Footer: credit line under the links, spaced like the "Created with Quartz" line above them
+footer p.footer-credit {
+  margin-top: 0;
+}
