@@ -28,6 +28,7 @@ export const sharedPageComponents: SharedLayout = {
       { text: "Funded by Rambøll Fonden", href: "https://www.rambollfonden.com/" },
     ],
     credit: { before: "developed by", text: "SPECT Community", href: "https://spect.cz/en/" },
+    button: { text: "Give feedback", href: "https://forms.gle/u6418dmGHoEtk8x39" },
   }),
 }
 
