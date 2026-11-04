@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " · Rethinking.Logistics",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "goatcounter", websiteId: "spect-pah" },
     locale: "en-US",
     baseUrl: process.env.SITE_BASE_URL ?? "logistics.spect.cz",
     ignorePatterns: ["private", "Templates", ".obsidian", ".trash", "portfolios"],
