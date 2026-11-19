@@ -16,6 +16,7 @@ auto_insights:
   - "[[Houses lose kilowatts, warehouses lose megawatts]]"
   - "[[Norms force oversized heat pumps]]"
   - "[[Production wants low, distribution wants high — for energy reasons]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies:
   - "[[Energy estimate for zoning and envelope]]"

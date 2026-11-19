@@ -22,6 +22,7 @@ metrics: []
 case_studies:
   - "[[Adam Večeřa]]"
   - "[[Julia Kopác]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

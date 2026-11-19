@@ -22,6 +22,7 @@ metrics:
 case_studies:
   - "[[Julia Godard Lombard]]"
   - "[[Katrin Rybinskiy]]"
+auto_problem_statements: []
 auto_trade_offs:
   - "[[Reuse against operational performance]]"
 ---

@@ -24,6 +24,8 @@ auto_insights:
   - "[[Data centre carbon is many multiples of a warehouse]]"
   - "[[Operational carbon collapses, embodied carbon takes over]]"
   - "[[The electricity mix dominates everything]]"
+auto_problem_statements:
+  - "[[Missing operational data]]"
 auto_references: []
 auto_strategies:
   - "[[Reuse versus new-build carbon comparison]]"

@@ -21,6 +21,7 @@ challenges:
 metrics: []
 case_studies:
   - "[[Julia Godard Lombard]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

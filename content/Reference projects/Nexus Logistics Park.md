@@ -42,6 +42,8 @@ auto_domains: []
 auto_insights:
   - "[[Glulam on every unit, a first for Irish logistics parks]]"
   - "[[Glulam spans like steel, as the developer puts it]]"
+  - "[[IPUT parks let at about 10% above a typical unit]]"
+  - "[[Long-hold warehouses cost 10–15% more to build]]"
 ---
 ![[Nexus Logistics Park.jpg]]
 *Visualisation of Nexus Logistics Park, with the greenway, sports pitches and Nexus Twelve. Image: IPUT Real Estate Dublin, [nexuslogisticspark.com](https://www.nexuslogisticspark.com/).*

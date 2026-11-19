@@ -9,12 +9,17 @@ const explorer = Component.Explorer({
   title: "Browse",
   folderDefaultState: "collapsed",
   sortFn: (a, b) => {
-    const order = ["about", "overviews", "domains", "strategies", "trade-offs", "ambitions", "challenges", "metrics", "tools", "case studies", "reference projects", "insights", "sources"]
+    const order = ["about", "overviews", "problem statements", "domains", "strategies", "trade-offs", "ambitions", "challenges", "metrics", "tools", "case studies", "reference projects", "insights", "sources"]
     const ia = order.indexOf(a.displayName.toLowerCase())
     const ib = order.indexOf(b.displayName.toLowerCase())
     if (ia !== -1 || ib !== -1) return (ia === -1 ? 99 : ia) - (ib === -1 ? 99 : ib)
     if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1
     return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+  },
+  // Problem statements carry a long descriptive title; the menu shows their short file name.
+  mapFn: (node) => {
+    const fp = node.data?.filePath ?? ""
+    if (!node.isFolder && fp.startsWith("Problem statements/")) node.displayName = fp.split("/").pop()!.replace(/\.md$/, "")
   },
 })
 

@@ -50,10 +50,10 @@ Number of student projects in each domain that pursue the ambition; *In practice
 
 | Ambition | In short | Challenges | Case studies | Reference projects |
 | --- | --- | --- | --- | --- |
-| [[Adaptable over time]] | Buildings can shrink, grow and change use as tenants, automation and delivery models change. | [[Buildings that change slower than logistics]] | [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]] | — |
+| [[Adaptable over time]] | Buildings can shrink, grow and change use as tenants, automation and delivery models change. | [[Buildings that change slower than logistics]], [[Designing for an unknown tenant]] | [[Amy Naprstek]], [[Elsa Hauksdottir]], [[Eva Kažukolovaitė]] | — |
 | [[Design for disassembly and relocation]] | Buildings can be taken apart and rebuilt elsewhere, so their components keep their value. | [[Buildings that change slower than logistics]] | [[Amy Naprstek]] | — |
 | [[Lightweight structures]] | Lighter structures use less material and carry less embodied carbon for the same span. | [[Embodied carbon of new and demolished warehouses]] | [[Amy Naprstek]] | — |
-| [[Low embodied carbon]] | Structures and materials carry less embodied carbon, including reused building materials. | [[Embodied carbon of new and demolished warehouses]] | [[Lindsay Daphne Macuja]], [[Sara Sulollari]] | [[Bestseller Logistics Center West]], [[Nexus Logistics Park]], [[Ricola Kräuterzentrum]] |
+| [[Low embodied carbon]] | Structures and materials carry less embodied carbon, including reused building materials. | [[Designing for an unknown tenant]], [[Embodied carbon of new and demolished warehouses]] | [[Lindsay Daphne Macuja]], [[Sara Sulollari]] | [[Bestseller Logistics Center West]], [[Nexus Logistics Park]], [[Ricola Kräuterzentrum]] |
 | [[Modular and prefabricated architecture]] | Buildings are assembled from modules and prefabricated parts that can be added, joined, stacked or moved. | [[Buildings that change slower than logistics]] | [[Amy Naprstek]], [[Eva Kažukolovaitė]], [[Julia Kopác]], [[Robin Jesenský]], [[Roshni Basu]], [[Sara Sulollari]] | [[Ricola Kräuterzentrum]] |
 | [[Reuse of existing buildings]] | Existing industrial and urban buildings are converted for logistics instead of being demolished. | [[Embodied carbon of new and demolished warehouses]] | [[Julia Godard Lombard]], [[Katrin Rybinskiy]], [[Khrystyna Verbitska]], [[Thomas Olsen]], [[Vladi Kostecki]] | — |
 
@@ -93,7 +93,7 @@ Number of student projects in each domain that pursue the ambition; *In practice
 
 | Ambition | In short | Challenges | Case studies | Reference projects |
 | --- | --- | --- | --- | --- |
-| [[Compact footprint]] | Logistics needs less land for the same output, by stacking, compacting or sharing space. | [[Land take of logistics buildings]] | [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopác]], [[Robin Jesenský]] | [[SEGRO V-Park Grand Union]] |
+| [[Compact footprint]] | Logistics needs less land for the same output, by stacking, compacting or sharing space. | [[Designing for an unknown tenant]], [[Land take of logistics buildings]] | [[Adam Večeřa]], [[Amy Naprstek]], [[Hynek Hrabík]], [[Johannes Berger]], [[Julia Kopác]], [[Robin Jesenský]] | [[SEGRO V-Park Grand Union]] |
 | [[Multi-storey logistics]] | Logistics is stacked on several floors, so it takes less land. | [[Land take of logistics buildings]] | [[Adam Večeřa]], [[Johannes Berger]], [[Khrystyna Verbitska]], [[Thomas Olsen]] | [[SEGRO V-Park Grand Union]] |
 | [[Rainwater kept on site]] | Rain is retained, reused and soaked into the ground on site instead of running off sealed roofs, yards and parking. | [[Stormwater and sealed surfaces on logistics sites]] | [[Adam Večeřa]], [[Aycha Chambashala]], [[Ece Yasar]], [[Hynek Hrabík]], [[Ilinca Maria Baciu]], [[Julia Kopác]], [[Marek Nový]], [[Natalie Žižková]] | [[Bestseller Logistics Center West]], [[Nexus Logistics Park]] |
 
@@ -108,6 +108,6 @@ Number of student projects in each domain that pursue the ambition; *In practice
 
 | Ambition | In short | Challenges | Case studies | Reference projects |
 | --- | --- | --- | --- | --- |
-| [[Healthy workplaces]] | Workers have daylight, clean air, quiet and good facilities. | [[Deep, dark and noisy workplaces]] | [[Eva Kažukolovaitė]], [[Sara Gani]] | [[Bestseller Logistics Center West]], [[Nexus Logistics Park]], [[SEGRO V-Park Grand Union]] |
+| [[Healthy workplaces]] | Workers have daylight, clean air, quiet and good facilities. | [[Deep, dark and noisy workplaces]], [[Designing for an unknown tenant]] | [[Eva Kažukolovaitė]], [[Sara Gani]] | [[Bestseller Logistics Center West]], [[Nexus Logistics Park]], [[SEGRO V-Park Grand Union]] |
 | [[Outdoor comfort]] | Outdoor spaces around logistics buildings are sheltered from wind, with sun in winter and shade in summer. | [[Wind, heat and missing shade around large buildings]] | [[Sara Sulollari]] | [[Bestseller Logistics Center West]] |
 | [[Safe sites with separated flows]] | Trucks, vans, workers and the public move on separated, safe routes, and hazardous processes are kept apart from people. | [[Pedestrian–truck conflicts on logistics sites]] | [[Adéla Berkovitz]], [[Eva Kažukolovaitė]], [[Julia Kopác]], [[Natalie Žižková]], [[Sara Gani]], [[Vladi Kostecki]] | — |

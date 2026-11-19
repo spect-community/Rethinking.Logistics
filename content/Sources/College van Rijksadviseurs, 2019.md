@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[The Dutch state architect said – fewer boxes]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

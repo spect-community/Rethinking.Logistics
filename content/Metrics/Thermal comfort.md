@@ -22,6 +22,9 @@ auto_insights:
   - "[[Humidity, not Celsius, is the barrier]]"
   - "[[More glass does not mean more daylight]]"
   - "[[Timber buildings overheat without thermal mass]]"
+  - "[[Translucent roofs trade lighting carbon for heat]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
 auto_strategies: []
@@ -32,6 +35,7 @@ auto_tools:
   - "[[Ladybug]]"
   - "[[Pollination]]"
 auto_trade_offs:
+  - "[[Daylight against overheating]]"
   - "[[Lightweight and open envelopes against performance]]"
 ---
 

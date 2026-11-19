@@ -141,7 +141,7 @@ ${table(["Reference project", "Developer", "Location", "Year", "Stage", "Typolog
 // ── Trade-offs ───────────────────────────────────────────────────────────────
 {
   const tradeOffs = ofType(kb, "trade-off").sort((a, b) => linked(b, "case_studies").length - linked(a, "case_studies").length || a.name.localeCompare(b.name))
-  let body = "Design decisions are trade-offs between metrics. These are the ones the students identified.\n\n"
+  let body = "Design decisions are trade-offs between metrics. These are the ones the students identified, and those reported by experts and publications.\n\n"
   if (tradeOffs.length)
     body += `**${tradeOffs.length} recurring trade-offs**, each gathered from the projects where it appears, with the metrics in conflict and what experts say about it.\n\n` +
       table(["Trade-off", "In short", "Metrics in conflict", "Projects", "Domains"], tradeOffs.map((x) => [wl(x.name), esc(x.data.summary), links(linked(x, "metrics")), links(linked(x, "case_studies")), links(A(x, "auto_domains"))])) +
@@ -164,7 +164,14 @@ ${table(["Reference project", "Developer", "Location", "Year", "Stage", "Typolog
     missing.get(l.name).push(n.name)
   }
   const list = (arr, fn) => (arr.length ? arr.map(fn).join("\n") : "- *none*")
-  const body = `## Metrics used by students but not linked to any tool
+  const reported = kb.notes.flatMap((n) => asList(n.data.evidence_gaps).filter((g) => typeof g === "string" && g.trim()).map((g) => [n, g.trim()]))
+  const body = `## Gaps reported in the notes
+
+Gaps named on problem statements, challenges and metrics, where the evidence or the tool is still missing.
+
+${list(reported, ([n, g]) => `- ${wl(n.name)} — ${g}`)}
+
+## Metrics used by students but not linked to any tool
 
 These were estimated by hand, taken from literature or left unquantified. Each one is an opportunity: which tool *could* calculate it?
 
@@ -215,6 +222,40 @@ Many projects calculate by hand: where no software is named, the method is given
   pages["Strategies"] = page("Strategies", "Evidence workflows: which metrics the projects calculated, with which tool or method, and what they decided.", body)
 }
 
+// ── Problem statements ───────────────────────────────────────────────────────
+{
+  const ps = ofType(kb, "problem-statement").sort((a, b) => a.name.localeCompare(b.name))
+  const intro = `Logistics real estate has become the largest commercial asset class by floor area and is now under pressure from regulation (CSRD, SFDR, EU Taxonomy, EPBD), tenants and capital to perform better. The industry already frames sustainability as a **business case**: higher asset value, tenant and investor demand, lower risk and community support ([[Sustainability Unboxed – Delivering on Logistics and Distribution Warehouses]]).
+
+Decisions about a logistics building, however, are made through **financial KPIs**: net operating income, cap rate, debt service coverage, rent per m², clear height and lease length ([[Ilora.ai – Industrial Real Estate Analytics (glossary)]]). These metrics barely register carbon, biodiversity, daylight, stormwater or public benefit. In a standard investor KPI set, the only environmental metric is PUE, and it applies to data centres only.
+
+Designers and engineers argue with **physical KPIs**: energy use intensity, embodied carbon, biotope area factor, runoff reduction and publicly accessible area. Between the two languages there is no shared, evidenced chain. The industry report itself identifies the missing link as an information gap in implementation, measurement and benchmarking.
+
+The problem statements below are the system level of the knowledge base: why good logistics architecture often does not get built, even when the design evidence exists. Each one links down to the metrics, trade-offs and evidence behind it.
+`
+  const chain = `## The translation chain
+
+The knowledge base addresses the gap by tracing each design move through four steps:
+
+**design move → physical metric → value driver → financial metric**
+
+| Design move | Physical metric | Value driver (ULI) | Financial metric |
+|---|---|---|---|
+| LED, daylight, envelope, heat pumps | [[Energy use intensity]], [[Operational carbon]] | lower occupancy cost, tenant demand | [[Green rent premium]] → [[Net operating income]], [[Net operating income per m²]] |
+| Certification, low-carbon structure | [[Embodied carbon intensity]], [[Whole-life carbon]] | green premium, investor demand | [[Green valuation premium]] → [[Capitalisation rate]] |
+| Stormwater retention, low-risk siting, resilient envelope | [[Stormwater retention volume]], [[Stormwater runoff reduction]] | risk reduction, insurability | [[Debt service coverage ratio]] (refinancing terms) |
+| Daylight, worker amenities, active mobility | [[Daylight autonomy]], [[Worker well-being]], [[Public transport accessibility]] | workforce retention, tenant quality | [[Void period]], [[Weighted average lease term]] |
+| Rooftop PV, energy symbiosis | [[Rooftop PV generation]], [[On-site renewable energy share]] | new income streams, energy security | [[Net operating income]] |
+| Storage volume for automation | [[Clear height]], [[Space utilisation]] | functional fitness, rent | [[Net operating income per m²]] |
+| Metering and data sharing | [[Whole-building energy data coverage]] | compliance, disclosure (GRESB, CSRD) | enables all of the above |
+| Data centre efficiency | [[Power usage effectiveness]] | efficiency, regulation | [[Operating expense ratio]] |
+`
+  const body = intro + "\n" + (ps.length
+    ? table(["Problem statement", "In short", "Metrics", "Trade-offs", "Evidence"], ps.map((x) => [`[[${x.name}\\|${x.data.title ?? x.name}]]`, esc(x.data.summary), links(linked(x, "metrics")), links(linked(x, "trade_offs")), `${linked(x, "insights").length} insights`]))
+    : "*No problem statements yet.*") + "\n\n" + chain
+  pages["Problem statements"] = page("Problem statements", "System-level problems: why good logistics architecture often does not get built, and the evidence behind each.", body)
+}
+
 // ── Insights ─────────────────────────────────────────────────────────────────
 {
   const insights = ofType(kb, "insight")
@@ -242,6 +283,7 @@ pages["index"] = page("Overviews", "Views computed from all notes.", `**At a gla
 | [[Reference projects overview]] | *Which projects from practice show these approaches built?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
+| [[Problem statements]] | *Why does good logistics design struggle to reach investment decisions?* |
 | [[Domains]] | *Which thematic domains did the studio work in, and what is the evidence?* |
 | [[Strategies]] | *How did the projects get from a metric to a decision, and with which tool or method?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |

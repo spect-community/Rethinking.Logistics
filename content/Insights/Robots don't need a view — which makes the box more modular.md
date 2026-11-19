@@ -19,6 +19,7 @@ challenges:
   - "[[Space, energy and labour needs changing with automation]]"
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

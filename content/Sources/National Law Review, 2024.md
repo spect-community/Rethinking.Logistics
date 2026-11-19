@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[California wrote the warehouse design code]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

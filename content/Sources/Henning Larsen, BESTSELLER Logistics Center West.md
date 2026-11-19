@@ -8,6 +8,7 @@ url: "https://www.henninglarsen.com/projects/bestseller-logistics-center-west"
 status: published
 aliases: []
 auto_insights: []
+auto_problem_statements: []
 auto_references:
   - "[[Bestseller Logistics Center West]]"
 ---

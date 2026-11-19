@@ -24,5 +24,6 @@ metrics: []
 case_studies: []
 reference_projects:
   - "[[SEGRO V-Park Grand Union]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---

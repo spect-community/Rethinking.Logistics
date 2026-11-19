@@ -19,6 +19,7 @@ auto_domains:
   - "[[Urban Hybrid]]"
 auto_insights:
   - "[[Charging, not the vehicle, is the electrification bottleneck]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

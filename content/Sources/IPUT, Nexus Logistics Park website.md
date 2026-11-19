@@ -10,6 +10,7 @@ aliases: []
 auto_insights:
   - "[[Glulam on every unit, a first for Irish logistics parks]]"
   - "[[Glulam spans like steel, as the developer puts it]]"
+auto_problem_statements: []
 auto_references:
   - "[[Nexus Logistics Park]]"
 ---

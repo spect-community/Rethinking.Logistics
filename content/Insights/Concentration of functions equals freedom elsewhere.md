@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Publicly accessible area]]"
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

@@ -38,6 +38,7 @@ auto_insights:
   - "[[Three failure families, one weakest link]]"
   - "[[What is sold as 3D printing is 2.5D]]"
   - "[[Wire reinforcement doesn't bond like rebar]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

@@ -50,6 +50,7 @@ auto_insights:
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[Warehouses break the user-comfort premise]]"
   - "[[Weights should change with typology]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

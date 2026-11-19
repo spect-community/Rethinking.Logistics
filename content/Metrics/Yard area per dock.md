@@ -20,6 +20,7 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Pavement is the unsolved carbon problem]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies:
   - "[[Truck flow simulation and swept-path sizing]]"

@@ -22,6 +22,7 @@ metrics:
   - "[[Yard area per dock]]"
 case_studies:
   - "[[Hynek Hrabík]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

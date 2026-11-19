@@ -19,6 +19,7 @@ auto_domains:
 auto_insights:
   - "[[Carbon is decided in network design, not in the building]]"
   - "[[Hub placement decided without data]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies:
   - "[[Service-radius analysis for hub networks]]"

@@ -17,6 +17,8 @@ challenges: []
 metrics:
   - "[[Energy use intensity]]"
 case_studies: []
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
 auto_trade_offs: []
 ---
 ## Context

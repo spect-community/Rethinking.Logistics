@@ -42,6 +42,7 @@ auto_insights:
   - "[[The UK model – pay, and they must deliver]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
   - "[[Zoning permits you to apply, not to build]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

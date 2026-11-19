@@ -14,6 +14,7 @@ aliases:
   - Building footprint
 challenges:
   - "[[Land take of logistics buildings]]"
+  - "[[Designing for an unknown tenant]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Amy Naprstek]]"
@@ -32,6 +33,8 @@ auto_insights:
   - "[[Italy's warehouses eat 432 hectares a year]]"
   - "[[Logistics takes 2% of the land and 10% of the jobs]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Ricola Kräuterzentrum]]"
@@ -42,6 +45,7 @@ auto_tools:
   - "[[Grasshopper]]"
 auto_trade_offs:
   - "[[Building up against carbon and energy]]"
+  - "[[Space for people and nature against storage]]"
 ---
 
 ## What it measures

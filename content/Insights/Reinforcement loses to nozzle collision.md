@@ -15,6 +15,7 @@ source: "[[Printing Against Gravity – From the construction site to the resear
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

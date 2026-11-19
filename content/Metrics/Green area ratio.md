@@ -35,6 +35,9 @@ auto_domains:
 auto_insights:
   - "[[From 1% public to 30% public, plus 20% more greenery]]"
   - "[[Mandatory site greenery as anti-landscape policy]]"
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
+  - "[[Trade-offs across design and value]]"
 auto_references: []
 auto_strategies:
   - "[[Green and blue surface accounting]]"
@@ -42,6 +45,7 @@ auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"
 auto_trade_offs:
+  - "[[Logistics flow against ecology]]"
   - "[[Space for people and nature against storage]]"
 ---
 

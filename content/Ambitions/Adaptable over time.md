@@ -8,6 +8,7 @@ auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
 auto_challenges:
   - "[[Buildings that change slower than logistics]]"
+  - "[[Designing for an unknown tenant]]"
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Micro-Hubs and Urban Mobility]]"
@@ -16,15 +17,24 @@ auto_metrics:
   - "[[Adaptability]]"
   - "[[Construction cost]]"
   - "[[Design for disassembly score]]"
+  - "[[Embodied carbon intensity]]"
+  - "[[Land take]]"
+  - "[[Oversizing ratio]]"
+  - "[[Space utilisation]]"
   - "[[Structural utilisation]]"
 auto_references: []
 auto_strategies:
   - "[[Conflict-point mapping for separated flows]]"
   - "[[Energy estimate for zoning and envelope]]"
 auto_tools:
+  - "[[Bombyx]]"
+  - "[[CO2mpare]]"
   - "[[Donkey]]"
   - "[[Galapagos]]"
+  - "[[Grasshopper]]"
   - "[[Karamba3D]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
 ---
 
 ## Ambition

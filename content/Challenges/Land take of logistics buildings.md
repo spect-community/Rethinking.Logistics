@@ -17,8 +17,10 @@ auto_domains:
 auto_insights:
   - "[[297 hectares of green belt for one rail interchange]]"
   - "[[4.7% vs 8–9% vs 14–15%]]"
+  - "[[A further wave of logistics construction is expected in Czechia]]"
   - "[[Amazon multi-storey – 60–70% self-supplied]]"
   - "[[Brownfields are per mils of the market]]"
+  - "[[Czechia is becoming the storage room for its neighbours]]"
   - "[[Density is the environmental strategy]]"
   - "[[England's best farmland is going a hundred times faster]]"
   - "[[Europe finally has a soil law]]"

@@ -23,5 +23,6 @@ metrics:
 case_studies: []
 reference_projects:
   - "[[Chapelle International]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---

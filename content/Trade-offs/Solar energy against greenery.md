@@ -36,6 +36,7 @@ auto_domains:
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

@@ -17,6 +17,7 @@ auto_insights:
   - "[[A reflective roof is a public health measure]]"
   - "[[Warehouse belts create heat islands between fields]]"
   - "[[White facades, urban heat and the wind that saves them]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools:

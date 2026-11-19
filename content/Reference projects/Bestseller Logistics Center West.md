@@ -22,6 +22,7 @@ challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
   - "[[Deep, dark and noisy workplaces]]"
   - "[[Space, energy and labour needs changing with automation]]"
+  - "[[Designing for an unknown tenant]]"
 ambitions:
   - "[[Habitat and ecological connectivity]]"
   - "[[Rainwater kept on site]]"
@@ -74,6 +75,7 @@ auto_insights:
   - "[[Habitats copied from the surrounding landscape, not invented]]"
   - "[[I don't want to be too romantic about it]]"
   - "[[Lifts and PVs eat a quarter of the carbon budget]]"
+  - "[[Long-hold warehouses cost 10–15% more to build]]"
   - "[[Materials that local trades already know how to repair]]"
   - "[[Multimodal siting – sea, rail, road, air]]"
   - "[[Nature designed to exclude people]]"
@@ -129,3 +131,16 @@ Values as published by the architect or paraphrased from the lectures, with the 
 
 - The year of completion and the BREEAM rating are not stated in the sources.
 - The embodied carbon figures are per m² per year with ~7 m floor-to-floor heights, so they are not directly comparable with offices; see [[Seven-metre floors flatter the per-m² number]].
+
+## Predecessor: Bestseller Logistics Centre North (Haderslev)
+
+Logistics centre for BESTSELLER in Haderslev, Denmark, the predecessor of the Lelystad building. The client is also the user, which allowed a precise brief and a long-term view of the building. Facts as published:
+
+- Architecture and landscape: C.F. Møller; engineering: Rambøll; contractor: Züblin
+- Size: about 48,000 m², planned to expand towards 150,000 m²
+- Investment: about DKK 0.5 billion (estimate published in 2010)
+- Completed: 2012 (some sources give later dates, likely including later phases)
+- Daylight in the working areas, FSC timber cladding and translucent ETFE façades, green roofs and rainwater management
+- Described as the first building of its type in Danish Energy Class 1; sustainability approach inspired by BREEAM Industrial; MIPIM Awards finalist 2013
+
+It shows what changes when the user is known from the start: the design can respond to the people who work there and to the landscape, rather than to an average tenant. See [[Designing for an unknown tenant]].

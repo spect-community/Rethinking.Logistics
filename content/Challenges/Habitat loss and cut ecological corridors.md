@@ -20,6 +20,7 @@ auto_insights:
   - "[[+10% net gain set at concept stage]]"
   - "[[35,000 m² of green façade, possibly the world's largest]]"
   - "[[58% of the site lost, biodiversity still up 10–11%]]"
+  - "[[85% of rating schemes set no biodiversity objectives]]"
   - "[[A bird island as design precedent]]"
   - "[[A green roof without maintenance turns grey again]]"
   - "[[Ambition upgraded mid-project from do-no-harm to net-gain]]"
@@ -29,6 +30,7 @@ auto_insights:
   - "[[Bioreceptivity belongs to clay, not cement]]"
   - "[[BNG used outside Britain, as a design instrument]]"
   - "[[Client refused to wait 15 years for green]]"
+  - "[[Design teams chase BREEAM credits, not the building]]"
   - "[[Every surface recruited – wetland, roof meadow, green facade]]"
   - "[[Four habitat types as design vocabulary]]"
   - "[[France already legislates when your yard lights go off]]"
@@ -92,3 +94,11 @@ Logistics sites often cut ecological corridors and replace habitats with asphalt
 
 > [!tip] Where are the metrics, tools and case studies?
 > They appear automatically below under **Connections**, and in Obsidian under the `auto_` properties.
+
+## Common misreading
+
+**Not this:** green area counted as a share of the site, spread across leftover strips and corners to reach the required percentage.
+**Why it fails:** habitat value depends on size and continuity, not only on area. Fragmented patches do not connect to corridors outside the site. Most rating schemes do not set biodiversity objectives at all ([[Evaluating biodiversity criteria in green building rating schemes]]).
+**Do this:** concentrate greenery into a continuous core or spine that connects to nearby corridors, water and habitats.
+**Measure with:** [[Ecological connectivity]] and [[Biotope area factor]] alongside [[Green area ratio]], never green area ratio alone.
+**Evidence:** peer-reviewed review; studio data show 11 projects used green area ratio and only 2 used ecological connectivity (see [[Evidence gaps]]).

@@ -24,12 +24,15 @@ auto_case_studies:
 auto_domains: []
 auto_insights:
   - "[[California wrote the warehouse design code]]"
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Jifto]]"
   - "[[Ladybug]]"
 auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
   - "[[Compact massing against human scale]]"
   - "[[Going underground against carbon and cost]]"
 ---

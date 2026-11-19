@@ -23,6 +23,8 @@ auto_insights:
   - "[[No rule against confetti greenery]]"
   - "[[Parking hidden inside a fauna corridor]]"
   - "[[Singapore's 20 km road becomes a green corridor]]"
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
 auto_strategies: []

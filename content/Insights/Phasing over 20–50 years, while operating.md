@@ -17,6 +17,7 @@ source: "[[Challenge the perception of industrial architecture as 'boxing']]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

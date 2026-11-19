@@ -19,6 +19,8 @@ auto_domains:
 auto_insights:
   - "[[Each IT generation makes the building hotter]]"
   - "[[Efficiency has hit a plateau at 1.5]]"
+auto_problem_statements:
+  - "[[Missing operational data]]"
 auto_references: []
 auto_strategies: []
 auto_tools: []
@@ -33,3 +35,7 @@ Standard efficiency metric for data centres; lower is better.
 ## Calculation
 
 Total facility energy ÷ energy used by the IT equipment. 1.0 would mean zero overhead for cooling and power distribution.
+
+## Investor view
+
+PUE is the only environmental metric in a standard industrial investor KPI set. Hyperscale facilities reach 1.10–1.20 and legacy enterprise facilities 1.5–2.0 ([[Ilora.ai – Industrial Real Estate Analytics (glossary)]]).

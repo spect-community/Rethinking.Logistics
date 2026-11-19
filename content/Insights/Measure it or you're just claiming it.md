@@ -18,6 +18,8 @@ challenges: []
 metrics:
   - "[[Biodiversity net gain]]"
 case_studies: []
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
 auto_trade_offs: []
 ---
 ## Context

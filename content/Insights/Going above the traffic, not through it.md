@@ -21,6 +21,7 @@ ambitions:
 metrics: []
 case_studies:
   - "[[Johannes Berger]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

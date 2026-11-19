@@ -6,7 +6,7 @@ description: "Views computed from all notes."
 > [!abstract] Generated page
 > Views computed from all notes. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**At a glance:** 31 ambitions · 15 challenges · 76 metrics · 26 tools · 23 case studies · 5 reference projects
+**At a glance:** 31 ambitions · 16 challenges · 91 metrics · 26 tools · 23 case studies · 5 reference projects
 
 | Page | Answers |
 | --- | --- |
@@ -18,6 +18,7 @@ description: "Views computed from all notes."
 | [[Reference projects overview]] | *Which projects from practice show these approaches built?* |
 | [[Trade-offs]] | *Which metrics pull against each other?* |
 | [[Evidence gaps]] | *Where is the evidence chain incomplete?* |
+| [[Problem statements]] | *Why does good logistics design struggle to reach investment decisions?* |
 | [[Domains]] | *Which thematic domains did the studio work in, and what is the evidence?* |
 | [[Strategies]] | *How did the projects get from a metric to a decision, and with which tool or method?* |
 | [[Insights overview]] | *What did experts, students and publications say — and has it been reviewed?* |

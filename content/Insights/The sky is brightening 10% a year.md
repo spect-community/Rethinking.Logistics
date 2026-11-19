@@ -17,5 +17,6 @@ source: "[[Kyba et al., Science, 2023, via NOIRLab]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---

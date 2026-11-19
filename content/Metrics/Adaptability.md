@@ -13,6 +13,7 @@ aliases:
   - Module size
 challenges:
   - "[[Buildings that change slower than logistics]]"
+  - "[[Designing for an unknown tenant]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Amy Naprstek]]"
@@ -29,6 +30,8 @@ auto_insights:
   - "[[Nobody knows if twice the compute means half the floor area]]"
   - "[[Over-build the height, don't charge for it]]"
   - "[[Today's sheds are tomorrow's convertible stock]]"
+auto_problem_statements:
+  - "[[Short investment horizon]]"
 auto_references: []
 auto_strategies: []
 auto_tools: []

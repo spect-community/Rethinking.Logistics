@@ -6,6 +6,17 @@ description: "Where the chain from tool to metric to decision is incomplete."
 > [!abstract] Generated page
 > Where the chain from tool to metric to decision is incomplete. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
+## Gaps reported in the notes
+
+Gaps named on problem statements, challenges and metrics, where the evidence or the tool is still missing.
+
+- [[Oversizing ratio]] — No tool calculates it and no project has measured it.
+- [[Staff turnover and replacement cost]] — No European data on warehouse staff turnover and replacement cost.
+- [[Asset, not place]] — Nature and public benefit cannot yet be priced. Carbon can be (see Social cost of carbon).
+- [[Certificates met on paper]] — No tool checks whether a certification credit fulfils its intention.
+- [[Hypothetical return on quality]] — No European benchmark values connect physical KPIs to NOI, cap rate or void period for logistics specifically. The green premium evidence is market-level (BREEAM vs non-certified) and is not broken down by individual measures.
+- [[Missing operational data]] — Investor KPIs are defined per sq ft in US sources. Values must be converted (1 m² = 10.764 sq ft) and normalised per floor-area definition.
+
 ## Metrics used by students but not linked to any tool
 
 These were estimated by hand, taken from literature or left unquantified. Each one is an opportunity: which tool *could* calculate it?
@@ -72,7 +83,7 @@ These were estimated by hand, taken from literature or left unquantified. Each o
 
 ## Challenges without a case study
 
-- *none*
+- [[Designing for an unknown tenant]]
 
 ## Linked but not written yet
 

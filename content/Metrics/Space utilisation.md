@@ -11,17 +11,21 @@ aliases:
 challenges:
   - "[[Space, energy and labour needs changing with automation]]"
   - "[[Land take of logistics buildings]]"
+  - "[[Designing for an unknown tenant]]"
 auto_case_studies:
   - "[[Adéla Berkovitz]]"
   - "[[Marek Nový]]"
   - "[[Sara Gani]]"
 auto_domains: []
 auto_insights:
+  - "[[A taller shed stores half as much again]]"
   - "[[Electrifying the car is the lazy answer]]"
   - "[[Grey space – buildings sized for Black Friday]]"
   - "[[Lessons-learned list for lowering carbon]]"
   - "[[Shared warehouses could cut construction by 60–70%]]"
   - "[[Stacking is normal — everywhere but here]]"
+auto_problem_statements:
+  - "[[Short investment horizon]]"
 auto_references: []
 auto_strategies: []
 auto_tools:

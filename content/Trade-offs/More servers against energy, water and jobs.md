@@ -20,6 +20,7 @@ auto_ambitions:
   - "[[Shared waste heat]]"
 auto_domains:
   - "[[Energy Symbiosis]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

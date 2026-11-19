@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Stacking is normal — everywhere but here]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

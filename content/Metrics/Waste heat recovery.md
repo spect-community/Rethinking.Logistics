@@ -27,6 +27,7 @@ auto_insights:
   - "[[Sell the warehouse as a power station]]"
   - "[[Thirty-metre freezers are a heat source]]"
   - "[[Waste heat is already an approval condition]]"
+auto_problem_statements: []
 auto_references:
   - "[[Chapelle International]]"
   - "[[Ricola Kräuterzentrum]]"

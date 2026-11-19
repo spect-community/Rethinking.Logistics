@@ -22,6 +22,8 @@ auto_ambitions:
   - "[[Safe sites with separated flows]]"
 auto_domains:
   - "[[Urban Hybrid]]"
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
 ---
 
 ## The conflict

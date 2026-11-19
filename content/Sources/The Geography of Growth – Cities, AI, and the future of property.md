@@ -38,6 +38,7 @@ auto_insights:
   - "[[They don't forecast AI at all]]"
   - "[[Two engines, or growth goes wrong]]"
   - "[[Warehouse demand weak; data centres and defence carry it]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

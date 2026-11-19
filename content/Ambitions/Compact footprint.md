@@ -10,6 +10,7 @@ auto_case_studies:
   - "[[Julia Kopác]]"
   - "[[Robin Jesenský]]"
 auto_challenges:
+  - "[[Designing for an unknown tenant]]"
   - "[[Land take of logistics buildings]]"
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
@@ -18,10 +19,13 @@ auto_domains:
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
 auto_metrics:
+  - "[[Adaptability]]"
+  - "[[Embodied carbon intensity]]"
   - "[[Function stacking index]]"
   - "[[Impervious surface ratio]]"
   - "[[Land take]]"
   - "[[Number of docks]]"
+  - "[[Oversizing ratio]]"
   - "[[Parking capacity]]"
   - "[[Space utilisation]]"
   - "[[Throughput per site area]]"
@@ -36,7 +40,11 @@ auto_strategies:
   - "[[Wind simulation for sheltered layouts]]"
 auto_tools:
   - "[[AutoTURN]]"
+  - "[[Bombyx]]"
+  - "[[CO2mpare]]"
   - "[[Grasshopper]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
 ---
 
 ## Ambition

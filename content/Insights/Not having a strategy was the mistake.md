@@ -15,6 +15,7 @@ source: "[[Build Your Own Playground – Architecture where no one looks for it]
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

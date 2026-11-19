@@ -22,6 +22,8 @@ auto_insights:
   - "[[Architecture as a human resource tool]]"
   - "[[Daylight buys 18% productivity, retail 15–40%]]"
   - "[[Two fewer sick days pays for the building]]"
+  - "[[Workplace investment helps keep warehouse staff]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

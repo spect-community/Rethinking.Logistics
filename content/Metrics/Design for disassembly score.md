@@ -21,6 +21,7 @@ auto_insights:
   - "[[Mycelium pavilion that returns to the field]]"
   - "[[Tailoring is a one-way door]]"
   - "[[The material bank argument to the client]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

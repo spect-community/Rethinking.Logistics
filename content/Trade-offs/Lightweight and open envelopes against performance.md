@@ -23,6 +23,7 @@ auto_ambitions:
   - "[[Modular and prefabricated architecture]]"
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

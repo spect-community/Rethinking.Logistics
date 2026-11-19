@@ -16,6 +16,8 @@ source: "[[Beyond the Concrete – Designing Buildings That Last]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_trade_offs: []
 ---
 ## Context

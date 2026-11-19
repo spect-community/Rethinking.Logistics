@@ -19,6 +19,7 @@ metrics: []
 case_studies: []
 reference_projects:
   - "[[Bestseller Logistics Center West]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

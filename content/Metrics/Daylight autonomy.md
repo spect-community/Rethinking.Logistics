@@ -23,6 +23,9 @@ auto_insights:
   - "[[Skylights as a legislative contradiction]]"
   - "[[Skylights as wayfinding in a 565 m building]]"
   - "[[Ten thousand options instead of one]]"
+  - "[[Translucent roofs trade lighting carbon for heat]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 auto_references: []
 auto_strategies: []
 auto_tools:
@@ -30,6 +33,7 @@ auto_tools:
   - "[[Pollination]]"
 auto_trade_offs:
   - "[[Compact massing against human scale]]"
+  - "[[Daylight against overheating]]"
   - "[[Space for people and nature against storage]]"
 ---
 

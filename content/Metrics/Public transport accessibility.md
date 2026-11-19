@@ -19,6 +19,7 @@ auto_domains: []
 auto_insights:
   - "[[Four pillars, with location as the fourth]]"
   - "[[Your site decides a whole credit block]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools:

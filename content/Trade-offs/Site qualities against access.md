@@ -19,6 +19,7 @@ auto_ambitions:
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

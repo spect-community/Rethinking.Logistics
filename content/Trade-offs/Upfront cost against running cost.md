@@ -12,7 +12,12 @@ metrics:
   - "[[Construction cost]]"
   - "[[Energy use intensity]]"
   - "[[Space utilisation]]"
-insights: []
+  - "[[Green rent premium]]"
+insights:
+  - "[[Retrofit pays now, new-build pays hypothetically]]"
+  - "[[Under triple-net, the savings walk out with the tenant]]"
+  - "[[90% of Dutch occupiers would pay more for green space]]"
+  - "[[No green premium in logistics yet, but it is coming]]"
 auto_ambitions:
   - "[[Access without a car]]"
   - "[[Adaptable over time]]"
@@ -35,6 +40,10 @@ auto_ambitions:
 auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
+  - "[[Split incentive]]"
+  - "[[Trade-offs across design and value]]"
 ---
 
 ## The conflict
@@ -49,3 +58,12 @@ Better envelopes, new infrastructure and added structure raise the initial inves
 - [[Hynek Hrabík]] — CapEx rises for extra corridor structures and conveyor technology, possibly offset by less paved area and lower embodied carbon in floors (questionnaire).
 
 As reported by the student; see each case study for the page in the portfolio.
+
+## What experts and publications say
+
+- [[Retrofit pays now, new-build pays hypothetically]] — Efficiency and renewables in existing sheds can pay back immediately for owner and tenant; in new-build the return appears only through rent, vacancy or cost of capital.
+- [[Under triple-net, the savings walk out with the tenant]] — Owners decide on construction but tenants pay utilities, so efficiency investments rarely return to the owner directly.
+- [[90% of Dutch occupiers would pay more for green space]] — In the Netherlands most industrial occupiers accept a rent premium for sustainable space, driven mainly by compliance needs.
+- [[No green premium in logistics yet, but it is coming]] — An investor reports no pricing premium or discount for logistics performance yet, slower than in other sectors, though one is expected.
+
+Paraphrased from the lecture or publication; see each insight for its source and evidence status.

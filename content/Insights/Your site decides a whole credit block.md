@@ -20,6 +20,7 @@ ambitions:
 metrics:
   - "[[Public transport accessibility]]"
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

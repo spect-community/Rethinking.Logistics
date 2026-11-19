@@ -17,6 +17,7 @@ source: "[[The Geography of Growth – Cities, AI, and the future of property]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

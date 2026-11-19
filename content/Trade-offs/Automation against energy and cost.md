@@ -29,6 +29,8 @@ auto_ambitions:
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Micro-Hubs and Urban Mobility]]"
+auto_problem_statements:
+  - "[[Short investment horizon]]"
 ---
 
 ## The conflict

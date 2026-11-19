@@ -27,6 +27,7 @@ auto_ambitions:
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

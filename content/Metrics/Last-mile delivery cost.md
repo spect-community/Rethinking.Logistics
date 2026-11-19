@@ -15,6 +15,7 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Last mile is shortest but costliest]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

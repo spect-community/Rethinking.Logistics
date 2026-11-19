@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[France maps its ecology before it maps its plots]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

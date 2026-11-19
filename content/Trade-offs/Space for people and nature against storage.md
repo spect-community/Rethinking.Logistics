@@ -13,6 +13,8 @@ metrics:
   - "[[Green area ratio]]"
   - "[[Publicly accessible area]]"
   - "[[Pedestrian–vehicle conflict points]]"
+  - "[[Net operating income per m²]]"
+  - "[[Land take]]"
 insights: []
 auto_ambitions:
   - "[[Fewer and cleaner last-mile trips]]"
@@ -33,6 +35,8 @@ auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 ---
 
 ## The conflict
@@ -49,3 +53,9 @@ Every square metre given to green or public space, and every window in a racked 
 - [[Sara Sulollari]] — Green planted area competes with usable public space; resolved by combining planting with social courtyards (questionnaire).
 
 As reported by the student; see each case study for the page in the portfolio.
+
+## What experts and publications say
+
+
+
+Paraphrased from the lecture or publication; see each insight for its source and evidence status.

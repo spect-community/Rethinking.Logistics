@@ -22,6 +22,7 @@ metrics:
   - "[[Mixed-use ratio]]"
 case_studies:
   - "[[Lindsay Daphne Macuja]]"
+auto_problem_statements: []
 auto_trade_offs:
   - "[[Public access against logistics operations]]"
 ---

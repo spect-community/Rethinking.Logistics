@@ -9,7 +9,13 @@ metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Construction cost]]"
   - "[[Energy use intensity]]"
-insights: []
+  - "[[Clear height]]"
+  - "[[Structural utilisation]]"
+  - "[[Visual impact on neighbours]]"
+insights:
+  - "[[A taller shed stores half as much again]]"
+  - "[[Height buys efficiency and buys a fire problem]]"
+  - "[[Over-build the height, don't charge for it]]"
 auto_ambitions:
   - "[[Compact footprint]]"
   - "[[Drone and autonomous delivery]]"
@@ -19,6 +25,8 @@ auto_ambitions:
   - "[[Multi-storey logistics]]"
 auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 ---
 
 ## The conflict
@@ -31,3 +39,11 @@ Stacking logistics in height reduces the footprint and frees land. Taller struct
 - [[Johannes Berger]] — Building vertically lowers land use but raises operational energy cost (questionnaire Energy 2).
 
 As reported by the student; see each case study for the page in the portfolio.
+
+## What experts and publications say
+
+- [[A taller shed stores half as much again]] — Per the Ilora glossary, an 11 m (36 ft) clear height stores about 50% more pallets than 7.3 m (24 ft) on the same footprint.
+- [[Height buys efficiency and buys a fire problem]] — Going taller improves automation efficiency but triggers in-rack sprinklers, ventilation and exhaust systems. Fire suppression is "super expensive", so there is a trade-off.
+- [[Over-build the height, don't charge for it]] — When a tenant asks for 8 m clear height, Panattoni builds 10 m and absorbs the cost, because constraining height forecloses future uses.
+
+Paraphrased from the lecture or publication; see each insight for its source and evidence status.

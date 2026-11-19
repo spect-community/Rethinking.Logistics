@@ -13,6 +13,7 @@ auto_case_studies:
 auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights: []
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

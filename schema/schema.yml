@@ -25,14 +25,14 @@ types:
     label: Challenge
     plural: Challenges
     description: A design challenge tackled with evidence-based design.
-    fields: [category, status, aliases]
+    fields: [category, evidence_gaps, status, aliases]
 
   metric:
     folder: Metrics
     label: Metric
     plural: Metrics
     description: A measurable indicator (students often call it a KPI) used as evidence for a design decision.
-    fields: [category, unit, calculation, origin, standard, status, aliases]
+    fields: [category, unit, calculation, origin, standard, evidence_gaps, status, aliases]
 
   tool:
     folder: Tools
@@ -76,8 +76,16 @@ types:
     folder: Trade-offs
     label: Trade-off
     plural: Trade-offs
-    description: A recurring conflict between two design aims or metrics, found across the student projects, with how the projects handled it.
+    description: A recurring conflict between two design aims or metrics, found in the student projects or reported by experts and publications, with how the projects handled it.
     fields: [summary, status, aliases]
+
+  problem-statement:
+    folder: Problem statements
+    label: Problem statement
+    plural: Problem statements
+    description: A system-level problem behind logistics architecture — how buildings are financed, leased, certified and valued — traced to the metrics, trade-offs and evidence in the knowledge base.
+    # evidence_gaps: short sentences, collected on the Evidence gaps overview
+    fields: [summary, evidence_gaps, status, aliases]
 
   source:
     folder: Sources
@@ -313,6 +321,34 @@ relations:
     label: Expert insights
     auto_label: Trade-offs
     verb: is backed by
+  - from: problem-statement
+    field: sources
+    to: source
+    auto: auto_problem_statements
+    label: Sources
+    auto_label: Problem statements
+    verb: draws on
+  - from: problem-statement
+    field: metrics
+    to: metric
+    auto: auto_problem_statements
+    label: Metrics in the translation chain
+    auto_label: Problem statements
+    verb: is traced through
+  - from: problem-statement
+    field: trade_offs
+    to: trade-off
+    auto: auto_problem_statements
+    label: Trade-offs to watch
+    auto_label: Problem statements
+    verb: involves
+  - from: problem-statement
+    field: insights
+    to: insight
+    auto: auto_problem_statements
+    label: Insights
+    auto_label: Problem statements
+    verb: is backed by
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
 # (e.g. case_studies). `paths` lists several chains whose results are combined;
@@ -369,3 +405,12 @@ derived:
     auto: auto_ambitions
     label: Ambitions (through its projects)
     path: [case_studies, ambitions]
+  # challenges and domains a problem statement touches, through its metrics
+  - on: problem-statement
+    auto: auto_challenges
+    label: Challenges (through its metrics)
+    path: [metrics, challenges]
+  - on: problem-statement
+    auto: auto_domains
+    label: Domains (through its metrics)
+    path: [metrics, auto_domains]

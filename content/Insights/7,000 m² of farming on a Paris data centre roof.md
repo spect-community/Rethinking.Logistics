@@ -23,6 +23,7 @@ metrics:
   - "[[Waste heat recovery]]"
 case_studies:
   - "[[Katrin Rybinskiy]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

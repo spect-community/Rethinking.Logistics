@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Italy's warehouses eat 432 hectares a year]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

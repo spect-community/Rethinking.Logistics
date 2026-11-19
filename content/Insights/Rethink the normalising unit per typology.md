@@ -18,6 +18,8 @@ metrics:
   - "[[Carbon per pallet handled]]"
   - "[[Carbon usage effectiveness]]"
 case_studies: []
+auto_problem_statements:
+  - "[[Missing operational data]]"
 auto_trade_offs: []
 ---
 ## Context

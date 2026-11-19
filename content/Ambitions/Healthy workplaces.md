@@ -7,17 +7,24 @@ auto_case_studies:
   - "[[Sara Gani]]"
 auto_challenges:
   - "[[Deep, dark and noisy workplaces]]"
+  - "[[Designing for an unknown tenant]]"
 auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Urban Hybrid]]"
 auto_insights:
   - "[[The employees are trapped outside the real world]]"
 auto_metrics:
+  - "[[Adaptability]]"
   - "[[Daylight autonomy]]"
+  - "[[Embodied carbon intensity]]"
   - "[[Function stacking index]]"
   - "[[Indoor air quality]]"
+  - "[[Land take]]"
   - "[[Natural ventilation potential]]"
   - "[[Noise level]]"
+  - "[[Oversizing ratio]]"
+  - "[[Space utilisation]]"
+  - "[[Staff turnover and replacement cost]]"
   - "[[Thermal comfort]]"
   - "[[Worker safety incidents]]"
   - "[[Worker well-being]]"
@@ -31,12 +38,17 @@ auto_strategies:
   - "[[KPI matrix comparison of design variants]]"
   - "[[LCA comparison of material and structural options]]"
 auto_tools:
+  - "[[Bombyx]]"
   - "[[Butterfly]]"
+  - "[[CO2mpare]]"
   - "[[Eddy3D]]"
   - "[[Geoportal Praha]]"
+  - "[[Grasshopper]]"
   - "[[Honeybee]]"
   - "[[Jifto]]"
   - "[[Ladybug]]"
+  - "[[LearnCarbon]]"
+  - "[[One Click LCA]]"
   - "[[Pollination]]"
 ---
 

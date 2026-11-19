@@ -22,6 +22,7 @@ ambitions:
 metrics: []
 case_studies:
   - "[[Lindsay Daphne Macuja]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

@@ -14,6 +14,8 @@ auto_case_studies:
   - "[[Hynek Hrabík]]"
 auto_domains: []
 auto_insights: []
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
 auto_references: []
 auto_strategies: []
 auto_tools:

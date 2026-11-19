@@ -20,6 +20,9 @@ challenges:
 metrics: []
 case_studies:
   - "[[Amy Naprstek]]"
+auto_problem_statements:
+  - "[[Short investment horizon]]"
+  - "[[Split incentive]]"
 auto_trade_offs: []
 ---
 ## Context

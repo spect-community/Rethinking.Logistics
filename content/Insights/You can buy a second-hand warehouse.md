@@ -21,6 +21,7 @@ challenges:
 metrics:
   - "[[Embodied carbon saved by reuse]]"
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

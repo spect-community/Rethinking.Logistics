@@ -18,6 +18,7 @@ auto_case_studies:
   - "[[Sara Gani]]"
 auto_domains: []
 auto_insights: []
+auto_problem_statements: []
 auto_references:
   - "[[Nexus Logistics Park]]"
   - "[[SEGRO V-Park Grand Union]]"

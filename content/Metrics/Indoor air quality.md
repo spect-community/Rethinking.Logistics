@@ -13,6 +13,7 @@ auto_case_studies:
   - "[[Adam Večeřa]]"
 auto_domains: []
 auto_insights: []
+auto_problem_statements: []
 auto_references:
   - "[[Nexus Logistics Park]]"
 auto_strategies: []

@@ -42,6 +42,7 @@ auto_insights:
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Two twin harbours, opposite performance]]"
   - "[[We had no criteria, so we borrowed Gehl's]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

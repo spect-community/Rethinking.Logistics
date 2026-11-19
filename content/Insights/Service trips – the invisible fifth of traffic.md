@@ -17,6 +17,7 @@ source: "[[Integrated Urban Logistics – From last-mile to mobility hubs]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

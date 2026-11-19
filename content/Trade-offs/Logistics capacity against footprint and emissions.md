@@ -26,6 +26,7 @@ auto_ambitions:
   - "[[Reuse of existing buildings]]"
 auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

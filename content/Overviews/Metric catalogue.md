@@ -6,7 +6,7 @@ description: "All metrics with their unit and calculation method."
 > [!abstract] Generated page
 > All metrics with their unit and calculation method. Rebuilt automatically from the properties of all notes — edit the notes, not this page.
 
-**76 metrics**, grouped by category. *Origin* says whether students defined the metric themselves, adapted it, or took it from a standard such as BREEAM, LEED or DGNB.
+**91 metrics**, grouped by category. *Origin* says whether students defined the metric themselves, adapted it, or took it from a standard such as BREEAM, LEED or DGNB.
 
 ## Biodiversity
 
@@ -59,10 +59,22 @@ description: "All metrics with their unit and calculation method."
 | Metric | Unit | How it is calculated | Tools | Used in | Origin |
 | --- | --- | --- | --- | --- | --- |
 | [[CapEx–OpEx ratio]] | % / % over 30 years | Investment cost vs. sum of operating costs over a 30-year life (undiscounted or as net present value). | [[One Click LCA]] | 3 | student |
+| [[Capitalisation rate]] | % | Net operating income ÷ property value × 100. A lower cap rate means a higher value for the same income. | — | 0 | standard · Real-estate valuation practice |
 | [[Construction cost]] | EUR/m² | Cost estimate per gross floor area; or cost of a building element (e.g. envelope) derived from its quantity. | [[Galapagos]] | 2 | student |
+| [[Debt service coverage ratio]] | ratio | Net operating income ÷ annual debt service. Below 1.0 means income cannot cover debt. | — | 0 | standard · Lending practice |
 | [[Electricity price]] | CZK/kWh or EUR/kWh | Business electricity tariff at the project location, including grid fees. | — | 3 | standard |
+| [[Green rent premium]] | % difference in rent | (Rent of certified or high-performance unit − rent of comparable conventional unit) ÷ rent of conventional unit × 100, for comparable location, size and age. | — | 0 | adapted · Market surveys |
+| [[Green valuation premium]] | basis points (bps) of cap rate, or % of value | Cap rate of comparable non-certified assets − cap rate of certified assets. | — | 0 | adapted · Market studies |
+| [[Labour-to-rent cost ratio]] | ratio (e.g. 5 : 1) | Annual labour cost on site ÷ annual rent | — | 0 | adapted · Industry research (Prologis) |
 | [[Last-mile delivery cost]] | EUR/delivery or % change | Total cost of the final delivery step ÷ number of deliveries. | — | 2 | adapted |
+| [[Net operating income]] | EUR/year | Gross revenue (rent + recoveries + other income) − operating expenses. Excludes financing, depreciation and capital expenditure. | — | 0 | standard · Real-estate valuation practice |
+| [[Net operating income per m²]] | EUR/m²·year | Net operating income ÷ lettable floor area. European equivalent of the US "square-foot yield" (NOI per rentable sq ft × 10.764). | — | 0 | adapted · US square-foot yield |
+| [[Operating expense ratio]] | % | Operating expenses ÷ gross revenue × 100. | — | 0 | standard · Real-estate valuation practice |
 | [[Social cost of carbon]] | EUR | Total emissions (tCO2e) × a carbon price per tonne. | [[One Click LCA]] | 1 | standard |
+| [[Staff turnover and replacement cost]] | % per year; € per year | Turnover rate = separations per year ÷ average headcount × 100; annual replacement cost = separations per year × cost per replacement (recruitment, onboarding, lost productivity) | — | 0 | adapted · HR practice |
+| [[Void period]] | months | Time between the end of one lease and the start of the next (vacancy duration), averaged per asset or portfolio. | — | 0 | standard · Leasing practice |
+| [[Weighted average lease term]] | years | Σ(remaining lease term of each lease × its rent or area) ÷ total rent or area. | — | 0 | standard · Leasing practice (WALT) |
+| [[Whole-building energy data coverage]] | % of floor area | Floor area with complete, metered whole-building energy data (landlord + tenant) ÷ total floor area × 100. | — | 0 | adapted · GRESB data coverage |
 
 ## Energy
 
@@ -92,10 +104,13 @@ description: "All metrics with their unit and calculation method."
 | Metric | Unit | How it is calculated | Tools | Used in | Origin |
 | --- | --- | --- | --- | --- | --- |
 | [[Adaptability]] | time or effort to reconfigure | Time (or cost) to reconfigure, extend or relocate the building or its partitions; checked against module dimensions and connections. | — | 5 | student |
+| [[Clear height]] | m | Distance from finished floor to the lowest overhead obstruction (structure, sprinklers, lighting). | — | 0 | standard · Logistics building specification |
 | [[Delivery time]] | hours/minutes | Time from order or dispatch to delivery at the customer; or end-to-end cycle time in the supply chain. | — | 2 | adapted |
+| [[Dock door ratio]] | docks per 1,000 m² of floor area | Number of loading docks ÷ floor area × 1,000. | — | 0 | standard · Logistics building specification |
 | [[Dock turnaround time]] | minutes | Time from a truck's arrival at the gate until departure (or until goods enter processing). | — | 2 | adapted |
 | [[Level of automation]] | employees per facility / % automated tasks | Share of handling tasks done by machines, or number of employees needed per facility at a given throughput. | — | 1 | student |
 | [[Number of docks]] | docks | Docks needed to handle a given throughput, from queueing or discrete-event simulation. | — | 1 | student |
+| [[Oversizing ratio]] | % (per system) | (Provided capacity − required capacity) ÷ required capacity × 100, calculated separately for each system | — | 0 | adapted |
 | [[Parking capacity]] | spaces or m² | Number of car/truck parking spaces (or parking area) provided, and their utilisation. | — | 4 | student |
 | [[Road freight impact]] | % of emissions / road wear | Share of freight moved by trucks vs. their share of transport emissions; road wear per truck in car equivalents (fourth-power law). | — | 1 | adapted |
 | [[Space utilisation]] | % of floor area / storage capacity | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 | student |

@@ -20,6 +20,7 @@ metrics:
   - "[[Embodied carbon intensity]]"
   - "[[Life-cycle impact by stage]]"
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

@@ -20,6 +20,7 @@ metrics:
   - "[[Number of docks]]"
 case_studies:
   - "[[Hynek Hrabík]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

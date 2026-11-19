@@ -37,6 +37,7 @@ auto_insights:
   - "[[They tested it on their own office and found flood risk]]"
   - "[[Two knobs decide everything – scenario and horizon]]"
   - "[[Warming has social consequences that are also risks]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

@@ -28,6 +28,10 @@ auto_domains:
 auto_insights:
   - "[[Amazon 2014 vs 2022 – same floorplate, different building]]"
   - "[[Energy performance is a financing instrument]]"
+  - "[[Lighting is 65–95% of a dry warehouse's energy]]"
+auto_problem_statements:
+  - "[[Missing operational data]]"
+  - "[[Split incentive]]"
 auto_references:
   - "[[Nexus Logistics Park]]"
 auto_strategies:
@@ -40,6 +44,7 @@ auto_tools:
 auto_trade_offs:
   - "[[Automation against energy and cost]]"
   - "[[Building up against carbon and energy]]"
+  - "[[Daylight against overheating]]"
   - "[[Reuse against operational performance]]"
   - "[[Upfront cost against running cost]]"
 ---

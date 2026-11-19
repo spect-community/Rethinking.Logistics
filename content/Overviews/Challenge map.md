@@ -47,11 +47,26 @@ From each design challenge to the metrics that inform the decision, the tools th
 | [[Indoor air quality]] | Indoor CO2 concentration as a proxy for ventilation quality; target e.g. below 900 ppm. | — | 1 |
 | [[Natural ventilation potential]] | Share of floor area (or hours) that can be ventilated naturally, based on opening area, depth and climate. | [[Butterfly]] | 1 |
 | [[Noise level]] | Noise mapping (from municipal noise maps or simulation) at façades and outdoor spaces; reduction compared with the existing state. | [[Geoportal Praha]] | 4 |
+| [[Staff turnover and replacement cost]] | Turnover rate = separations per year ÷ average headcount × 100; annual replacement cost = separations per year × cost per replacement (recruitment, onboarding, lost productivity) | — | 0 |
 | [[Thermal comfort]] | Indoor: Predicted Mean Vote (PMV) or adaptive comfort; outdoor: Universal Thermal Climate Index (UTCI), simulated from weather data. | [[Eddy3D]], [[Honeybee]], [[Jifto]], [[Ladybug]], [[Pollination]] | 1 |
 | [[Worker safety incidents]] | Recorded incidents per year (or hazard zones per layout) in operational areas. | — | 3 |
 | [[Worker well-being]] | Post-occupancy survey or checklist score of daylight, views, rest areas, greenery and facilities for workers. | — | 4 |
 
 **Case studies:** [[Eva Kažukolovaitė]], [[Sara Gani]]
+
+## [[Designing for an unknown tenant]]
+
+*Serves the ambition:* [[Adaptable over time]], [[Compact footprint]], [[Low embodied carbon]], [[Healthy workplaces]]
+
+| Metric | How it is calculated | Tools | Case studies |
+| --- | --- | --- | --- |
+| [[Adaptability]] | Time (or cost) to reconfigure, extend or relocate the building or its partitions; checked against module dimensions and connections. | — | 5 |
+| [[Embodied carbon intensity]] | Material quantities × emission factors from EPDs/databases, summed over life-cycle modules (A1–A3 or A1–C4) ÷ gross floor area. Calculated with LCA tools such as One Click LCA or Bombyx. | [[Bombyx]], [[CO2mpare]], [[LearnCarbon]], [[One Click LCA]] | 9 |
+| [[Land take]] | Building footprint (plus paved operational area) ÷ site area; compared before and after. | [[Grasshopper]] | 6 |
+| [[Oversizing ratio]] | (Provided capacity − required capacity) ÷ required capacity × 100, calculated separately for each system | — | 0 |
+| [[Space utilisation]] | Floor area (or volume) actively used for storage and operations ÷ total. | [[Grasshopper]] | 3 |
+
+**Case studies:** —
 
 ## [[Embodied carbon of new and demolished warehouses]]
 

@@ -19,9 +19,12 @@ auto_domains:
   - "[[Urban Hybrid]]"
 auto_insights:
   - "[[Renovating an office saved about 80%]]"
+  - "[[Retrofit pays now, new-build pays hypothetically]]"
   - "[[Reuse can lose on whole-life carbon]]"
   - "[[The reduction roadmap led to the activism]]"
   - "[[You can buy a second-hand warehouse]]"
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
 auto_references: []
 auto_strategies:
   - "[[Reuse versus new-build carbon comparison]]"

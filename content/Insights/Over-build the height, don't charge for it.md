@@ -19,7 +19,10 @@ challenges:
 metrics:
   - "[[Adaptability]]"
 case_studies: []
-auto_trade_offs: []
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
+auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
 ---
 ## Context
 

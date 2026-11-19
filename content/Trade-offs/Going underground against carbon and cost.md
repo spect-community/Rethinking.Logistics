@@ -32,6 +32,7 @@ auto_domains:
   - "[[Energy Symbiosis]]"
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

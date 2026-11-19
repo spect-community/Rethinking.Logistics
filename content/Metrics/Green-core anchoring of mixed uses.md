@@ -25,6 +25,7 @@ auto_case_studies:
 auto_domains: []
 auto_insights:
   - "[[Car-free core written into the competition entry]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools: []

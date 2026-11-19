@@ -18,6 +18,8 @@ source: "[[Performing Despite the Headwinds – Understanding the drivers of Eur
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_trade_offs: []
 ---
 ## Context

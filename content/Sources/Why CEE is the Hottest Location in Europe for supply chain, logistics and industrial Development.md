@@ -47,6 +47,7 @@ auto_insights:
   - "[[The region is treated as one product, not fifteen countries]]"
   - "[[Transport is half the supply-chain cost, rent a tenth]]"
   - "[[Why CEE – demand, workers, cost — in that order]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

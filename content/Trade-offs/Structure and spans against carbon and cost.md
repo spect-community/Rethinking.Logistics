@@ -30,6 +30,7 @@ auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

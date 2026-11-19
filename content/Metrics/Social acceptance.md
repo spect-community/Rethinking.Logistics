@@ -16,10 +16,13 @@ auto_case_studies:
   - "[[Eva Kažukolovaitė]]"
 auto_domains: []
 auto_insights:
+  - "[[Community engagement shortens permitting and leasing]]"
   - "[[Czech mayors have almost no reason to say yes]]"
   - "[[Mayors get trucks, not taxes]]"
   - "[[NIMBY survives the open day]]"
   - "[[The power grievance is half right]]"
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_references: []
 auto_strategies: []
 auto_tools: []

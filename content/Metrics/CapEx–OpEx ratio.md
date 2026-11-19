@@ -19,6 +19,8 @@ auto_case_studies:
 auto_domains: []
 auto_insights:
   - "[[Carbon price is a design input, not an accounting footnote]]"
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
 auto_references: []
 auto_strategies: []
 auto_tools:

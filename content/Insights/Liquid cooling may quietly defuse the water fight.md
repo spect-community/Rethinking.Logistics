@@ -21,6 +21,7 @@ metrics:
   - "[[Water consumption]]"
 case_studies:
   - "[[Robin Jesenský]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

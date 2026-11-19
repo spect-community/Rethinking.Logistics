@@ -15,6 +15,7 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
 auto_insights:
   - "[[Automated trucks will not change the loading dock]]"
+auto_problem_statements: []
 auto_references:
   - "[[Nexus Logistics Park]]"
 auto_strategies:

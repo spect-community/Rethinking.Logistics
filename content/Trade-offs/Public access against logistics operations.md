@@ -44,6 +44,8 @@ auto_domains:
   - "[[Micro-Hubs and Urban Mobility]]"
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_problem_statements:
+  - "[[Asset, not place]]"
 ---
 
 ## The conflict

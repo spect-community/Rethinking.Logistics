@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[1,900 heat inspections, zero citations]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[The sky is brightening 10% a year]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

@@ -15,6 +15,7 @@ aliases:
   - Embodied carbon of materials
 challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
+  - "[[Designing for an unknown tenant]]"
 auto_case_studies:
   - "[[Adam Večeřa]]"
   - "[[Adéla Berkovitz]]"
@@ -58,7 +59,10 @@ auto_insights:
   - "[[The right answer is three materials, not one]]"
   - "[[Timber turns 60,000 t CO2 into a surplus — conditionally]]"
   - "[[Timber, brick and light concrete came out near-identical]]"
+  - "[[Translucent roofs trade lighting carbon for heat]]"
   - "[[Two Czech databases disagree by 10%+]]"
+auto_problem_statements:
+  - "[[Trade-offs across design and value]]"
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"
@@ -72,6 +76,7 @@ auto_tools:
 auto_trade_offs:
   - "[[Building up against carbon and energy]]"
   - "[[Compact massing against human scale]]"
+  - "[[Daylight against overheating]]"
   - "[[Going underground against carbon and cost]]"
   - "[[Green roofs against structure and carbon]]"
   - "[[Structure and spans against carbon and cost]]"

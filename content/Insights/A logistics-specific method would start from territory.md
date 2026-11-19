@@ -17,6 +17,8 @@ source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_trade_offs: []
 ---
 ## Context

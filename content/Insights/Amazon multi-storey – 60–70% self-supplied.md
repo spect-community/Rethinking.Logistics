@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[On-site renewable energy share]]"
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

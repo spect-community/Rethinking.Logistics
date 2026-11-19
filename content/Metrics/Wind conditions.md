@@ -18,6 +18,7 @@ auto_case_studies:
 auto_domains:
   - "[[Energy Symbiosis]]"
 auto_insights: []
+auto_problem_statements: []
 auto_references: []
 auto_strategies:
   - "[[Wind simulation for sheltered layouts]]"

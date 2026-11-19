@@ -38,6 +38,7 @@ auto_insights:
   - "[[Vacancy – 5.5% average, but zero in Munich and Hamburg]]"
   - "[[Warehouses aren't sexy — but that's changing]]"
   - "[[Yields – 8% then 3.5% then 5%, now flat]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

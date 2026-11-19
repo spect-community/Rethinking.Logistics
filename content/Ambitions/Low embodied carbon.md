@@ -6,20 +6,25 @@ auto_case_studies:
   - "[[Lindsay Daphne Macuja]]"
   - "[[Sara Sulollari]]"
 auto_challenges:
+  - "[[Designing for an unknown tenant]]"
   - "[[Embodied carbon of new and demolished warehouses]]"
 auto_domains:
   - "[[Adaptive and Modular Logistics]]"
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
 auto_metrics:
+  - "[[Adaptability]]"
   - "[[Biodiversity stress from materials]]"
   - "[[CapEx–OpEx ratio]]"
   - "[[Design for disassembly score]]"
   - "[[Embodied carbon intensity]]"
   - "[[Embodied carbon saved by reuse]]"
+  - "[[Land take]]"
   - "[[Life-cycle impact by stage]]"
   - "[[Material reuse share]]"
+  - "[[Oversizing ratio]]"
   - "[[Social cost of carbon]]"
+  - "[[Space utilisation]]"
   - "[[Structural utilisation]]"
   - "[[Whole-life carbon]]"
 auto_references:
@@ -35,6 +40,7 @@ auto_tools:
   - "[[Bombyx]]"
   - "[[CO2mpare]]"
   - "[[Donkey]]"
+  - "[[Grasshopper]]"
   - "[[Karamba3D]]"
   - "[[LearnCarbon]]"
   - "[[One Click LCA]]"

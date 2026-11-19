@@ -15,8 +15,8 @@ insights: []
 
 As reported by the student; see each case study for the page in the portfolio.
 
-## What experts say
+## What experts and publications say
 
 - [[Insight]] — its statement
 
-Paraphrased from the lecture; see each insight for its source and evidence status.
+Paraphrased from the lecture or publication; see each insight for its source and evidence status.

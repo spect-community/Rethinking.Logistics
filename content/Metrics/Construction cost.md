@@ -22,6 +22,7 @@ auto_insights:
   - "[[Fit-out can cost more than the building]]"
   - "[[Height buys efficiency and buys a fire problem]]"
   - "[[Timber sells on schedule, not on carbon]]"
+auto_problem_statements: []
 auto_references:
   - "[[Bestseller Logistics Center West]]"
 auto_strategies:
@@ -44,3 +45,7 @@ Budget reality check for design options.
 ## Calculation
 
 Cost estimate per gross floor area; or cost of a building element (e.g. envelope) derived from its quantity.
+
+## Investor view
+
+Higher construction cost for a better-performing building is weighed against the rent it can earn: see [[Green rent premium]] and the trade-off [[Upfront cost against running cost]].

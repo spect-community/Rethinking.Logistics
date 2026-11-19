@@ -49,6 +49,7 @@ auto_insights:
   - "[[Whole-life carbon usually isn't whole]]"
   - "[[You can buy a second-hand warehouse]]"
   - "[[Your professional emissions dwarf your personal ones]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

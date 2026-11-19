@@ -20,6 +20,7 @@ auto_domains: []
 auto_insights:
   - "[[Keep every drop on site]]"
   - "[[Rain harvested to grow the walls]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies: []
 auto_tools:

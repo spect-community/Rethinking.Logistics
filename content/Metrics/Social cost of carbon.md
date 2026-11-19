@@ -12,6 +12,8 @@ auto_case_studies:
 auto_domains: []
 auto_insights:
   - "[[We can price carbon, not nature]]"
+auto_problem_statements:
+  - "[[Asset, not place]]"
 auto_references: []
 auto_strategies:
   - "[[LCA comparison of material and structural options]]"

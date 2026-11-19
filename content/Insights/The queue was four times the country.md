@@ -18,6 +18,7 @@ challenges:
   - "[[High operational energy demand]]"
 metrics: []
 case_studies: []
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Further sources

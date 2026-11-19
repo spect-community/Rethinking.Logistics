@@ -16,6 +16,7 @@ auto_domains: []
 auto_insights:
   - "[[Distant material extraction damages distant biotopes]]"
   - "[[Green roofs are a biodiversity investment, not a carbon one]]"
+auto_problem_statements: []
 auto_references: []
 auto_strategies:
   - "[[LCA comparison of material and structural options]]"

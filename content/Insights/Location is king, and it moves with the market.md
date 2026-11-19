@@ -18,6 +18,7 @@ challenges: []
 metrics: []
 case_studies:
   - "[[Marek Nový]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

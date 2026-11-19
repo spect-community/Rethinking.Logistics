@@ -29,6 +29,7 @@ auto_ambitions:
   - "[[Screening with greenery and façades]]"
 auto_domains:
   - "[[Regenerative Peripheral Park]]"
+auto_problem_statements: []
 ---
 
 ## The conflict

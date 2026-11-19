@@ -37,6 +37,7 @@ auto_insights:
   - "[[The power grievance is half right]]"
   - "[[Utah's random giants are not the model]]"
   - "[[Waste heat is already an approval condition]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

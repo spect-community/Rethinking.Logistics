@@ -20,6 +20,7 @@ metrics: []
 case_studies:
   - "[[Katrin Rybinskiy]]"
   - "[[Julia Godard Lombard]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

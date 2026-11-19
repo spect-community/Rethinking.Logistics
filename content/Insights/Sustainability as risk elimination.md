@@ -16,6 +16,8 @@ source: "[[Industrial Architecture as Living Infrastructure – Why future desig
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Hypothetical return on quality]]"
 auto_trade_offs: []
 ---
 ## Context

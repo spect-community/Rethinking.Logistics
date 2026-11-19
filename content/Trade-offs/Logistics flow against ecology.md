@@ -14,7 +14,9 @@ metrics:
   - "[[Biodiversity stress from materials]]"
   - "[[Biodiversity net gain]]"
   - "[[Green roof coverage]]"
-insights: []
+  - "[[Green area ratio]]"
+insights:
+  - "[[85% of rating schemes set no biodiversity objectives]]"
 auto_ambitions:
   - "[[Compact footprint]]"
   - "[[Efficient truck flow and compact yards]]"
@@ -33,11 +35,15 @@ auto_domains:
   - "[[Energy Symbiosis]]"
   - "[[Regenerative Peripheral Park]]"
   - "[[Urban Hybrid]]"
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
 ---
 
 ## The conflict
 
 Docks, yards and linear processing flows take space and need durable paving. This reduces permeable area and can block ecological connections, so the projects move ecology to the perimeter, route water to planted channels or add green infrastructure elsewhere.
+
+Green area is also easy to count and hard to connect: a share of the site can be met with leftover strips that do not form a continuous habitat (see the common misreading in [[Habitat loss and cut ecological corridors]]).
 
 ## In the student projects
 
@@ -49,3 +55,9 @@ Docks, yards and linear processing flows take space and need durable paving. Thi
 - [[Robin Jesenský]] — Reducing cooling water use and cooling operating cost brings no biodiversity or ecological benefit to the site (questionnaire).
 
 As reported by the student; see each case study for the page in the portfolio.
+
+## What experts and publications say
+
+- [[85% of rating schemes set no biodiversity objectives]] — Most green building rating schemes do not specify biodiversity objectives (85 %).
+
+Paraphrased from the publication; see each insight for its source and evidence status.

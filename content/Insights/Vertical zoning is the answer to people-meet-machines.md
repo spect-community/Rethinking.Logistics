@@ -22,6 +22,7 @@ metrics:
   - "[[Pedestrian–vehicle conflict points]]"
 case_studies:
   - "[[Khrystyna Verbitska]]"
+auto_problem_statements: []
 auto_trade_offs: []
 ---
 ## Context

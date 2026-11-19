@@ -19,6 +19,7 @@ auto_insights:
   - "[[Closed-loop water killed by human behaviour]]"
   - "[[Rain harvested to grow the walls]]"
   - "[[Rainwater is not process water]]"
+auto_problem_statements: []
 auto_references:
   - "[[Bestseller Logistics Center West]]"
   - "[[Nexus Logistics Park]]"

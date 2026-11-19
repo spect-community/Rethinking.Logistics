@@ -15,6 +15,9 @@ source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
+  - "[[Hypothetical return on quality]]"
 auto_trade_offs: []
 ---
 ## Context

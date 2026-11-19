@@ -17,6 +17,8 @@ source: "[[Why CEE is the Hottest Location in Europe for supply chain, logistics
 challenges: []
 metrics: []
 case_studies: []
+auto_problem_statements:
+  - "[[Certificates met on paper]]"
 auto_trade_offs: []
 ---
 ## Context

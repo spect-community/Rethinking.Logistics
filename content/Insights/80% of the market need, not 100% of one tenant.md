@@ -19,6 +19,8 @@ challenges:
 metrics:
   - "[[Adaptability]]"
 case_studies: []
+auto_problem_statements:
+  - "[[Short investment horizon]]"
 auto_trade_offs:
   - "[[Automation against energy and cost]]"
 ---

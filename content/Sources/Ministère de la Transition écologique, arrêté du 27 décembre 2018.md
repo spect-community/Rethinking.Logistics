@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[France already legislates when your yard lights go off]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

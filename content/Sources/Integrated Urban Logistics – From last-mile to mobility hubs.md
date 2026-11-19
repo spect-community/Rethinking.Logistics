@@ -36,6 +36,7 @@ auto_insights:
   - "[[Two pilots contradict each other on batteries]]"
   - "[[Waste is the segment cities actually control]]"
   - "[[We planned people for decades; goods got none of it]]"
+auto_problem_statements: []
 auto_references: []
 ---
 

@@ -52,6 +52,7 @@ auto_insights:
   - "[[Three tiers of ambition on a plot]]"
   - "[[Traffic engineers are expert space-consumers]]"
   - "[[We can price carbon, not nature]]"
+auto_problem_statements: []
 auto_references:
   - "[[Bestseller Logistics Center West]]"
 ---

@@ -17,6 +17,7 @@ auto_domains:
 auto_insights:
   - "[[A translucent factory is a light-pollution machine]]"
   - "[[Aesthetics is the missing agenda item]]"
+  - "[[Better logistics design eases negotiations with the city]]"
   - "[[Blackout blinds are technically possible and practically absurd]]"
   - "[[California wrote the warehouse design code]]"
   - "[[Contrast, not imitation, next to a heritage building]]"

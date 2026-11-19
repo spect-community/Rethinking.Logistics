@@ -9,6 +9,7 @@ status: published
 aliases: []
 auto_insights:
   - "[[Less than 2% of England's offset land has sold]]"
+auto_problem_statements: []
 auto_references: []
 ---
 
