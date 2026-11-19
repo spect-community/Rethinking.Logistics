@@ -16,6 +16,7 @@ source: "[[From Model to Reality – Sustainability in Industrial Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

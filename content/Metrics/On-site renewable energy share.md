@@ -24,6 +24,9 @@ auto_tools:
   - "[[Dragonfly]]"
   - "[[nPro]]"
   - "[[URBANopt]]"
+auto_trade_offs:
+  - "[[Going underground against carbon and cost]]"
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

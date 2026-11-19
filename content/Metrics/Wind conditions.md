@@ -25,6 +25,8 @@ auto_tools:
   - "[[Eddy3D]]"
   - "[[Jifto]]"
   - "[[Ladybug]]"
+auto_trade_offs:
+  - "[[Site qualities against access]]"
 ---
 
 ## What it measures

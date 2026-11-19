@@ -19,6 +19,7 @@ auto_references: []
 auto_strategies:
   - "[[Reuse versus new-build carbon comparison]]"
 auto_tools: []
+auto_trade_offs: []
 ---
 
 ## What it measures

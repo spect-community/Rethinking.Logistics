@@ -20,6 +20,7 @@ metrics:
   - "[[Stormwater runoff reduction]]"
   - "[[Stormwater retention volume]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

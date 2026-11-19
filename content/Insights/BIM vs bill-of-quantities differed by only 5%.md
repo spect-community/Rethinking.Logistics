@@ -16,6 +16,7 @@ challenges: []
 metrics:
   - "[[Embodied carbon intensity]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -17,6 +17,7 @@ challenges: []
 metrics:
   - "[[Operational carbon]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -28,6 +28,13 @@ auto_strategies:
   - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Galapagos]]"
+auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
+  - "[[Compact massing against human scale]]"
+  - "[[Going underground against carbon and cost]]"
+  - "[[Green roofs against structure and carbon]]"
+  - "[[Structure and spans against carbon and cost]]"
+  - "[[Upfront cost against running cost]]"
 ---
 
 ## What it measures

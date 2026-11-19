@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Delivery catchment]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -20,6 +20,7 @@ metrics:
   - "[[Delivery catchment]]"
 case_studies:
   - "[[Roshni Basu]]"
+auto_trade_offs: []
 ---
 ## Context
 

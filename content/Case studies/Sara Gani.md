@@ -45,6 +45,8 @@ auto_strategies:
   - "[[Energy estimate for zoning and envelope]]"
   - "[[KPI matrix comparison of design variants]]"
   - "[[LCA comparison of material and structural options]]"
+auto_trade_offs:
+  - "[[Space for people and nature against storage]]"
 ---
 ![[Pasted image 20261031084803.png]]
 ## Project

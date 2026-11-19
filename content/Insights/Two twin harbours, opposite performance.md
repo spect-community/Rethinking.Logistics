@@ -18,6 +18,7 @@ challenges: []
 metrics:
   - "[[Social interaction index]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

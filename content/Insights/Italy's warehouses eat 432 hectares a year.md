@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Land take]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Further sources
 

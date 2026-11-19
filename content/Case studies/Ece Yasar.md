@@ -46,6 +46,8 @@ auto_strategies:
   - "[[Green and blue surface accounting]]"
   - "[[KPI matrix comparison of design variants]]"
   - "[[LCA comparison of material and structural options]]"
+auto_trade_offs:
+  - "[[Logistics flow against ecology]]"
 ---
 ![[Pasted image 20261031081315.png]]
 ## Project

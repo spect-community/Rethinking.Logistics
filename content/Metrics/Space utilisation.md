@@ -26,6 +26,10 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
+  - "[[Space for people and nature against storage]]"
+  - "[[Upfront cost against running cost]]"
 ---
 
 ## What it measures

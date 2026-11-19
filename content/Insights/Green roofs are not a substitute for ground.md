@@ -21,4 +21,5 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Native species richness]]"
 case_studies: []
+auto_trade_offs: []
 ---

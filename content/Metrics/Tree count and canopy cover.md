@@ -26,6 +26,8 @@ auto_references:
 auto_strategies: []
 auto_tools:
   - "[[Lands Design]]"
+auto_trade_offs:
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

@@ -19,6 +19,7 @@ challenges: []
 metrics:
   - "[[Electricity price]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -23,6 +23,8 @@ metrics:
   - "[[Biodiversity stress from materials]]"
 case_studies:
   - "[[Ece Yasar]]"
+auto_trade_offs:
+  - "[[Green roofs against structure and carbon]]"
 ---
 ## Context
 

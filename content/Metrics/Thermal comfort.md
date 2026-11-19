@@ -31,6 +31,8 @@ auto_tools:
   - "[[Jifto]]"
   - "[[Ladybug]]"
   - "[[Pollination]]"
+auto_trade_offs:
+  - "[[Lightweight and open envelopes against performance]]"
 ---
 
 ## What it measures

@@ -36,6 +36,10 @@ auto_domains:
   - "[[Regenerative Peripheral Park]]"
 auto_insights: []
 auto_strategies: []
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
+  - "[[Logistics flow against ecology]]"
+  - "[[Structure and spans against carbon and cost]]"
 ---
 ![[Pasted image 20261031081120.png]]
 ![[Pasted image 20261031071906.png]]

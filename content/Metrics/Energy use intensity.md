@@ -37,6 +37,11 @@ auto_tools:
   - "[[Honeybee]]"
   - "[[Pollination]]"
   - "[[URBANopt]]"
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
+  - "[[Building up against carbon and energy]]"
+  - "[[Reuse against operational performance]]"
+  - "[[Upfront cost against running cost]]"
 ---
 
 ## What it measures

@@ -34,6 +34,8 @@ auto_strategies:
   - "[[Waste-heat balance to match programmes]]"
 auto_tools:
   - "[[nPro]]"
+auto_trade_offs:
+  - "[[More servers against energy, water and jobs]]"
 ---
 
 ## What it measures

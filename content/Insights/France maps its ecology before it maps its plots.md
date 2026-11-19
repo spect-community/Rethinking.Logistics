@@ -19,4 +19,5 @@ challenges:
 metrics:
   - "[[Ecological connectivity]]"
 case_studies: []
+auto_trade_offs: []
 ---

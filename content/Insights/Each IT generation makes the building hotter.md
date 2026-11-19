@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Power usage effectiveness]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

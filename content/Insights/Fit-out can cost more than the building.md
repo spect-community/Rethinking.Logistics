@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Construction cost]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

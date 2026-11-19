@@ -37,6 +37,9 @@ auto_insights:
   - "[[Reuse can lose on whole-life carbon]]"
 auto_strategies:
   - "[[Waste-heat balance to match programmes]]"
+auto_trade_offs:
+  - "[[Going underground against carbon and cost]]"
+  - "[[Solar energy against greenery]]"
 ---
 ![[Pasted image 20261031082008.png]]
 ## Project

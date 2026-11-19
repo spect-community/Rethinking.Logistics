@@ -23,6 +23,9 @@ auto_tools:
   - "[[Honeybee]]"
   - "[[nPro]]"
   - "[[Pollination]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
+  - "[[Lightweight and open envelopes against performance]]"
 ---
 
 ## What it measures

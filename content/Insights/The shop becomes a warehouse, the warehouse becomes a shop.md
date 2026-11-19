@@ -22,6 +22,7 @@ ambitions:
 metrics: []
 case_studies:
   - "[[Adam Večeřa]]"
+auto_trade_offs: []
 ---
 ## Context
 

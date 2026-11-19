@@ -43,6 +43,9 @@ auto_strategies:
   - "[[Energy estimate for zoning and envelope]]"
   - "[[LCA comparison of material and structural options]]"
   - "[[Parametric massing optimisation]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
+  - "[[Public access against logistics operations]]"
 ---
 ![[Pasted image 20261031083257.png]]
 ## Project

@@ -29,6 +29,9 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
+  - "[[Structure and spans against carbon and cost]]"
 ---
 
 ## What it measures

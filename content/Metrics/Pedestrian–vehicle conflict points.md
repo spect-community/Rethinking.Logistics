@@ -25,6 +25,8 @@ auto_references: []
 auto_strategies:
   - "[[Conflict-point mapping for separated flows]]"
 auto_tools: []
+auto_trade_offs:
+  - "[[Space for people and nature against storage]]"
 ---
 
 ## What it measures

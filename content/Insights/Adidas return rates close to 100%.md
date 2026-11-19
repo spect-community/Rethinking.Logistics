@@ -18,6 +18,7 @@ source: "[[Big Box, Small Footprint – Lessons from Bestseller's Low-Carbon Log
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

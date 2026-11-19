@@ -18,6 +18,7 @@ metrics:
 case_studies: []
 reference_projects:
   - "[[Nexus Logistics Park]]"
+auto_trade_offs: []
 ---
 ## Context
 

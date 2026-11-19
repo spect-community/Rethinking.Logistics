@@ -19,6 +19,7 @@ challenges: []
 metrics:
   - "[[Green-core anchoring of mixed uses]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -17,6 +17,7 @@ source: "[[Net Zero That Holds Up – Whole-Life Carbon, Design Choices, and Del
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

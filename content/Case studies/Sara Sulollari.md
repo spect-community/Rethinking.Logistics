@@ -33,6 +33,10 @@ auto_domains:
 auto_insights: []
 auto_strategies:
   - "[[Wind simulation for sheltered layouts]]"
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
+  - "[[Site qualities against access]]"
+  - "[[Space for people and nature against storage]]"
 ---
 ![[Pasted image 20261009101110.png]]
 ## Project

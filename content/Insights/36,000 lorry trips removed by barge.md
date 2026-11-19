@@ -19,4 +19,5 @@ challenges:
 metrics:
   - "[[Road freight impact]]"
 case_studies: []
+auto_trade_offs: []
 ---

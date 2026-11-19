@@ -34,6 +34,10 @@ auto_insights:
   - "[[Hub placement decided without data]]"
 auto_strategies:
   - "[[Service-radius analysis for hub networks]]"
+auto_trade_offs:
+  - "[[Going underground against carbon and cost]]"
+  - "[[Public access against logistics operations]]"
+  - "[[Space for people and nature against storage]]"
 ---
 ![[Pasted image 20261009095612.png]]
 ## Project

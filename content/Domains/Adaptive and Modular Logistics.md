@@ -151,12 +151,12 @@ For comparison, a lecture example of renovating rather than rebuilding an admini
 
 ## Trade-offs
 
-- **Speed against cost.** Robotic partitions reconfigure in minutes and need less labour, but cost more to operate and have a higher environmental impact than manual ones, so the slower manual system was chosen ([[Elsa Hauksdottir]]).
-- **Light and movable against warm.** Lightweight relocatable blocks have low thermal insulation, which limits climate-sensitive goods; the truck emissions of moving them are not yet counted ([[Amy Naprstek]]).
-- **Open against closed.** A façade open for daylight and public access conflicts with the compact thermal envelope logistics needs, so the façade switches between the two modes ([[Elsa Hauksdottir]]).
-- **Span against structure.** Building over infrastructure roughly doubles the cost to build in exchange for greenery, walkability and noise reduction ([[Julia Kopác]]); experts add that every extra metre of span means bigger beams, so flexibility has to be balanced against material ([[The biggest possible hall reflex is a carbon cost]]).
-- **Reuse against performance.** Keeping an existing building saves upfront carbon, but if it cannot reach modern operational performance, whole-life carbon can end up higher ([[Reuse can lose on whole-life carbon]]); the reused port building has no energy study yet ([[Sara Sulollari]]).
-- **Tailored against generic.** A building tailored to one heavily automated tenant may not be usable afterwards; developers aim instead at what most of the market needs ([[Tailoring is a one-way door]], [[80% of the market need, not 100% of one tenant]]).
+- **Speed against cost.** Robotic partitions reconfigure in minutes and need less labour, but cost more to operate and have a higher environmental impact than manual ones, so the slower manual system was chosen ([[Elsa Hauksdottir]]). See [[Automation against energy and cost]].
+- **Light and movable against warm.** Lightweight relocatable blocks have low thermal insulation, which limits climate-sensitive goods; the truck emissions of moving them are not yet counted ([[Amy Naprstek]]). See [[Lightweight and open envelopes against performance]].
+- **Open against closed.** A façade open for daylight and public access conflicts with the compact thermal envelope logistics needs, so the façade switches between the two modes ([[Elsa Hauksdottir]]). See [[Lightweight and open envelopes against performance]].
+- **Span against structure.** Building over infrastructure roughly doubles the cost to build in exchange for greenery, walkability and noise reduction ([[Julia Kopác]]); experts add that every extra metre of span means bigger beams, so flexibility has to be balanced against material ([[The biggest possible hall reflex is a carbon cost]]). See [[Structure and spans against carbon and cost]].
+- **Reuse against performance.** Keeping an existing building saves upfront carbon, but if it cannot reach modern operational performance, whole-life carbon can end up higher ([[Reuse can lose on whole-life carbon]]); the reused port building has no energy study yet ([[Sara Sulollari]]). See [[Reuse against operational performance]].
+- **Tailored against generic.** A building tailored to one heavily automated tenant may not be usable afterwards; developers aim instead at what most of the market needs ([[Tailoring is a one-way door]], [[80% of the market need, not 100% of one tenant]]). See [[Automation against energy and cost]].
 
 ## Evidence gaps
 

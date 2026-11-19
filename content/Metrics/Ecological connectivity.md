@@ -27,6 +27,8 @@ auto_references:
   - "[[Bestseller Logistics Center West]]"
 auto_strategies: []
 auto_tools: []
+auto_trade_offs:
+  - "[[Logistics flow against ecology]]"
 ---
 
 ## What it measures

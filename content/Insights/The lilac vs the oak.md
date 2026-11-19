@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Native species richness]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

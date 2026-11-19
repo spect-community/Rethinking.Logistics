@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Worker well-being]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -20,6 +20,7 @@ challenges: []
 metrics:
   - "[[Water reuse share]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

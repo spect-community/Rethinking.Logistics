@@ -15,6 +15,7 @@ source: "[[From Plot to Place – Designing Thriving and Resilient Neighborhoods
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

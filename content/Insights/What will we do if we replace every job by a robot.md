@@ -18,6 +18,7 @@ challenges:
 metrics:
   - "[[Jobs created]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -31,6 +31,8 @@ auto_references:
   - "[[Chapelle International]]"
 auto_strategies: []
 auto_tools: []
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
 ---
 
 ## What it measures

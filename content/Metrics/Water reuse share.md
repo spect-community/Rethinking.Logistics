@@ -24,6 +24,7 @@ auto_references:
   - "[[Nexus Logistics Park]]"
 auto_strategies: []
 auto_tools: []
+auto_trade_offs: []
 ---
 
 ## What it measures

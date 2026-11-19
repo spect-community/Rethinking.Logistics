@@ -20,6 +20,7 @@ metrics:
   - "[[Ecological connectivity]]"
 case_studies:
   - "[[Ece Yasar]]"
+auto_trade_offs: []
 ---
 ## Context
 

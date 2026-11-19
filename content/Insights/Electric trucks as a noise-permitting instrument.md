@@ -21,6 +21,7 @@ challenges:
 metrics:
   - "[[Noise level]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

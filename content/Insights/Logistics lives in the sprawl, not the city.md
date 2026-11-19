@@ -20,6 +20,7 @@ ambitions:
 metrics: []
 case_studies:
   - "[[Ilinca Maria Baciu]]"
+auto_trade_offs: []
 ---
 ## Context
 

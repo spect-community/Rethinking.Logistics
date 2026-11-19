@@ -22,6 +22,7 @@ metrics:
   - "[[Green area ratio]]"
   - "[[Land take]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -23,6 +23,7 @@ metrics:
   - "[[Waste heat recovery]]"
   - "[[Rooftop PV generation]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

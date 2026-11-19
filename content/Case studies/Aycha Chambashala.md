@@ -32,6 +32,8 @@ auto_domains:
 auto_insights: []
 auto_strategies:
   - "[[KPI matrix comparison of design variants]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
 ---
 ![[Pasted image 20261031080030.png]]
 ## Project

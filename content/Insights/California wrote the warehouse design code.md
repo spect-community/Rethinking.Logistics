@@ -20,4 +20,5 @@ metrics:
   - "[[Distance to housing]]"
   - "[[Visual impact on neighbours]]"
 case_studies: []
+auto_trade_offs: []
 ---

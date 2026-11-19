@@ -19,6 +19,7 @@ metrics:
   - "[[Thermal comfort]]"
   - "[[Daylight autonomy]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -20,4 +20,5 @@ metrics:
   - "[[Structural utilisation]]"
   - "[[Rooftop PV generation]]"
 case_studies: []
+auto_trade_offs: []
 ---

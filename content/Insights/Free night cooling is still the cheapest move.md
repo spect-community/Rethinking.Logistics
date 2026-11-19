@@ -17,6 +17,7 @@ challenges:
 metrics:
   - "[[Natural ventilation potential]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

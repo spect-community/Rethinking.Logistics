@@ -38,6 +38,9 @@ auto_strategies:
   - "[[Energy estimate for zoning and envelope]]"
   - "[[Green and blue surface accounting]]"
   - "[[Reuse versus new-build carbon comparison]]"
+auto_trade_offs:
+  - "[[Reuse against operational performance]]"
+  - "[[Space for people and nature against storage]]"
 ---
 ![[Pasted image 20261031091124.png]]
 ## Project

@@ -22,6 +22,8 @@ auto_tools:
   - "[[Cyclops]]"
   - "[[Jifto]]"
   - "[[Ladybug]]"
+auto_trade_offs:
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

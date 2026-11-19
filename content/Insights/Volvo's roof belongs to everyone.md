@@ -18,6 +18,7 @@ challenges:
   - "[[Closed sites that give little back to the city]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

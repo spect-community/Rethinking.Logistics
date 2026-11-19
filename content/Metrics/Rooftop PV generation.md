@@ -37,6 +37,8 @@ auto_tools:
   - "[[Honeybee]]"
   - "[[Ladybug]]"
   - "[[URBANopt]]"
+auto_trade_offs:
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

@@ -22,6 +22,7 @@ metrics:
   - "[[Publicly accessible area]]"
   - "[[Green area ratio]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

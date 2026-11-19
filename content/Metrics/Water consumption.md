@@ -21,6 +21,8 @@ auto_insights:
 auto_references: []
 auto_strategies: []
 auto_tools: []
+auto_trade_offs:
+  - "[[More servers against energy, water and jobs]]"
 ---
 
 ## What it measures

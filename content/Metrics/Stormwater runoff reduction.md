@@ -24,6 +24,7 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Rainflow-Sim]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

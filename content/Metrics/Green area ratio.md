@@ -41,6 +41,8 @@ auto_strategies:
 auto_tools:
   - "[[Grasshopper]]"
   - "[[Lands Design]]"
+auto_trade_offs:
+  - "[[Space for people and nature against storage]]"
 ---
 
 ## What it measures

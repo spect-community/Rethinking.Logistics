@@ -16,6 +16,7 @@ source: "[[Cloud in the city – data centres, urban development and implication
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

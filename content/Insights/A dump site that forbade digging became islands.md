@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Stormwater retention volume]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

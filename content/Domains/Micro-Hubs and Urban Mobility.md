@@ -153,11 +153,11 @@ For comparison, experts report that urban consolidation centres can cut freight 
 
 ## Trade-offs
 
-- **Clean vehicles against capacity.** Cargo bikes lower emissions and traffic but reduce throughput at peak demand ([[Khrystyna Verbitska]]).
-- **Public programme against operations.** Mixing public uses with dispatch creates congestion and noise at peaks, so the developed scheme separates them by floor ([[Khrystyna Verbitska]]); public functions at a hub may also bring noise and foot traffic to residents ([[Eva Kažukolovaitė]]).
-- **Hidden against cheap.** Putting hubs underground in the historic centre integrates them better but raises embodied carbon and cost; the panelák variant is cheaper and expects a higher solar share, 40–70% against 20–40% ([[Roshni Basu]]).
-- **Height against carbon.** A vertical drone cross-dock saves land but raises embodied carbon, CapEx and operational energy; the drone network trades high upfront cost for lower running cost ([[Johannes Berger]]).
-- **Fewer docks against tolerance.** Flow-through bays need conveyors and more automation, which use energy, and leave less room for imprecise manoeuvring ([[Hynek Hrabík]]).
+- **Clean vehicles against capacity.** Cargo bikes lower emissions and traffic but reduce throughput at peak demand ([[Khrystyna Verbitska]]). See [[Logistics capacity against footprint and emissions]].
+- **Public programme against operations.** Mixing public uses with dispatch creates congestion and noise at peaks, so the developed scheme separates them by floor ([[Khrystyna Verbitska]]); public functions at a hub may also bring noise and foot traffic to residents ([[Eva Kažukolovaitė]]). See [[Public access against logistics operations]].
+- **Hidden against cheap.** Putting hubs underground in the historic centre integrates them better but raises embodied carbon and cost; the panelák variant is cheaper and expects a higher solar share, 40–70% against 20–40% ([[Roshni Basu]]). See [[Going underground against carbon and cost]].
+- **Height against carbon.** A vertical drone cross-dock saves land but raises embodied carbon, CapEx and operational energy; the drone network trades high upfront cost for lower running cost ([[Johannes Berger]]). See [[Building up against carbon and energy]].
+- **Fewer docks against tolerance.** Flow-through bays need conveyors and more automation, which use energy, and leave less room for imprecise manoeuvring ([[Hynek Hrabík]]). See [[Logistics capacity against footprint and emissions]].
 
 ## Evidence gaps
 

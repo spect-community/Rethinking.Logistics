@@ -60,6 +60,10 @@ auto_insights:
 auto_strategies:
   - "[[Green and blue surface accounting]]"
   - "[[Parametric massing optimisation]]"
+auto_trade_offs:
+  - "[[Going underground against carbon and cost]]"
+  - "[[Green roofs against structure and carbon]]"
+  - "[[Upfront cost against running cost]]"
 ---
 ![[Pasted image 20261009101951.png]]
 ## Project

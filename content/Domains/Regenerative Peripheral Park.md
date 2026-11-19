@@ -192,11 +192,11 @@ For comparison, the built Bestseller campus in Lelystad measured a biodiversity 
 
 ## Trade-offs
 
-- **Green weight against carbon.** Green roofs and façades add structural weight and cost ([[Adam Večeřa]]); experts add that on a single-storey large-span roof this can massively increase the structure ([[Green roofs are a biodiversity investment, not a carbon one]], [[Green roofs vs LCA — an admitted conflict]]).
-- **Shade against sun.** More trees and shaded public space lower direct solar exposure of the site from 92% to 77% ([[Marek Nový]]), with possible effects on daylight and PV.
-- **Process against corridor.** A linear processing flow blocks a bio-corridor through the plot, so ecology moves to the perimeter; hazardous storage cannot carry a green roof ([[Adéla Berkovitz]]).
-- **Compact massing against views.** Two large blocks worked operationally but scored low on residents' views and environmental performance ([[Aycha Chambashala]]).
-- **Going vertical against digging deep.** Stacking frees ground but needs storage and parking 24 m below ground, against the project's own aim to avoid deep foundations ([[Adam Večeřa]]).
+- **Green weight against carbon.** Green roofs and façades add structural weight and cost ([[Adam Večeřa]]); experts add that on a single-storey large-span roof this can massively increase the structure ([[Green roofs are a biodiversity investment, not a carbon one]], [[Green roofs vs LCA — an admitted conflict]]). See [[Green roofs against structure and carbon]].
+- **Shade against sun.** More trees and shaded public space lower direct solar exposure of the site from 92% to 77% ([[Marek Nový]]), with possible effects on daylight and PV. See [[Solar energy against greenery]].
+- **Process against corridor.** A linear processing flow blocks a bio-corridor through the plot, so ecology moves to the perimeter; hazardous storage cannot carry a green roof ([[Adéla Berkovitz]]). See [[Logistics flow against ecology]].
+- **Compact massing against views.** Two large blocks worked operationally but scored low on residents' views and environmental performance ([[Aycha Chambashala]]). See [[Compact massing against human scale]].
+- **Going vertical against digging deep.** Stacking frees ground but needs storage and parking 24 m below ground, against the project's own aim to avoid deep foundations ([[Adam Večeřa]]). See [[Going underground against carbon and cost]].
 
 ## Evidence gaps
 

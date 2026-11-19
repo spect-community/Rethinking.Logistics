@@ -19,6 +19,7 @@ metrics:
   - "[[Waste heat recovery]]"
   - "[[Heat recovery radius]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

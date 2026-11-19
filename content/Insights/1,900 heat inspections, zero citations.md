@@ -19,4 +19,5 @@ challenges:
 metrics:
   - "[[Thermal comfort]]"
 case_studies: []
+auto_trade_offs: []
 ---

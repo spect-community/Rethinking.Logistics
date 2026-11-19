@@ -26,6 +26,7 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Rhino.Ecologic]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

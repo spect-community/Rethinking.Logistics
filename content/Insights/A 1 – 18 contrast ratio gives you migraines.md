@@ -17,6 +17,7 @@ challenges:
   - "[[Deep, dark and noisy workplaces]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

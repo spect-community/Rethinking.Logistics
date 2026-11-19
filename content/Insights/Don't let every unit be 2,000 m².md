@@ -21,6 +21,7 @@ metrics:
   - "[[Mixed-use ratio]]"
 case_studies:
   - "[[Marek Nový]]"
+auto_trade_offs: []
 ---
 ## Context
 

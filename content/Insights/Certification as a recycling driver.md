@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Design for disassembly score]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

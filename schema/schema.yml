@@ -72,6 +72,13 @@ types:
     # method: the tool or the manual method, as reported by the students
     fields: [summary, method, status, aliases]
 
+  trade-off:
+    folder: Trade-offs
+    label: Trade-off
+    plural: Trade-offs
+    description: A recurring conflict between two design aims or metrics, found across the student projects, with how the projects handled it.
+    fields: [summary, status, aliases]
+
   source:
     folder: Sources
     label: Source
@@ -285,6 +292,27 @@ relations:
     label: Tools
     auto_label: Strategies (evidence workflows)
     verb: uses
+  - from: trade-off
+    field: case_studies
+    to: case-study
+    auto: auto_trade_offs
+    label: Case studies
+    auto_label: Trade-offs
+    verb: is found in
+  - from: trade-off
+    field: metrics
+    to: metric
+    auto: auto_trade_offs
+    label: Metrics in conflict
+    auto_label: Trade-offs
+    verb: weighs
+  - from: trade-off
+    field: insights
+    to: insight
+    auto: auto_trade_offs
+    label: Expert insights
+    auto_label: Trade-offs
+    verb: is backed by
 # Derived relations, also written by the sync script.
 # `path` is a chain of steps; each step is an auto_ field or a field people type
 # (e.g. case_studies). `paths` lists several chains whose results are combined;
@@ -332,3 +360,12 @@ derived:
     auto: auto_strategies
     label: Strategies (through its projects)
     path: [auto_case_studies, auto_strategies]
+  # the domains and ambitions a trade-off occurs in, through its projects
+  - on: trade-off
+    auto: auto_domains
+    label: Domains (through its projects)
+    path: [case_studies, auto_domains]
+  - on: trade-off
+    auto: auto_ambitions
+    label: Ambitions (through its projects)
+    path: [case_studies, ambitions]

@@ -21,6 +21,8 @@ metrics:
   - "[[Waste heat recovery]]"
 case_studies:
   - "[[Julia Godard Lombard]]"
+auto_trade_offs:
+  - "[[More servers against energy, water and jobs]]"
 ---
 ## Context
 

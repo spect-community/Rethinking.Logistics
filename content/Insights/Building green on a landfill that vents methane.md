@@ -17,6 +17,7 @@ source: "[[The Henning Larsen Playbook for Biobased Buildings]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

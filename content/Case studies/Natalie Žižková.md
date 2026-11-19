@@ -41,6 +41,8 @@ auto_insights: []
 auto_strategies:
   - "[[Conflict-point mapping for separated flows]]"
   - "[[Parametric massing optimisation]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
 ---
 ![[Pasted image 20261031084932.png]]
 ![[Pasted image 20261031085016.png]]

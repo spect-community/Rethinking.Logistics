@@ -38,6 +38,8 @@ auto_insights:
   - "[[Location is king, and it moves with the market]]"
 auto_strategies:
   - "[[KPI matrix comparison of design variants]]"
+auto_trade_offs:
+  - "[[Solar energy against greenery]]"
 ---
 ![[Pasted image 20261031083733.png]]
 ## Project

@@ -16,6 +16,7 @@ source: "[[Criteria for a Green Building – Beyond energy performance LEED - BR
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

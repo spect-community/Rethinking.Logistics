@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Urban heat island effect]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

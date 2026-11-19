@@ -20,6 +20,7 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Tree count and canopy cover]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

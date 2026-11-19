@@ -26,6 +26,8 @@ auto_references:
   - "[[SEGRO V-Park Grand Union]]"
 auto_strategies: []
 auto_tools: []
+auto_trade_offs:
+  - "[[More servers against energy, water and jobs]]"
 ---
 
 ## What it measures

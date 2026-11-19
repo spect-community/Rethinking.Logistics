@@ -32,6 +32,9 @@ auto_insights:
 auto_references: []
 auto_strategies: []
 auto_tools: []
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
+  - "[[Lightweight and open envelopes against performance]]"
 ---
 
 ## What it measures

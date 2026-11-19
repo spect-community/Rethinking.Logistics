@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Heating energy demand]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

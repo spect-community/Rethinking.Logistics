@@ -20,4 +20,5 @@ metrics: []
 case_studies: []
 reference_projects:
   - "[[Ricola Kräuterzentrum]]"
+auto_trade_offs: []
 ---

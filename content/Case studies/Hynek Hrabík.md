@@ -43,6 +43,10 @@ auto_insights:
   - "[[Pavement is the unsolved carbon problem]]"
 auto_strategies:
   - "[[Truck flow simulation and swept-path sizing]]"
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
+  - "[[Logistics capacity against footprint and emissions]]"
+  - "[[Upfront cost against running cost]]"
 ---
 ![[Pasted image 20261009102125.png]]
 ## Project

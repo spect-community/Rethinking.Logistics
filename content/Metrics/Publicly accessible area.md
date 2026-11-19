@@ -40,6 +40,9 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Grasshopper]]"
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
+  - "[[Space for people and nature against storage]]"
 ---
 
 ## What it measures

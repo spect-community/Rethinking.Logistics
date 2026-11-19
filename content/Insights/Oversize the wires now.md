@@ -19,6 +19,7 @@ challenges:
   - "[[Buildings that change slower than logistics]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

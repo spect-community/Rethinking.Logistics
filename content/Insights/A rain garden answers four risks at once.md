@@ -20,6 +20,7 @@ challenges:
   - "[[Wind, heat and missing shade around large buildings]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

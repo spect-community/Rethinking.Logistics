@@ -22,6 +22,7 @@ metrics:
   - "[[Adaptability]]"
 case_studies:
   - "[[Elsa Hauksdottir]]"
+auto_trade_offs: []
 ---
 ## Context
 

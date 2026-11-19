@@ -21,6 +21,7 @@ challenges:
 metrics:
   - "[[Carbon sequestration by planting]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

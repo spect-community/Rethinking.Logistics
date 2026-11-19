@@ -21,6 +21,7 @@ challenges:
 metrics:
   - "[[Impervious surface ratio]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

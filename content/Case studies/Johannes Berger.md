@@ -34,6 +34,9 @@ auto_domains:
 auto_insights:
   - "[[Going above the traffic, not through it]]"
 auto_strategies: []
+auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
+  - "[[Upfront cost against running cost]]"
 ---
 ![[Pasted image 20261009102848.png]]
 ## Project

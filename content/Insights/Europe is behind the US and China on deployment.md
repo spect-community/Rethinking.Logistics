@@ -18,6 +18,7 @@ ambitions:
   - "[[Drone and autonomous delivery]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

@@ -32,6 +32,9 @@ auto_strategies:
   - "[[Green and blue surface accounting]]"
 auto_tools:
   - "[[Grasshopper]]"
+auto_trade_offs:
+  - "[[Logistics capacity against footprint and emissions]]"
+  - "[[Logistics flow against ecology]]"
 ---
 
 ## What it measures

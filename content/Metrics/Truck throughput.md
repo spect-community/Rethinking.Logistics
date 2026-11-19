@@ -20,6 +20,9 @@ auto_references: []
 auto_strategies:
   - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools: []
+auto_trade_offs:
+  - "[[Logistics capacity against footprint and emissions]]"
+  - "[[Logistics flow against ecology]]"
 ---
 
 ## What it measures

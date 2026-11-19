@@ -27,6 +27,7 @@ auto_strategies:
 auto_tools:
   - "[[Geoportal Praha]]"
   - "[[Grasshopper]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

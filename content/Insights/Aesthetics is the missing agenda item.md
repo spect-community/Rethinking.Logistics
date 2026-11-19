@@ -22,6 +22,7 @@ ambitions:
   - "[[Good neighbour]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

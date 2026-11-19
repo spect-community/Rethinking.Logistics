@@ -21,6 +21,8 @@ metrics:
   - "[[Green roof coverage]]"
   - "[[Structural utilisation]]"
 case_studies: []
+auto_trade_offs:
+  - "[[Green roofs against structure and carbon]]"
 ---
 ## Context
 

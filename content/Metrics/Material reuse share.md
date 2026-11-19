@@ -25,6 +25,7 @@ auto_insights:
 auto_references: []
 auto_strategies: []
 auto_tools: []
+auto_trade_offs: []
 ---
 
 ## What it measures

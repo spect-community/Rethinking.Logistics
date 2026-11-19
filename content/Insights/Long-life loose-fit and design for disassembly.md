@@ -20,6 +20,7 @@ metrics:
   - "[[Design for disassembly score]]"
 case_studies:
   - "[[Amy Naprstek]]"
+auto_trade_offs: []
 ---
 ## Context
 

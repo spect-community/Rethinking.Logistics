@@ -36,6 +36,9 @@ auto_insights:
 auto_strategies:
   - "[[Green and blue surface accounting]]"
   - "[[KPI matrix comparison of design variants]]"
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
+  - "[[Structure and spans against carbon and cost]]"
 ---
 ![[Pasted image 20261009101237.png]]
 ## Project

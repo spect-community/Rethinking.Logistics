@@ -39,6 +39,10 @@ auto_insights:
   - "[[Grey space – buildings sized for Black Friday]]"
 auto_strategies:
   - "[[Energy estimate for zoning and envelope]]"
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
+  - "[[Green roofs against structure and carbon]]"
+  - "[[Lightweight and open envelopes against performance]]"
 ---
 ![[Pasted image 20261031080333.png]]
 ## Project

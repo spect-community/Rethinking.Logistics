@@ -69,6 +69,12 @@ auto_tools:
   - "[[CO2mpare]]"
   - "[[LearnCarbon]]"
   - "[[One Click LCA]]"
+auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
+  - "[[Compact massing against human scale]]"
+  - "[[Going underground against carbon and cost]]"
+  - "[[Green roofs against structure and carbon]]"
+  - "[[Structure and spans against carbon and cost]]"
 ---
 
 ## What it measures

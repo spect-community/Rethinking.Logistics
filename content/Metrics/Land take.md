@@ -40,6 +40,8 @@ auto_strategies:
   - "[[Parametric massing optimisation]]"
 auto_tools:
   - "[[Grasshopper]]"
+auto_trade_offs:
+  - "[[Building up against carbon and energy]]"
 ---
 
 ## What it measures

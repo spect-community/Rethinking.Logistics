@@ -15,6 +15,7 @@ source: "[[Nature positive by design – Creating lasting impact by designing fo
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

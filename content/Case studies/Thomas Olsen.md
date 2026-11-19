@@ -38,6 +38,9 @@ auto_insights:
   - "[[Renovating an office saved about 80%]]"
 auto_strategies:
   - "[[Reuse versus new-build carbon comparison]]"
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
+  - "[[Solar energy against greenery]]"
 ---
 ![[Pasted image 20261031091033.png]]
 ## Project

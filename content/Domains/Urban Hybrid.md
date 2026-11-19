@@ -161,11 +161,11 @@ For comparison, a built precedent of stacking: SEGRO V-Park Grand Union in Londo
 
 ## Trade-offs
 
-- **Public space against storage.** A campus layout gave residents more public space but lowered storage and was inefficient for trucks ([[Sara Gani]]); more green space on the property means less storage ([[Vladi Kostecki]]).
-- **Openness against operations.** Opening the site raises social value but may add maintenance and conflicts with logistics ([[Thomas Olsen]]); public and green layers lower logistics efficiency and raise construction cost ([[Ilinca Maria Baciu]]).
-- **Daylight against racking.** More windows improve workers' daylight but take wall space from shelving ([[Sara Gani]]).
-- **Upfront against running carbon.** An upgraded envelope adds cost and embodied carbon to the reuse, but lowers operational energy ([[Vladi Kostecki]]).
-- **Housing next door.** Experts consider housing and 24/7 logistics hard to combine in one block, while offices and retail coexist well ([[Residential and logistics cannot share a block; offices and retail can]]); how much truck noise still reaches the neighbours remains open ([[Sara Gani]]).
+- **Public space against storage.** A campus layout gave residents more public space but lowered storage and was inefficient for trucks ([[Sara Gani]]); more green space on the property means less storage ([[Vladi Kostecki]]). See [[Space for people and nature against storage]].
+- **Openness against operations.** Opening the site raises social value but may add maintenance and conflicts with logistics ([[Thomas Olsen]]); public and green layers lower logistics efficiency and raise construction cost ([[Ilinca Maria Baciu]]). See [[Public access against logistics operations]].
+- **Daylight against racking.** More windows improve workers' daylight but take wall space from shelving ([[Sara Gani]]). See [[Space for people and nature against storage]].
+- **Upfront against running carbon.** An upgraded envelope adds cost and embodied carbon to the reuse, but lowers operational energy ([[Vladi Kostecki]]). See [[Reuse against operational performance]].
+- **Housing next door.** Experts consider housing and 24/7 logistics hard to combine in one block, while offices and retail coexist well ([[Residential and logistics cannot share a block; offices and retail can]]); how much truck noise still reaches the neighbours remains open ([[Sara Gani]]). See [[Public access against logistics operations]].
 
 ## Evidence gaps
 

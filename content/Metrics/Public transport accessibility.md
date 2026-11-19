@@ -23,6 +23,7 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Geoportal Praha]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

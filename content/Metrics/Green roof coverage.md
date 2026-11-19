@@ -31,6 +31,10 @@ auto_strategies:
   - "[[Green and blue surface accounting]]"
 auto_tools:
   - "[[Grasshopper]]"
+auto_trade_offs:
+  - "[[Green roofs against structure and carbon]]"
+  - "[[Logistics flow against ecology]]"
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

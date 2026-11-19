@@ -41,6 +41,9 @@ auto_insights:
   - "[[A High Line for a whole industrial estate]]"
   - "[[Logistics lives in the sprawl, not the city]]"
 auto_strategies: []
+auto_trade_offs:
+  - "[[Logistics flow against ecology]]"
+  - "[[Public access against logistics operations]]"
 ---
 ![[Pasted image 20261031081638.png]]
 ## Project

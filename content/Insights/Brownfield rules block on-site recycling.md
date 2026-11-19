@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Material reuse share]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

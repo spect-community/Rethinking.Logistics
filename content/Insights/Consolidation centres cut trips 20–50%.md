@@ -22,6 +22,7 @@ metrics: []
 case_studies:
   - "[[Thomas Olsen]]"
   - "[[Eva Kažukolovaitė]]"
+auto_trade_offs: []
 ---
 ## Context
 

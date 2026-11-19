@@ -29,6 +29,9 @@ auto_strategies: []
 auto_tools:
   - "[[Jifto]]"
   - "[[Ladybug]]"
+auto_trade_offs:
+  - "[[Compact massing against human scale]]"
+  - "[[Going underground against carbon and cost]]"
 ---
 
 ## What it measures

@@ -128,11 +128,11 @@ The heat figures are hand estimates; even the phase 1 data centre in Prague prod
 
 ## Trade-offs
 
-- **Roof for power against roof for nature.** A fully PV-covered roof raises renewable generation but leaves no room for a green roof, so green and blue area must come from the ground ([[Katrin Rybinskiy]]); maximising PV also adds structural load ([[Julia Godard Lombard]]).
-- **More servers against more neighbours.** A higher data-centre share raises recoverable heat and the heat-recovery radius, but also energy and water use, and it pushes out the sauna and dry-food production that created most of the jobs ([[Julia Godard Lombard]]).
-- **Reuse against efficiency.** Both urban projects reuse existing buildings to save carbon; experts caution that a less efficient data centre likely loses over its life, and that its embodied carbon sits mostly in the building services, not the shell ([[Don't force the wrong second life on a building]], [[In a data centre the embodied carbon is in the pipes]]).
-- **Heat recovery does not remove cooling.** Data centres must run through the hottest summer day, so full chiller capacity is needed regardless of how much heat is reused ([[Data centres are giant heaters]]).
-- **Wind against access.** The windiest sites for passive cooling were protected or hard to reach for heavy construction vehicles ([[Robin Jesenský]]).
+- **Roof for power against roof for nature.** A fully PV-covered roof raises renewable generation but leaves no room for a green roof, so green and blue area must come from the ground ([[Katrin Rybinskiy]]); maximising PV also adds structural load ([[Julia Godard Lombard]]). See [[Solar energy against greenery]].
+- **More servers against more neighbours.** A higher data-centre share raises recoverable heat and the heat-recovery radius, but also energy and water use, and it pushes out the sauna and dry-food production that created most of the jobs ([[Julia Godard Lombard]]). See [[More servers against energy, water and jobs]].
+- **Reuse against efficiency.** Both urban projects reuse existing buildings to save carbon; experts caution that a less efficient data centre likely loses over its life, and that its embodied carbon sits mostly in the building services, not the shell ([[Don't force the wrong second life on a building]], [[In a data centre the embodied carbon is in the pipes]]). See [[Reuse against operational performance]].
+- **Heat recovery does not remove cooling.** Data centres must run through the hottest summer day, so full chiller capacity is needed regardless of how much heat is reused ([[Data centres are giant heaters]]). See [[More servers against energy, water and jobs]].
+- **Wind against access.** The windiest sites for passive cooling were protected or hard to reach for heavy construction vehicles ([[Robin Jesenský]]). See [[Site qualities against access]].
 
 ## Evidence gaps
 

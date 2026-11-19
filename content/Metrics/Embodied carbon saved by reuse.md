@@ -27,6 +27,8 @@ auto_strategies:
   - "[[Reuse versus new-build carbon comparison]]"
 auto_tools:
   - "[[One Click LCA]]"
+auto_trade_offs:
+  - "[[Reuse against operational performance]]"
 ---
 
 ## What it measures

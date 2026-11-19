@@ -18,6 +18,7 @@ challenges:
   - "[[Land take of logistics buildings]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Further sources
 

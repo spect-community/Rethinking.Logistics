@@ -21,6 +21,7 @@ metrics:
   - "[[Thermal comfort]]"
   - "[[Tree count and canopy cover]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

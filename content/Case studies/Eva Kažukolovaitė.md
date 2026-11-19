@@ -37,6 +37,9 @@ auto_insights:
   - "[[Consolidation centres cut trips 20–50%]]"
 auto_strategies:
   - "[[Conflict-point mapping for separated flows]]"
+auto_trade_offs:
+  - "[[Public access against logistics operations]]"
+  - "[[Upfront cost against running cost]]"
 ---
 ![[Pasted image 20261009100946.png]]
 ## Project

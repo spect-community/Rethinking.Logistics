@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Space utilisation]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Further sources
 

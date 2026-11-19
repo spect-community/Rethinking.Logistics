@@ -18,6 +18,7 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[Butterfly]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

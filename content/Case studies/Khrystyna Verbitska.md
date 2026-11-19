@@ -36,6 +36,9 @@ auto_insights:
 auto_strategies:
   - "[[Green and blue surface accounting]]"
   - "[[Reuse versus new-build carbon comparison]]"
+auto_trade_offs:
+  - "[[Logistics capacity against footprint and emissions]]"
+  - "[[Public access against logistics operations]]"
 ---
 ![[Pasted image 20261031083126.png]]
 ## Project

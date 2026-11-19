@@ -17,6 +17,7 @@ challenges: []
 metrics:
   - "[[Energy use intensity]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

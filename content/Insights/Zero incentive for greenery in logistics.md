@@ -19,6 +19,7 @@ challenges:
   - "[[Habitat loss and cut ecological corridors]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

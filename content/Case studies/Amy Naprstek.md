@@ -34,6 +34,8 @@ auto_insights:
   - "[[Lease length is the hidden design brief]]"
   - "[[Long-life loose-fit and design for disassembly]]"
 auto_strategies: []
+auto_trade_offs:
+  - "[[Lightweight and open envelopes against performance]]"
 ---
 ![[Pasted image 20261031072137.png]]
 ## Project

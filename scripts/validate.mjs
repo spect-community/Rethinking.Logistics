@@ -40,9 +40,9 @@ const counts = Object.fromEntries(Object.keys(schema.types).map((t) => [t, notes
 console.log(`Rethinking.Logistics — ${Object.entries(counts).map(([k, v]) => `${v} ${k}`).join(" · ")}`)
 if (held) console.log(`Not published (draft: true): ${held}`)
 // Numbers on domain and strategy pages must trace to a linked note (warning only)
-if (notes.some((n) => n.type === "domain" || n.type === "strategy")) {
+if (notes.some((n) => n.type === "domain" || n.type === "strategy" || n.type === "trade-off")) {
   const r = spawnSync(process.execPath, [new URL("./check-domain-numbers.mjs", import.meta.url).pathname.replace(/^\/(\w:)/, "$1")], { encoding: "utf8" })
-  for (const l of r.stdout.split("\n")) if (/^(Domains|Strategies)\//.test(l)) warnings.push(l)
+  for (const l of r.stdout.split("\n")) if (/^(Domains|Strategies|Trade-offs)\//.test(l)) warnings.push(l)
 }
 
 if (warnings.length) {

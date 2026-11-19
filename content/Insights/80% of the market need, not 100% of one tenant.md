@@ -19,6 +19,8 @@ challenges:
 metrics:
   - "[[Adaptability]]"
 case_studies: []
+auto_trade_offs:
+  - "[[Automation against energy and cost]]"
 ---
 ## Context
 

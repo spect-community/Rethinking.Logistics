@@ -17,6 +17,7 @@ source: "[[Logistics Development in the concept of certification and LCA]]"
 challenges: []
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

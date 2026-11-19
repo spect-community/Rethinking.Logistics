@@ -18,6 +18,7 @@ challenges: []
 metrics:
   - "[[Structural utilisation]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

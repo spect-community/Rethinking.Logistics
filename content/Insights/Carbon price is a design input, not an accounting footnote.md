@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[CapEx–OpEx ratio]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

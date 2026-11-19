@@ -25,6 +25,8 @@ auto_references:
 auto_strategies:
   - "[[Green and blue surface accounting]]"
 auto_tools: []
+auto_trade_offs:
+  - "[[Solar energy against greenery]]"
 ---
 
 ## What it measures

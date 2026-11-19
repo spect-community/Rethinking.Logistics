@@ -31,6 +31,10 @@ auto_insights:
   - "[[Liquid cooling may quietly defuse the water fight]]"
 auto_strategies:
   - "[[Wind simulation for sheltered layouts]]"
+auto_trade_offs:
+  - "[[Logistics flow against ecology]]"
+  - "[[Site qualities against access]]"
+  - "[[Structure and spans against carbon and cost]]"
 ---
 ![[Pasted image 20261031090511.png]]
 ## Project

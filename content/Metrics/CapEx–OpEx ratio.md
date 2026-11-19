@@ -23,6 +23,8 @@ auto_references: []
 auto_strategies: []
 auto_tools:
   - "[[One Click LCA]]"
+auto_trade_offs:
+  - "[[Upfront cost against running cost]]"
 ---
 
 ## What it measures

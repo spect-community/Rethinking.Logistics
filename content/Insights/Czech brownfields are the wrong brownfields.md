@@ -19,6 +19,7 @@ challenges:
   - "[[Embodied carbon of new and demolished warehouses]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

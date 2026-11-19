@@ -20,6 +20,7 @@ challenges:
 metrics:
   - "[[Mixed-use ratio]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

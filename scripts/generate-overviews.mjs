@@ -140,10 +140,15 @@ ${table(["Reference project", "Developer", "Location", "Year", "Stage", "Typolog
 
 // ── Trade-offs ───────────────────────────────────────────────────────────────
 {
+  const tradeOffs = ofType(kb, "trade-off").sort((a, b) => linked(b, "case_studies").length - linked(a, "case_studies").length || a.name.localeCompare(b.name))
   let body = "Design decisions are trade-offs between metrics. These are the ones the students identified.\n\n"
+  if (tradeOffs.length)
+    body += `**${tradeOffs.length} recurring trade-offs**, each gathered from the projects where it appears, with the metrics in conflict and what experts say about it.\n\n` +
+      table(["Trade-off", "In short", "Metrics in conflict", "Projects", "Domains"], tradeOffs.map((x) => [wl(x.name), esc(x.data.summary), links(linked(x, "metrics")), links(linked(x, "case_studies")), links(A(x, "auto_domains"))])) +
+      "\n\n## By project\n\nThe trade-offs as each student described them (as reported by the student).\n\n"
   for (const c of cases) {
     const t = section(c.body, "Trade-offs")
-    if (t) body += `## ${wl(c.name)}\n\n${t}\n\n`
+    if (t) body += `${tradeOffs.length ? "###" : "##"} ${wl(c.name)}\n\n${t}\n\n`
   }
   pages["Trade-offs"] = page("Trade-offs", "Conflicts between metrics found in the student projects.", body)
 }

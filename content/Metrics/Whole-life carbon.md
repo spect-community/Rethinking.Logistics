@@ -32,6 +32,8 @@ auto_strategies:
 auto_tools:
   - "[[CO2mpare]]"
   - "[[One Click LCA]]"
+auto_trade_offs:
+  - "[[Reuse against operational performance]]"
 ---
 
 ## What it measures

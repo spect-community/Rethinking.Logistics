@@ -20,6 +20,7 @@ challenges:
 metrics: []
 case_studies:
   - "[[Amy Naprstek]]"
+auto_trade_offs: []
 ---
 ## Context
 

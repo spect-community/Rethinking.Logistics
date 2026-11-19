@@ -21,6 +21,7 @@ auto_strategies:
   - "[[LCA comparison of material and structural options]]"
 auto_tools:
   - "[[One Click LCA]]"
+auto_trade_offs: []
 ---
 
 ## What it measures

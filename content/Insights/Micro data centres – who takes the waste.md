@@ -20,6 +20,7 @@ challenges:
   - "[[Waste heat and cooling of data centres]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

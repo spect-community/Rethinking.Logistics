@@ -25,6 +25,8 @@ auto_strategies:
   - "[[Truck flow simulation and swept-path sizing]]"
 auto_tools:
   - "[[AutoTURN]]"
+auto_trade_offs:
+  - "[[Logistics capacity against footprint and emissions]]"
 ---
 
 ## What it measures

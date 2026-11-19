@@ -18,6 +18,7 @@ challenges:
   - "[[Stormwater and sealed surfaces on logistics sites]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

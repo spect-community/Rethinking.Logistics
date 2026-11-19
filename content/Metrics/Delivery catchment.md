@@ -23,6 +23,7 @@ auto_references: []
 auto_strategies:
   - "[[Service-radius analysis for hub networks]]"
 auto_tools: []
+auto_trade_offs: []
 ---
 
 ## What it measures

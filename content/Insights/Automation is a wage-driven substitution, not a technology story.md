@@ -19,6 +19,7 @@ challenges:
 metrics:
   - "[[Level of automation]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

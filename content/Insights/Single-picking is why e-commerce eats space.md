@@ -17,6 +17,7 @@ challenges: []
 metrics:
   - "[[Throughput per site area]]"
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 

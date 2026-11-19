@@ -20,6 +20,7 @@ ambitions:
   - "[[Open and connected edges]]"
 metrics: []
 case_studies: []
+auto_trade_offs: []
 ---
 ## Context
 
