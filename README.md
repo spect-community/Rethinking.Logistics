@@ -2,7 +2,7 @@
 
 **Evidence-based design in logistics architecture.** A knowledge base that links design **challenges** to the **metrics** that inform decisions, the **tools** that calculate them, and **case studies** — student projects from the *Rethinking.Logistics* studio at ARCHIP Prague (2026).
 
-**Edition 1.0** — the knowledge base is complete and open for expert review: every statement carries its evidence status, and experts are invited to confirm or correct it.
+**Edition 1.1** — the knowledge base is complete and open for expert review: every statement carries its evidence status, and experts are invited to confirm or correct it.
 
 ```
 Case study ──uses──▶ Tool ──calculates──▶ Metric ──informs decisions on──▶ Challenge

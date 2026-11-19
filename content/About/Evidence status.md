@@ -2,7 +2,7 @@
 title: Evidence status
 ---
 
-Rethinking.Logistics is published as **Edition 1.0**: the editorial work is complete. What remains open is the evidence behind individual statements — and there, the conversation is with the experts.
+Rethinking.Logistics is published as **Edition 1.1**: the editorial work is complete. What remains open is the evidence behind individual statements — and there, the conversation is with the experts.
 
 Every **insight** — one statement made by an expert, a student or a publication — therefore carries two labels.
 
@@ -18,7 +18,7 @@ Every **insight** — one statement made by an expert, a student or a publicatio
 
 | Label | Meaning |
 | --- | --- |
-| <span class="rl-badge rl-badge--evidence rl-badge--evidence-open-for-review">Open for expert review</span> | Recorded faithfully from its source and open for experts to confirm, refine or challenge. This is the starting point for every statement in Edition 1.0. |
+| <span class="rl-badge rl-badge--evidence rl-badge--evidence-open-for-review">Open for expert review</span> | Recorded faithfully from its source and open for experts to confirm, refine or challenge. This is the starting point for every statement in Edition 1.1. |
 | <span class="rl-badge rl-badge--evidence rl-badge--evidence-expert-reviewed">Expert-reviewed</span> | An expert has reviewed the statement; their name is given under *Reviewed by*. |
 | <span class="rl-badge rl-badge--evidence rl-badge--evidence-disputed">Disputed</span> | An expert or another source points the other way. The statement stays visible, so the discussion is visible too. |
 

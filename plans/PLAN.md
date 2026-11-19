@@ -16,6 +16,7 @@ How to use this plan: this file holds what applies to **every** phase. Each phas
 | 5 | Edition 1.0 framing | [plans/phase-5-framing.md](plans/phase-5-framing.md) | moved to spect-community/www |
 | 6 | QA (before release) | [plans/phase-6-qa.md](plans/phase-6-qa.md) | moved to spect-community/www |
 | 7 | Export and release | [plans/phase-7-release.md](plans/phase-7-release.md) | moved to spect-community/www |
+| 8 | System layer (Edition 1.1) | [plans/phase-8-system-layer.md](plans/phase-8-system-layer.md) | done |
 
 Inputs Lukáš provides: [plans/inputs.md](plans/inputs.md). When a phase is approved, set its status to `done` here and add one line to the log below.
 
@@ -62,3 +63,4 @@ Publish the knowledge base as a **finished Edition 1.0** (our work is done) in w
 - 2026-11-02 — phase 3 done: all 668 insights curated in 19 batches / 3 waves (links with justifications in `import/curation-log.md`, relevance 3/2/1 = 177/310/141 published), 10 % samples checked (`import/curation-samples.md`), 2 weak links removed, 3 new disputed flags, no duplicates merged.
 - 2026-11-02 — phase 4 done: five strategy notes (Regenerative Peripheral Park, Adaptive and Modular Logistics, Urban Hybrid, Micro-Hubs and Urban Mobility, Energy Symbiosis) approved, 22 poster images, `Overviews/Strategies`, number-traceability check in validate; the 40 held insights released and published (668 total). Highlights deferred.
 - 2026-11-02 — after phase 4: transcripts for 02, 14, 15, 16 processed from WebVTT (no `todo/transcript` left); exact cue timestamps for 367 insights; strategy insights now collected by `strategy/N` tag; first deploy of Edition 1.0 from `main` (fast-forward of `edition-1.0`). Phases 5–7 moved to `spect-community/www`.
+- 2026-11-19 — phase 8 done (Edition 1.1): Trade-off type (17 notes), Problem statement type (7 system-level problems with overview and home entry), ULI + Ilora investor metrics (12) and the kb-update package (9 sources, 18 insights, challenge Designing for an unknown tenant, 3 metrics, Common misreading sections), reported evidence gaps via `evidence_gaps`, changelog.

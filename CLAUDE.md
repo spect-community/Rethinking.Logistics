@@ -1,6 +1,6 @@
 # Rethinking Logistics – instructions for Claude
 
-Knowledge base (Obsidian vault in `content/`, Quartz site at logistics.spect.cz) being finished as **Edition 1.0**. Maintainer: Lukáš (writes in Slovak; repository content and public text are in English).
+Knowledge base (Obsidian vault in `content/`, Quartz site at logistics.spect.cz) published as **Edition 1.1**. Maintainer: Lukáš (writes in Slovak; repository content and public text are in English).
 
 ## Plan
 - Plan: `PLAN.md` (always) + only the current phase file in `plans/`. Read them and `schema/schema.yml` at the start of each session; do one phase per session.
@@ -22,7 +22,7 @@ Knowledge base (Obsidian vault in `content/`, Quartz site at logistics.spect.cz)
 - Inputs are in `import/` (see `plans/inputs.md`). `import/private/` is never committed or published.
 
 ## Wording
-- Use "Edition 1.0", "Open for expert review", "as reported by the student", "paraphrased from the lecture".
+- Use "Edition 1.1", "Open for expert review", "as reported by the student", "paraphrased from the lecture".
 - Never use "draft", "beta", "working edition" or "unverified" in content or on the site.
 - Public text: English, accessible, PR-oriented; diplomatic framing (e.g. "where current standards limit the approach").
 
