@@ -83,6 +83,7 @@ types:
     folder: Problem statements
     label: Problem statement
     plural: Problem statements
+    diagram_label: Problems
     description: A system-level problem behind logistics architecture — how buildings are financed, leased, certified and valued — traced to the metrics, trade-offs and evidence in the knowledge base.
     # evidence_gaps: short sentences, collected on the Evidence gaps overview
     fields: [summary, evidence_gaps, status, aliases]

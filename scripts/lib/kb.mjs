@@ -217,7 +217,7 @@ export function schemaDiagram(kb) {
     const lr = p.r + 16, tx = p.x + Math.cos(p.a) * lr, ty = p.y + Math.sin(p.a) * lr
     const anchor = Math.abs(Math.cos(p.a)) < 0.3 ? "middle" : Math.cos(p.a) > 0 ? "start" : "end"
     const base = Math.sin(p.a) > 0.5 ? "hanging" : Math.sin(p.a) < -0.5 ? "auto" : "middle"
-    out.push(`<g class="rl-node rl-n-${cls(t)}"><title>${esc(`${d.plural}: ${p.n} — ${d.description}`)}</title><circle cx="${f(p.x)}" cy="${f(p.y)}" r="${f(p.r)}" style="fill:var(--highlight);stroke:var(--secondary);stroke-width:2"/><text x="${f(p.x)}" y="${f(p.y)}" text-anchor="middle" dominant-baseline="central" style="font-size:15px;font-weight:700;fill:var(--secondary)">${p.n}</text><text x="${f(tx)}" y="${f(ty)}" text-anchor="${anchor}" dominant-baseline="${base}" style="font-size:16px;font-weight:600;fill:var(--dark)">${esc(d.plural)}</text></g>`)
+    out.push(`<g class="rl-node rl-n-${cls(t)}"><title>${esc(`${d.plural}: ${p.n} — ${d.description}`)}</title><circle cx="${f(p.x)}" cy="${f(p.y)}" r="${f(p.r)}" style="fill:var(--highlight);stroke:var(--secondary);stroke-width:2"/><text x="${f(p.x)}" y="${f(p.y)}" text-anchor="middle" dominant-baseline="central" style="font-size:15px;font-weight:700;fill:var(--secondary)">${p.n}</text><text x="${f(tx)}" y="${f(ty)}" text-anchor="${anchor}" dominant-baseline="${base}" style="font-size:16px;font-weight:600;fill:var(--dark)">${esc(d.diagram_label ?? d.plural)}</text></g>`)
   }
   // labels show on hover; hovering a type highlights its links
   const css = [".rl-schema .rl-edge text{opacity:0;transition:opacity .15s}", ".rl-schema .rl-edge,.rl-schema .rl-node{transition:opacity .15s}", ".rl-schema .rl-edge:hover text{opacity:1}", ".rl-schema .rl-node{cursor:default}",
